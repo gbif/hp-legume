@@ -1,14 +1,14 @@
 ---
 lang-ref: about
-title: About
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+title: About Legume 
+description: The family and the Community
 background: /assets/images/cognata.jpg_1578431021
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 height: 70vh
 ---
 
-## Joe was here!
+## The Legume Family
 
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
 flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
@@ -20,7 +20,7 @@ profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
 neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
 tollebat altius](http://virgineusque.net/est.html).
 
-## Quam ex te videt
+## Legume Phylogeny Working Group
 
 Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
 cognitus clipeo cognovit *vellent Acoetes prorae* infamataeque priori, **sit
