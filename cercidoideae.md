@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cercidoideae
-background: https://via.placeholder.com/1000x400
+background: /assets/images/Bauhinia_petersiana_15341896.jpg
 description: Information about the Cercidoideae subfamily
 ---
 ## Introduction
