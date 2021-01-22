@@ -4,6 +4,10 @@
   href: /about
 - text: Data
   href: /data
+- text: Taxonomy
+  href: /taxonomy
+  - text: Cercidoideae
+    href: /cercidoideae
 - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
