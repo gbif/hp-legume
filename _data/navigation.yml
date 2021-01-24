@@ -9,7 +9,11 @@
   menu: #Dropdown menu
   - text: Cercidoideae
     href: /cercidoideae
-- text: Links
+- text: Working Groups
+  href: /Working Groups
+  menu: #Dropdown menu
+  - text: Occurences
+    href: /occurrences- text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
     href: https://hp-base-theme.gbif-staging.org/
