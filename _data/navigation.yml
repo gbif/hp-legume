@@ -12,8 +12,8 @@
 - text: Working Groups
   href: /Working Groups
   menu: #Dropdown menu
-  - text: Occurrences
-    href: /occurrences
+  - text: Occurences
+    href: /occurences
  - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
