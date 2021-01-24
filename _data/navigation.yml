@@ -12,7 +12,7 @@
 - text: Working Groups
   href: /Working Groups
   menu: #Dropdown menu
-  - text: Occurences
+  - text: Occurrences
     href: /occurrences
  - text: Links
   menu: # Dropdown menu (one level deep only)
