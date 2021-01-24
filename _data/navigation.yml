@@ -13,7 +13,8 @@
   href: /Working Groups
   menu: #Dropdown menu
   - text: Occurences
-    href: /occurrences- text: Links
+    href: /occurrences
+  - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
     href: https://hp-base-theme.gbif-staging.org/
