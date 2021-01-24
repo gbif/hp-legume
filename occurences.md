@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Legume Occurences Working Group
+title: Legume Occurrences Working Group
 background: /assets/images/cognata.jpg_1578431021
 description: Information about the Legume Occurrence Data Working group
 ---
