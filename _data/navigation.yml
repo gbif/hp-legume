@@ -9,6 +9,16 @@
   menu: #Dropdown menu
   - text: Cercidoideae
     href: /cercidoideae
+  - text: Detarioideae
+    href: /detarioideae
+  - text: Duparquetioideae
+    href: /duparquetioideae
+  - text: Dialioideae
+    href: /dialioideae
+  - text: Caesalpinioideae
+    href: /caesalpinioideae
+  - text: Faboideae
+    href: /faboideae
 - text: Working Groups
   href: /Working Groups
   menu: #Dropdown menu
