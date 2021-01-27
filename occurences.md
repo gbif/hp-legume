@@ -8,7 +8,7 @@ height: 70vh
 
 ## Introduction
 
-Legume Occurrence Data Working Group: Assembling a global, expert-verified species occurrence dataset for family Leguminosae 
+Legume Occurrence Data Working Group: Assembling a global, expert-verified species occurrence dataset for family Leguminosae. 
 Coordinators: Edeline Gagnon (Royal Botanic Garden, Edinburgh, U.K.), Jens Ringelberg (University of Zurich, Switzerland) and Joe Miller (Global Biodiversity Information Facility, GBIF, Denmark).
 The central goal of the Legume Occurrence Working Group is to produce an expert-verified, global occurrence dataset for the entire legume family. As legumes are economically and ecologically important, such a dataset would find many uses among ecologists, evolutionary biologists, conservationists, plant breeders, foresters and others. To ensure data reproducibility, we focus primarily on preserved specimens from herbaria, although other records that are verifiable are also being considered.
 While it is now extremely easy to download data from global occurrence databases such as GBIF and use standard cleaning tools, custom-made R scripts and OpenRefine to edit the data, there are still a number of important bottlenecks to assembling high-quality occurrence data for legume species, including:
