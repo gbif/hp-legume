@@ -8,23 +8,23 @@
   href: /taxonomy
   menu: #Dropdown menu
   - text: Cercidoideae
-    href: /cercidoideae
+    href: /taxonomy/cercidoideae
   - text: Detarioideae
-    href: /detarioideae
+    href: /taxonomy/detarioideae
   - text: Duparquetioideae
-    href: /duparquetioideae
+    href: /taxonomy/duparquetioideae
   - text: Dialioideae
-    href: /dialioideae
+    href: /taxonomy/dialioideae
   - text: Caesalpinioideae
-    href: /caesalpinioideae
+    href: /taxonomy/caesalpinioideae
   - text: Faboideae
-    href: /faboideae
+    href: /taxonomy/faboideae
 - text: Working Groups
   href: /Working Groups
   menu: #Dropdown menu
   - text: Occurences
     href: /occurences
-- text: Links
+- text: Literature
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
     href: https://hp-base-theme.gbif-staging.org/
