@@ -23,7 +23,13 @@
   href: /Working Groups
   menu: #Dropdown menu
   - text: Occurences
-    href: /occurences
+    href: /working_groups/occurences
+  - text: Traits
+    href: /working_groups/traits
+  - text: Taxonomy
+    href: /working_groups/taxonomy
+  - text: Phylogenomics & phylogenetics
+    href: /working_groups/phylogenetics
 - text: Literature
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
