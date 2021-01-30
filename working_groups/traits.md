@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Legume Traits Working Group
-background: /assets/images/traits.png
+background: /assets/images/traits.jpg
 description: Functional Trait Working Group: The mysterious world of legume functional traits 
 height: 70vh
 ---
