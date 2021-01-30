@@ -10,7 +10,7 @@ height: 70vh
 Legume Occurrence Data Working Group: Assembling a global, expert-verified species occurrence dataset for family Leguminosae 
 
 
-Coordinators: Edeline [Gagnon](Gagnon:edeline.gagnon@gmail.com) [Royal Botanic Garden, Edinburgh, U.K.](https://www.rbge.org.uk/), [Jens Ringelberg]<jens.ringelberg@gmail.com> (University of Zurich, Switzerland) and [Joe Miller]<jmiller@gbif.org> ([Global Biodiversity Information Facility](https://www.gbif.org), GBIF, Denmark).
+Coordinators: [Edeline Gagnon](mailto:edeline.gagnon@gmail.com) [Royal Botanic Garden, Edinburgh, U.K.](https://www.rbge.org.uk/), [Jens Ringelberg](mailto:jens.ringelberg@gmail.com) (University of Zurich, Switzerland) and [Joe Miller](mailto:jmiller@gbif.org) ([Global Biodiversity Information Facility](https://www.gbif.org), Denmark).
 
 
 The central goal of the Legume Occurrence Working Group is to produce an expert-verified, global occurrence dataset for the entire legume family. As legumes are economically and ecologically important, such a dataset would find many uses among ecologists, evolutionary biologists, conservationists, plant breeders, foresters and others. To ensure data reproducibility, we focus primarily on preserved specimens from herbaria, although other records that are verifiable are also being considered.
@@ -38,7 +38,7 @@ New community developed best practices document in geo-referencing have been pub
 
 ## Join the Working Group
 
-If you are interested in participating in our group, or have questions, please contact [Edeline Gagnon]<edeline.gagnon@gmail.com>, [Jens Ringelberg]<jens.ringelberg@gmail.com> or [Joe Miller]<jmiller@gbif.org>. We are keen to hear from everyone working to expand and improve the quality of available legume occurrence data.
+If you are interested in participating in our group, or have questions, please contact [Edeline Gagnon](mailto:edeline.gagnon@gmail.com), Jens Ringelberg](mailto:jens.ringelberg@gmail.com) or [[Joe Miller](mailto:jmiller@gbif.org). We are keen to hear from everyone working to expand and improve the quality of available legume occurrence data.
 
 
 
