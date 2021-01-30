@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Legume Taxonomy Working Group
-background: /assets/images/taxonomy.png
+background: /assets/images/taxonomy2.png
 description: Information about the Legume Taxonomy Working group
 height: 70vh
 ---
