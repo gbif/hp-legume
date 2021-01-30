@@ -6,7 +6,26 @@ description: Information about the Legume Taxonomy Working group
 height: 70vh
 ---
 
+Coordinators : Anne Bruneau (Université de Montréal, Canada) and Marianne le Roux (South African National Biodiversity Institute, SANBI, South Africa).
+
 ## Introduction
+
+The Legume Taxonomy Working Group has the central goal of putting together a community-endorsed consensus list of legume species names and their synonyms. Because several online sources are now out of date, the legume community considered this initiative critical to underpin ongoing and future research in the family. The group was established in May 2020 and our aim is to provide an accurate and up-to-date family classification that can be used for down-stream analyses of all kinds for applied and fundamental research questions, including conserva-tion, agronomic and green infrastructure purposes. This up-to-date species list will also provide the critical backbone for other LPWG working groups focusing on assembling occurrence and functional trait data from public databases, literature and collections, for example. Ultimately, we would expect the LPWG-verified and endorsed species list to be adopted and used as the taxonomic backbone for Leguminosae for large international initiatives such as the Global Bio-diversity Information Facility (GBIF), Catalogue of Life, World Flora Online, and several ongoing phylogenomic projects. This is important to avoid duplication of efforts by a small pool of taxo-nomic experts.
+
 ## Strategy
+
+In collaboration with Rafaël Govaerts at Royal Botanic Gardens, Kew, the Taxonomy Working Group initiated the process using Kew’s core checklist data, available for download on Kew’s World Checklist of Vascular Plants (WCVP). This core checklist links to the International Plant Name Index (IPNI) and also underlies the Plants of the World Online website. The WCVP list in-cludes all the Darwin Core fields that the legume community considers important for down-stream analyses. To revise the list of legume species names, a network of 38 coordinators for the subfamilies (and tribes for Papilionoideae) were assigned the task of approaching other legume taxonomic experts for assistance in checking and editing the list of legume names. The revised lists are forwarded to Rafaël Govaerts who checks the proposed modifications and inte-grates the information in an updated legume species list. The Taxonomy Working Group has also established a committee whose role is to evaluate and arrive at a decision about conflicting taxonomies (often, whether or not to recognise certain genera), and which met for the first time in December 2020. The revised species list will acknowledge the input of contributors to the ratification of the legume taxonomy. The plan is to have a list of accepted names in draft format during the first half of 2021. 
+
 ## Future plans
+
+Eventually the taxonomic list can be used to link to and synthesise other data types – traits, descriptions, higher level taxonomy, occurrence and specimen data, dynamic maps and images. One of the goals of the LPWG is to collate information on legumes so that it is easily accessible and useful to researchers and other users around the world. In a 2019 manuscript the legume community expressed the need for an online portal for the family which would encompass richer data sets from multiple partners using a sound species checklist and benefitting from knowledge held in “Legumes of the World Online”. The LPWG recently applied for pilot portal  via a new program at GBIF. This application was successful and the LPWG community, in coordination with the Canadensys GBIF node, will implement a portal in the first half of 2021. This pilot will serve all legume occurrences currently in GBIF and will also allow easy viewing of the legume taxonomy used GBIF. The portal will also have areas for describing the work of the four LPWG working groups. The portal is not expected to meet all LWPG needs but may stimulate the work.
+
+## Join the Working Group
+
+If you would like to participate in this endeavour and share your taxonomic expertise, please contact us at: m.leroux@sanbi.org.za, anne.bruneau@umontreal.ca 
+
+Further reading: Bruneau, A., Borges, L.M., Allkin, R., Egan, A.N., De la Estrella, M., Javadi, F., Klitgaard, B., Miller, J.T., Murphy, D.J., Sinou, C., Vatanparast, M. & Zhang, R. 2019. Towards a new online species-information system for legumes. Australian Systematic Botany 32: 495–518. https://doi.org/10.1071/SB19025 
+
+
+
 ## Join the Working Group
