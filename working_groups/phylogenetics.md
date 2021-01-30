@@ -6,7 +6,7 @@ description: Information about the Legume Phylogenomics & Phylogenetics Working 
 height: 70vh
 ---
 
-Coordinators: Felix Forest (Royal Botanic Gardens, Kew, U.K.) and Erik Koenen (University of Zurich, Switzerland).
+Coordinators: [Felix Forest](mailto:F.Forest@kew.org) ([Royal Botanic Gardens, Kew, U.K.](https://www.kew.org/)) and [Erik Koenen](mailto:erik.koenen@systbot.uzh.ch) (University of Zurich, Switzerland).
 
 ## Introduction
 
@@ -22,4 +22,4 @@ Given the advanced state of the work undertaken by several groups who have desig
 
 ## Join the Working Group
 
-If you would like to discuss and share information about legume phylogenomics initiatives, please contact us at: F.Forest@kew.org, erik.koenen@systbot.uzh.ch
+If you would like to discuss and share information about legume phylogenomics initiatives, please contact [Felix Forest](mailto:F.Forest@kew.org) or [Erik Koenen](mailto:erik.koenen@systbot.uzh.ch)
