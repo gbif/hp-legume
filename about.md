@@ -26,8 +26,8 @@ tollebat altius](http://virgineusque.net/est.html).
  
  
 *	An overview paper in 2013 [LPWG. 2013. Legume phylogeny and classification in the 21st century: Progress, prospects and lessons for other species–rich clades. Taxon 62: 217-248.](https://doi.org/10.12705/622.8)
-*	A major community-endorsed phylogenetically-based subfamily classification of the legume family in 2017 [LPWG. 2017. A new subfamily classification of the Leguminosae based on a taxonomically comprehensive phylogeny. Taxon 66: 44-77.](https://doi.org/10.5061/dryad.61pd6)
-*	A paper outlining a blueprint for a new legume species information system [LPWG. 2019. Towards a new online species-information system for legumes. Australian Systematic Botany 32: 495-518.](DOI: 10.1071/SB19025)
+*	A major community-endorsed phylogenetically-based subfamily classification of the legume family in 2017 [LPWG. 2017. A new subfamily classification of the Leguminosae based on a taxonomically comprehensive phylogeny. Taxon 66: 44-77.](https://doi.org/10.12705/661.3)
+*	A paper outlining a blueprint for a new legume species information system [LPWG. 2019. Towards a new online species-information system for legumes. Australian Systematic Botany 32: 495-518.](https://doi.org/10.1071/SB19025)
 
 
 In May 2020, an informal pop-up meeting of a subset of the LPWG led to the establishment of four new working groups under the LPWG umbrella. These working groups are focused on Taxonomy, Phylogenomics, Occurrence Data, and Functional Trait Data, and have been established with a view to further stimulating and coordinating large-scale collaborative family-wide data assembly and analyses. Each working group has two informal coordinators and short reports on the aims and activities over the last nine months are presented here for each working group. 
