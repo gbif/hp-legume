@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Legume Occurrences Working Group
-background: /assets/images/cognata_1578431021.jpg
+background: /assets/images/map.jpg
 description: Information about the Legume Occurrence Data Working group
 height: 70vh
 ---
