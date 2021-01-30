@@ -5,8 +5,8 @@ background: /assets/images/traits.png
 description: Functional Trait Working Group: The mysterious world of legume functional traits 
 height: 70vh
 ---
-Coordinators: Renske Onstein (German Centre for Integrative Biodiversity Research (iDiv), Germany)
- & Leonardo Borges (Universidade Federal de São Carlos, Brazil)
+Coordinators: [Renske Onstein](mailto:onsteinre@gmail.com) (German Centre for Integrative Biodiversity Research ([iDiv](https://www.idiv.de/en/index.html)), Germany)
+ & [Leonardo Borges](mailto:aquitemcaqui@gmail.com) (Universidade Federal de São Carlos, Brazil)
 
 ## Introduction
 Even after generations of work by an army of legume workers, the myriad and beauty of legume morphology, structure and function are still a mystery. How and when did all those traits evolve? What factors are behind their evolution? How do they dictate and influence how leg-umes interact with the world?
@@ -21,6 +21,6 @@ To coordinate on-going and future trait sampling efforts, we collectively keep t
 
 ## Join the Working Group
 
-We welcome your input and ideas in the legume trait working group, or simply to receive your favorite monographs. Please get in touch if you would like to become part of our group, are interested in working with traits, have ongoing trait-related projects or future plans, or simply to share a virtual cup of coffee and talk more about the mysterious world of legume traits. Our group is still growing, and we welcome anyone interested in legume (functional) traits to join our efforts. To get involved, please contact onsteinre@gmail.com or aquitemcaqui@gmail.com
+We welcome your input and ideas in the legume trait working group, or simply to receive your favorite monographs. Please get in touch if you would like to become part of our group, are interested in working with traits, have ongoing trait-related projects or future plans, or simply to share a virtual cup of coffee and talk more about the mysterious world of legume traits. Our group is still growing, and we welcome anyone interested in legume (functional) traits to join our efforts. To get involved, please contact [Renske Onstein](mailto:onsteinre@gmail.com) or [Leonardo Borges](mailto:aquitemcaqui@gmail.com)
 
 
