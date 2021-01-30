@@ -3,7 +3,7 @@ layout: page
 title: Legume Traits Working Group
 background: /assets/images/traits.jpg
 description: Functional Trait Working Group: The mysterious world of legume functional traits 
-height: 50vh
+height: 70vh
 ---
 Coordinators: [Renske Onstein](mailto:onsteinre@gmail.com) (German Centre for Integrative Biodiversity Research ([iDiv](https://www.idiv.de/en/index.html)), Germany)
  & [Leonardo Borges](mailto:aquitemcaqui@gmail.com) (Universidade Federal de São Carlos, Brazil)
