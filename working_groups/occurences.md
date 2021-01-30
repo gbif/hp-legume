@@ -38,7 +38,7 @@ New community developed best practices document in geo-referencing have been pub
 
 ## Join the Working Group
 
-If you are interested in participating in our group, or have questions, please contact <edeline.gagnon@gmail.com> or <jmiller@gbif.org>. We are keen to hear from everyone working to expand and improve the quality of available legume occurrence data.
+If you are interested in participating in our group, or have questions, please contact <edeline.gagnon@gmail.com>, <jens.ringelberg@gmail.com> or <jmiller@gbif.org>. We are keen to hear from everyone working to expand and improve the quality of available legume occurrence data.
 
 
 
