@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Legume Taxonomy Working Group
-background: /assets/images/taxonomy2.png
+background: /assets/images/taxonomy3.jpg
 description: Information about the Legume Taxonomy Working group
 height: 70vh
 ---
@@ -10,7 +10,7 @@ Coordinators : [Anne Bruneau](mailto:anne.bruneau@umontreal.ca) (Université de 
 
 ## Introduction
 
-The Legume Taxonomy Working Group has the central goal of putting together a community-endorsed consensus list of legume species names and their synonyms. Because several online sources are now out of date, the legume community considered this initiative critical to underpin ongoing and future research in the family. The group was established in May 2020 and our aim is to provide an accurate and up-to-date family classification that can be used for down-stream analyses of all kinds for applied and fundamental research questions, including conserva-tion, agronomic and green infrastructure purposes. This up-to-date species list will also provide the critical backbone for other LPWG working groups focusing on assembling occurrence and functional trait data from public databases, literature and collections, for example. Ultimately, we would expect the LPWG-verified and endorsed species list to be adopted and used as the taxonomic backbone for Leguminosae for large international initiatives such as the Global Bio-diversity Information Facility (GBIF), Catalogue of Life, World Flora Online, and several ongoing phylogenomic projects. This is important to avoid duplication of efforts by a small pool of taxo-nomic experts.
+The Legume Taxonomy Working Group has the central goal of putting together a community-endorsed consensus list of legume species names and their synonyms. Because several online sources are now out of date, the legume community considered this initiative critical to underpin ongoing and future research in the family. The group was established in May 2020 and our aim is to provide an accurate and up-to-date family classification that can be used for down-stream analyses of all kinds for applied and fundamental research questions, including conserva-tion, agronomic and green infrastructure purposes. This up-to-date species list will also provide the critical backbone for other LPWG working groups focusing on assembling occurrence and functional trait data from public databases, literature and collections, for example. Ultimately, we would expect the LPWG-verified and endorsed species list to be adopted and used as the taxonomic backbone for Leguminosae for large international initiatives such as the Global Biodiversity Information Facility (GBIF), Catalogue of Life, World Flora Online, and several ongoing phylogenomic projects. This is important to avoid duplication of efforts by a small pool of taxonomic experts.
 
 ## Strategy
 
