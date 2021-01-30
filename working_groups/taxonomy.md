@@ -6,7 +6,7 @@ description: Information about the Legume Taxonomy Working group
 height: 70vh
 ---
 
-Coordinators : Anne Bruneau (Université de Montréal, Canada) and Marianne le Roux (South African National Biodiversity Institute, SANBI, South Africa).
+Coordinators : [Anne Bruneau](mailto:anne.bruneau@umontreal.ca) (Université de Montréal, Canada) and [Marianne le Roux](mailto:M.LeRoux@sanbi.org.za) [(South African National Biodiversity Institute, SANBI, South Africa)](https://www.environment.gov.za/statutorybodies/sanbi#:~:text=The%20South%20African%20National%20Biodiversity,now%20and%20into%20the%20future).
 
 ## Introduction
 
@@ -22,6 +22,6 @@ Eventually the taxonomic list can be used to link to and synthesise other data t
 
 ## Join the Working Group
 
-If you would like to participate in this endeavour and share your taxonomic expertise, please contact us at: m.leroux@sanbi.org.za, anne.bruneau@umontreal.ca 
+If you would like to participate in this endeavour and share your taxonomic expertise, please contact [Anne Bruneau](mailto:anne.bruneau@umontreal.ca) or [Marianne le Roux](mailto:M.LeRoux@sanbi.org.za) 
 
 Further reading: Bruneau, A., Borges, L.M., Allkin, R., Egan, A.N., De la Estrella, M., Javadi, F., Klitgaard, B., Miller, J.T., Murphy, D.J., Sinou, C., Vatanparast, M. & Zhang, R. 2019. Towards a new online species-information system for legumes. Australian Systematic Botany 32: 495–518. https://doi.org/10.1071/SB19025 
