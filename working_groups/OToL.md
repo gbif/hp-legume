@@ -81,4 +81,7 @@ Click on a OpenTree study link to see what the interface looks like.  You will n
 ## Publication idea
 We could rewrite a paper describing the before and after this project. How many species and studies did we add? How much better/useful is the OToL phylogeny? Provide examples of how the tree would be used, especially in connection to the taxonomic georeferencing group work.  GBIF is working on a phylogenetic viewer that could be added to the Legume Data Portal.
 
+## Join the Woreking Group
+Please send an email to [Joe Miller](mailto:jmiller@gbif.org) or [Vanessa Terra](mailto:vanessaterrab@gmail.com) or just start looking for studies to include.  No experience in curating OToL files is necessary.  The most important  thing we need is knowledge of the best trees to include.
+
 
