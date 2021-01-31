@@ -54,16 +54,22 @@ This is a [google spreadsheet](https://docs.google.com/spreadsheets/d/1Fvf6UJ7Q3
 | Suggest a tree        | Trees needed                   | Recent trees that cover groups not in current synthetic treed, especially species level             |
 
 --------
-*Potential Trees: This list of trees was pulled from LPWG citations mainly.
+* Potential Trees: This list of trees was pulled mailnly from LPWG citations. This is an old list and needs updating.
+ 
+##Priority list of things to do by the Working group
+* Identify studies that are high priority to include
+   * species level
+   * missing in current synthetic tree
+   * recent publications
+   * in Treebase or we can easily get Treefiles.
+* Update the taxonomy in the spreadsheet
+   * to help find gaps
+   * many mistakes
+* Identify trees from the OToL List and Potential Tree list that are worthy of incusion
+* Download the tree file [Newick](https://drive.google.com/file/d/1OcTQbFTuO8Heo_xAvgbc6XgBAODheWIU/view?usp=sharing) and find gaps in coverage
+* Perhps focus on Caesalpinioideae (incl. mimosoid clade), Dialioideae, Detarioideae, Cercidoideae, and Duparquetioideae
+   * much better current coverage inthese clades
 
-Priority for inclusion: categorization of whether we think this is a priority for curation and inclusion (High, Medium, Low and uncategorized). We have hidden studies in which we think are in need of curation but only have a few legume species (based on title) and not worth the work.  We need your input here.
-Clade old subfamily: Notes of the high level study group (please edit)
-Genus or such: Notes of the high lower study group (please edit)
-
-TO DO: 
-Please look at the Clade old subfamily  & Genus or such columns and update if we have made mistakes.  The goal of these two columns is to help us ID areas of the phylogeny where we have adequate coverage and areas that need work. It would be great to have a better curated list on the pulldown menu to sort the studies. Or add these new names Caesalpinioideae (incl. mimosoid clade), Dialioideae, Detarioideae, Cercidoideae, and Duparquetioideae.
-
-Priority for inclusion: It doesn’t take much work to complete the curation of these trees and include them but it still takes time.  Do we have these labeled right. Please edit and suggest.
 
 
 Click on a OpenTree study link to see what the interface looks like.  You will need a GitHb account to edit.
