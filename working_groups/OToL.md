@@ -16,14 +16,14 @@ Coordinators: [Joe Miller](mailto:jmiller@gbif.org) [(Global Biodiversity Inform
 
 It is important to recognize that the OToL synthetic tree includes terminals from published phylogenetic analyses from many  sources (various genes, sampling and morphology) and terminals that are placed there only by taxonomy.  OToL has a robust Taxonomic Name Resolution Service (TNRS).  Many terminals in the tree are known only from the taxonomy, that is they are not currently represented in a source phylogeny currently in OToL.   For example the Fabaceae clade ([OTT: 560323](https://tree.opentreeoflife.org/opentree/argus/ottol@560323/Fabaceae)) includes 24,479 species but only [4,835 species’](https://docs.google.com/spreadsheets/d/1YQz6F-DOdCTZneGvEfnCtMZs6nyUTmp0N7le86aYnoY/edit?usp=sharing) placement are based on input phylogenies. Species that are not in any input trees are placed as a polytomy at the genus level resulting in polytomies. Therefore we need to input as many high quality trees as possible. With the help of OToL one can download a tree that only includes terminals that are from phylogenetic analyses. 
 
-The OToL Fabaceae clade
-The OToL Fabaceae clade
+
+
 | ToL derived Tree               | # of terminals | link to file                                                                                  |
-| -------------------------------|:--------------:| ---------------------------------------------------------------------------------------------:|
+| ------------------------------ |:--------------:| ---------------------------------------------------------------------------------------------:|
 | All Fabaceae species           | 24,479         | [all terminals](https://tree.opentreeoflife.org/opentree/argus/ottol@560323/Fabaceae)         |
 | Only based on phylogenies      | 4,835          | [Newick](https://drive.google.com/file/d/1OcTQbFTuO8Heo_xAvgbc6XgBAODheWIU/view?usp=sharing)  |
 
-
+--------
 
 I (JM) have been working closely with [Emily Jane McTavish](mailto:ejmctavish@ucmerced.edu) from UC Merced and a OToL PI. She has sent me much information including the synthetic trees and lists below.  She is keen to work with us to improve the Fabaceae clade of OToL. 
 
