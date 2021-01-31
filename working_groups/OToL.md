@@ -64,9 +64,7 @@ This is a [google spreadsheet](https://docs.google.com/spreadsheets/d/1Fvf6UJ7Q3
    * trees that resolve the backbone, new Next Gen studies
    * in Treebase or we can easily get Treefiles
 * Identify trees from the OToL List and Potential Tree list that are worthy of incusion
-* Download the tree file [Newick](https://drive.google.com/file/d/1OcTQbFTuO8Heo_xAvgbc6XgBAODheWIU/view?usp=sharing) and find gaps in coverage
-* Identify trees from the OToL List and Potential Tree list that are worthy of incusion
-* Download the tree file [Newick](https://drive.google.com/file/d/1OcTQbFTuO8Heo_xAvgbc6XgBAODheWIU/view?usp=sharing) and find gaps in coverage
+* Download the current OToL tree file [Newick](https://drive.google.com/file/d/1OcTQbFTuO8Heo_xAvgbc6XgBAODheWIU/view?usp=sharing) and find gaps in coverage
 * Update the taxonomy in the spreadsheet
    * to help find gaps
    * many mistakes
