@@ -18,9 +18,9 @@ It is important to recognize that the OToL synthetic tree includes terminals fro
 
 
 
-| ToL derived Tree               | # of terminals | link to file                                                                                  |
-| ------------------------------ |:--------------:| ---------------------------------------------------------------------------------------------:|
-| All Fabaceae species           | 24,479         | [all terminals](https://tree.opentreeoflife.org/opentree/argus/ottol@560323/Fabaceae)         |
+| ToL Derived Phylogeny (version Dec 2019)| # of Terminals | link to file                                                                                  |
+| --------------------------------------- |:--------------:| ---------------------------------------------------------------------------------------------:|
+| All Fabaceae species                    | 24,479         | [all terminals](https://tree.opentreeoflife.org/opentree/argus/ottol@560323/Fabaceae)         |
 | Only based on phylogenies      | 4,835          | [Newick](https://drive.google.com/file/d/1OcTQbFTuO8Heo_xAvgbc6XgBAODheWIU/view?usp=sharing)  |
 
 --------
