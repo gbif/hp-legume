@@ -12,11 +12,15 @@ Coordinators: [Joe Miller](mailto:jmiller@gbif.org) [(Global Biodiversity Inform
 
 Open Tree of Life aims to construct a comprehensive, dynamic and digitally-available tree of life by synthesizing published phylogenetic trees along with taxonomic data. I think of it as the phylogenetic version of GBIF. GBIF combines data from thousands of herbarium datasets into a system that allows anyone to access occurrence data in a geographic area or of a taxonomic group.  Likewise OToL, since we don’t have a single analyzed phylogenetic tree of all life does the same with open access data. OToL users can download a subset tree for example for all of Fabaceae or from a list of species.   As with GBIF the better the input data the better the output data.  OToL trees can be used for many purposes including research and for visualizations.
 
+
 It is important to recognize that the OToL synthetic tree includes OTUs from taxonomy as well as from phylogenetic analyses from many  sources (various genes, sampling and morphology).  OToL has a robust Taxonomic Name Resolution Service (TNRS).  Many terminals in the tree are known only from the taxonomy, that is they are not currently represented in a source phylogeny currently in OToL. Therefore we need to input as many high quality trees as possible.  For example the Fabaceae clade ([OTT: 560323](https://tree.opentreeoflife.org/opentree/argus/ottol@560323/Fabaceae)) includes 24,479 species but only [4,835 species’](https://docs.google.com/spreadsheets/d/1YQz6F-DOdCTZneGvEfnCtMZs6nyUTmp0N7le86aYnoY/edit?usp=sharing) placement are based on input phylogenies. Species that are not in any input trees are placed as a polytomy at the genus level resulting in polytomies. With the help of OToL one can download a tree that only includes terminals that are from phylogenetic analyses.
+
 
 I have been working closely with [Emily Jane McTavish](mailto:ejmctavish@ucmerced.edu) from UC Merced and a OToL PI. She has sent me much information including the synthetic trees and lists below.  She is keen to work with us to improve the Fabaceae clade of OToL. 
 
+
 Please note that it is very easy to import a phylogeny from Treebase into OToL for further curation.  Therefore harvesting legume Treebase studies is the first place to improve the OToL synthetic tree.
+
 
 Given the trees that are in the OToL and the distribution of the people interested in the project it may be the best option to start with this subfamily subset: Caesalpinioideae (incl. mimosoid clade), Dialioideae, Detarioideae, Cercidoideae, and Duparquetioideae.
 
