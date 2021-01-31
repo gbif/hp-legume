@@ -28,7 +28,7 @@ The OToL Fabaceae clade
 I (JM) have been working closely with [Emily Jane McTavish](mailto:ejmctavish@ucmerced.edu) from UC Merced and a OToL PI. She has sent me much information including the synthetic trees and lists below.  She is keen to work with us to improve the Fabaceae clade of OToL. 
 
 
-Please note that it is very easy to import a phylogeny from Treebase into OToL for further curation.  Therefore harvesting legume Treebase studies is the first place to improve the OToL synthetic tree.
+Please note that it is very easy to import a phylogeny from [Treebase](https://www.treebase.org/treebase-web/home.html) into OToL for further curation.  Therefore harvesting legume [Treebase](https://www.treebase.org/treebase-web/home.html) studies is the first place to improve the OToL synthetic tree.
 
 
 Given the trees that are in the OToL and the distribution of the people interested in the project it may be the best option to start with this subfamily subset: Caesalpinioideae (incl. mimosoid clade), Dialioideae, Detarioideae, Cercidoideae, and Duparquetioideae.
