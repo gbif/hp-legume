@@ -31,17 +31,12 @@ We have been working closely with [Emily Jane McTavish](mailto:ejmctavish@ucmerc
 [Partially curated studies in OToL taht contain Fabaceae speices](https://drive.google.com/file/d/1KOvDi_91SLNrRDDLjKkyRf80COjxs202/view?usp=sharing)
 
 Given the trees that are in the OToL and the distribution of the people interested in the project it may be the best option to start with this subfamily subset: Caesalpinioideae (incl. mimosoid clade), Dialioideae, Detarioideae, Cercidoideae, and Duparquetioideae.
-
-
-
-
-
-JM started adding legume trees to OToL a few years ago but there is much still to do. In particular I didn’t have the expert knowledge of most clades to know which trees need to be included. For this reason it is best a community project.  About 2 years ago Vanessa Terra (Universidade Federal de Uberlândia ) and I restarted the work including trying to figure out which trees need to be included. 
+ 
 
 Here is what we have as of late January 2021:
 
 
-Vanessa and I have taken the information supplied by Emily Jane and developed a spreadsheet. Many trees in OToL only have a few legume species and therefore are not all that helpful in our endeavor. We have included the input trees that are focused on legume species.
+We have taken the information and developed a spreadsheet. Many trees in OToL only have a few legume species and therefore are not all that helpful in our endeavor. We have included the input trees that are focused on legume species.
 
 OToL List tab 
 This has the following column headers:
