@@ -83,3 +83,5 @@ We could rewrite a paper describing the before and after this project. How many 
 Please send an email to [Joe Miller](mailto:jmiller@gbif.org) or [Vanessa Terra](mailto:vanessaterrab@gmail.com) or just start looking for studies to include.  No experience in curating OToL files is necessary.  The most important  thing we need is your knowledge of the best trees to include.
 
 
+
+![alt text](/assets/images/circle_phylo.webp)
