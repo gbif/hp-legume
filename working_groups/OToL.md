@@ -14,48 +14,32 @@ Coordinators: [Joe Miller](mailto:jmiller@gbif.org) [(Global Biodiversity Inform
 [Open Tree of Life](https://tree.opentreeoflife.org/about/open-tree-of-life) aims to construct a comprehensive, dynamic and digitally-available tree of life by synthesizing published phylogenetic trees along with taxonomic data. I think of it as the phylogenetic version of GBIF. GBIF combines data from thousands of herbarium datasets into a system that allows anyone to access occurrence data in a geographic area or of a taxonomic group.  Likewise OToL, since we don’t have a single analyzed phylogenetic tree of all life does the same with open access data. OToL users can download a subset tree for example for all of Fabaceae or from a list of species.   As with GBIF the better the input data the better the output data.  OToL trees can be used for many purposes including research and for visualizations.
 
 
-It is important to recognize that the OToL synthetic tree includes terminals from published phylogenetic analyses from many  sources (various genes, sampling and morphology) and terminals that are placed there only by taxonomy.  OToL has a robust Taxonomic Name Resolution Service (TNRS).  Many terminals in the tree are known only from the taxonomy, that is they are not currently represented in a source phylogeny currently in OToL.   For example the Fabaceae clade ([OTT: 560323](https://tree.opentreeoflife.org/opentree/argus/ottol@560323/Fabaceae)) includes 24,479 species but only [4,835 species’](https://docs.google.com/spreadsheets/d/1YQz6F-DOdCTZneGvEfnCtMZs6nyUTmp0N7le86aYnoY/edit?usp=sharing) placement are based on input phylogenies. Species that are not in any input trees are placed as a polytomy at the genus level resulting in polytomies. Therefore we need to input as many high quality trees as possible. With the help of OToL one can download a tree that only includes terminals that are from phylogenetic analyses. 
+It is important to recognize that the OToL synthetic tree includes terminals from published phylogenetic analyses from many  sources (various genes, sampling and morphology) and terminals that are placed there only by taxonomy.  OToL has a robust Taxonomic Name Resolution Service (TNRS).  Many terminals in the tree are known only from the taxonomy, that is they are not currently represented in a source phylogeny currently in OToL.   For example the Fabaceae clade ([OTT: 560323](https://tree.opentreeoflife.org/opentree/argus/ottol@560323/Fabaceae)) includes 24,479 species but only [4,835 species’](https://docs.google.com/spreadsheets/d/1YQz6F-DOdCTZneGvEfnCtMZs6nyUTmp0N7le86aYnoY/edit?usp=sharing) placement are based on input phylogenies. Species that are not in any input trees are placed as a polytomy at the genus level resulting in polytomies. Therefore we need to input as many high quality trees as possible. With the help of OToL one can download a tree that only includes terminals that are from phylogenetic analyses. For info about OToL see the about tab [here](https://tree.opentreeoflife.org/about/open-tree-of-life).
 
+We have been working closely with [Emily Jane McTavish](mailto:ejmctavish@ucmerced.edu) from UC Merced and a OToL PI. She has sent me much information including the synthetic trees and lists below.  She is keen to work with us to improve the Fabaceae clade of OToL. Please note that it is very easy to import a phylogeny from [Treebase](https://www.treebase.org/treebase-web/home.html) into OToL for further curation.  Therefore harvesting legume [Treebase](https://www.treebase.org/treebase-web/home.html) studies is the first place to improve the OToL synthetic tree.
 
+## Status of Legumes in OToL
 
 | ToL Derived Phylogeny (version Dec 2019)| # of Terminals | link to file                                                                                  |
 | --------------------------------------- |:--------------:| ---------------------------------------------------------------------------------------------:|
-| All Fabaceae species                    | 24,479         | [all terminals](https://tree.opentreeoflife.org/opentree/argus/ottol@560323/Fabaceae)         |
+| All Fabaceae species                    | 24,479         | [at OToL](https://tree.opentreeoflife.org/opentree/argus/ottol@560323/Fabaceae)         |
 | Only based on phylogenies      | 4,835          | [Newick](https://drive.google.com/file/d/1OcTQbFTuO8Heo_xAvgbc6XgBAODheWIU/view?usp=sharing)  |
 
 --------
 
-I (JM) have been working closely with [Emily Jane McTavish](mailto:ejmctavish@ucmerced.edu) from UC Merced and a OToL PI. She has sent me much information including the synthetic trees and lists below.  She is keen to work with us to improve the Fabaceae clade of OToL. 
-
-
-Please note that it is very easy to import a phylogeny from [Treebase](https://www.treebase.org/treebase-web/home.html) into OToL for further curation.  Therefore harvesting legume [Treebase](https://www.treebase.org/treebase-web/home.html) studies is the first place to improve the OToL synthetic tree.
-
+[Published studies currently integrated into current OTol verions](https://drive.google.com/file/d/1KUvDkieslHQF1d_S9tJO0WHRZyelsnTi/view?usp=sharing)
+[Partially curated studies in OToL taht contain Fabaceae speices](https://drive.google.com/file/d/1KOvDi_91SLNrRDDLjKkyRf80COjxs202/view?usp=sharing)
 
 Given the trees that are in the OToL and the distribution of the people interested in the project it may be the best option to start with this subfamily subset: Caesalpinioideae (incl. mimosoid clade), Dialioideae, Detarioideae, Cercidoideae, and Duparquetioideae.
 
-## General OToL Resources
-The tree: https://tree.opentreeoflife.org/opentree/argus/opentree12.3@ott93302
 
-The Fabaceae clade: https://tree.opentreeoflife.org/opentree/argus/ottol@560323/Fabaceae  (24,479 species) 
 
-For lots of info about OToL see the about tab [here](https://tree.opentreeoflife.org/about/open-tree-of-life)
 
-Submitting phylogenies to Open Tree of Life
-Status of Legumes in OToL
 
 JM started adding legume trees to OToL a few years ago but there is much still to do. In particular I didn’t have the expert knowledge of most clades to know which trees need to be included. For this reason it is best a community project.  About 2 years ago Vanessa Terra (Universidade Federal de Uberlândia ) and I restarted the work including trying to figure out which trees need to be included. 
 
 Here is what we have as of late January 2021:
-The current synthetic tree
-The synthetic tree (including only terminals that are from phylogenies, not just from taxonomy. https://drive.google.com/file/d/1OcTQbFTuO8Heo_xAvgbc6XgBAODheWIU/view?usp=sharing
-OR  different format
-https://drive.google.com/file/d/1AbX91R0gVTI0n34G-L9iGwnw4znWmd2P/view?usp=sharing
 
-A list legume species currently in the synthetic tree
-Spreadsheet of 4,835 species in the tree
-
-
-Phylogenetic studies that have been included in the OToL (see above)
 
 Vanessa and I have taken the information supplied by Emily Jane and developed a spreadsheet. Many trees in OToL only have a few legume species and therefore are not all that helpful in our endeavor. We have included the input trees that are focused on legume species.
 
