@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Legume Occurrences Working Group
-background: /assets/images/cognata_1578431021.jpg
+background: /assets/images/map.png
 description: Assembling a global, expert-verified species occurrence dataset for family Leguminosae
 height: 70vh
 ---
