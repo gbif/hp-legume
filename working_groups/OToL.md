@@ -28,7 +28,7 @@ We have been working closely with [Emily Jane McTavish](mailto:ejmctavish@ucmerc
 --------
 
 [Published studies currently integrated into current OTol verions](https://drive.google.com/file/d/1KUvDkieslHQF1d_S9tJO0WHRZyelsnTi/view?usp=sharing)
-[Partially curated studies in OToL taht contain Fabaceae speices](https://drive.google.com/file/d/1KOvDi_91SLNrRDDLjKkyRf80COjxs202/view?usp=sharing)
+[Partially curated studies in OToL that contain Fabaceae species](https://drive.google.com/file/d/1KOvDi_91SLNrRDDLjKkyRf80COjxs202/view?usp=sharing)
 
 Given the trees that are in the OToL and the distribution of the people interested in the project it may be the best option to start with this subfamily subset: Caesalpinioideae (incl. mimosoid clade), Dialioideae, Detarioideae, Cercidoideae, and Duparquetioideae.
  
@@ -36,13 +36,25 @@ Given the trees that are in the OToL and the distribution of the people interest
 Here is what we have as of late January 2021:
 
 
-We have taken the information and developed a spreadsheet. Many trees in OToL only have a few legume species and therefore are not all that helpful in our endeavor. We have included the input trees that are focused on legume species.
 
-OToL List tab 
-This has the following column headers:
-Status in OToL
-Completed and part of the current OToL synthetic tree
-in OToL in progress: in OToL but needs curation before being included in next update
+This is a [google spreadsheet](https://docs.google.com/spreadsheets/d/1Fvf6UJ7Q35Mu9bmmx4f2gtj7ple2N9OEEIhM4SNnuqA/edit#gid=1233710896) that lists the status of trees in OToL and some potential target trees to import:
+
+![alt text](/assets/images/OToL List.png)
+
+| Tab                   | Status                         | Action        |
+| --------------------- |:------------------------------:| ---------------------------------------------------------------------------------------------:|
+| OToL List             | Completed                      | Already in OToL, no action needed        |
+| OToL List             | In Progress                    | Considering your knowledge of the clade and paper, is this important to include  |
+| OToL List             | Priority                       | Change Priority in column 2  |
+| *Potential Trees      | In Treebase                    | Import to from TreeBase from within OToL and curate |
+| Potential Trees       | pdf, not in treebase           | determine if priority, find tree or contact authors or are there newer studies that cover this clade|
+| Potential Trees       | to assess                      | Is this worth chasing? or are there newer studies that cover this clade |
+| Potential Trees       | find pdf                       | xIs this worth chasing? or are there newer studies that cover this clade  |
+| Suggest a tree        | 4,835           | xxxxxxxxxxxxxxxx  |
+
+--------
+* This list of trees was pulled from LPWG citations mainly.
+
 Priority for inclusion: categorization of whether we think this is a priority for curation and inclusion (High, Medium, Low and uncategorized). We have hidden studies in which we think are in need of curation but only have a few legume species (based on title) and not worth the work.  We need your input here.
 Clade old subfamily: Notes of the high level study group (please edit)
 Genus or such: Notes of the high lower study group (please edit)
