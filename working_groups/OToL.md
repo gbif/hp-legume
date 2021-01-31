@@ -28,6 +28,7 @@ We have been working closely with [Emily Jane McTavish](mailto:ejmctavish@ucmerc
 --------
 
 [Published studies currently integrated into current OTol verions](https://drive.google.com/file/d/1KUvDkieslHQF1d_S9tJO0WHRZyelsnTi/view?usp=sharing)
+
 [Partially curated studies in OToL that contain Fabaceae species](https://drive.google.com/file/d/1KOvDi_91SLNrRDDLjKkyRf80COjxs202/view?usp=sharing)
 
 Given the trees that are in the OToL and the distribution of the people interested in the project it may be the best option to start with this subfamily subset: Caesalpinioideae (incl. mimosoid clade), Dialioideae, Detarioideae, Cercidoideae, and Duparquetioideae.
@@ -41,19 +42,19 @@ This is a [google spreadsheet](https://docs.google.com/spreadsheets/d/1Fvf6UJ7Q3
 
 ![alt text](/assets/images/OToL List.png)
 
-| Tab                   | Status                         | Action        |
-| --------------------- |:------------------------------:| ---------------------------------------------------------------------------------------------:|
-| OToL List             | Completed                      | Already in OToL, no action needed        |
-| OToL List             | In Progress                    | Considering your knowledge of the clade and paper, is this important to include  |
-| OToL List             | Priority                       | Change Priority in column 2  |
-| *Potential Trees      | In Treebase                    | Import to from TreeBase from within OToL and curate |
-| Potential Trees       | pdf, not in treebase           | determine if priority, find tree or contact authors or are there newer studies that cover this clade|
-| Potential Trees       | to assess                      | Is this worth chasing? or are there newer studies that cover this clade |
-| Potential Trees       | find pdf                       | xIs this worth chasing? or are there newer studies that cover this clade  |
-| Suggest a tree        | 4,835           | xxxxxxxxxxxxxxxx  |
+| Tab                   | Status                         | Action                                                                                              |
+| --------------------- |:------------------------------:| ---------------------------------------------------------------------------------------------------:|
+| OToL List             | Completed                      | Already in OToL, no action needed                                                                   |
+| OToL List             | In Progress                    | Considering your knowledge of the clade and paper, is this important to include?                    |
+| OToL List             | Priority                       | Update Priority in column 2                                                                         |
+| Potential Trees       | In Treebase                    | Import into OToL from TreeBase and curate                                                           |
+| Potential Trees       | pdf, not in treebase           | Determine if priority, find tree or contact authors or are there newer studies that cover this clade|
+| Potential Trees       | to assess                      | Is this worth chasing? or are there newer studies that cover this clade                             |
+| Potential Trees       | find pdf                       | Is this worth chasing? or are there newer studies that cover this clade                             |
+| Suggest a tree        | Trees needed                   | Recent trees that cover groups not in current synthetic treed, especially species level             |
 
 --------
-* This list of trees was pulled from LPWG citations mainly.
+*Potential Trees: This list of trees was pulled from LPWG citations mainly.
 
 Priority for inclusion: categorization of whether we think this is a priority for curation and inclusion (High, Medium, Low and uncategorized). We have hidden studies in which we think are in need of curation but only have a few legume species (based on title) and not worth the work.  We need your input here.
 Clade old subfamily: Notes of the high level study group (please edit)
@@ -61,7 +62,10 @@ Genus or such: Notes of the high lower study group (please edit)
 
 TO DO: 
 Please look at the Clade old subfamily  & Genus or such columns and update if we have made mistakes.  The goal of these two columns is to help us ID areas of the phylogeny where we have adequate coverage and areas that need work. It would be great to have a better curated list on the pulldown menu to sort the studies. Or add these new names Caesalpinioideae (incl. mimosoid clade), Dialioideae, Detarioideae, Cercidoideae, and Duparquetioideae.
+
 Priority for inclusion: It doesn’t take much work to complete the curation of these trees and include them but it still takes time.  Do we have these labeled right. Please edit and suggest.
+
+
 Click on a OpenTree study link to see what the interface looks like.  You will need a GitHb account to edit.
 If you are thinking that many better trees are missing then go to next step
 
@@ -73,15 +77,7 @@ Our strategy has been to look at these study titles and decide if it is worth pu
 
 This has the following column headers:
 
-Status:
-In Treebase: These could be imported to OToL and curated
-pdf, not in treebase: We found pdf but not a publically available tree
-Just looked in the text but have not contacted author
-The tree may be out there
-pdf check for tree
-Found the pdf but have not looked for tree
-to assess or find pdf
-Looks promising need to look for information
+
 
 Priority (treebase IDs): also see the following column of notes
 Regardless of whether the study is easily available - does it look like something we need, this is usually based on the title and we edited two columns: Clade old subfamily and genus or such
