@@ -56,59 +56,29 @@ This is a [google spreadsheet](https://docs.google.com/spreadsheets/d/1Fvf6UJ7Q3
 --------
 * Potential Trees: This list of trees was pulled mailnly from LPWG citations. This is an old list and needs updating.
  
-##Priority list of things to do by the Working group
+## Priority list of things to do by the Working group
 * Identify studies that are high priority to include
    * species level
    * missing in current synthetic tree
-   * recent publications
-   * in Treebase or we can easily get Treefiles.
+   * _recent publications_
+   * trees that resolve the backbone, new Next Gen studies
+   * in Treebase or we can easily get Treefiles
+* Identify trees from the OToL List and Potential Tree list that are worthy of incusion
+* Download the tree file [Newick](https://drive.google.com/file/d/1OcTQbFTuO8Heo_xAvgbc6XgBAODheWIU/view?usp=sharing) and find gaps in coverage
+* Identify trees from the OToL List and Potential Tree list that are worthy of incusion
+* Download the tree file [Newick](https://drive.google.com/file/d/1OcTQbFTuO8Heo_xAvgbc6XgBAODheWIU/view?usp=sharing) and find gaps in coverage
 * Update the taxonomy in the spreadsheet
    * to help find gaps
    * many mistakes
-* Identify trees from the OToL List and Potential Tree list that are worthy of incusion
-* Download the tree file [Newick](https://drive.google.com/file/d/1OcTQbFTuO8Heo_xAvgbc6XgBAODheWIU/view?usp=sharing) and find gaps in coverage
 * Perhps focus on Caesalpinioideae (incl. mimosoid clade), Dialioideae, Detarioideae, Cercidoideae, and Duparquetioideae
-   * much better current coverage inthese clades
+   * much better current coverage in these clades
 
 
-
-Click on a OpenTree study link to see what the interface looks like.  You will need a GitHb account to edit.
-If you are thinking that many better trees are missing then go to next step
-
-Potential trees to import tab
-
-This is a candidate list of studies that we could import into OToL.  It is based on legume studies I could find in Treebase (although I have not looked for Treebase trees from the last year or so) and the reference list of trees from LPWG papers.
-
-Our strategy has been to look at these study titles and decide if it is worth pursuing. If it is we looked for the study pdf (folder here), then see if there is a Treebase ID in the paper or any public depository that has the tree.  This is time consuming and frustrating and for these reasons we stopped. I think it would be much easier with expert suggestions and knowledge of who has the trees, see next section.
-
-This has the following column headers:
+## How curate files in OToL
+Click on a OpenTree study link to see what the interface looks like.  You will need a GitHb account to edit. More details to be added later. New versions of the synthetic tree only happen occasionally. The most recent was in December 2019. UPdating the legume clade would be good incentive for a new synthetic tree update by OToL.
 
 
-
-Priority (treebase IDs): also see the following column of notes
-Regardless of whether the study is easily available - does it look like something we need, this is usually based on the title and we edited two columns: Clade old subfamily and genus or such
-Includes Treebase number if available
-Ranked 1-4 in priority (we hid  #3 and 4 low priority)
-
-
-Suggest a tree (study) tab
-
-The major problem of the previous method is that it focused on older trees, it would be much better to start by including the best, largest and most recent trees that are not in this tab. So it would be most useful to get your input.
-
-What makes a good tree to import (if we have to prioritize)
-Study of a clade not yet in OToL
-Need broadscale trees for the backbone
-Need species level tree of every genus
-A tree that is in Treebase or in a public database or we know the author has it
-A more recent tree
-For example I have only included my most recent Australian Acacia tree because all of my older studies are basically poorer subsets of this tree. 
-
-
-TO DO:  Please suggest trees/studies to incorporate in this project  and to the synthetic OToL tree.  This includes the tree file  itself and help in curating it in OToL, which is easy.  In other words please add your trees and we can prioritize their inclusion.
-
-
-
-Publication idea
-We could rewrite a paper describing the before and after this project. How many species and studies did we add? How much better/useful is the OToL phylogeny? Provide examples of how the tree would be used, especially in connection to the taxonomic georeferencing group work.
+## Publication idea
+We could rewrite a paper describing the before and after this project. How many species and studies did we add? How much better/useful is the OToL phylogeny? Provide examples of how the tree would be used, especially in connection to the taxonomic georeferencing group work.  GBIF is working on a phylogenetic viewer that could be added to the Legume Data Portal.
 
 
