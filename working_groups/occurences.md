@@ -36,5 +36,13 @@ New community developed best practices document in geo-referencing have been pub
 
 If you are interested in participating in our group, or have questions, please contact [Edeline Gagnon](mailto:edeline.gagnon@gmail.com), [Jens Ringelberg](mailto:jens.ringelberg@gmail.com) or [Joe Miller](mailto:jmiller@gbif.org). We are keen to hear from everyone working to expand and improve the quality of available legume occurrence data.
 
+## Resources
+
+* [Georeferencing Best Practices](https://docs.gbif.org/georeferencing-best-practices/1.0/en/) by Arthur Chapman and John Wieczorek offers theoretical background and methods for georeferencing descriptive localities. The document updates best practices, recommendations, and common terms and technologies developed and refined since publication of the same authors' 2006 Guide to Best Practices for Georeferencing.
+
+* The [Georeferencing Quick Reference Guide](https://docs.gbif.org/georeferencing-quick-reference-guide/1.0/en/) by Paula Zermoglio, Arthur Chapman, John Wieczorek, Maria Celeste Luna and David Bloom provides a citable protocol in the form of a practical how-to guide with rules and procedures for determining the shapes of geospatial features and using their outcomes as the basis for georeferencing.
+
+* The [Georeferencing Calculator Manual](https://docs.gbif.org/georeferencing-calculator-manual/1.0/en/) by David Bloom, John Wieczorek and Paula Zermoglio lays out instructions for the [Georeferencing Calculator](http://georeferencing.org/georefcalculator/gc.html). This browser-based tool works both online and offline, helping users georeference descriptive localities using the point-radius method based on the theory given in Georeferencing Best Practices.
+
 
 
