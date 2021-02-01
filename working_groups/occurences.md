@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Legume Occurrences Working Group
-background: /assets/images/cognata_1578431021.jpg
-description: Information about the Legume Occurrence Data Working group
+background: /assets/images/map.png
+description: Assembling a global, expert-verified species occurrence dataset for family Leguminosae
 height: 70vh
 ---
+Coordinators: [Edeline Gagnon](mailto:edeline.gagnon@gmail.com) [(Royal Botanic Garden, Edinburgh, U.K.)](https://www.rbge.org.uk/), [Jens Ringelberg](mailto:jens.ringelberg@gmail.com) (University of Zurich, Switzerland) and [Joe Miller](mailto:jmiller@gbif.org) [(Global Biodiversity Information Facility) Copenhagen Denmark](https://www.gbif.org).
+
 ## Introduction
 
-Legume Occurrence Data Working Group: Assembling a global, expert-verified species occurrence dataset for family Leguminosae 
-Coordinators: Edeline Gagnon (Royal Botanic Garden, Edinburgh, U.K.), Jens Ringelberg (University of Zurich, Switzerland) and Joe Miller (Global Biodiversity Information Facility, GBIF, Denmark).
 The central goal of the Legume Occurrence Working Group is to produce an expert-verified, global occurrence dataset for the entire legume family. As legumes are economically and ecologically important, such a dataset would find many uses among ecologists, evolutionary biologists, conservationists, plant breeders, foresters and others. To ensure data reproducibility, we focus primarily on preserved specimens from herbaria, although other records that are verifiable are also being considered.
 While it is now extremely easy to download data from global occurrence databases such as GBIF and use standard cleaning tools, custom-made R scripts and OpenRefine to edit the data, there are still a number of important bottlenecks to assembling high-quality occurrence data for legume species, including:
 -	Having an up-to-date and accurate list of accepted names and synonyms for all legumes;
@@ -34,7 +34,15 @@ New community developed best practices document in geo-referencing have been pub
 
 ## Join the Working Group
 
-If you are interested in participating in our group, or have questions, please contact <edeline.gagnon@gmail.com> or <jmiller@gbif.org>. We are keen to hear from everyone working to expand and improve the quality of available legume occurrence data.
+If you are interested in participating in our group, or have questions, please contact [Edeline Gagnon](mailto:edeline.gagnon@gmail.com), [Jens Ringelberg](mailto:jens.ringelberg@gmail.com) or [Joe Miller](mailto:jmiller@gbif.org). We are keen to hear from everyone working to expand and improve the quality of available legume occurrence data.
+
+## Resources
+
+* [Georeferencing Best Practices](https://docs.gbif.org/georeferencing-best-practices/1.0/en/) by Arthur Chapman and John Wieczorek offers theoretical background and methods for georeferencing descriptive localities. The document updates best practices, recommendations, and common terms and technologies developed and refined since publication of the same authors' 2006 Guide to Best Practices for Georeferencing.
+
+* The [Georeferencing Quick Reference Guide](https://docs.gbif.org/georeferencing-quick-reference-guide/1.0/en/) by Paula Zermoglio, Arthur Chapman, John Wieczorek, Maria Celeste Luna and David Bloom provides a citable protocol in the form of a practical how-to guide with rules and procedures for determining the shapes of geospatial features and using their outcomes as the basis for georeferencing.
+
+* The [Georeferencing Calculator Manual](https://docs.gbif.org/georeferencing-calculator-manual/1.0/en/) by David Bloom, John Wieczorek and Paula Zermoglio lays out instructions for the [Georeferencing Calculator](http://georeferencing.org/georefcalculator/gc.html). This browser-based tool works both online and offline, helping users georeference descriptive localities using the point-radius method based on the theory given in Georeferencing Best Practices.
 
 
 
