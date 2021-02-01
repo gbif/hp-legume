@@ -94,6 +94,12 @@ defaults:
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
   -
     scope:
+      path: "taxonomy/" # For all pages within the taxonomy folder
+    values:
+      layout: "floating"
+      lang: en
+  -
+    scope:
       path: ""
     values:
       lang: en
