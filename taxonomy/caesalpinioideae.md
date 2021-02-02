@@ -9,6 +9,7 @@ height: 70vh
 structure:
  - type: floating-hero
 ---
+
 ## Introduction
 
 ## Morphology
