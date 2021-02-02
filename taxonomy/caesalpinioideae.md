@@ -7,8 +7,8 @@ imageLicense: |
 description: Information about the Caesalpinioideae subfamily
 height: 70vh
 structure:
-	- type: floating-hero
-	- type: markdown
+ - type: floating-hero
+ - type: markdown
 ---
 
 ## Introduction
