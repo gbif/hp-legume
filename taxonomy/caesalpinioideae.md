@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: compose
+type: floating-hero
 title: Caesalpinioideae
 background: /assets/images/Dichrostachys_cinerea_3952595.jpeg
 imageLicense: |
