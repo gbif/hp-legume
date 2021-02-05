@@ -102,3 +102,8 @@ defaults:
       path: "da/"
     values:
       lang: da
+  -
+    scope:
+      path: "fr/"
+    values:
+      lang: fr
