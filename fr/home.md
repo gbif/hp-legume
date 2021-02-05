@@ -12,7 +12,7 @@ cta:
     isPrimary: true
   - text: À Propos
     href: /fr/about
-permalink: /
+permalink: /fr
 ---
 
 Edit `/home.md` to change the text.

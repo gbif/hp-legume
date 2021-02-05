@@ -1,10 +1,10 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: About
+- text: À Props
   href: /fr/about
-- text: Data
+- text: Données
   href: /fr/data
-- text: Taxonomy
+- text: Taxonomie
   href: /fr/taxonomy
   menu: #Dropdown menu
   - text: Cercidoideae
@@ -19,18 +19,18 @@
     href: /fr/taxonomy/caesalpinioideae
   - text: Faboideae
     href: /fr/taxonomy/faboideae
-- text: Working Groups
+- text: Groupes de Travail
   href: /fr/Working Groups
   menu: #Dropdown menu
   - text: Occurences
     href: /fr/working_groups/occurences
   - text: Traits
     href: /fr/working_groups/traits
-  - text: Taxonomy
+  - text: Taxonomie
     href: /fr/working_groups/taxonomy
-  - text: Phylogenomics & phylogenetics
+  - text: Phylogénomiques & phylogénétiques
     href: /fr/working_groups/phylogenetics
-  - text: OToL phylogeny
+  - text: OToL phylogenie
     href: /fr/working_groups/OToL
 - text: Literature
   menu: # Dropdown menu (one level deep only)
@@ -44,5 +44,5 @@
     href: https://guides.github.com/features/mastering-markdown/
   - text: YAML tutorial
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-- text: News
+- text: Nouvelles
   href: /fr/news/
