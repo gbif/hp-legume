@@ -1,0 +1,48 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: About
+  href: /fr/about
+- text: Data
+  href: /fr/data
+- text: Taxonomy
+  href: /fr/taxonomy
+  menu: #Dropdown menu
+  - text: Cercidoideae
+    href: /fr/taxonomy/cercidoideae
+  - text: Detarioideae
+    href: /fr/taxonomy/detarioideae
+  - text: Duparquetioideae
+    href: /fr/taxonomy/duparquetioideae
+  - text: Dialioideae
+    href: /fr/taxonomy/dialioideae
+  - text: Caesalpinioideae
+    href: /fr/taxonomy/caesalpinioideae
+  - text: Faboideae
+    href: /fr/taxonomy/faboideae
+- text: Working Groups
+  href: /fr/Working Groups
+  menu: #Dropdown menu
+  - text: Occurences
+    href: /fr/working_groups/occurences
+  - text: Traits
+    href: /fr/working_groups/traits
+  - text: Taxonomy
+    href: /fr/working_groups/taxonomy
+  - text: Phylogenomics & phylogenetics
+    href: /fr/working_groups/phylogenetics
+  - text: OToL phylogeny
+    href: /fr/working_groups/OToL
+- text: Literature
+  menu: # Dropdown menu (one level deep only)
+  - text: Base theme demo
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: "Docs" # Title for block of menu items
+  - text: Jekyll documentation
+    href: https://jekyllrb.com/docs/pages/
+  - text: Markdown tutorial
+    href: https://guides.github.com/features/mastering-markdown/
+  - text: YAML tutorial
+    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
+- text: News
+  href: /fr/news/
