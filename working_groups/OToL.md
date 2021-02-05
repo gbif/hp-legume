@@ -5,8 +5,7 @@ background: /assets/images/circle_phylo.jpg
 description: Curating a community consensus phylogney of the legumes
 height: 70vh
 structure:
- - type: floating-hero
- - type: markdown
+	- type: heroImage
 ---
 
 
