@@ -1,11 +1,9 @@
 ---
-layout: compose
+layout: heroImage
 title: Legume Phylogenomics & Phylogenetics Working Group
 background: /assets/images/phylos.jpg
 description: Information about the Legume Phylogenomics & Phylogenetics Working group
 height: 70vh
-composition:
-	- type: floatingText
 ---
 
 Coordinators: [Felix Forest](mailto:F.Forest@kew.org) ([Royal Botanic Gardens, Kew, U.K.](https://www.kew.org/)) and [Erik Koenen](mailto:erik.koenen@systbot.uzh.ch) (University of Zurich, Switzerland).
