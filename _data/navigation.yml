@@ -17,21 +17,30 @@
     href: /taxonomy/dialioideae
   - text: Caesalpinioideae
     href: /taxonomy/caesalpinioideae
-  - text: Faboideae
-    href: /taxonomy/faboideae
+  - text: Papilionoideae
+    href: /taxonomy/papilionoideae
 - text: Working Groups
   href: /Working Groups
   menu: #Dropdown menu
   - text: Occurences
-    href: /working_groups/occurences
+    href: /working-groups/occurences
   - text: Traits
-    href: /working_groups/traits
+    href: /working-groups/traits
   - text: Taxonomy
-    href: /working_groups/taxonomy
+    href: /working-groups/taxonomy
   - text: Phylogenomics & phylogenetics
-    href: /working_groups/phylogenetics
+    href: /working-groups/phylogenetics
   - text: OToL phylogeny
-    href: /working_groups/OToL
+    href: /working-groups/OToL
+- text: The Bean Bag
+  - text: Home
+    href: /beanbag/home
+  - text: Announcement
+    href: /beanbag/announcement
+  - text: Issues
+    href: /beanbag/issues
+  - text: Contact
+    href: /beanbag/contact
 - text: Literature
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
