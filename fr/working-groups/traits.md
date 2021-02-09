@@ -23,6 +23,4 @@ To coordinate on-going and future trait sampling efforts, we collectively keep t
 
 We welcome your input and ideas in the legume trait working group, or simply to receive your favorite monographs. Please get in touch if you would like to become part of our group, are interested in working with traits, have ongoing trait-related projects or future plans, or simply to share a virtual cup of coffee and talk more about the mysterious world of legume traits. Our group is still growing, and we welcome anyone interested in legume (functional) traits to join our efforts. To get involved, please contact [Renske Onstein](mailto:onsteinre@gmail.com) or [Leonardo Borges](mailto:aquitemcaqui@gmail.com)
 
-![alt text](/assets/images/traits.jpg)
-
-Figure: Some of the extraordinary diversity of functional traits in legume species
+![Some of the extraordinary diversity of functional traits in legume species](/assets/images/traits.png){:standalone}
