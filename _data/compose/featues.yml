@@ -1,4 +1,3 @@
-layout: features
 title: "Announcements"
 description: Announcements from the Bean Bag and the community
 features: 
@@ -16,5 +15,3 @@ features:
     background: https://upload.wikimedia.org/wikipedia/commons/9/92/Haeckel_Caulerpa_racemosa.JPG
     href: _posts/beanbag/2021-02-07-the-bean-bag-issue-67
     categories: [beanbag, issue]
-
-
