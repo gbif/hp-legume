@@ -1,10 +1,8 @@
 ---
-layout: compose
+layout: features
 title: Announcements
 description: Announcements from the Bean Bag and the community
 permalink: /beanbag/announcements
-composition:
--type: features
- data: features
+data: features
 ---
 
