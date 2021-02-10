@@ -34,6 +34,7 @@
     href: /working-groups/OToL
 - text: "The Bean Bag"
   href: /beanbag
+  menu: #Dropdown Menu
   - text: Home
     href: /beanbag/home
   - text: Announcement
