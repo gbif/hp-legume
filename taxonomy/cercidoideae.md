@@ -14,4 +14,9 @@ height: 70vh
 
 ## Distribution
 
-# Genera
+## Genera
+
+Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.; Barklya F.Muell.; Bauhinia L.; Brenierea
+Humbert; Cercis L.; Gigasiphon Drake; Griffonia Baill.; Lysiphyllum (Benth.) de Wit; Phanera Lour.; Piliostigma Hochst.; Schnella
+Raddi; Tylosema (Schweinf.) Torre & Hillc.
+Recent synonym: Lasiobema (Korth.) Miq. = Phanera Lour.
