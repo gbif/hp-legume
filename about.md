@@ -1,6 +1,6 @@
 ---
 lang-ref: about
-title: About Legume 
+title: About Legumes 
 description: The Family and the Community
 background: /assets/images/Vachellia_inflor_inaturalist12436165.jpg
 imageLicense: |
