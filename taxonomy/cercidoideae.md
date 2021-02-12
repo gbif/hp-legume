@@ -19,7 +19,7 @@ Possible to add a filter to all GBIF occurrence data for Cercidoideae ?
 
 ## Genera
 
-Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.; Barklya F.Muell.; Bauhinia L.; Brenierea
+[Adenolobus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21580-1) (Harv. ex Benth. & Hook.f.) Torre & Hillc.; Barklya F.Muell.; Bauhinia L.; Brenierea
 Humbert; Cercis L.; Gigasiphon Drake; Griffonia Baill.; Lysiphyllum (Benth.) de Wit; Phanera Lour.; Piliostigma Hochst.; Schnella
 Raddi; Tylosema (Schweinf.) Torre & Hillc.
 Recent synonym: Lasiobema (Korth.) Miq. = Phanera Lour.
