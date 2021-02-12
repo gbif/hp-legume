@@ -13,6 +13,9 @@ height: 70vh
 ## Morphology
 
 ## Distribution
+Temperate Biome (Eurasia, China, North America), Succulent Biome (southern Africa), Rainforest Biome (South and Central America, Asia, Africa)
+
+Possible to add a filter to all GBIF occurrence data for Cercidoideae ?
 
 ## Genera
 
