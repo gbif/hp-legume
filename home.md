@@ -17,7 +17,7 @@ permalink: /
 
 Edit `/home.md` to change the text.
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
+Tell me why legumes are an important and fascinating family indefessus neque *at* orat aestuat, quicquam ne
 flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
 pontum ut** avus quamquam de trabes vestemque cruorem tremor.
 
