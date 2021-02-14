@@ -1,4 +1,5 @@
 ---
+layout: heroImage
 lang-ref: about
 title: À Propos des Légumineuses 
 description: La famille et la communauté
