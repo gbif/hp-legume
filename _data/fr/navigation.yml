@@ -7,6 +7,9 @@
 - text: Taxonomie
   href: /fr/taxonomy
   menu: #Dropdown menu
+  - text: Species List and Synonyms
+    href: /fr/taxonomy/species-list
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: Cercidoideae
     href: /fr/taxonomy/cercidoideae
   - text: Detarioideae
