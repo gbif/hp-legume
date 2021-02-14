@@ -40,8 +40,6 @@
   menu: #Dropdown Menu
   - text: Home
     href: /beanbag/home
-  - text: Announcement
-    href: /beanbag/announcement
   - text: Issues
     href: /beanbag/issues
   - text: Contact
