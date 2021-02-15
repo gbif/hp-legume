@@ -11,4 +11,4 @@ height: 70vh
 ## Issue 67, Year 2020
 Published electronically 3 February 2021
 
-[![](/assets/images/bb-67-cover-2.png){:standalone}](https://github.com/gbif/hp-legume/raw/master/media/The_BB_Newsletter_Issue67_2020.pdf)
+[![](/assets/images/bb-67-cover-2.png){:standalone}](/media/The_BB_Newsletter_Issue67_2020.pdf)
