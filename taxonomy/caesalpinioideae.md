@@ -18,7 +18,7 @@ Caesalpinioideae date back to the late Paleocene when the subfamily is known fro
 The Caesalpinioideae include some of the largest genera in the legume family, including *Acacia*, with > 1,000 species concentrated in arid parts of Australia, and *Mimosa* with > 500 species mostly in the Neotropics. Other species-rich genera include *Inga* with c. 300 species restricted to the Neotropics almost entirely in rainforests, and *Vachellia* (c. 160 species) and *Senegalia* (c. 220 species), two pantropical genera concentrated in drier environments, within which the iconic umbrella-crown trees of savannas, especially in Africa, are found.
 
 ## Morphology (or key Features?)
-Caesalpinioideae are almost entirely woody perennials, but within those bounds they are extremely diverse in stature and habit – including lianas, trees of all sizes up to rain forest canopy emergents (e.g. *Dinizia*), shrubs & functionally herbaceous geoxyles. A handful of herbaceous aquatics are found in the genus *Neptunia*.
+Caesalpinioideae are almost entirely woody perennials, but within those bounds they are extremely diverse in stature and habit – including lianas, trees of all sizes up to rain forest canopy emergents (e.g. *Dinizia*), shrubs & functionally herbaceous geoxyles. A handful of herbaceous aquatics are found in the genus [*Neptunia*](https://www.gbif.org/species/7599660).
 
 (add images)
 Caesalpinioideae is the only legume subfamily which has bipinnate leaves, which are prevalent but nor universal across the subfamily, with some genera with pinnate leaves, and leaves modified into phyllodes in the majority of species of the large genus *Acacia* and a few species in other genera including *Senna* and *Mimosa*. There is considerable quantitative variation in leaf dimensions and dividedness of leaves and especially the bipinnate leaf, from the massive leaves of e.g. *Schizolobium* (> 1m long), to highly reduced leaves and even aphyllous species (e.g. *Prosopis kuntzei*).
@@ -152,7 +152,7 @@ Mimozyganthus Burkart
 Moldenhawera Schrad.
 Mora Schomb. ex Benth.
 Moullava Adans.
-Neptunia Lour.
+[Neptunia Lour.](https://www.gbif.org/species/7599660)
 Newtonia Baill.
 Pachyelasma Harms
 Painteria Britton & Rose
