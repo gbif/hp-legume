@@ -66,4 +66,4 @@ Wunderlin, R.P. 2010b. New combinations in Schnella (Fabaceae: Caesalpinioideae:
 |	Piliostigma Hochst.	|	[GBIF](https://www.gbif.org/species/2947989)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:329960-2)	|
 |	Schnella Raddi	|	[GBIF](https://www.gbif.org/species/7278569)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30003119-2)	|
 |	Tournaya A.Schmitz	|	[GBIF](https://www.gbif.org/species/7301486)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23709-1)	|
-|	Tylosema (Schweinf.) Torre & Hillc. 	|	[GBIF](https://www.gbif.org/species/9010267)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23743-1)	|![image](https://user-images.githubusercontent.com/13423309/110022492-48e60800-7d2c-11eb-93cc-ffc60c616b91.png)
+|	Tylosema (Schweinf.) Torre & Hillc. 	|	[GBIF](https://www.gbif.org/species/9010267)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23743-1)	|
