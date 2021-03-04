@@ -212,7 +212,7 @@ Zygia P. Browne.
 
 
 |Genus|Genus|Genus|
-| ---------------------- |:------------------------:|:---------------------------:|
+| ---------------------- |------------------------|---------------------------|
 |	[Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.](https://www.gbif.org/species/2956199)	|	[Elephantorrhiza Benth. ](https://www.gbif.org/species/2933002)	|	[Paraserianthes I.C. Nielsen ](https://www.gbif.org/species/2943718)	|
 |	[Abarema Pittier ](https://www.gbif.org/species/2977807)	|	[Entada Adans. ](https://www.gbif.org/species/2976182)	|	[Parkia R. Br. ](https://www.gbif.org/species/8249974)	|
 |	[Acacia Mill. ](https://www.gbif.org/species/2978223)	|	[Enterolobium Mart. ](https://www.gbif.org/species/2961142)	|	[Parkinsonia L. ](https://www.gbif.org/species/2964820)	|
