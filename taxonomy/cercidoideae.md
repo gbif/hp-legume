@@ -46,3 +46,24 @@ Wunderlin, R.P. 2010b. New combinations in Schnella (Fabaceae: Caesalpinioideae:
 |[Cheniella R.Clark & Mackinder](https://www.gbif.org/species/9712046)           |[Tylosema (Schweinf.) Torre & Hillc. ](https://www.gbif.org/species/9010267)    |
 |[Gigasiphon Drake](https://www.gbif.org/species/8059232)            | [Lasiobema (Korth.) Miq. = Phanera Lour.](https://www.gbif.org/species/7301321)            |
 |[Griffonia Baill.](https://www.gbif.org/species/2945470)            |                    
+
+
+
+
+ |Genus                  |     GBIF                     | Plants of the World   |
+| --------------------- |------------------------------|-----------------------|
+|	Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.	|	[GBIF](https://www.gbif.org/species/2956199)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21580-1)	|
+|	Barklya F.Muell.	|	[GBIF](https://www.gbif.org/species/2955817)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21784-1)	|
+|	Bauhinia L.	|	[GBIF](https://www.gbif.org/species/2952935)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327181-2)	|
+|	Brenierea Humbert; Cercis L.	|	[GBIF](https://www.gbif.org/species/2977380)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21855-1)	|
+|	Cercis L.	|	[GBIF](https://www.gbif.org/species/2955919)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30001619-2)	|
+|	Cheniella R.Clark & Mackinder	|	[GBIF](https://www.gbif.org/species/9712046)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:77165904-1)	|
+|	Gigasiphon Drake	|	[GBIF](https://www.gbif.org/species/8059232)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22484-1)	|
+|	Griffonia Baill.	|	[GBIF](https://www.gbif.org/species/2945470)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22523-1)	|
+|	Lasiobema (Korth.) Miq. = Phanera Lour.	|	[GBIF](https://www.gbif.org/species/7301321)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22740-1)	|
+|	Lysiphyllum (Benth.) de Wit; Phanera Lour.	|	[GBIF](https://www.gbif.org/species/9105569)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22849-1)	|
+|	Phanera Lour.	|	[GBIF](https://www.gbif.org/species/7278390)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23206-1)	|
+|	Piliostigma Hochst.	|	[GBIF](https://www.gbif.org/species/2947989)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:329960-2)	|
+|	Schnella Raddi	|	[GBIF](https://www.gbif.org/species/7278569)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30003119-2)	|
+|	Tournaya A.Schmitz	|	[GBIF](https://www.gbif.org/species/7301486)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23709-1)	|
+|	Tylosema (Schweinf.) Torre & Hillc. 	|	[GBIF](https://www.gbif.org/species/9010267)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23743-1)	|![image](https://user-images.githubusercontent.com/13423309/110022492-48e60800-7d2c-11eb-93cc-ffc60c616b91.png)
