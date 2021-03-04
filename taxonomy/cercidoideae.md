@@ -59,7 +59,7 @@ Wunderlin, R.P. 2010b. New combinations in Schnella (Fabaceae: Caesalpinioideae:
 |	[Gigasiphon Drake](https://www.gbif.org/species/8059232) [POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22484-1)	|	[Tylosema (Schweinf.) Torre & Hillc. ](https://www.gbif.org/species/9010267) [POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23743-1)	|
 |	[Griffonia Baill.](https://www.gbif.org/species/2945470) [POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22523-1)	|		
 
-|Genus                 |Plants of the World link| |Genus                 |Plants of the World link|                    
+|Genus                 |Plants of the World link  |Genus                 |Plants of the World link|                    
 | --------------------- |-------------------------|--------------------- |-------------------------|
 |	[Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.](https://www.gbif.org/species/2956199)	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21580-1)	|	[Lasiobema (Korth.) Miq. = Phanera Lour.](https://www.gbif.org/species/7301321)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22740-1)	|
 |	[Barklya F.Muell.](https://www.gbif.org/species/2955817)	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21784-1)	|	[Lysiphyllum (Benth.) de Wit; Phanera Lour.](https://www.gbif.org/species/9105569)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22849-1)	|
