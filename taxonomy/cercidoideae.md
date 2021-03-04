@@ -48,6 +48,26 @@ Wunderlin, R.P. 2010b. New combinations in Schnella (Fabaceae: Caesalpinioideae:
 |[Griffonia Baill.](https://www.gbif.org/species/2945470)            |                    
 
 
+ |Genus                  |                         |
+| --------------------- |------------------------------|
+|	[Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.](https://www.gbif.org/species/2956199) [POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21580-1)	|	[Lasiobema (Korth.) Miq. = Phanera Lour.](https://www.gbif.org/species/7301321) [POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22740-1)	|
+|	[Barklya F.Muell.](https://www.gbif.org/species/2955817) [POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21784-1)	|	[Lysiphyllum (Benth.) de Wit; Phanera Lour.](https://www.gbif.org/species/9105569) [POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22849-1)	|
+|	[Bauhinia L.](https://www.gbif.org/species/2952935) [POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327181-2)	|	[Phanera Lour.](https://www.gbif.org/species/7278390) [POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23206-1)	|
+|	[Brenierea Humbert; Cercis L.](https://www.gbif.org/species/2977380) [POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21855-1)	|	[Piliostigma Hochst.](https://www.gbif.org/species/2947989) [POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:329960-2)	|
+|	[Cercis L.](https://www.gbif.org/species/2955919) [POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30001619-2)	|	[Schnella Raddi](https://www.gbif.org/species/7278569) [POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30003119-2)	|
+|	[Cheniella R.Clark & Mackinder](https://www.gbif.org/species/9712046) [POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:77165904-1)	|	[Tournaya A.Schmitz](https://www.gbif.org/species/7301486) [POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23709-1)	|
+|	[Gigasiphon Drake](https://www.gbif.org/species/8059232) [POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22484-1)	|	[Tylosema (Schweinf.) Torre & Hillc. ](https://www.gbif.org/species/9010267) [POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23743-1)	|
+|	[Griffonia Baill.](https://www.gbif.org/species/2945470) [POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22523-1)	|		![image](https://user-images.githubusercontent.com/13423309/110025404-9617a900-7d2f-11eb-84dc-f8eeab3bca89.png)
+
+
+
+
+
+
+
+
+
+
 
 
  |Genus                  |     GBIF                     | Plants of the World   |
