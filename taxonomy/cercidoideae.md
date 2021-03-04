@@ -36,13 +36,13 @@ Wunderlin, R.P. 2010b. New combinations in Schnella (Fabaceae: Caesalpinioideae:
 [Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.](https://www.gbif.org/species/2956199); [Barklya F.Muell.](https://www.gbif.org/species/2955817); [Bauhinia L.](https://www.gbif.org/species/2952935); [Brenierea Humbert; Cercis L.](https://www.gbif.org/species/2977380); [Cercis L.](https://www.gbif.org/species/2955919); [Cheniella R.Clark & Mackinder](https://www.gbif.org/species/9712046); [Gigasiphon Drake](https://www.gbif.org/species/8059232); [Griffonia Baill.](https://www.gbif.org/species/2945470); [Lysiphyllum (Benth.) de Wit](https://www.gbif.org/species/9105569); [Phanera Lour.](https://www.gbif.org/species/7278390); [Piliostigma Hochst.](https://www.gbif.org/species/2947989); [Schnella Raddi](https://www.gbif.org/species/7278569); [Tournaya A.Schmitz](https://www.gbif.org/species/7301486); [Tylosema (Schweinf.) Torre & Hillc. ](https://www.gbif.org/species/9010267); Recent synonym: [Lasiobema (Korth.) Miq. = Phanera Lour.](https://www.gbif.org/species/7301321)
  
  
- |Genus                  | XX                         | XX                                                                                              |
-| --------------------- |:------------------------------:| --------------------------------------------------------:|
-|[Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.](https://www.gbif.org/species/2956199)            | [[Lysiphyllum (Benth.) de Wit](https://www.gbif.org/species/9105569)                     | aa                   |
-|[Barklya F.Muell.](https://www.gbif.org/species/2955817)             |[Phanera Lour.](https://www.gbif.org/species/7278390)                   | aa                    |
-|[Bauhinia L.](https://www.gbif.org/species/2952935)             |[Piliostigma Hochst.](https://www.gbif.org/species/2947989)                   | aa                    |
-|[Cercis L.](https://www.gbif.org/species/2955919)            |[Schnella Raddi](https://www.gbif.org/species/7278569)                   | aa                    |
-|[Cheniella R.Clark & Mackinder](https://www.gbif.org/species/9712046)            |[Tournaya A.Schmitz](https://www.gbif.org/species/7301486)                   | aa                    |
-|[Gigasiphon Drake](https://www.gbif.org/species/8059232)            |[Tylosema (Schweinf.) Torre & Hillc. ](https://www.gbif.org/species/9010267)                   | aa                    |
-|[Griffonia Baill.](https://www.gbif.org/species/2945470)            | [Lasiobema (Korth.) Miq. = Phanera Lour.](https://www.gbif.org/species/7301321)                   | aa                    |
+ |Genus                  |                         |
+| --------------------- |:------------------------------:|
+|[Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.](https://www.gbif.org/species/2956199)            |[Lysiphyllum (Benth.) de Wit](https://www.gbif.org/species/9105569)                     |
+|[Barklya F.Muell.](https://www.gbif.org/species/2955817)             |[Phanera Lour.](https://www.gbif.org/species/7278390)                   |
+|[Bauhinia L.](https://www.gbif.org/species/2952935)             |[Piliostigma Hochst.](https://www.gbif.org/species/2947989)                   |
+|[Cercis L.](https://www.gbif.org/species/2955919)            |[Schnella Raddi](https://www.gbif.org/species/7278569)                   | 
+|[Cheniella R.Clark & Mackinder](https://www.gbif.org/species/9712046)            |[Tournaya A.Schmitz](https://www.gbif.org/species/7301486)                   |
+|[Gigasiphon Drake](https://www.gbif.org/species/8059232)            |[Tylosema (Schweinf.) Torre & Hillc. ](https://www.gbif.org/species/9010267)                   |
+|[Griffonia Baill.](https://www.gbif.org/species/2945470)            | [Lasiobema (Korth.) Miq. = Phanera Lour.](https://www.gbif.org/species/7301321)                   |
 |[Lysiphyllum (Benth.) de Wit; Phanera Lour.](https://www.gbif.org/species/9105569)            | aa                   | aa                    |
