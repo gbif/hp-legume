@@ -45,4 +45,4 @@ Wunderlin, R.P. 2010b. New combinations in Schnella (Fabaceae: Caesalpinioideae:
 |[Cheniella R.Clark & Mackinder](https://www.gbif.org/species/9712046)            |[Tournaya A.Schmitz](https://www.gbif.org/species/7301486)                   |
 |[Gigasiphon Drake](https://www.gbif.org/species/8059232)            |[Tylosema (Schweinf.) Torre & Hillc. ](https://www.gbif.org/species/9010267)                   |
 |[Griffonia Baill.](https://www.gbif.org/species/2945470)            | [Lasiobema (Korth.) Miq. = Phanera Lour.](https://www.gbif.org/species/7301321)                   |
-|[Lysiphyllum (Benth.) de Wit; Phanera Lour.](https://www.gbif.org/species/9105569)            | aa                   | aa                    |
+|[Lysiphyllum (Benth.) de Wit; Phanera Lour.](https://www.gbif.org/species/9105569)            | aa                   | a
