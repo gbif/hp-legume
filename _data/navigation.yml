@@ -3,7 +3,7 @@
 - text: About
   href: /about
 - text: Data
-  href: /data
+  href: /data?view=map
 - text: Taxonomy
   href: /taxonomy
   menu: #Dropdown menu
