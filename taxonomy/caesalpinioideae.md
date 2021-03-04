@@ -208,3 +208,65 @@ Xylia Benth.
 Zapoteca H.M. Hern.
 Zuccagnia Cav.
 Zygia P. Browne.
+
+
+
+|Genus|Genus|Genus|
+| ---------------------- |:------------------------:|:---------------------------:|
+|	[Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.](https://www.gbif.org/species/2956199)	|	[Elephantorrhiza Benth. ](https://www.gbif.org/species/2933002)	|	[Paraserianthes I.C. Nielsen ](https://www.gbif.org/species/2943718)	|
+|	[Abarema Pittier ](https://www.gbif.org/species/2977807)	|	[Entada Adans. ](https://www.gbif.org/species/2976182)	|	[Parkia R. Br. ](https://www.gbif.org/species/8249974)	|
+|	[Acacia Mill. ](https://www.gbif.org/species/2978223)	|	[Enterolobium Mart. ](https://www.gbif.org/species/2961142)	|	[Parkinsonia L. ](https://www.gbif.org/species/2964820)	|
+|	[Acaciella Britton & Rose ](https://www.gbif.org/species/6627713)	|	[Erythrophleum Afzel. ex R. Br. ](https://www.gbif.org/species/7587179)	|	[Paubrasilia E. Gagnon, H. C. Lima & G. P. Lewis ](https://www.gbif.org/species/8930466)	|
+|	[Acrocarpus Wight & Arn. ](https://www.gbif.org/species/2663073)	|	[Erythrostemon Klotzsch ](https://www.gbif.org/species/2946477)	|	[Peltophorum (Vogel) Benth. ](https://www.gbif.org/species/2952763)	|
+|	[Adenanthera L. ](https://www.gbif.org/species/2951839)	|	[Faidherbia A. Chev. ](https://www.gbif.org/species/3257477)	|	[Pentaclethra Benth. ](https://www.gbif.org/species/2943554)	|
+|	[Adenopodia C. Presl ](https://www.gbif.org/species/2952361)	|	[Falcataria (I.C. Nielsen) Barneby & J.W. Grimes ](https://www.gbif.org/species/2968261)	|	[Piptadenia Benth. ](https://www.gbif.org/species/2951753)	|
+|	[Afrocalliandra E.R. Souza & L. P. Queiroz ](https://www.gbif.org/species/9783891)	|	[Fillaeopsis Harms ](https://www.gbif.org/species/2981413)	|	[Piptadeniastrum Brenan ](https://www.gbif.org/species/2945195)	|
+|	[Alantsilodendron Villiers ](https://www.gbif.org/species/2976284)	|	[Gagnebina Neck. ex DC. ](https://www.gbif.org/species/8061631)	|	[Piptadeniopsis Burkart ](https://www.gbif.org/species/2968247)	|
+|	[Albizia Durazz. ](https://www.gbif.org/species/2972897)	|	[Gelrebia E. Gagnon & G. P. Lewis ](https://www.gbif.org/species/9628233)	|	[Pithecellobium Mart. ](https://www.gbif.org/species/2962745)	|
+|	[Amblygonocarpus Harms ](https://www.gbif.org/species/2975851)	|	[Gleditsia L. ](https://www.gbif.org/species/7396386)	|	[Pityrocarpa (Benth.) Britton & Rose ](https://www.gbif.org/species/7266123)	|
+|	[Anadenanthera Speg. ](https://www.gbif.org/species/2952807)	|	[Guilandina L. ](https://www.gbif.org/species/6376699)	|	[Plathymenia Benth. ](https://www.gbif.org/species/3248274)	|
+|	[Arapatiella Rizzini & A. Mattos ](https://www.gbif.org/species/2977715)	|	[Gymnocladus Lam. ](https://www.gbif.org/species/2944210)	|	[Pomaria Cav. ](https://www.gbif.org/species/2944606)	|
+|	[Archidendron F. Muell. ](https://www.gbif.org/species/2941201)	|	[Haematoxylum L. ](https://www.gbif.org/species/2950902)	|	[Prosopidastrum Burkart ](https://www.gbif.org/species/2950867)	|
+|	[Archidendropsis I.C. Nielsen ](https://www.gbif.org/species/2975530)	|	[Havardia Small ](https://www.gbif.org/species/2933839)	|	[Prosopis L. ](https://www.gbif.org/species/2970763)	|
+|	[Arcoa Urb. Arquita Gagnon, G.P. Lewis & C.E. Hughes ](https://www.gbif.org/species/2945826)	|	[Hererolandia E. Gagnon & G. P. Lewis ](https://www.gbif.org/species/9552788)	|	[Pseudopiptadenia Rauschert ](https://www.gbif.org/species/2952898)	|
+|	[Aubrevillea Pellegr. ](https://www.gbif.org/species/2950899)	|	[Hesperalbizia Barneby & J.W. Grimes ](https://www.gbif.org/species/2975858)	|	[Pseudoprosopis Harms ](https://www.gbif.org/species/2945480)	|
+|	[Balizia Barneby & J.W. Grimes ](https://www.gbif.org/species/9596304)	|	[Heteroflorum M. Sousa ](https://www.gbif.org/species/7278527)	|	[Pseudosenegalia Siegler & Ebinger ](https://www.gbif.org/species/9755243)	|
+|	[Balsamocarpon Clos ](https://www.gbif.org/species/2944316)	|	[Hoffmannseggia Cav. ](https://www.gbif.org/species/5347489)	|	[Pterogyne Tul. ](https://www.gbif.org/species/7723364)	|
+|	[Batesia Spruce ex Benth. & Hook. f. ](https://www.gbif.org/species/2965596)	|	[Hultholia E. Gagnon & G. P. Lewis ](https://www.gbif.org/species/9599254)	|	[Pterolobium R.Br. ex Wight & Arn. ](https://www.gbif.org/species/2965677)	|
+|	[Biancaea Tod. ](https://www.gbif.org/species/7302381)	|	[Hydrochorea Barneby & J.W. Grimes ](https://www.gbif.org/species/2977474)	|	[Punjuba Britton & Rose ](https://www.gbif.org/species/7266077)	|
+|	[Blanchetiodendron Barneby & J.W. Grimes ](https://www.gbif.org/species/2967009)	|	[Indopiptadenia Brenan ](https://www.gbif.org/species/2949430)	|	[Recordoxylon Ducke ](https://www.gbif.org/species/2947775)	|
+|	[Burkea Benth. ](https://www.gbif.org/species/7686165)	|	[Inga Mill. ](https://www.gbif.org/species/2965936)	|	[Samanea (Benth.) Merr. ](https://www.gbif.org/species/2971208)	|
+|	[Bussea Harms ](https://www.gbif.org/species/2977388)	|	[Jacqueshuberia Ducke ](https://www.gbif.org/species/2943346)	|	[Sanjappa E.R. Souza & M.V. Krishnaraj ](https://www.gbif.org/species/9651340)	|
+|	[Caesalpinia L. ](https://www.gbif.org/species/2958443)	|	[Kanaloa Lorence & K.R. Wood ](https://www.gbif.org/species/2961126)	|	[Schizolobium Vogel ](https://www.gbif.org/species/2945452)	|
+|	[Calliandra Benth. ](https://www.gbif.org/species/2981784)	|	[Lachesiodendron P.G.Ribeiro, L.P.Queiroz & Luckow ](https://www.gbif.org/species/2959553)	|	[Schleinitzia Warb. ex Nevling & Niezgoda ](https://www.gbif.org/species/8071781)	|
+|	[Calliandropsis H.M. Hern. & P. Guinet ](https://www.gbif.org/species/2976154)	|	#REF!	|	[Senegalia Raf. ](https://www.gbif.org/species/7989631)	|
+|	[Calpocalyx Harms ](https://www.gbif.org/species/2932951)	|	[Leucaena Benth. ](https://www.gbif.org/species/2970337)	|	[Senna Mill. ](https://www.gbif.org/species/2956904)	|
+|	[Campsiandra Benth. ](https://www.gbif.org/species/2933020)	|	[Leucochloron Barneby & J.W. Grimes ](https://www.gbif.org/species/2944287)	|	[Serianthes Benth. ](https://www.gbif.org/species/2944263)	|
+|	[Cassia L. ](https://www.gbif.org/species/2963414)	|	[Libidibia (DC.) Schltdl. ](https://www.gbif.org/species/6376506)	|	[Sphinga Barneby & J.W. Grimes ](https://www.gbif.org/species/2977787)	|
+|	[Cathormion Hassk. ](https://www.gbif.org/species/2983917)	|	[Lophocarpinia Burkart ](https://www.gbif.org/species/2967936)	|	[Stachyothyrsus Harms ](https://www.gbif.org/species/2970924)	|
+|	[Cedrelinga Ducke ](https://www.gbif.org/species/2976173)	|	[Lysiloma Benth. ](https://www.gbif.org/species/2965788)	|	[Stenodrepanum Harms ](https://www.gbif.org/species/2950894)	|
+|	[Cenostigma Tul. ](https://www.gbif.org/species/2947114)	|	[Macrosamanea Britton & Rose ex Britton & Killip ](https://www.gbif.org/species/8425747)	|	[Stryphnodendron Mart. ](https://www.gbif.org/species/2951701)	|
+|	[Ceratonia L. ](https://www.gbif.org/species/3239857)	|	[Mariosousa Seigler & Ebinger ](https://www.gbif.org/species/6362350)	|	[Stuhlmannia Taub. ](https://www.gbif.org/species/3267615)	|
+|	[Chamaecrista Moench ](https://www.gbif.org/species/2949492)	|	[Marmaroxylon Killip ](https://www.gbif.org/species/7412465)	|	[Sympetalandra Stapf ](https://www.gbif.org/species/2947764)	|
+|	[Chidlowia Hoyle ](https://www.gbif.org/species/2972894)	|	[Melanoxylon Schott ](https://www.gbif.org/species/2945497)	|	[Tachigali Aubl. ](https://www.gbif.org/species/2945125)	|
+|	[Chloroleucon (Benth.) Britton & Rose ](https://www.gbif.org/species/8099375)	|	[Mezoneuron Desf. ](https://www.gbif.org/species/2944261)	|	[Tara Molina ](https://www.gbif.org/species/6376667)	|
+|	[Cojoba Britton & Rose ](https://www.gbif.org/species/2981327)	|	[Microlobius C. Presl ](https://www.gbif.org/species/2964867)	|	[Tetrapleura Benth. ](https://www.gbif.org/species/1522925)	|
+|	[Colvillea Bojer ex Hook. ](https://www.gbif.org/species/2967934)	|	[Mimosa L. ](https://www.gbif.org/species/2969235)	|	[Tetrapterocarpon Humbert ](https://www.gbif.org/species/2956890)	|
+|	[Conzattia Rose Cordeauxia Hemsl. ](https://www.gbif.org/species/2976907)	|	[Mimozyganthus Burkart ](https://www.gbif.org/species/2983905)	|	[Thailentadopsis Kosterm. ](https://www.gbif.org/species/2952411)	|
+|	[Coulteria Kunth ](https://www.gbif.org/species/6376610)	|	[Moldenhawera Schrad. ](https://www.gbif.org/species/2976897)	|	[Umtiza Sim ](https://www.gbif.org/species/2941176)	|
+|	[Cylicodiscus Harms ](https://www.gbif.org/species/2977091)	|	[Mora Schomb. ex Benth. ](https://www.gbif.org/species/2960422)	|	[Vachellia Wight & Arn. ](https://www.gbif.org/species/8142432)	|
+|	[Delonix Raf. ](https://www.gbif.org/species/2956165)	|	[Moullava Adans. ](https://www.gbif.org/species/2941154)	|	[Viguieranthus Villiers ](https://www.gbif.org/species/2967939)	|
+|	[Denisophytum R. Vig. ](https://www.gbif.org/species/2962951)	|	[Neptunia Lour. ](https://www.gbif.org/species/7599660)	|	[Vouacapoua Aubl. ](https://www.gbif.org/species/2940382)	|
+|	[Desmanthus Willd. ](https://www.gbif.org/species/2252272)	|	[Newtonia Baill. ](https://www.gbif.org/species/2493225)	|	[Wallaceodendron Koord. ](https://www.gbif.org/species/2952870)	|
+|	[Dichrostachys (DC.) Wight & Arn. ](https://www.gbif.org/species/2975868)	|	[Pachyelasma Harms ](https://www.gbif.org/species/2944796)	|	[Xerocladia Harv. ](https://www.gbif.org/species/2943903)	|
+|	[Dimorphandra Schott ](https://www.gbif.org/species/2974262)	|	[Painteria Britton & Rose ](https://www.gbif.org/species/2981421)	|	[Xylia Benth. ](https://www.gbif.org/species/2943681)	|
+|	[Dinizia Ducke ](https://www.gbif.org/species/2946970)	|	[Parapiptadenia Brenan ](https://www.gbif.org/species/2941626)	|	[Zapoteca H.M. Hern. ](https://www.gbif.org/species/2967998)	|
+|	[Diptychandra Tul. ](https://www.gbif.org/species/2958139)	|	[Pararchidendron I.C. Nielsen ](https://www.gbif.org/species/2943627)	|	[Zuccagnia Cav. ](https://www.gbif.org/species/2769685)	|
+|	[Ebenopsis Britton & Rose ](https://www.gbif.org/species/2976476)	|	[Parasenegalia Siegler & Ebinger ](https://www.gbif.org/species/9681911)	|	[Zygia P. Browne.](https://www.gbif.org/species/8204288)	|
+
+
+
+
+
+
+
