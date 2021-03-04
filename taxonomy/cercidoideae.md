@@ -37,7 +37,7 @@ Wunderlin, R.P. 2010b. New combinations in Schnella (Fabaceae: Caesalpinioideae:
  
  
  |Genus                  |                         |
-| --------------------- |:------------------------------:|
+| --------------------- |------------------------------|
 |[Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.](https://www.gbif.org/species/2956199)|[Lysiphyllum (Benth.) de Wit](https://www.gbif.org/species/9105569)|
 |[Barklya F.Muell.](https://www.gbif.org/species/2955817)             |[Phanera Lour.](https://www.gbif.org/species/7278390)                   |
 |[Bauhinia L.](https://www.gbif.org/species/2952935)             |[Piliostigma Hochst.](https://www.gbif.org/species/2947989)                   |
