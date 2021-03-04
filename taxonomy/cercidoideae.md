@@ -38,8 +38,8 @@ Wunderlin, R.P. 2010b. New combinations in Schnella (Fabaceae: Caesalpinioideae:
  
  |Genus                  | XX                         | XX                                                                                              |
 | --------------------- |:------------------------------:| --------------------------------------------------------:|
-| aa            | aa                     | aa                   |
-| bb             | aa                   | aa                    |
-| bb             | aa                   | aa                    |
-| bb             | aa                   | aa                    |
-| bb             | aa                   | aa                    |
+| [Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.](https://www.gbif.org/species/2956199)            | aa                     | aa                   |
+| [Barklya F.Muell.](https://www.gbif.org/species/2955817)             | aa                   | aa                    |
+| [Bauhinia L.](https://www.gbif.org/species/2952935)             | aa                   | aa                    |
+|[Cercis L.](https://www.gbif.org/species/2955919)            | aa                   | aa                    |
+|[Cheniella R.Clark & Mackinder](https://www.gbif.org/species/9712046)            | aa                   | aa                    |
