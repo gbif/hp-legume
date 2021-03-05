@@ -17,8 +17,8 @@ Question here is where to link to obtain this list? To the GBIF taxonomy backbon
 ## Genus List
 Alphabetical list of all genera with links to theie subfamily, GBIF and Plants of thte World Online pages.
 
-
-
+|Subfamily|Genus|GBIF |Plants of the World|
+| ---------------------- |------------------------|---------------------------|------------------------|
 |	[Ceasalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	Abarema Pittier 	|	[GBIF](https://www.gbif.org/species/2977807)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30032383-2)	|
 |	[Ceasalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	Acacia Mill. 	|	[GBIF](https://www.gbif.org/species/2978223)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:325783-2)	|
 |	[Ceasalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	Acaciella Britton & Rose 	|	[GBIF](https://www.gbif.org/species/6627713)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296613-2)	|
