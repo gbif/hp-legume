@@ -8,9 +8,7 @@
   href: /taxonomy
   menu: #Dropdown menu
   - text: Species List and Synonyms
-    href: /taxonomy/species-list
-  - text: Genera List
-    href: /taxonomy/genus-list 
+    href: /taxonomy/species-list 
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: Cercidoideae
     href: /taxonomy/cercidoideae
