@@ -211,7 +211,7 @@ Zygia P. Browne.
 
 
 
-|Genus                 |GBIF                    |Plants of the World        |
+| Genus                |GBIF                    |Plants of the World        |
 |----------------------|------------------------|---------------------------|
 |	Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.	|	[GBIF](https://www.gbif.org/species/2956199)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21580-1)	|
 |	Abarema Pittier 	|	[GBIF](https://www.gbif.org/species/2977807)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30032383-2)	|
