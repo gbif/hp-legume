@@ -214,152 +214,152 @@ Zygia P. Browne.
 |Genus|GBIF |Plants of the World|
 | ---------------------- |------------------------|---------------------------|
 |	Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.	|	[GBIF](https://www.gbif.org/species/2956199)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21580-1)	|
-|	Abarema Pittier 	|	[GBIF](https://www.gbif.org/species/2977807)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30032383-2)	|
-|	Acacia Mill. 	|	[GBIF](https://www.gbif.org/species/2978223)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:325783-2)	|
-|	Acaciella Britton & Rose 	|	[GBIF](https://www.gbif.org/species/6627713)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296613-2)	|
-|	Acrocarpus Wight & Arn. 	|	[GBIF](https://www.gbif.org/species/2663073)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21569-1)	|
-|	Adenanthera L. 	|	[GBIF](https://www.gbif.org/species/2951839)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21576-1)	|
-|	Adenopodia C. Presl 	|	[GBIF](https://www.gbif.org/species/2952361)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21581-1)	|
-|	Afrocalliandra E.R. Souza & L. P. Queiroz 	|	[GBIF](https://www.gbif.org/species/9783891)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:77136037-1)	|
-|	Alantsilodendron Villiers 	|	[GBIF](https://www.gbif.org/species/2976284)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:978473-1)	|
-|	Albizia Durazz. 	|	[GBIF](https://www.gbif.org/species/2972897)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30017224-2)	|
-|	Amblygonocarpus Harms 	|	[GBIF](https://www.gbif.org/species/2975851)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21622-1)	|
-|	Anadenanthera Speg. 	|	[GBIF](https://www.gbif.org/species/2952807)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296601-2)	|
-|	Arapatiella Rizzini & A. Mattos 	|	[GBIF](https://www.gbif.org/species/2977715)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21709-1)	|
-|	Archidendron F. Muell. 	|	[GBIF](https://www.gbif.org/species/2941201)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21710-1)	|
-|	Archidendropsis I.C. Nielsen 	|	[GBIF](https://www.gbif.org/species/2975530)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:893260-1)	|
-|	Arcoa Urb. Arquita Gagnon, G.P. Lewis & C.E. Hughes 	|	[GBIF](https://www.gbif.org/species/2945826)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296987-2)	|
-|	Aubrevillea Pellegr. 	|	[GBIF](https://www.gbif.org/species/2950899)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21754-1)	|
-|	Balizia Barneby & J.W. Grimes 	|	[GBIF](https://www.gbif.org/species/9596304)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:989346-1)	|
-|	Balsamocarpon Clos 	|	[GBIF](https://www.gbif.org/species/2944316)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21771-1)	|
-|	Batesia Spruce ex Benth. & Hook. f. 	|	[GBIF](https://www.gbif.org/species/2965596)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21788-1)	|
-|	Biancaea Tod. 	|	[GBIF](https://www.gbif.org/species/7302381)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21809-1)	|
-|	Blanchetiodendron Barneby & J.W. Grimes 	|	[GBIF](https://www.gbif.org/species/2967009)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:989402-1)	|
-|	Burkea Benth. 	|	[GBIF](https://www.gbif.org/species/7686165)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21874-1)	|
-|	Bussea Harms 	|	[GBIF](https://www.gbif.org/species/2977388)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21878-1)	|
-|	Caesalpinia L. 	|	[GBIF](https://www.gbif.org/species/2958443)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30003203-2)	|
-|	Calliandra Benth. 	|	[GBIF](https://www.gbif.org/species/2981784)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:331445-2)	|
-|	Calliandropsis H.M. Hern. & P. Guinet 	|	[GBIF](https://www.gbif.org/species/2976154)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:925302-1)	|
-|	Calpocalyx Harms 	|	[GBIF](https://www.gbif.org/species/2932951)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21911-1)	|
-|	Campsiandra Benth. 	|	[GBIF](https://www.gbif.org/species/2933020)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327122-2)	|
-|	Cassia L. 	|	[GBIF](https://www.gbif.org/species/2963414)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:331467-2)	|
-|	Cathormion Hassk. 	|	[GBIF](https://www.gbif.org/species/2983917)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21956-1)	|
-|	Cedrelinga Ducke 	|	[GBIF](https://www.gbif.org/species/2976173)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296427-2)	|
-|	Cenostigma Tul. 	|	[GBIF](https://www.gbif.org/species/2947114)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21965-1)	|
-|	Ceratonia L. 	|	[GBIF](https://www.gbif.org/species/3239857)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21972-1)	|
-|	Chamaecrista Moench 	|	[GBIF](https://www.gbif.org/species/2949492)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:329389-2)	|
-|	Chidlowia Hoyle 	|	[GBIF](https://www.gbif.org/species/2972894)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21995-1)	|
-|	Chloroleucon (Benth.) Britton & Rose 	|	[GBIF](https://www.gbif.org/species/8099375)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21999-1)	|
-|	Cojoba Britton & Rose 	|	[GBIF](https://www.gbif.org/species/2981327)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:297125-2)	|
-|	Colvillea Bojer ex Hook. 	|	[GBIF](https://www.gbif.org/species/2967934)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22069-1)	|
-|	Conzattia Rose Cordeauxia Hemsl. 	|	[GBIF](https://www.gbif.org/species/2976907)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:297103-2)	|
-|	Coulteria Kunth 	|	[GBIF](https://www.gbif.org/species/6376610)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22104-1)	|
-|	Cylicodiscus Harms 	|	[GBIF](https://www.gbif.org/species/2977091)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22169-1)	|
-|	Delonix Raf. 	|	[GBIF](https://www.gbif.org/species/2956165)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30339041-2)	|
-|	Denisophytum R. Vig. 	|	[GBIF](https://www.gbif.org/species/2962951)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22226-1)	|
-|	Desmanthus Willd. 	|	[GBIF](https://www.gbif.org/species/2252272)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:331549-2)	|
-|	Dichrostachys (DC.) Wight & Arn. 	|	[GBIF](https://www.gbif.org/species/2975868)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:1193844-2)	|
-|	Dimorphandra Schott 	|	[GBIF](https://www.gbif.org/species/2974262)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22264-1)	|
-|	Dinizia Ducke 	|	[GBIF](https://www.gbif.org/species/2946970)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296439-2)	|
-|	Diptychandra Tul. 	|	[GBIF](https://www.gbif.org/species/2958139)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22283-1)	|
-|	Ebenopsis Britton & Rose 	|	[GBIF](https://www.gbif.org/species/2976476)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22328-1)	|
-|	Elephantorrhiza Benth. 	|	[GBIF](https://www.gbif.org/species/2933002)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22352-1)	|
-|	Entada Adans. 	|	[GBIF](https://www.gbif.org/species/2976182)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:331593-2)	|
-|	Enterolobium Mart. 	|	[GBIF](https://www.gbif.org/species/2961142)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30004353-2)	|
-|	Erythrophleum Afzel. ex R. Br. 	|	[GBIF](https://www.gbif.org/species/7587179)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22390-1)	|
-|	Erythrostemon Klotzsch 	|	[GBIF](https://www.gbif.org/species/2946477)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22392-1)	|
-|	Faidherbia A. Chev. 	|	[GBIF](https://www.gbif.org/species/3257477)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22420-1)	|
-|	Falcataria (I.C. Nielsen) Barneby & J.W. Grimes 	|	[GBIF](https://www.gbif.org/species/2968261)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:989455-1)	|
-|	Fillaeopsis Harms 	|	[GBIF](https://www.gbif.org/species/2981413)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22436-1)	|
-|	Gagnebina Neck. ex DC. 	|	[GBIF](https://www.gbif.org/species/8061631)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30308295-2)	|
-|	Gelrebia E. Gagnon & G. P. Lewis 	|	[GBIF](https://www.gbif.org/species/9628233)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:60473338-2)	|
-|	Gleditsia L. 	|	[GBIF](https://www.gbif.org/species/7396386)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30004026-2)	|
-|	Guilandina L. 	|	[GBIF](https://www.gbif.org/species/6376699)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30026032-2)	|
-|	Gymnocladus Lam. 	|	[GBIF](https://www.gbif.org/species/2944210)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22537-1)	|
-|	Haematoxylum L. 	|	[GBIF](https://www.gbif.org/species/2950902)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:60452862-2)	|
-|	Havardia Small 	|	[GBIF](https://www.gbif.org/species/2933839)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:298190-2)	|
-|	Hererolandia E. Gagnon & G. P. Lewis 	|	[GBIF](https://www.gbif.org/species/9552788)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:77158009-1)	|
-|	Hesperalbizia Barneby & J.W. Grimes 	|	[GBIF](https://www.gbif.org/species/2975858)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:989397-1)	|
-|	Heteroflorum M. Sousa 	|	[GBIF](https://www.gbif.org/species/7278527)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:60438480-2)	|
-|	Hoffmannseggia Cav. 	|	[GBIF](https://www.gbif.org/species/5347489)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:331659-2)	|
-|	Hultholia E. Gagnon & G. P. Lewis 	|	[GBIF](https://www.gbif.org/species/9599254)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:77158067-1)	|
-|	Hydrochorea Barneby & J.W. Grimes 	|	[GBIF](https://www.gbif.org/species/2977474)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:989339-1)	|
-|	Indopiptadenia Brenan 	|	[GBIF](https://www.gbif.org/species/2949430)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22657-1)	|
-|	Inga Mill. 	|	[GBIF](https://www.gbif.org/species/2965936)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30001555-2)	|
-|	Jacqueshuberia Ducke 	|	[GBIF](https://www.gbif.org/species/2943346)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:291635-2)	|
-|	Kanaloa Lorence & K.R. Wood 	|	[GBIF](https://www.gbif.org/species/2961126)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:977791-1)	|
-|	Lachesiodendron P.G.Ribeiro, L.P.Queiroz & Luckow 	|	[GBIF](https://www.gbif.org/species/10580440)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:77178319-1)	|
-|	Lemurodendron Villiers 	|	[GBIF](https://www.gbif.org/species/2959553)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:925219-1)	|
-|	Leucaena Benth. 	|	[GBIF](https://www.gbif.org/species/2970337)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:331713-2)	|
-|	Leucochloron Barneby & J.W. Grimes 	|	[GBIF](https://www.gbif.org/species/2944287)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:989404-1)	|
-|	Libidibia (DC.) Schltdl. 	|	[GBIF](https://www.gbif.org/species/6376506)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22792-1)	|
-|	Lophocarpinia Burkart 	|	[GBIF](https://www.gbif.org/species/2967936)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:294657-2)	|
-|	Lysiloma Benth. 	|	[GBIF](https://www.gbif.org/species/2965788)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30038751-2)	|
-|	Macrosamanea Britton & Rose ex Britton & Killip 	|	[GBIF](https://www.gbif.org/species/8425747)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22865-1)	|
-|	Mariosousa Seigler & Ebinger 	|	[GBIF](https://www.gbif.org/species/6362350)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:60446089-2)	|
-|	Marmaroxylon Killip 	|	[GBIF](https://www.gbif.org/species/7412465)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:313989-2)	|
-|	Melanoxylon Schott 	|	[GBIF](https://www.gbif.org/species/2945497)	|	[POW0](none)	|
-|	Mezoneuron Desf. 	|	[GBIF](https://www.gbif.org/species/2944261)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:50502721-1)	|
-|	Microlobius C. Presl 	|	[GBIF](https://www.gbif.org/species/2964867)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22938-1)	|
-|	Mimosa L. 	|	[GBIF](https://www.gbif.org/species/2969235)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30001613-2)	|
-|	Mimozyganthus Burkart 	|	[GBIF](https://www.gbif.org/species/2983905)	|	[POW0]( http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:295373-2)	|
-|	Moldenhawera Schrad. 	|	[GBIF](https://www.gbif.org/species/2976897)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30027278-2)	|
-|	Mora Schomb. ex Benth. 	|	[GBIF](https://www.gbif.org/species/2960422)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22970-1)	|
-|	Moullava Adans. 	|	[GBIF](https://www.gbif.org/species/2941154)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:20124-1)	|
-|	Neptunia Lour. 	|	[GBIF](https://www.gbif.org/species/7599660)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30003917-2)	|
-|	Newtonia Baill. 	|	[GBIF](https://www.gbif.org/species/2493225)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:328165-2)	|
-|	Pachyelasma Harms 	|	[GBIF](https://www.gbif.org/species/2944796)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23119-1)	|
-|	Painteria Britton & Rose 	|	[GBIF](https://www.gbif.org/species/2981421)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296882-2)	|
-|	Parapiptadenia Brenan 	|	[GBIF](https://www.gbif.org/species/2941626)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23146-1)	|
-|	Pararchidendron I.C. Nielsen 	|	[GBIF](https://www.gbif.org/species/2943627)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:893318-1)	|
-|	Parasenegalia Siegler & Ebinger 	|	[GBIF](https://www.gbif.org/species/9681911)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:77175798-1)	|
-|	Paraserianthes I.C. Nielsen 	|	[GBIF](https://www.gbif.org/species/2943718)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:893319-1)	|
-|	Parkia R. Br. 	|	[GBIF](https://www.gbif.org/species/8249974)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23152-1)	|
-|	Parkinsonia L. 	|	[GBIF](https://www.gbif.org/species/2964820)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:328170-2)	|
-|	Paubrasilia E. Gagnon, H. C. Lima & G. P. Lewis 	|	[GBIF](https://www.gbif.org/species/8930466)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:77158010-1)	|
-|	Peltophorum (Vogel) Benth. 	|	[GBIF](https://www.gbif.org/species/2952763)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:1166529-2)	|
-|	Pentaclethra Benth. 	|	[GBIF](https://www.gbif.org/species/2943554)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23181-1)	|
-|	Piptadenia Benth. 	|	[GBIF](https://www.gbif.org/species/2951753)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23248-1)	|
-|	Piptadeniastrum Brenan 	|	[GBIF](https://www.gbif.org/species/2945195)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23249-1)	|
-|	Piptadeniopsis Burkart 	|	[GBIF](https://www.gbif.org/species/2968247)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:289390-2)	|
-|	Pithecellobium Mart. 	|	[GBIF](https://www.gbif.org/species/2962745)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:331859-2)	|
-|	Pityrocarpa (Benth.) Britton & Rose 	|	[GBIF](https://www.gbif.org/species/7266123)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23262-1)	|
-|	Plathymenia Benth. 	|	[GBIF](https://www.gbif.org/species/3248274)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:328383-2)	|
-|	Pomaria Cav. 	|	[GBIF](https://www.gbif.org/species/2944606)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327190-2)	|
-|	Prosopidastrum Burkart 	|	[GBIF](https://www.gbif.org/species/2950867)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:290909-2)	|
-|	Prosopis L. 	|	[GBIF](https://www.gbif.org/species/2970763)	|	[POW0]( http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23337-1)	|
-|	Pseudopiptadenia Rauschert 	|	[GBIF](https://www.gbif.org/species/2952898)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:893571-1)	|
-|	Pseudoprosopis Harms 	|	[GBIF](https://www.gbif.org/species/2945480)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23356-1)	|
-|	Pseudosenegalia Siegler & Ebinger 	|	[GBIF](https://www.gbif.org/species/9755243)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:77175806-1)	|
-|	Pterogyne Tul. 	|	[GBIF](https://www.gbif.org/species/7723364)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23382-1)	|
-|	Pterolobium R.Br. ex Wight & Arn. 	|	[GBIF](https://www.gbif.org/species/2965677)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:12962-1)	|
-|	Punjuba Britton & Rose 	|	[GBIF](https://www.gbif.org/species/7266077)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23399-1)	|
-|	Recordoxylon Ducke 	|	[GBIF](https://www.gbif.org/species/2947775)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:295532-2)	|
-|	Samanea (Benth.) Merr. 	|	[GBIF](https://www.gbif.org/species/2971208)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:295968-2)	|
-|	Sanjappa E.R. Souza & M.V. Krishnaraj 	|	[GBIF](https://www.gbif.org/species/9651340)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:77159216-1)	|
-|	Schizolobium Vogel 	|	[GBIF](https://www.gbif.org/species/2945452)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30031961-2)	|
-|	Schleinitzia Warb. ex Nevling & Niezgoda 	|	[GBIF](https://www.gbif.org/species/8071781)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23499-1)	|
-|	Senegalia Raf. 	|	[GBIF](https://www.gbif.org/species/7989631)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30003347-2)	|
-|	Senna Mill. 	|	[GBIF](https://www.gbif.org/species/2956904)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000132-2)	|
-|	Serianthes Benth. 	|	[GBIF](https://www.gbif.org/species/2944263)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23545-1)	|
-|	Sphinga Barneby & J.W. Grimes 	|	[GBIF](https://www.gbif.org/species/2977787)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:989420-1)	|
-|	Stachyothyrsus Harms 	|	[GBIF](https://www.gbif.org/species/2970924)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23606-1)	|
-|	Stenodrepanum Harms 	|	[GBIF](https://www.gbif.org/species/2950894)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296639-2)	|
-|	Stryphnodendron Mart. 	|	[GBIF](https://www.gbif.org/species/2951701)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23633-1)	|
-|	Stuhlmannia Taub. 	|	[GBIF](https://www.gbif.org/species/3267615)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23634-1)	|
-|	Sympetalandra Stapf 	|	[GBIF](https://www.gbif.org/species/2947764)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23649-1)	|
-|	Tachigali Aubl. 	|	[GBIF](https://www.gbif.org/species/2945125)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30007737-2)	|
-|	Tara Molina 	|	[GBIF](https://www.gbif.org/species/6376667)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23660-1)	|
-|	Tetrapleura Benth. 	|	[GBIF](https://www.gbif.org/species/1522925)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23685-1)	|
-|	Tetrapterocarpon Humbert 	|	[GBIF](https://www.gbif.org/species/2956890)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23686-1)	|
-|	Thailentadopsis Kosterm. 	|	[GBIF](https://www.gbif.org/species/2952411)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:328181-2)	|
-|	Umtiza Sim 	|	[GBIF](https://www.gbif.org/species/2941176)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23748-1)	|
-|	Vachellia Wight & Arn. 	|	[GBIF](https://www.gbif.org/species/8142432)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000732-2)	|
-|	Viguieranthus Villiers 	|	[GBIF](https://www.gbif.org/species/2967939)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:20004629-1)	|
-|	Vouacapoua Aubl. 	|	[GBIF](https://www.gbif.org/species/2940382)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23793-1)	|
-|	Wallaceodendron Koord. 	|	[GBIF](https://www.gbif.org/species/2952870)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23802-1)	|
-|	Xerocladia Harv. 	|	[GBIF](https://www.gbif.org/species/2943903)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23826-1)	|
-|	Xylia Benth. 	|	[GBIF](https://www.gbif.org/species/2943681)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23832-1)	|
-|	Zapoteca H.M. Hern. 	|	[GBIF](https://www.gbif.org/species/2967998)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:925038-1)	|
-|	Zuccagnia Cav. 	|	[GBIF](https://www.gbif.org/species/2769685)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:332076-2)	|
-|	Zygia P. Browne.	|	[GBIF](https://www.gbif.org/species/8204288)	|	[POW0](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23856-1)	|![image](https://user-images.githubusercontent.com/13423309/110112043-80e35e80-7db1-11eb-942a-b55fc66adbc4.png)
+|	Abarema Pittier 	|	[GBIF](https://www.gbif.org/species/2977807)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30032383-2)	|
+|	Acacia Mill. 	|	[GBIF](https://www.gbif.org/species/2978223)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:325783-2)	|
+|	Acaciella Britton & Rose 	|	[GBIF](https://www.gbif.org/species/6627713)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296613-2)	|
+|	Acrocarpus Wight & Arn. 	|	[GBIF](https://www.gbif.org/species/2663073)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21569-1)	|
+|	Adenanthera L. 	|	[GBIF](https://www.gbif.org/species/2951839)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21576-1)	|
+|	Adenopodia C. Presl 	|	[GBIF](https://www.gbif.org/species/2952361)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21581-1)	|
+|	Afrocalliandra E.R. Souza & L. P. Queiroz 	|	[GBIF](https://www.gbif.org/species/9783891)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:77136037-1)	|
+|	Alantsilodendron Villiers 	|	[GBIF](https://www.gbif.org/species/2976284)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:978473-1)	|
+|	Albizia Durazz. 	|	[GBIF](https://www.gbif.org/species/2972897)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30017224-2)	|
+|	Amblygonocarpus Harms 	|	[GBIF](https://www.gbif.org/species/2975851)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21622-1)	|
+|	Anadenanthera Speg. 	|	[GBIF](https://www.gbif.org/species/2952807)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296601-2)	|
+|	Arapatiella Rizzini & A. Mattos 	|	[GBIF](https://www.gbif.org/species/2977715)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21709-1)	|
+|	Archidendron F. Muell. 	|	[GBIF](https://www.gbif.org/species/2941201)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21710-1)	|
+|	Archidendropsis I.C. Nielsen 	|	[GBIF](https://www.gbif.org/species/2975530)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:893260-1)	|
+|	Arcoa Urb. Arquita Gagnon, G.P. Lewis & C.E. Hughes 	|	[GBIF](https://www.gbif.org/species/2945826)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296987-2)	|
+|	Aubrevillea Pellegr. 	|	[GBIF](https://www.gbif.org/species/2950899)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21754-1)	|
+|	Balizia Barneby & J.W. Grimes 	|	[GBIF](https://www.gbif.org/species/9596304)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:989346-1)	|
+|	Balsamocarpon Clos 	|	[GBIF](https://www.gbif.org/species/2944316)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21771-1)	|
+|	Batesia Spruce ex Benth. & Hook. f. 	|	[GBIF](https://www.gbif.org/species/2965596)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21788-1)	|
+|	Biancaea Tod. 	|	[GBIF](https://www.gbif.org/species/7302381)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21809-1)	|
+|	Blanchetiodendron Barneby & J.W. Grimes 	|	[GBIF](https://www.gbif.org/species/2967009)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:989402-1)	|
+|	Burkea Benth. 	|	[GBIF](https://www.gbif.org/species/7686165)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21874-1)	|
+|	Bussea Harms 	|	[GBIF](https://www.gbif.org/species/2977388)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21878-1)	|
+|	Caesalpinia L. 	|	[GBIF](https://www.gbif.org/species/2958443)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30003203-2)	|
+|	Calliandra Benth. 	|	[GBIF](https://www.gbif.org/species/2981784)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:331445-2)	|
+|	Calliandropsis H.M. Hern. & P. Guinet 	|	[GBIF](https://www.gbif.org/species/2976154)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:925302-1)	|
+|	Calpocalyx Harms 	|	[GBIF](https://www.gbif.org/species/2932951)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21911-1)	|
+|	Campsiandra Benth. 	|	[GBIF](https://www.gbif.org/species/2933020)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327122-2)	|
+|	Cassia L. 	|	[GBIF](https://www.gbif.org/species/2963414)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:331467-2)	|
+|	Cathormion Hassk. 	|	[GBIF](https://www.gbif.org/species/2983917)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21956-1)	|
+|	Cedrelinga Ducke 	|	[GBIF](https://www.gbif.org/species/2976173)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296427-2)	|
+|	Cenostigma Tul. 	|	[GBIF](https://www.gbif.org/species/2947114)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21965-1)	|
+|	Ceratonia L. 	|	[GBIF](https://www.gbif.org/species/3239857)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21972-1)	|
+|	Chamaecrista Moench 	|	[GBIF](https://www.gbif.org/species/2949492)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:329389-2)	|
+|	Chidlowia Hoyle 	|	[GBIF](https://www.gbif.org/species/2972894)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21995-1)	|
+|	Chloroleucon (Benth.) Britton & Rose 	|	[GBIF](https://www.gbif.org/species/8099375)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21999-1)	|
+|	Cojoba Britton & Rose 	|	[GBIF](https://www.gbif.org/species/2981327)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:297125-2)	|
+|	Colvillea Bojer ex Hook. 	|	[GBIF](https://www.gbif.org/species/2967934)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22069-1)	|
+|	Conzattia Rose Cordeauxia Hemsl. 	|	[GBIF](https://www.gbif.org/species/2976907)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:297103-2)	|
+|	Coulteria Kunth 	|	[GBIF](https://www.gbif.org/species/6376610)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22104-1)	|
+|	Cylicodiscus Harms 	|	[GBIF](https://www.gbif.org/species/2977091)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22169-1)	|
+|	Delonix Raf. 	|	[GBIF](https://www.gbif.org/species/2956165)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30339041-2)	|
+|	Denisophytum R. Vig. 	|	[GBIF](https://www.gbif.org/species/2962951)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22226-1)	|
+|	Desmanthus Willd. 	|	[GBIF](https://www.gbif.org/species/2252272)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:331549-2)	|
+|	Dichrostachys (DC.) Wight & Arn. 	|	[GBIF](https://www.gbif.org/species/2975868)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:1193844-2)	|
+|	Dimorphandra Schott 	|	[GBIF](https://www.gbif.org/species/2974262)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22264-1)	|
+|	Dinizia Ducke 	|	[GBIF](https://www.gbif.org/species/2946970)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296439-2)	|
+|	Diptychandra Tul. 	|	[GBIF](https://www.gbif.org/species/2958139)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22283-1)	|
+|	Ebenopsis Britton & Rose 	|	[GBIF](https://www.gbif.org/species/2976476)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22328-1)	|
+|	Elephantorrhiza Benth. 	|	[GBIF](https://www.gbif.org/species/2933002)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22352-1)	|
+|	Entada Adans. 	|	[GBIF](https://www.gbif.org/species/2976182)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:331593-2)	|
+|	Enterolobium Mart. 	|	[GBIF](https://www.gbif.org/species/2961142)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30004353-2)	|
+|	Erythrophleum Afzel. ex R. Br. 	|	[GBIF](https://www.gbif.org/species/7587179)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22390-1)	|
+|	Erythrostemon Klotzsch 	|	[GBIF](https://www.gbif.org/species/2946477)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22392-1)	|
+|	Faidherbia A. Chev. 	|	[GBIF](https://www.gbif.org/species/3257477)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22420-1)	|
+|	Falcataria (I.C. Nielsen) Barneby & J.W. Grimes 	|	[GBIF](https://www.gbif.org/species/2968261)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:989455-1)	|
+|	Fillaeopsis Harms 	|	[GBIF](https://www.gbif.org/species/2981413)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22436-1)	|
+|	Gagnebina Neck. ex DC. 	|	[GBIF](https://www.gbif.org/species/8061631)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30308295-2)	|
+|	Gelrebia E. Gagnon & G. P. Lewis 	|	[GBIF](https://www.gbif.org/species/9628233)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:60473338-2)	|
+|	Gleditsia L. 	|	[GBIF](https://www.gbif.org/species/7396386)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30004026-2)	|
+|	Guilandina L. 	|	[GBIF](https://www.gbif.org/species/6376699)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30026032-2)	|
+|	Gymnocladus Lam. 	|	[GBIF](https://www.gbif.org/species/2944210)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22537-1)	|
+|	Haematoxylum L. 	|	[GBIF](https://www.gbif.org/species/2950902)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:60452862-2)	|
+|	Havardia Small 	|	[GBIF](https://www.gbif.org/species/2933839)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:298190-2)	|
+|	Hererolandia E. Gagnon & G. P. Lewis 	|	[GBIF](https://www.gbif.org/species/9552788)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:77158009-1)	|
+|	Hesperalbizia Barneby & J.W. Grimes 	|	[GBIF](https://www.gbif.org/species/2975858)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:989397-1)	|
+|	Heteroflorum M. Sousa 	|	[GBIF](https://www.gbif.org/species/7278527)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:60438480-2)	|
+|	Hoffmannseggia Cav. 	|	[GBIF](https://www.gbif.org/species/5347489)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:331659-2)	|
+|	Hultholia E. Gagnon & G. P. Lewis 	|	[GBIF](https://www.gbif.org/species/9599254)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:77158067-1)	|
+|	Hydrochorea Barneby & J.W. Grimes 	|	[GBIF](https://www.gbif.org/species/2977474)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:989339-1)	|
+|	Indopiptadenia Brenan 	|	[GBIF](https://www.gbif.org/species/2949430)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22657-1)	|
+|	Inga Mill. 	|	[GBIF](https://www.gbif.org/species/2965936)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30001555-2)	|
+|	Jacqueshuberia Ducke 	|	[GBIF](https://www.gbif.org/species/2943346)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:291635-2)	|
+|	Kanaloa Lorence & K.R. Wood 	|	[GBIF](https://www.gbif.org/species/2961126)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:977791-1)	|
+|	Lachesiodendron P.G.Ribeiro, L.P.Queiroz & Luckow 	|	[GBIF](https://www.gbif.org/species/10580440)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:77178319-1)	|
+|	Lemurodendron Villiers 	|	[GBIF](https://www.gbif.org/species/2959553)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:925219-1)	|
+|	Leucaena Benth. 	|	[GBIF](https://www.gbif.org/species/2970337)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:331713-2)	|
+|	Leucochloron Barneby & J.W. Grimes 	|	[GBIF](https://www.gbif.org/species/2944287)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:989404-1)	|
+|	Libidibia (DC.) Schltdl. 	|	[GBIF](https://www.gbif.org/species/6376506)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22792-1)	|
+|	Lophocarpinia Burkart 	|	[GBIF](https://www.gbif.org/species/2967936)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:294657-2)	|
+|	Lysiloma Benth. 	|	[GBIF](https://www.gbif.org/species/2965788)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30038751-2)	|
+|	Macrosamanea Britton & Rose ex Britton & Killip 	|	[GBIF](https://www.gbif.org/species/8425747)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22865-1)	|
+|	Mariosousa Seigler & Ebinger 	|	[GBIF](https://www.gbif.org/species/6362350)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:60446089-2)	|
+|	Marmaroxylon Killip 	|	[GBIF](https://www.gbif.org/species/7412465)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:313989-2)	|
+|	Melanoxylon Schott 	|	[GBIF](https://www.gbif.org/species/2945497)	|	none|
+|	Mezoneuron Desf. 	|	[GBIF](https://www.gbif.org/species/2944261)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:50502721-1)	|
+|	Microlobius C. Presl 	|	[GBIF](https://www.gbif.org/species/2964867)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22938-1)	|
+|	Mimosa L. 	|	[GBIF](https://www.gbif.org/species/2969235)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30001613-2)	|
+|	Mimozyganthus Burkart 	|	[GBIF](https://www.gbif.org/species/2983905)	|	[POWO]( http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:295373-2)	|
+|	Moldenhawera Schrad. 	|	[GBIF](https://www.gbif.org/species/2976897)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30027278-2)	|
+|	Mora Schomb. ex Benth. 	|	[GBIF](https://www.gbif.org/species/2960422)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22970-1)	|
+|	Moullava Adans. 	|	[GBIF](https://www.gbif.org/species/2941154)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:20124-1)	|
+|	Neptunia Lour. 	|	[GBIF](https://www.gbif.org/species/7599660)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30003917-2)	|
+|	Newtonia Baill. 	|	[GBIF](https://www.gbif.org/species/2493225)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:328165-2)	|
+|	Pachyelasma Harms 	|	[GBIF](https://www.gbif.org/species/2944796)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23119-1)	|
+|	Painteria Britton & Rose 	|	[GBIF](https://www.gbif.org/species/2981421)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296882-2)	|
+|	Parapiptadenia Brenan 	|	[GBIF](https://www.gbif.org/species/2941626)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23146-1)	|
+|	Pararchidendron I.C. Nielsen 	|	[GBIF](https://www.gbif.org/species/2943627)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:893318-1)	|
+|	Parasenegalia Siegler & Ebinger 	|	[GBIF](https://www.gbif.org/species/9681911)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:77175798-1)	|
+|	Paraserianthes I.C. Nielsen 	|	[GBIF](https://www.gbif.org/species/2943718)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:893319-1)	|
+|	Parkia R. Br. 	|	[GBIF](https://www.gbif.org/species/8249974)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23152-1)	|
+|	Parkinsonia L. 	|	[GBIF](https://www.gbif.org/species/2964820)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:328170-2)	|
+|	Paubrasilia E. Gagnon, H. C. Lima & G. P. Lewis 	|	[GBIF](https://www.gbif.org/species/8930466)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:77158010-1)	|
+|	Peltophorum (Vogel) Benth. 	|	[GBIF](https://www.gbif.org/species/2952763)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:1166529-2)	|
+|	Pentaclethra Benth. 	|	[GBIF](https://www.gbif.org/species/2943554)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23181-1)	|
+|	Piptadenia Benth. 	|	[GBIF](https://www.gbif.org/species/2951753)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23248-1)	|
+|	Piptadeniastrum Brenan 	|	[GBIF](https://www.gbif.org/species/2945195)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23249-1)	|
+|	Piptadeniopsis Burkart 	|	[GBIF](https://www.gbif.org/species/2968247)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:289390-2)	|
+|	Pithecellobium Mart. 	|	[GBIF](https://www.gbif.org/species/2962745)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:331859-2)	|
+|	Pityrocarpa (Benth.) Britton & Rose 	|	[GBIF](https://www.gbif.org/species/7266123)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23262-1)	|
+|	Plathymenia Benth. 	|	[GBIF](https://www.gbif.org/species/3248274)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:328383-2)	|
+|	Pomaria Cav. 	|	[GBIF](https://www.gbif.org/species/2944606)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327190-2)	|
+|	Prosopidastrum Burkart 	|	[GBIF](https://www.gbif.org/species/2950867)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:290909-2)	|
+|	Prosopis L. 	|	[GBIF](https://www.gbif.org/species/2970763)	|	[POWO]( http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23337-1)	|
+|	Pseudopiptadenia Rauschert 	|	[GBIF](https://www.gbif.org/species/2952898)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:893571-1)	|
+|	Pseudoprosopis Harms 	|	[GBIF](https://www.gbif.org/species/2945480)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23356-1)	|
+|	Pseudosenegalia Siegler & Ebinger 	|	[GBIF](https://www.gbif.org/species/9755243)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:77175806-1)	|
+|	Pterogyne Tul. 	|	[GBIF](https://www.gbif.org/species/7723364)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23382-1)	|
+|	Pterolobium R.Br. ex Wight & Arn. 	|	[GBIF](https://www.gbif.org/species/2965677)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:12962-1)	|
+|	Punjuba Britton & Rose 	|	[GBIF](https://www.gbif.org/species/7266077)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23399-1)	|
+|	Recordoxylon Ducke 	|	[GBIF](https://www.gbif.org/species/2947775)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:295532-2)	|
+|	Samanea (Benth.) Merr. 	|	[GBIF](https://www.gbif.org/species/2971208)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:295968-2)	|
+|	Sanjappa E.R. Souza & M.V. Krishnaraj 	|	[GBIF](https://www.gbif.org/species/9651340)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:77159216-1)	|
+|	Schizolobium Vogel 	|	[GBIF](https://www.gbif.org/species/2945452)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30031961-2)	|
+|	Schleinitzia Warb. ex Nevling & Niezgoda 	|	[GBIF](https://www.gbif.org/species/8071781)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23499-1)	|
+|	Senegalia Raf. 	|	[GBIF](https://www.gbif.org/species/7989631)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30003347-2)	|
+|	Senna Mill. 	|	[GBIF](https://www.gbif.org/species/2956904)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000132-2)	|
+|	Serianthes Benth. 	|	[GBIF](https://www.gbif.org/species/2944263)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23545-1)	|
+|	Sphinga Barneby & J.W. Grimes 	|	[GBIF](https://www.gbif.org/species/2977787)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:989420-1)	|
+|	Stachyothyrsus Harms 	|	[GBIF](https://www.gbif.org/species/2970924)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23606-1)	|
+|	Stenodrepanum Harms 	|	[GBIF](https://www.gbif.org/species/2950894)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296639-2)	|
+|	Stryphnodendron Mart. 	|	[GBIF](https://www.gbif.org/species/2951701)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23633-1)	|
+|	Stuhlmannia Taub. 	|	[GBIF](https://www.gbif.org/species/3267615)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23634-1)	|
+|	Sympetalandra Stapf 	|	[GBIF](https://www.gbif.org/species/2947764)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23649-1)	|
+|	Tachigali Aubl. 	|	[GBIF](https://www.gbif.org/species/2945125)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30007737-2)	|
+|	Tara Molina 	|	[GBIF](https://www.gbif.org/species/6376667)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23660-1)	|
+|	Tetrapleura Benth. 	|	[GBIF](https://www.gbif.org/species/1522925)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23685-1)	|
+|	Tetrapterocarpon Humbert 	|	[GBIF](https://www.gbif.org/species/2956890)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23686-1)	|
+|	Thailentadopsis Kosterm. 	|	[GBIF](https://www.gbif.org/species/2952411)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:328181-2)	|
+|	Umtiza Sim 	|	[GBIF](https://www.gbif.org/species/2941176)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23748-1)	|
+|	Vachellia Wight & Arn. 	|	[GBIF](https://www.gbif.org/species/8142432)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000732-2)	|
+|	Viguieranthus Villiers 	|	[GBIF](https://www.gbif.org/species/2967939)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:20004629-1)	|
+|	Vouacapoua Aubl. 	|	[GBIF](https://www.gbif.org/species/2940382)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23793-1)	|
+|	Wallaceodendron Koord. 	|	[GBIF](https://www.gbif.org/species/2952870)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23802-1)	|
+|	Xerocladia Harv. 	|	[GBIF](https://www.gbif.org/species/2943903)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23826-1)	|
+|	Xylia Benth. 	|	[GBIF](https://www.gbif.org/species/2943681)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23832-1)	|
+|	Zapoteca H.M. Hern. 	|	[GBIF](https://www.gbif.org/species/2967998)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:925038-1)	|
+|	Zuccagnia Cav. 	|	[GBIF](https://www.gbif.org/species/2769685)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:332076-2)	|
+|	Zygia P. Browne.	|	[GBIF](https://www.gbif.org/species/8204288)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23856-1)	|![image](https://user-images.githubusercontent.com/13423309/110112300-d7e93380-7db1-11eb-857b-739d86229fba.png)
