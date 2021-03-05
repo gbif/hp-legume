@@ -16,4 +16,4 @@ height: 70vh
 
 |Genus                  |     GBIF                     | Plants of the World   |
 | --------------------- |------------------------------|-----------------------|
-|	Duparquetia Baill	|	[GBIF](https://www.gbif.org/species/2968139	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:17014-1)	|
+|	Duparquetia Baill	|	[GBIF](https://www.gbif.org/species/2968139)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:17014-1)	|
