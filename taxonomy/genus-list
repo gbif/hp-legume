@@ -1,0 +1,15 @@
+---
+layout: heroImage
+title: Genus List
+background: /assets/images/Lupinus_polyphyllus_3385082.jpg
+imageLicense: |
+  *Lupinus polyphyllus* Lindl. Photo by Henk van der Sluis via [GBIF](https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fobservation.org%2Fphotos%2F3385082.jpg)
+description: List of all species and synonyms within the family
+height: 70vh
+---
+
+## Taxonomy
+The LPWG has been working in collaboration the Royal Botanic Gardens, Kew, to update the names of legume species and their synonymy (see [Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy)) and provide a single list of accepted legume species names. This list is curated as part of the World Checklist of Vascular Plants ([WCVP]( https://wcvp.science.kew.org/)), which links to the International Plant Name Index ([IPNI](https://www.ipni.org/)) and also underlies the [Plants of the World Online](http://www.plantsoftheworldonline.org/) website. 
+
+## Genus List
+This is a list of all accetped genera listed alphabetically, with links to their subfamily page, GBIF and Plants of the World Online pages.
