@@ -17,3 +17,12 @@ height: 70vh
 |Genus                  |     GBIF                     | Plants of the World   |
 | --------------------- |------------------------------|-----------------------|
 |	Duparquetia Baill	|	[GBIF](https://www.gbif.org/species/2968139)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:17014-1)	|
+
+
+
+
+|Species                  |     GBIF                     | Plants of the World   |
+| --------------------- |------------------------------|-----------------------|
+|	Duparquetia orchidacea Baill.	|	[GBIF](https://www.gbif.org/species/2968140)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:380758-1)	|
+
+
