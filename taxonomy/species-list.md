@@ -14,3 +14,8 @@ The LPWG has been working in collaboration the Royal Botanic Gardens, Kew, to up
 ## Species List
 Question here is where to link to obtain this list? To the GBIF taxonomy backbone (ask about species authors issues, amongst other issues)? Or find a form of the WCVP that is a bit user friendly and filtered for only legumes?
 
+## Genus List
+Alphabetical list of all genera with links to theie subfamily, GBIF and Plants of thte World Online pages.
+
+
+
