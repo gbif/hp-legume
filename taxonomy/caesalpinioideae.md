@@ -362,4 +362,4 @@ Zygia P. Browne.
 |	Xylia Benth. 	|	[GBIF](https://www.gbif.org/species/2943681)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23832-1)	|
 |	Zapoteca H.M. Hern. 	|	[GBIF](https://www.gbif.org/species/2967998)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:925038-1)	|
 |	Zuccagnia Cav. 	|	[GBIF](https://www.gbif.org/species/2769685)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:332076-2)	|
-|	Zygia P. Browne.	|	[GBIF](https://www.gbif.org/species/8204288)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23856-1)	|![image](https://user-images.githubusercontent.com/13423309/110112300-d7e93380-7db1-11eb-857b-739d86229fba.png)
+|	Zygia P. Browne.	|	[GBIF](https://www.gbif.org/species/8204288)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23856-1)	|
