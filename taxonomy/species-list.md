@@ -743,8 +743,8 @@ Alphabetical list of all genera with links to theie subfamily, GBIF and Plants o
 |	[Papilionoideae](https://hp-legume.gbif-staging.org/taxonomy/papilionoideae)	|	Tipuana (Benth.) Benth.	|	[GBIF](https://www.gbif.org/species/2953976)	|		|
 |	[Cercioideae](https://hp-legume.gbif-staging.org/taxonomy/cercidoideae)	|	Tournaya A.Schmitz	|	[GBIF](https://www.gbif.org/species/7301486)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23709-1)	|
 |	[Papilionoideae](https://hp-legume.gbif-staging.org/taxonomy/papilionoideae)	|	Toxicopueraria A.N.Egan & B.Pan	|	[GBIF](https://www.gbif.org/species/9748244)	|		|
-|	[Papilionoideae](https://hp-legume.gbif-staging.org/taxonomy/papilionoideae)	|	Trifidacanthus Merr.	|	[GBIF](https://www.gbif.org/species/2973363)	|		|
-|	[Papilionoideae](https://hp-legume.gbif-staging.org/taxonomy/papilionoideae)	|	Trifolium L.	|	[GBIF](https://www.gbif.org/species/2981525)|		|
+|	[Papilionoideae](https://hp-legume.gbif-staging.org/taxonomy/papilionoideae)	|	Trifidacanthus Merr.	|	[GBIF](https://www.gbif.org/species/2952245)	|		|
+|	[Papilionoideae](https://hp-legume.gbif-staging.org/taxonomy/papilionoideae)	|	Trifolium L.	|	[GBIF](https://www.gbif.org/species/2973363)|		|
 |	[Papilionoideae](https://hp-legume.gbif-staging.org/taxonomy/papilionoideae)	|	Trigonella L.	|	[GBIF](https://www.gbif.org/species/2981525)	|		|
 |	[Papilionoideae](https://hp-legume.gbif-staging.org/taxonomy/papilionoideae)	|	Tripodion Medik.	|	[GBIF](https://www.gbif.org/species/2947288)	|		|
 |	[Papilionoideae](https://hp-legume.gbif-staging.org/taxonomy/papilionoideae)	|	Trischidium Tul.	|	[GBIF](https://www.gbif.org/species/7302491)	|		|
