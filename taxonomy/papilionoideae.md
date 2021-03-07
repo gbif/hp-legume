@@ -487,7 +487,7 @@ height: 70vh
 |	Tibetia (Ali) H.P.Tsui	|	[GBIF](https://www.gbif.org/species/7621225)	|
 |	Tipuana (Benth.) Benth.	|	[GBIF](https://www.gbif.org/species/2953976)	|
 |	Toxicopueraria A.N.Egan & B.Pan	|	[GBIF](https://www.gbif.org/species/9748244)	|
-|	Trifidacanthus Merr.	|	[GBIF](https://www.gbif.org/species/2973363)	|
+|	Trifidacanthus Merr.	|	[GBIF](https://www.gbif.org/species/2952245)	|
 |	Trifolium L.	|	[GBIF](https://www.gbif.org/species/2973363)	|
 |	Trigonella L.	|	[GBIF](https://www.gbif.org/species/2981525)	|
 |	Tripodion Medik.	|	[GBIF](https://www.gbif.org/species/2947288)	|
