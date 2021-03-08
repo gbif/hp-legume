@@ -1,5 +1,7 @@
 ---
 layout: heroImage
+lang-ref: papilionoideae
+lang: fr
 title: Papilionoideae
 background: /assets/images/Clianthus_puniceus_37457361.jpeg
 imageLicense: |

@@ -1,5 +1,7 @@
 ---
 layout: heroImage
+lang-ref: duparquetioideae
+lang: fr
 title: Duparquetioideae
 background: /assets/images/Duparquetia_orchidacea_84241825.jpeg
 imageLicense: |

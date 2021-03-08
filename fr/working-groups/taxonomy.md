@@ -1,9 +1,12 @@
 ---
 layout: heroImage
+lang-ref: taxonomy
+lang: fr
 title: Legume Taxonomy Working Group
 background: /assets/images/taxonomy.png
 description: Information about the Legume Taxonomy Working group
 height: 70vh
+permalink: /fr/taxonomy
 ---
 
 Coordinators : [Anne Bruneau](mailto:anne.bruneau@umontreal.ca) (Université de Montréal, Canada) and [Marianne le Roux](mailto:M.LeRoux@sanbi.org.za) [(South African National Biodiversity Institute, SANBI, South Africa)](https://www.environment.gov.za/statutorybodies/sanbi#:~:text=The%20South%20African%20National%20Biodiversity,now%20and%20into%20the%20future).

@@ -1,5 +1,6 @@
 ---
 lang-ref: home
+lang: fr
 layout: home
 title: Portail de Données sur les Légumineuses
 description: Explorez les données sur la famille des Légumineuses
@@ -12,7 +13,7 @@ cta:
     isPrimary: true
   - text: À Propos
     href: /fr/about
-permalink: /fr
+permalink: /fr/home
 ---
 
 Edit `/home.md` to change the text.

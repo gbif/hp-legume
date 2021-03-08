@@ -1,5 +1,8 @@
 ---
 layout: heroImage
+lang-ref: contact
+lang: fr
+permalink: /fr/contact
 title: Contact
 background: /assets/images/Dichrostachys_cinerea_3952595.jpeg
 imageLicense: |
@@ -8,14 +11,14 @@ description: Contact information for the Bean Bag
 height: 70vh
 ---
 
-*The Bean Bag* started in 1974 on the initiative of Charles (Bob) Gunn and Richard Cowan and the first printed issue was distributed over 40 years ago in May 1975.
+*Le Bean Bag* a débuté en 1974, à l'initiative de Charles (Bob) Gunn et Ricard Cowan, et le premier volume imprimé a été distribué il y a plus de 40 ans, en mai 1975.
 
-The aim of the annual newsletter has been to keep legume researchers informed and updated about new publications, events and projects on the family Leguminosae.
+L'objectif de l'infolettre est d'informer et de mettre à jour les chercheurs travaillant sur les Légumineuses à propos des nouvelles publications, événements et projets sur la famille des Légumineuses.
 
-Electronic mailing through the BB Google Group and the BB WordPress makes communication and distribution of the Bean Bag more efficient and economic.
+Les envois électronique via le Groupe Google et le site Wordpress du Bean Bag permet de rendre la communication et la distribution du Bean Bag plus efficace et économique.
 
-## Editors:
+## Éditeurs:
 
-[Dr. Colin Hughes](mailto:colin.hughes@systbot.uzh.ch) (University of Zurich, Switzerland)
+[Dr. Colin Hughes](mailto:colin.hughes@systbot.uzh.ch) (University of Zurich, Suisse)
 
 [Dr. Warren Cardinal-McTeague](mailto:warren.cardinal-mcteague@canada.ca) (Agriculture and Agri-Food Canada)

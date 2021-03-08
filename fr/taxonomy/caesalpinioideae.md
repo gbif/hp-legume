@@ -1,5 +1,7 @@
 ---
 layout: heroImage
+lang-ref: caesalpinioideae
+lang: fr
 title: Caesalpinioideae
 background: /assets/images/Dichrostachys_cinerea_3952595.jpeg
 imageLicense: |

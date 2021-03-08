@@ -1,5 +1,7 @@
 ---
 layout: heroImage
+lang-ref: dialioideae
+lang: fr
 title: Dialioideae
 background: /assets/images/Baudouinia_fluggeiformis_1933538708.jpeg
 imageLicense: |

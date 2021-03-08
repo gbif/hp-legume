@@ -1,5 +1,7 @@
 ---
 layout: heroImage
+lang-ref: detarioideae
+lang: fr
 title: Detarioideae
 background: /assets/images/Tamarindus_1294313.jpg
 imageLicense: |

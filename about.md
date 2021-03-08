@@ -1,5 +1,6 @@
 ---
 layout: heroImage
+lang: en
 lang-ref: about
 title: About Legumes 
 description: The Family and the Community
