@@ -1,7 +1,7 @@
 ---
+layout: home
 lang-ref: home
 lang: fr
-layout: home
 title: Portail de Données sur les Légumineuses
 description: Explorez les données sur la famille des Légumineuses
 background: /assets/images/Enterolobium_cyclocarpum_42323408.jpeg
@@ -13,7 +13,7 @@ cta:
     isPrimary: true
   - text: À Propos
     href: /fr/about
-permalink: /fr/home
+permalink: /fr
 ---
 
 Edit `/home.md` to change the text.
