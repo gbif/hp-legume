@@ -12,7 +12,7 @@ permalink: /taxonomy/species-list
 ---
 
 ## Taxonomy
-The LPWG has been working in collaboration with the Royal Botanic Gardens, Kew, to update the names of legume species and their synonymy (see [Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy)) and provide a single list of accepted legume species names. This list is curated as part of the World Checklist of Vascular Plants ([WCVP]( https://wcvp.science.kew.org/)), which links to the International Plant Name Index ([IPNI](https://www.ipni.org/)) and also underlies the [Plants of the World Online](http://www.plantsoftheworldonline.org/) website. 
+The LPWG has been working in collaboration with the Royal Botanic Gardens, Kew, to update the names of legume species and their synonymy (see [Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy)) and provide a single list of accepted legume species names. This list is curated as part of the World Checklist of Vascular Plants ([WCVP]( https://wcvp.science.kew.org/)), which links to the International Plant Name Index ([IPNI](https://www.ipni.org/)), the Global Biodiversity Information Facility ([GBIF](https://www.gbif.org/) and also underlies the [Plants of the World Online](http://www.plantsoftheworldonline.org/) website. 
 
 ## Species List
 Question here is where to link to obtain this list? To the GBIF taxonomy backbone (ask about species authors issues, amongst other issues)? Or find a form of the WCVP that is a bit user friendly and filtered for only legumes?
