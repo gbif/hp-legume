@@ -6,6 +6,7 @@ imageLicense: |
   *Bauhinia petersiana ssp. macrantha* (Oliv.) Brummitt & J.H.Ross. Photo by Ryan van Huyssteen via [iNaturalist](https://www.gbif.org/occurrence/1838329045)
 description: Information about subfamily Cercidoideae 
 height: 70vh
+toc: true
 ---
 
 ## Introduction
