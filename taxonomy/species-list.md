@@ -12,7 +12,7 @@ permalink: /taxonomy/species-list
 ---
 
 ## Taxonomy
-The LPWG has been working in collaboration with the Royal Botanic Gardens, Kew, to update the names of legume species and their synonymy (see [Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy)) and provide a single list of accepted legume species names. This list is curated as part of the World Checklist of Vascular Plants ([WCVP]( https://wcvp.science.kew.org/)), which links to the International Plant Name Index ([IPNI](https://www.ipni.org/)), the Global Biodiversity Information Facility ([GBIF](https://www.gbif.org/) and also underlies the [Plants of the World Online](http://www.plantsoftheworldonline.org/) website. 
+The LPWG has been working in collaboration with the Royal Botanic Gardens, Kew, to update the names of legume species and their synonymy (see [Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy)) and provide a single list of accepted legume species names. This list is curated as part of the World Checklist of Vascular Plants ([WCVP]( https://wcvp.science.kew.org/)), which links to the International Plant Name Index ([IPNI](https://www.ipni.org/)), the Global Biodiversity Information Facility ([GBIF](https://www.gbif.org/)) and also underlies the [Plants of the World Online](http://www.plantsoftheworldonline.org/) website. 
 
 ## Species List
 Question here is where to link to obtain this list? To the GBIF taxonomy backbone (ask about species authors issues, amongst other issues)? Or find a form of the WCVP that is a bit user friendly and filtered for only legumes?
@@ -22,10 +22,10 @@ Alphabetical list of all genera with links to their subfamily, GBIF and Plants o
 
 |Subfamily|Genus|GBIF |Plants of the World|
 | ---------------------- |------------------------|---------------------------|------------------------|
-|	[Ceasalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	Abarema Pittier 	|	[GBIF](https://www.gbif.org/species/2977807)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30032383-2)	|
+|	[Caesalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	Abarema Pittier 	|	[GBIF](https://www.gbif.org/species/2977807)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30032383-2)	|
 |	[Papilionoideae](https://hp-legume.gbif-staging.org/taxonomy/papilionoideae)	|	Abrus Adans.	|	[GBIF](https://www.gbif.org/species/2943776)	|		|
-|	[Ceasalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	Acacia Mill. 	|	[GBIF](https://www.gbif.org/species/2978223)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:325783-2)	|
-|	[Ceasalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	Acaciella Britton & Rose 	|	[GBIF](https://www.gbif.org/species/6627713)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296613-2)	|
+|	[Caesalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	Acacia Mill. 	|	[GBIF](https://www.gbif.org/species/2978223)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:325783-2)	|
+|	[Caesalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	Acaciella Britton & Rose 	|	[GBIF](https://www.gbif.org/species/6627713)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296613-2)	|
 |	[Papilionoideae](https://hp-legume.gbif-staging.org/taxonomy/papilionoideae)	|	Acmispon Raf.	|	[GBIF](https://www.gbif.org/species/2975784)	|		|
 |	[Papilionoideae](https://hp-legume.gbif-staging.org/taxonomy/papilionoideae)	|	Acosmium Schott	|	[GBIF](https://www.gbif.org/species/2970503)	|		|
 |	[Ceasalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	Acrocarpus Wight & Arn. 	|	[GBIF](https://www.gbif.org/species/2663073)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21569-1)	|
