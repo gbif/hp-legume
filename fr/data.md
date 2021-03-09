@@ -1,7 +1,7 @@
 ---
 lang-ref: data
 lang: fr
-title: Data
+title: Données
 description: We publish open data
 layout: occurrence
 ---

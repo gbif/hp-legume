@@ -1,9 +1,12 @@
 ---
 layout: heroImage
+lang-ref: taxonomy
+lang: en
 title: Legume Taxonomy Working Group
 background: /assets/images/taxonomy.png
 description: Information about the Legume Taxonomy Working group
 height: 70vh
+permalink: /taxonomy
 ---
 
 Coordinators : [Anne Bruneau](mailto:anne.bruneau@umontreal.ca) (Université de Montréal, Canada) and [Marianne le Roux](mailto:M.LeRoux@sanbi.org.za) [(South African National Biodiversity Institute, SANBI, South Africa)](https://www.environment.gov.za/statutorybodies/sanbi#:~:text=The%20South%20African%20National%20Biodiversity,now%20and%20into%20the%20future).
@@ -14,7 +17,7 @@ The Legume Taxonomy Working Group has the central goal of putting together a com
 
 ## Strategy
 
-In collaboration with Rafaël Govaerts at Royal Botanic Gardens, Kew, the Taxonomy Working Group initiated the process using Kew’s core checklist data, available for download on Kew’s World Checklist of Vascular Plants (WCVP). This core checklist links to the International Plant Name Index (IPNI) and also underlies the Plants of the World Online website. The WCVP list in-cludes all the Darwin Core fields that the legume community considers important for down-stream analyses. To revise the list of legume species names, a network of 38 coordinators for the subfamilies (and tribes for Papilionoideae) were assigned the task of approaching other legume taxonomic experts for assistance in checking and editing the list of legume names. The revised lists are forwarded to Rafaël Govaerts who checks the proposed modifications and integrates the information in an updated legume species list. The Taxonomy Working Group has also established a committee whose role is to evaluate and arrive at a decision about conflicting taxonomies (often, whether or not to recognise certain genera), and which met for the first time in December 2020. The revised species list will acknowledge the input of contributors to the ratification of the legume taxonomy. The plan is to have a list of accepted names in draft format during the first half of 2021. 
+In collaboration with Rafaël Govaerts at Royal Botanic Gardens, Kew, the Taxonomy Working Group initiated the process using Kew’s core checklist data, available for download on Kew’s World Checklist of Vascular Plants (WCVP). This core checklist links to the International Plant Name Index (IPNI) and also underlies the Plants of the World Online website. The WCVP list in-cludes all the Darwin Core fields that the legume community considers important for down-stream analyses. To revise the list of legume species names, a network of 38 coordinators for the subfamilies (and tribes for Papilionoideae) were assigned the task of approaching and coordinating interested legume taxonomic experts for assistance in checking and editing the list of legume names. The revised lists are forwarded to Rafaël Govaerts who checks the proposed modifications and integrates the information in an updated legume species list. The Taxonomy Working Group has also established a committee whose role is to evaluate and arrive at a decision about conflicting taxonomies (often, whether or not to recognise certain genera), and which met for the first time in December 2020. The revised species list will acknowledge the input of contributors to the ratification of the legume taxonomy. The plan is to have a list of accepted names in draft format during the first half of 2021. 
 
 ## Future plans
 
