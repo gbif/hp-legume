@@ -1,6 +1,7 @@
 ---
 layout: heroImage
 title: Legume Occurrences Working Group
+lang-ref: occurrences
 background: /assets/images/map.png
 description: Assembling a global, expert-verified species occurrence dataset for family Leguminosae
 height: 70vh

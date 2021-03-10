@@ -1,5 +1,5 @@
 ---
-layout: heroImage
+layout: page
 lang: en
 lang-ref: about
 title: About Legumes 

@@ -1,8 +1,6 @@
 ---
 layout: heroImage
-lang-ref: contact
-lang: fr
-permalink: /fr/contact
+lang-ref: beanbag/contact
 title: Contact
 background: /assets/images/Dichrostachys_cinerea_3952595.jpeg
 imageLicense: |

@@ -1,5 +1,6 @@
 ---
 layout: heroImage
+lang-ref: phylogenetics
 title: Legume Phylogenomics & Phylogenetics Working Group
 background: /assets/images/phylos.jpg
 description: Information about the Legume Phylogenomics & Phylogenetics Working group

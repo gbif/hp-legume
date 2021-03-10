@@ -1,5 +1,6 @@
 ---
 layout: heroImage
+lang-ref: beanbag/issues
 title: Issues
 background: /assets/images/Dichrostachys_cinerea_3952595.jpeg
 imageLicense: |

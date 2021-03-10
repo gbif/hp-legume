@@ -1,5 +1,6 @@
 ---
 layout: heroImage
+lang-ref: traits
 title: Legume Traits Working Group
 background: /assets/images/traits.png
 description: The mysterious world of legume functional traits

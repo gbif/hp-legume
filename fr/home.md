@@ -1,7 +1,6 @@
 ---
 layout: home
 lang-ref: home
-lang: fr
 title: Portail de Données sur les Légumineuses
 description: Explorez les données sur la famille des Légumineuses
 background: /assets/images/Enterolobium_cyclocarpum_42323408.jpeg

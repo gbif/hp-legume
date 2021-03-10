@@ -1,6 +1,7 @@
 ---
 layout: heroImage
 title: Detarioideae
+lang-ref: detarioideae
 background: /assets/images/Tamarindus_1294313.jpg
 imageLicense: |
   *Tamarindus indica* (L.) Photo by Graeme White via [iNaturalist](https://www.gbif.org/occurrence/1453047812)

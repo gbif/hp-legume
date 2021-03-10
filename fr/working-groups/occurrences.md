@@ -1,12 +1,10 @@
 ---
 layout: heroImage
 lang-ref: occurrences
-lang: fr
 title: Legume Occurrences Working Group
 background: /assets/images/map.png
 description: Assembling a global, expert-verified species occurrence dataset for family Leguminosae
 height: 70vh
-permalink: /fr/occurrences
 ---
 
 Coordinators: [Edeline Gagnon](mailto:edeline.gagnon@gmail.com) [(Royal Botanic Garden, Edinburgh, U.K.)](https://www.rbge.org.uk/), [Jens Ringelberg](mailto:jens.ringelberg@gmail.com) (University of Zurich, Switzerland) and [Joe Miller](mailto:jmiller@gbif.org) [(Global Biodiversity Information Facility) Copenhagen Denmark](https://www.gbif.org).
