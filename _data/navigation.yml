@@ -25,8 +25,8 @@
 - text: Working Groups
   href: /Working Groups
   menu: #Dropdown menu
-  - text: Occurences
-    href: /working-groups/occurences
+  - text: Occurrences
+    href: /working-groups/occurrences
   - text: Traits
     href: /working-groups/traits
   - text: Taxonomy
