@@ -1,8 +1,8 @@
 ---
 layout: heroImage
-lang-ref: home
+lang-ref: beanbag/home
 lang: fr
-permalink: /fr/home
+permalink: /fr/beanbag/home
 title: The Bean Bag
 background: /assets/images/Dichrostachys_cinerea_3952595.jpeg
 imageLicense: |
