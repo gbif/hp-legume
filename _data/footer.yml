@@ -5,7 +5,7 @@
 columns:
   - name: Partners
     description: |
-    This portal is a project of the Legume Phylogeny Working Group (LPWG).
+      This portal is a project of the Legume Phylogeny Working Group (LPWG).
 
   - name: Code
     description: | # Can be Markdown
