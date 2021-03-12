@@ -1,0 +1,45 @@
+issues: 
+  title: Last issues of the Bean Bag
+  description: |
+    For previous issues please visit the [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/search?searchTerm=bean+bag#/titles).
+  features:
+    - preTitle: Year 2021  # optional
+      title: Issue 67 # required
+      background: /assets/images/bb-67-cover-img.jpg
+      href: /media/The_BB_Newsletter_Issue67_2020.pdf
+      cta:
+      - text: Download
+        href: /media/The_BB_Newsletter_Issue67_2020.pdf
+        isPrimary: true
+    - preTitle: Year 2018
+      title: Issue 65
+      background: /assets/images/bb65.png
+      href: /media/bb65.pdf
+      cta:
+      - text: Download
+        href: /media/bb65.pdf
+        isPrimary: true
+    - preTitle: Year 2017
+      title: Issue 64
+      background: /assets/images/bb64.png
+      href: /media/bb64.pdf
+      cta:
+      - text: Download
+        href: /media/bb64.pdf
+        isPrimary: true
+    - preTitle: Year 2016
+      title: Issue 63
+      background: /assets/images/bb63.png
+      href: /media/bb63.pdf
+      cta:
+      - text: Download
+        href: /media/bb63.pdf
+        isPrimary: true
+    - preTitle: Year 2015
+      title: Issue 62
+      background: /assets/images/bb62.png
+      href: /media/bb62.pdf
+      cta:
+      - text: Download
+        href: /media/bb62.pdf
+        isPrimary: true
