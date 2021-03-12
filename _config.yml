@@ -104,6 +104,8 @@ defaults:
       lang: fr
   -
     scope:
-      path: "_posts/fr/"
+      path: "_posts/fr/" # an empty string here means all files in the project
+      type: "posts"
     values:
-      lang: fr
+      layout: "post"
+      permalink: "/fr/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
