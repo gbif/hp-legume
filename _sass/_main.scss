@@ -1,3 +1,9 @@
 @import "theme/_main";
 
 // You can add additional styling here
+.fullwidth {
+  .article {
+    width: 100%;
+    max-width: 100%;
+  }
+}
