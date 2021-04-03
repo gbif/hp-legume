@@ -1,5 +1,9 @@
 ---
-layout: heroImage
+layout: documentation
+sideNavigation: fr.sidenav.taxonomy
+composition:
+  - type: postHeader
+  - type: pageMarkdown
 lang-ref: species-list
 title: Liste d'espèces et de synonymes
 background: /assets/images/Lupinus_polyphyllus_3385082.jpg

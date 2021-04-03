@@ -1,5 +1,9 @@
 ---
-layout: heroImage
+layout: documentation
+sideNavigation: sidenav.taxonomy
+composition:
+  - type: postHeader
+  - type: pageMarkdown
 lang-ref: caesalpinioideae
 lang: en
 title: Caesalpinioideae

@@ -1,5 +1,9 @@
 ---
-layout: heroImage
+layout: documentation
+sideNavigation: sidenav.taxonomy
+composition:
+  - type: postHeader
+  - type: pageMarkdown
 lang-ref: species-list
 lang: en
 title: Species List and Synonyms

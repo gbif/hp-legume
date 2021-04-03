@@ -1,11 +1,11 @@
 ---
 layout: documentation
-sideNavigation: sidenav.taxonomy
-title: Browse
-permalink: /taxonomy/browse
-description: Browse the checklist of Fabaceae
+sideNavigation: fr.sidenav.taxonomy
+title: Taxon
+permalink: /fr/taxonomy/search
+description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 klass: fullwidth
-lang-ref: species-browse
+lang-ref: species-search
 ---
 
 <!--react and gbif component-->
@@ -14,29 +14,29 @@ lang-ref: species-browse
 
 <script src="https://cdn.jsdelivr.net/gh/CatalogueOfLife/portal-components@{{site.col.version}}/umd/col-browser.min.js" ></script>
 
-<div id="tree"></div>
+<div id="search"></div>
 
-<script>
+<script >
 'use strict';
 const e = React.createElement;
-class Tree extends React.Component {
+class Search extends React.Component {
 
     render() {
 
       return e(
-        ColBrowser.Tree,
+        ColBrowser.Search,
         { 
           catalogueKey: '{{site.col.catalogueKey}}',
-          pathToTree: '/taxonomy/browse',
-          pathToSearch: '/taxonomy/search',
-          pathToTaxon: '/taxonomy/taxon/',
+          pathToTree: '/fr/taxonomy/browse',
+          pathToSearch: '/fr/taxonomy/search',
+          pathToTaxon: '/fr/taxonomy/taxon/',
           defaultTaxonKey: '{{site.col.defaultTaxonKey}}',
-          citation: 'top'
+          citation: 'top' 
         }
       );
     }
   }
 
-const domContainer = document.querySelector('#tree');
-ReactDOM.render(e(Tree), domContainer);
+const domContainer = document.querySelector('#search');
+ReactDOM.render(e(Search), domContainer);
 </script>

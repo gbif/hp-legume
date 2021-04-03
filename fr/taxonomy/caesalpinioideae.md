@@ -1,5 +1,9 @@
 ---
-layout: heroImage
+layout: documentation
+sideNavigation: fr.sidenav.taxonomy
+composition:
+  - type: postHeader
+  - type: pageMarkdown
 lang-ref: caesalpinioideae
 title: Caesalpinioideae
 background: /assets/images/Dichrostachys_cinerea_3952595.jpeg

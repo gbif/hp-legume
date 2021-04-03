@@ -1,9 +1,11 @@
 ---
+layout: documentation
+sideNavigation: sidenav.taxonomy
 title: Taxon
 permalink: /taxonomy/search
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-layout: default
+description: Search the checklist of Fabaceae
 klass: fullwidth
+lang-ref: species-search
 ---
 
 <!--react and gbif component-->

@@ -9,6 +9,10 @@
   menu: #Dropdown menu
   - text: Liste d'espèces et synonymes
     href: /fr/taxonomy/species-list
+  - text: Browse - needs translation
+    href: /fr/taxonomy/browse
+  - text: Advanced search - needs translation
+    href: /fr/taxonomy/search
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: Cercidoideae
     href: /fr/taxonomy/cercidoideae

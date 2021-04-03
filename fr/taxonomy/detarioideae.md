@@ -1,5 +1,9 @@
 ---
-layout: heroImage
+layout: documentation
+sideNavigation: fr.sidenav.taxonomy
+composition:
+  - type: postHeader
+  - type: pageMarkdown
 lang-ref: detarioideae
 title: Detarioideae
 background: /assets/images/Tamarindus_1294313.jpg

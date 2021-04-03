@@ -1,5 +1,9 @@
 ---
-layout: heroImage
+layout: documentation
+sideNavigation: fr.sidenav.taxonomy
+composition:
+  - type: postHeader
+  - type: pageMarkdown
 lang-ref: duparquetioideae
 title: Duparquetioideae
 background: /assets/images/Duparquetia_orchidacea_84241825.jpeg

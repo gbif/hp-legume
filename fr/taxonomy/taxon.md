@@ -1,8 +1,8 @@
 ---
 layout: documentation
-sideNavigation: sidenav.taxonomy
+sideNavigation: fr.sidenav.taxonomy
 title: Taxon
-permalink: /taxonomy/taxon
+permalink: /fr/taxonomy/taxon
 ---
 
 <!--react and gbif component-->
@@ -52,7 +52,7 @@ ReactDOM.render(e(Taxon), domContainer);
           var el = document.getElementById('gbifTaxonLinks');
           var filter = `{"must":{"taxonKey":[${jsonResponse.results[0].nubKey}]}}`;
           var link = `../../data?filter=${encodeURIComponent(btoa(filter))}`;
-          el.innerHTML = `<a class="button is-primary" href="${link}">{{site.data.translations.searchOccurrences.en}}</a>`;
+          el.innerHTML = `<a class="button is-primary" href="${link}">{{site.data.translations.searchOccurrences.fr}}</a>`;
         }
       })
       .catch(function(err) {

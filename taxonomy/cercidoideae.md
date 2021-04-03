@@ -1,5 +1,9 @@
 ---
-layout: heroImage
+layout: documentation
+sideNavigation: sidenav.taxonomy
+composition:
+  - type: postHeader
+  - type: pageMarkdown
 lang-ref: cercidoideae
 title: Cercidoideae
 background: /assets/images/Bauhinia_petersiana_15341896.jpg

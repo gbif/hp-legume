@@ -1,5 +1,9 @@
 ---
-layout: heroImage
+layout: documentation
+sideNavigation: sidenav.taxonomy
+composition:
+  - type: postHeader
+  - type: pageMarkdown
 title: Dialioideae
 lang-ref: dialioideae
 background: /assets/images/Baudouinia_fluggeiformis_1933538708.jpeg

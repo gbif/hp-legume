@@ -1,9 +1,9 @@
 ---
 layout: documentation
-sideNavigation: sidenav.taxonomy
+sideNavigation: fr.sidenav.taxonomy
 title: Browse
-permalink: /taxonomy/browse
-description: Browse the checklist of Fabaceae
+permalink: /fr/taxonomy/browse
+description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 klass: fullwidth
 lang-ref: species-browse
 ---
@@ -27,9 +27,9 @@ class Tree extends React.Component {
         ColBrowser.Tree,
         { 
           catalogueKey: '{{site.col.catalogueKey}}',
-          pathToTree: '/taxonomy/browse',
-          pathToSearch: '/taxonomy/search',
-          pathToTaxon: '/taxonomy/taxon/',
+          pathToTree: '/fr/taxonomy/browse',
+          pathToSearch: '/fr/taxonomy/search',
+          pathToTaxon: '/fr/taxonomy/taxon/',
           defaultTaxonKey: '{{site.col.defaultTaxonKey}}',
           citation: 'top'
         }

@@ -1,5 +1,9 @@
 ---
-layout: heroImage
+layout: documentation
+sideNavigation: sidenav.taxonomy
+composition:
+  - type: postHeader
+  - type: pageMarkdown
 title: Papilionoideae
 lang-ref: papilionoideae
 background: /assets/images/Clianthus_puniceus_37457361.jpeg
