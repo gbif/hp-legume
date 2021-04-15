@@ -3,7 +3,7 @@
 - text: À Propos
   href: /fr/about
 - text: Données
-  href: /fr/data?view=map
+  href: /fr/data?view=MAP
 - text: Taxonomie
   href: /fr/taxonomy
   menu: #Dropdown menu
