@@ -1,6 +1,7 @@
 ---
 layout: heroImage
 lang-ref: about
+lang: fr
 title: À Propos des Légumineuses 
 description: La famille et la communauté
 background: /assets/images/Vachellia_inflor_inaturalist12436165.jpg
