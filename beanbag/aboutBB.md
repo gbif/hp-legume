@@ -1,11 +1,11 @@
 ---
 layout: heroImage
 lang-ref: beanbag/contact
-title: Contact
+title: About the Bean Bag
 background: /assets/images/Dichrostachys_cinerea_3952595.jpeg
 imageLicense: |
   *Dichrostachys cinerea* (L.) Wight & Arn. Photo by Bruno Durand via [iNaturalist](https://www.gbif.org/occurrence/1898844739)
-description: Contact information for the Bean Bag
+description: A newsletter to promote communication among research scientists concerned with the systematics of Leguminosae/Fabaceae
 height: 70vh
 ---
 

@@ -42,12 +42,10 @@
 - text: "The Bean Bag"
   href: /beanbag
   menu: #Dropdown Menu
-  - text: Home
-    href: /beanbag/home
   - text: Issues
     href: /beanbag/issues
-  - text: Contact
-    href: /beanbag/contact
+  - text: About the Bean Bag
+    href: /beanbag/aboutBB
 # - text: Literature
 #   menu: # Dropdown menu (one level deep only)
 #   - text: Base theme demo
