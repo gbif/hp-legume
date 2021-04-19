@@ -7,6 +7,7 @@ background: /assets/images/Vachellia_inflor_inaturalist12436165.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 height: 70vh
+toc: true
 ---
 
 ## La famille des Légumineuses
