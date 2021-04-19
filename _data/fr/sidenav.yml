@@ -2,9 +2,9 @@ taxonomy:
 - content:
   - title: Liste d'espèces et synonymes
     path: /fr/taxonomy/species-list
-  - title: Browse - needs translation
+  - title: Parcourir
     path: /fr/taxonomy/browse
-  - title: Advanced search - needs translation
+  - title: Recherche avancée
     path: /fr/taxonomy/search
 - grouptitle: Subfamilies
   content:
