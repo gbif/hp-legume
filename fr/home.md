@@ -12,7 +12,9 @@ cta:
     href: /fr/data
     isPrimary: true
   - text: Explorez la taxonomie
-  	href: /fr/taxonomy/species-list
+    href: /fr/taxonomy/species-list
+  - text: À Propos
+    href: /fr/about
 permalink: /fr
 ---
 
