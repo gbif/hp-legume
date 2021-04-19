@@ -13,8 +13,6 @@ cta:
     isPrimary: true
   - text: Explorez la taxonomie
   	href: /fr/taxonomy/species-list
-  - text: À Propos
-    href: /fr/about
 permalink: /fr
 ---
 
