@@ -7,7 +7,7 @@
 - text: Taxonomy
   href: /taxonomy
   menu: #Dropdown menu
-  - text: Species List and Synonyms
+  - text: Accepted Species List and Synonyms
     href: /taxonomy/species-list 
   - text: Browse
     href: /taxonomy/browse

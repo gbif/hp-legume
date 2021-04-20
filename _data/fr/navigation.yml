@@ -7,7 +7,7 @@
 - text: Taxonomie
   href: /fr/taxonomy
   menu: #Dropdown menu
-  - text: Liste d'espèces et synonymes
+  - text: Liste acceptée d'espèces et synonymes
     href: /fr/taxonomy/species-list
   - text: Parcourir
     href: /fr/taxonomy/browse
