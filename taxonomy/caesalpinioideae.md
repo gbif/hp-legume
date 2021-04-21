@@ -62,8 +62,6 @@ Trees, shrubs, lianas, suffruticose or functionally herbaceous, occasionally aqu
 While no species of Caesalpinioideae provide important global food crops, many species are important elements of tropical agriculture systems, providing nitrogen-rich green manure for crops and protein-rich leaves and fruits for livestock, wood products including poles and firewood, and a wide range of non-timber forest products, such as Gum Arabic (Senegalia senegal) and Carob (Ceratonia siliqua), and forming an integral and significant component of tropical agroforestry. In addition, Caesalpinioideae include many important tropical timber species.
 
 ## List of genera
-
-<div class="overflow-auto" style="white-space: nowrap;" markdown="block">
 	
 |Genus                             |GBIF                                |Plants of the World            |
 | -------------------------------- |------------------------------------|-------------------------------|
@@ -216,4 +214,4 @@ While no species of Caesalpinioideae provide important global food crops, many s
 |	Zapoteca H.M. Hern. 	|	[GBIF](https://www.gbif.org/species/2967998)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:925038-1)	|
 |	Zuccagnia Cav. 	|	[GBIF](https://www.gbif.org/species/2769685)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:332076-2)	|
 |	Zygia P. Browne.	|	[GBIF](https://www.gbif.org/species/8204288)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23856-1)	|
-</div>
+

@@ -11,6 +11,7 @@ imageLicense: |
   *Duparquetia orchidaceae* Baill. Photo by Carel Jongkind via [iNaturalist](https://www.gbif.org/occurrence/28187131755)
 description: Information about the Cercidoideae subfamily
 height: 70vh
+toc: true
 ---
 
 ## Introduction

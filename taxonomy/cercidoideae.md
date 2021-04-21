@@ -55,11 +55,8 @@ Wunderlin, R.P. 2010a. Reorganization of the Cercideae (Fabaceae: Caesalpinioide
 
 Wunderlin, R.P. 2010b. New combinations in Schnella (Fabaceae: Caesalpinioideae: Cercideae). Phytoneuron 2010-49: 1–5.
 
-## Genera
-
-[Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.](https://www.gbif.org/species/2956199); [Barklya F.Muell.](https://www.gbif.org/species/2955817); [Bauhinia L.](https://www.gbif.org/species/2952935); [Brenierea Humbert; Cercis L.](https://www.gbif.org/species/2977380); [Cercis L.](https://www.gbif.org/species/2955919); [Cheniella R.Clark & Mackinder](https://www.gbif.org/species/9712046); [Gigasiphon Drake](https://www.gbif.org/species/8059232); [Griffonia Baill.](https://www.gbif.org/species/2945470); [Lysiphyllum (Benth.) de Wit](https://www.gbif.org/species/9105569); [Phanera Lour.](https://www.gbif.org/species/7278390); [Piliostigma Hochst.](https://www.gbif.org/species/2947989); [Schnella Raddi](https://www.gbif.org/species/7278569); [Tournaya A.Schmitz](https://www.gbif.org/species/7301486); [Tylosema (Schweinf.) Torre & Hillc. ](https://www.gbif.org/species/9010267); Recent synonym: [Lasiobema (Korth.) Miq. = Phanera Lour.](https://www.gbif.org/species/7301321)
+## List of genera
  
-
  |Genus                  |     GBIF                     | Plants of the World   |
 | --------------------- |------------------------------|-----------------------|
 |	Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.	|	[GBIF](https://www.gbif.org/species/2956199)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21580-1)	|
