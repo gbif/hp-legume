@@ -37,7 +37,7 @@ remote_theme: gbif/jekyll-hp-base-theme
 
 algae:
   rootLang: en
-  # latestPostLimit: 2
+  latestPostLimit: 5
   # logo: /assets/images/fungi.svg  # Logo in navbar, will be displayed with 28px height
   # logoAndTitle: false           # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
@@ -48,7 +48,7 @@ algae:
       links: "#d66813"            # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
-    brandBackground: green     # Define a custom background for the logo/title in the top navigation bar
+    # brandBackground: green     # Define a custom background for the logo/title in the top navigation bar
     color: "#2F6939"             # What color should the navbar be?
     hasWhiteText: true          # Should the text color be white?
 
