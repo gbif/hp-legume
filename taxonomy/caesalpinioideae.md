@@ -28,7 +28,8 @@ Caesalpinioideae are almost entirely woody perennials, but within those bounds t
 (add images)
 Caesalpinioideae is the only legume subfamily which has bipinnate leaves, which are prevalent but nor universal across the subfamily, with some genera with pinnate leaves, and leaves modified into phyllodes in the majority of species of the large genus *Acacia* and a few species in other genera including *Senna* and *Mimosa*. There is considerable quantitative variation in leaf dimensions and dividedness of leaves and especially the bipinnate leaf, from the massive leaves of e.g. *Schizolobium* (> 1m long), to highly reduced leaves and even aphyllous species (e.g. *Prosopis kuntzei*).
 
-(add images)
+![Leaf diversity in the Mimoisoid clade](/assets/images/Leaf_diversity_Mimoisoid_clade.tif){:standalone .has-text-centered}
+
 Nyctinastic leaf movements are common across all legumes, including Caesalpinioideae, but seismonasty, i.e. leaf movements that are prompted by touch, are only known within subfamily Caesalpinioideae in the genus Mimosa – which was referred to as Sensitivae Censitae by Rupert Barneby in his monograph of New World Mimosa, and Mimosa pudica has come to be grown as a pet house plant.
 
 Extrafloral nectaries (EFNs) are usually present on the petiole and/or the primary or secondary leaf rachises between pinnae or leaflet pairs in the majority of Caesalpinioideae. Indeed, it is within subfamily Caesalpinioideae, and especially the mimosoid clade, where the greatest concentration, diversity and abundance of EFN-possessing taxa within the legumes occur. Eighty-seven genera, i.e. well over half of the caesalpinioid genera, possess EFNs, and, within the mimosoid clade, 78 of the 87 genera currently recognised, or 90%, possess EFNs (Marazzi et al (2019). Nowhere else within the legumes are EFNs so prevalent, abundant and conspicuous as within Caesalpinioideae.
@@ -51,6 +52,10 @@ Fire adaptations. Caesalpinioideae are prominent, diverse and sometimes dominant
 
 ## Distribution
 The vast majority of Caesalpinioideae diversity is tropical, but a small fraction of species extend to the warm temperate zone, a subset of which are frost tolerant (*Gleditsia*, *Gymnocladus*, some *Desmanthus*). Lineages and species of Caesalpinioideae form abundant and diverse elements of each of the three major lowland tropical biomes – tropical rain forests, the succulent biome and savannas. Caesalpinioideae are infrequent above 2500 m in the tropics and are largely absent from mid- and high-elevation tropical montane forests. Generic diversity is highest in the Neotropics, and there are important centres of high species diversity in Mexico / Central America, lowland South America, Africa, Madagascar, parts of SE Asia and Australia.
+
+![Caeslpinioideae Biome Range](/assets/images/Caesalpinioideae_biome_range.tif){:standalone .has-text-centered}
+*Caesalpinioideae are abundant and diverse woody elements across the lowland tropics in rain forests,
+seasonally dry vegetation of the succulent biome and savannas*
 
 ## Formal Botanical Description
 Subfam. Caesalpinioideae DC., Prodr. 2: 473. 1825, emend. LPWG. Type: Caesalpinia L. 
