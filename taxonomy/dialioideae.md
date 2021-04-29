@@ -20,6 +20,14 @@ toc: true
 
 ## Distribution
 
+## List of genera from LPWG 2017
+
+Below is an alphabetical list of all genera accepted in [LPWG 2017](https://doi.org/10.1071/SB19025) with links out to the taxonomic pages on GBIF and Plants of the World Online. Over time this list will be updated to reflect the evolving taxonomy. 
+
+Please see the [Species List and Synonyms](https://hp-legume.gbif-staging.org/taxonomy/species-list) and [Legume Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessbile by [Browse](https://hp-legume.gbif-staging.org/taxonomy/browse) or  [Advanced Search](https://hp-legume.gbif-staging.org/taxonomy/search).
+
+
+
 |Genus                  |     GBIF                     | Plants of the World   |
 | --------------------- |------------------------------|-----------------------|
 |	Androcalymma Dwyer	|	[GBIF](https://www.gbif.org/species/2947111)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296592-2)	|
