@@ -17,11 +17,13 @@ height: 70vh
 ## Taxonomy
 The LPWG has been working in collaboration with the Royal Botanic Gardens, Kew, to update the names of legume species and their synonymy (see [Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy)) and provide a single list of accepted legume species names. This list is curated as part of the World Checklist of Vascular Plants ([WCVP]( https://wcvp.science.kew.org/)), which links to the International Plant Name Index ([IPNI](https://www.ipni.org/)), the Global Biodiversity Information Facility ([GBIF](https://www.gbif.org/)) and also underlies the [Plants of the World Online](http://www.plantsoftheworldonline.org/) website. 
 
-## Species List
-Question here is where to link to obtain this list? To the GBIF taxonomy backbone (ask about species authors issues, amongst other issues)? Or find a form of the WCVP that is a bit user friendly and filtered for only legumes?
+The most recent version of this taxonomy can be accessed through the [menu on the left](https://hp-legume.gbif-staging.org/taxonomy/browse). The Fabaceae data is also accessbile via this [DOI](https://doi.org/10.15468/6h8ucr) which includes all vascular plant taxonomy of WCVP.
 
-## Genus List
-Alphabetical list of all genera with links to their subfamily, GBIF and Plants of the World Online pages.
+## Species List
+Currently the best way to access species lists is also through the [menu on the left](https://hp-legume.gbif-staging.org/taxonomy/browse). This functionality is part of the [Catalogue of Life Checklistbank](https://data.catalogueoflife.org/).  Unfortunately this list doesn't include subfamily designation. 
+
+## Genus List from LPWG 2017
+Below is an alphabetical list of all genera accepted in the LPWG 2017 with links to their subfamily page of this legume portal as well as links out to the taxonomic pages on GBIF and Plants of the World Online pages. Over time this list will be updated to reflect the evolving taxonomy.
 
 |Subfamily|Genus|GBIF |Plants of the World|
 | ---------------------- |------------------------|---------------------------|------------------------|
