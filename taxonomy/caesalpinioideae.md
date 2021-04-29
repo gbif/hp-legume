@@ -66,7 +66,12 @@ Trees, shrubs, lianas, suffruticose or functionally herbaceous, occasionally aqu
 ## Human uses
 While no species of Caesalpinioideae provide important global food crops, many species are important elements of tropical agriculture systems, providing nitrogen-rich green manure for crops and protein-rich leaves and fruits for livestock, wood products including poles and firewood, and a wide range of non-timber forest products, such as Gum Arabic (Senegalia senegal) and Carob (Ceratonia siliqua), and forming an integral and significant component of tropical agroforestry. In addition, Caesalpinioideae include many important tropical timber species.
 
-## List of genera
+## List of genera from LPWG 2017
+
+Below is an alphabetical list of all genera accepted in the LPWG 2017 with links out to the taxonomic pages on GBIF and Plants of the World Online pages. Over time this list will be updated to reflect the evolving taxonomy. 
+
+Please see the [Species List and Synonyms](https://hp-legume.gbif-staging.org/taxonomy/species-list) and [Legume Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessbile by [Browse](https://hp-legume.gbif-staging.org/taxonomy/browse) or use [Advanced Search](https://hp-legume.gbif-staging.org/taxonomy/search). 
+
 	
 |Genus                             |GBIF                                |Plants of the World            |
 | -------------------------------- |------------------------------------|-------------------------------|
