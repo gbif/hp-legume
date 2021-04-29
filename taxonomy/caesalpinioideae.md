@@ -68,9 +68,9 @@ While no species of Caesalpinioideae provide important global food crops, many s
 
 ## List of genera from LPWG 2017
 
-Below is an alphabetical list of all genera accepted in the LPWG 2017 with links out to the taxonomic pages on GBIF and Plants of the World Online pages. Over time this list will be updated to reflect the evolving taxonomy. 
+Below is an alphabetical list of all genera accepted in [LPWG 2017](https://doi.org/10.1071/SB19025) with links out to the taxonomic pages on GBIF and Plants of the World Online. Over time this list will be updated to reflect the evolving taxonomy. 
 
-Please see the [Species List and Synonyms](https://hp-legume.gbif-staging.org/taxonomy/species-list) and [Legume Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessbile by [Browse](https://hp-legume.gbif-staging.org/taxonomy/browse) or use [Advanced Search](https://hp-legume.gbif-staging.org/taxonomy/search). 
+Please see the [Species List and Synonyms](https://hp-legume.gbif-staging.org/taxonomy/species-list) and [Legume Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessbile by [Browse](https://hp-legume.gbif-staging.org/taxonomy/browse) or  [Advanced Search](https://hp-legume.gbif-staging.org/taxonomy/search). 
 
 	
 |Genus                             |GBIF                                |Plants of the World            |
