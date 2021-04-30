@@ -1,5 +1,5 @@
 ---
-title:  "Call for the special Phytokeys Issue "Advances in Legume Systematics 14. Classification of subfamily Caesalpinioideae (Leguminosae)""
+title:  "Call for the special Phytokeys Issue: Advances in Legume Systematics 14. Classification of subfamily Caesalpinioideae (Leguminosae)"
 date:   2021-04-30 14:20:00 +0100
 categories: ["Call"]
 lang-ref: phytokeys
