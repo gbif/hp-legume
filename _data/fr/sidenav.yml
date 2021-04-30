@@ -1,6 +1,6 @@
 taxonomy:
 - content:
-  - title: Liste d'espèces et synonymes
+  - title: Liste acceptée d'espèces et synonymes
     path: /fr/taxonomy/species-list
   - title: Parcourir
     path: /fr/taxonomy/browse
