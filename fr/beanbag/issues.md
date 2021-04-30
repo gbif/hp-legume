@@ -1,15 +1,16 @@
 ---
-layout: heroImage
-lang-ref: beanbag/issues
-title: Issues
-background: /assets/images/Dichrostachys_cinerea_3952595.jpeg
-imageLicense: |
-  *Dichrostachys cinerea* (L.) Wight & Arn. Photo by Bruno Durand via [iNaturalist](https://www.gbif.org/occurrence/1898844739)
-description: Last issues of the Bean Bag
+layout: page
+lang-ref: /fr/beanbag/issues
+title: Volumes
+background: /assets/images/kew_beanbag_banner.jpg
+description: Derniers numéros du Bean Bag
 height: 70vh
+composition:
+  - type: features
+    data: fr.beanbag.issues
 ---
 
-## Issue 67, Year 2020
-Published electronically 3 February 2021
+## Volume 67, Année 2020
+Publié électroniquement le 3 février 2021
 
 [![](/assets/images/bb-67-cover-2.png){:standalone}](/media/The_BB_Newsletter_Issue67_2020.pdf)
