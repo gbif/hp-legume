@@ -5,20 +5,28 @@ composition:
   - type: postHeader
   - type: pageMarkdown
 lang-ref: species-list
+lang: fr
 title: Liste d'espèces et de synonymes
 background: /assets/images/Lupinus_polyphyllus_3385082.jpg
 imageLicense: |
   *Lupinus polyphyllus* Lindl. Photo by Henk van der Sluis via [GBIF](https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fobservation.org%2Fphotos%2F3385082.jpg)
 description: Liste de toutes les espèces et synonymes au sein de la famille
+height: 70vh
 ---
 
 ## Taxonomie
 Le LPWG a travaillé en collaboration avec le Jardin Botanique Royal, Kew, afin de mettre à jour les noms des espèces de Légumineuses et leurs synonymes (voir le [Groupe de Travail sur la Taxonomie](https://hp-legume.gbif-staging.org/working-groups/taxonomy)) ainsi que de fournir une liste unique des noms d'espèces acceptés pour les Légumineuses. Cette liste fait partie de la Liste Mondiale des Plantes Vasculaires (World Checklist of Vascular Plants, [WCVP]( https://wcvp.science.kew.org/)), qui est connectée à l'Index International des Noms de Plantes (International Plant Name Index, [IPNI](https://www.ipni.org/)) et est à la base du site Internet [Plants of the World Online](http://www.plantsoftheworldonline.org/).
 
-## Liste d'espèces
+La plus récente version de cette taxonomie est disponible via le [menu à gauche](https://hp-legume.gbif-staging.org/fr/taxonomy/browse). Les données sur les Fabaceae sont également accessibles via ce [DOI](https://doi.org/10.15468/6h8ucr) qui inclus toute la taxonomie des plantes vasculaires de WCVP.
 
-## Liste des genres
-Liste alphabétique de tous les genres avec des liens vers la page de leurs sous-familles respectives, ainsi que vers les pages d'information sur GBIF et Plants of the World Online.
+## Liste d'espèces
+À l'heure actuelle, le [menu de gauche](https://hp-legume.gbif-staging.org/fr/taxonomy/browse) est également la  meilleure manière d'accéder à la liste des espèces. Cette fonctionnalité fait partie de la [Checklistbank de Catalog of Life](https://data.catalogueoflife.org/). Cette liste ne contient malheureusement pas l'appellation sous-famille.
+
+## Liste des genres (LPWG 2017)
+Le tableau suivant est la liste alphabétique de tous les genres acceptés dans [LPWG 2017](https://doi.org/10.1071/SB19025) avec des liens vers les pages taxonomiques de GBIF et de Plants of the World Online. Cette liste sera mise-à-jour au fil du temps afin de refléter l'évolution de la taxonomie.
+
+Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](https://hp-legume.gbif-staging.org/fr/taxonomy/species-list) et à celle du [Groupe de travail sur la toxonomie](https://hp-legume.gbif-staging.org/fr/working-groups/taxonomy) pour obtenir plus d'informations. La taxonomie actuelle est accessible via la page [Parcourir](https://hp-legume.gbif-staging.org/fr/taxonomy/browse) ou la [Recherche avancée](https://hp-legume.gbif-staging.org/fr/taxonomy/search).
+
 
 |Sous-famille|Genre|GBIF |Plants of the World|
 | ---------------------- |------------------------|---------------------------|------------------------|

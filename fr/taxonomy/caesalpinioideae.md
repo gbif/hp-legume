@@ -5,6 +5,7 @@ composition:
   - type: postHeader
   - type: pageMarkdown
 lang-ref: caesalpinioideae
+lang: fr
 title: Caesalpinioideae
 background: /assets/images/Dichrostachys_cinerea_3952595.jpeg
 imageLicense: |
@@ -53,16 +54,20 @@ Fire adaptations. Caesalpinioideae are prominent, diverse and sometimes dominant
 ## Distribution
 The vast majority of Caesalpinioideae diversity is tropical, but a small fraction of species extend to the warm temperate zone, a subset of which are frost tolerant (*Gleditsia*, *Gymnocladus*, some *Desmanthus*). Lineages and species of Caesalpinioideae form abundant and diverse elements of each of the three major lowland tropical biomes – tropical rain forests, the succulent biome and savannas. Caesalpinioideae are infrequent above 2500 m in the tropics and are largely absent from mid- and high-elevation tropical montane forests. Generic diversity is highest in the Neotropics, and there are important centres of high species diversity in Mexico / Central America, lowland South America, Africa, Madagascar, parts of SE Asia and Australia.
 
-## Description Botanique
+## Description botanique
 Subfam. Caesalpinioideae DC., Prodr. 2: 473. 1825, emend. LPWG. Type: Caesalpinia L. (Figs. 5, 6)
 = Mimosoideae DC., Prodr. 2: 424. 1825. Type Genus: Mimosa L.
 = Cassioideae Burmeist., Handb. Naturgesch.: 319. 1837. Type Genus: Cassia L.
 Trees, shrubs, lianas, suffruticose or functionally herbaceous, occasionally aquatic, either unarmed or commonly armed with prickles or nodal or infranodal spines; specialised extrafloral nectaries often present on the petiole and/or on the primary and secondary rachises, usually between pinnae or leaflet pairs, more rarely stipular or bracteal (Senna Mill., Macrosamanea Britton & Rose ex Britton & Killip and some Archidendron F. Muell.). Stipules in lateral position and free or absent. Leaves usually pulvinate, commonly bipinnate, otherwise pinnate (sometimes both types on the same plant in Arcoa Urb., Cenostigma Tul., Gleditsia L., Stuhlmannia Taub., rarely in Ceratonia L. and Moldenhawera Schrad.) and then mostly paripinnate, rarely imparipinnate, less often bifoliolate, modified into phyllodes or lacking, arrangement of the pinnae and leaflets mostly opposite, rarely alternate; stipels rare and not to be confused with the more commonly present paraphyllidia (reduced basal leaflet pair on the pinnae). Inflorescences globose, spicate, paniculate, racemose or in fascicles; bracteoles commonly absent or small. Flowers usually bisexual, rarely unisexual (Ceratonia, Gleditsia and Gymnocladus Lam., species dioecious or monoecious), or bisexual flowers combined with unisexual and/or sterile flowers in heteromorphic inflorescences (Mimosoid clade), radially, less frequently bilaterally symmetrical or asymmetric, hypanthium lacking or cupular, rarely tubular; sepals (3–) 5 (–6), free or fused; petals (3–) 5 (–6), free or fused (either one or both whorls sometimes lacking), aestivation valvate (Mimosoid clade) or imbricate and then the adaxial petal innermost; stamens commonly diplostemonous or haplostemonous, sometimes reduced to 3, 4 or 5 (in some Mimosa spp.), frequently many (100+ in some Mimosoid clade), free or fused, sometimes heteromorphic, some or all sometimes modified or staminodial, anthers basifixed or dorsifixed, often with a stipitate or sessile apical gland, dehiscing via long longitudinal slits or apical or basal poricidal slits or pores; pollen in tricolporate monads, or commonly in tetrads, bitetrads or polyads (most Mimosoid clade); gynoecium uni- or rarely polycarpellate, 1-many ovulate. Fruit a thin-valved, 1-many seeded pod, dehiscent along one or both sutures, also often a lomentum, lomentaceous, a craspedium or thick and woody and then indehiscent or explosively dehiscent, often curved or spirally coiled. Seeds usually with an open or closed pleurogram on both faces, sometimes with a fleshy aril (Pithecellobium Mart. and some Acacia Mill.) or sarcotesta (Inga Mill.), sometimes winged; hilum usually apical, lens usually inconspicuous; embryo straight. Vestured pits present in secondary xylem. Root nodules variably present and indeterminate (prevalent in Mimosoid clade). 2n mostly 24, 26, 28, but also reported 2n = 14, 16, 24, 26, 28, 52, 54, 56. Non-protein amino acids frequently reported, for example mimosine, albizine (Mimosoida), djenkolic acid, pipecolic acid and its derivatives; coumarins, cyanogenic glucosides, phenylethylamines, tryptamines, and β-carboline alkaloids also reported.
 
-## Utilisation Humaine
+## Utilisation humaine
 While no species of Caesalpinioideae provide important global food crops, many species are important elements of tropical agriculture systems, providing nitrogen-rich green manure for crops and protein-rich leaves and fruits for livestock, wood products including poles and firewood, and a wide range of non-timber forest products, such as Gum Arabic (Senegalia senegal) and Carob (Ceratonia siliqua), and forming an integral and significant component of tropical agroforestry. In addition, Caesalpinioideae include many important tropical timber species.
 
-## Liste des genres
+## Liste des genres (LPWG 2017)
+Le tableau suivant est la liste alphabétique de tous les genres acceptés dans [LPWG 2017](https://doi.org/10.1071/SB19025) avec des liens vers les pages taxonomiques de GBIF et de Plants of the World Online. Cette liste sera mise-à-jour au fil du temps afin de refléter l'évolution de la taxonomie.
+
+Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](https://hp-legume.gbif-staging.org/fr/taxonomy/species-list) et à celle du [Groupe de travail sur la toxonomie](https://hp-legume.gbif-staging.org/fr/working-groups/taxonomy) pour obtenir plus d'informations. La taxonomie actuelle est accessible via la page [Parcourir](https://hp-legume.gbif-staging.org/fr/taxonomy/browse) ou la [Recherche avancée](https://hp-legume.gbif-staging.org/fr/taxonomy/search).
+
 
 |Genre                             |GBIF                                |Plants of the World            |
 | -------------------------------- |------------------------------------|-------------------------------|
