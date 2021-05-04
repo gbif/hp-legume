@@ -1,6 +1,7 @@
 ---
 layout: page
 lang-ref: beanbag/issues
+lang: en
 title: Issues
 background: /assets/images/kew_beanbag_banner.jpg
 description: Last issues of the Bean Bag
