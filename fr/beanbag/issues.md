@@ -1,6 +1,6 @@
 ---
 layout: page
-lang-ref: /fr/beanbag/issues
+lang-ref: fr/beanbag/issues
 lang: fr
 title: Volumes
 background: /assets/images/kew_beanbag_banner.jpg
