@@ -1,7 +1,7 @@
 stats:
   features:
       # we can also use the graphql API to allow richer queries
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/count?taxonKey=5386">xx</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?taxonKey=5386&limit=0">20.000.000</span>
       description: Occurrences
       #background: /assets/images/landing_page/iconos_cifras/registros_biologicos.png
       href: /data?view=MAP
