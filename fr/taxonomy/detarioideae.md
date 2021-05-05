@@ -15,10 +15,21 @@ toc: true
 ---
 
 ## Introduction
+Les Detarioideae sont l'un des premiers clades à avoir divergé dans la famille des Légumineuses, et comprennent 79 genres et ca. 760 espèces, presque exclusivement tropicales avec des genres distribués en Amérique centrale et Amérique du Sud, Afrique et Asie du Sud-est ; et le genre Schotia présent dans les régions subtropicales de l'Afrique du Sud. La morphologie florale est extrêmement variable et, dans beaucoup de taxa, hautement modifiée, rendant complexe la classification du groupe. Il y a à l'heure actuelle six tribus reconnues au sein des Detarioideae : Afzelieae, Amherstieae, Barnebydendreae, Detarieae, Saraceae and Schotieae.
 
 ## Morphologie
+Medium to big unarmed trees, sometimes shrubs, rarely suffuticose. Specialised extrafloral nectaries often present abaxially (and rarely on the margins) of leaflets or on leaf rachis, and never on the petiole. Stipules in intrapetiolar position. Leaves commonly paripinnate, sometimes unifoliate or rarely unifoliate. Inflorescence a raceme or panicle; bracteoles small to large, frequently petaloid. Flowers variable (but never papilionate); sepals commonly 5 or 4 (two adaxial sepals often fused), rarely some or all absent or more (–7); petals free, 0–5(–7), when present imbricate; stamens 2–numerous but usually 10, the filaments partly connate or free, staminodes occasionally present; anthers dorsifixed or basifixed. Fruits mostly woody, dehiscent pods, sometimes indehiscent and woody or thin-valved or samaroid (detailed description in LPWG, 2017; Estrella et al., 2018).
 
 ## Distribution
+Malgré une distribution pantropicale, la majorité de la diversité des genres et espèces de Detarioideae est observée en Afrique et à Madagascar (58% des genres et c. 330 spp.), puis en Amérique du Sud et Amérique Centrale (20% des genres et c. 247 spp.), et en Asie (12% des genres et c. 124 spp.). Les Detarioideae incluent de nombreuses espèces arborescentes écologiquement importantes dans les forêts tropicales africaines, et dans certains types de forêts les espèces dominantes appartiennent à cette sous-famille. Certaines espèces de Detarioideae sont également des éléments écologiques importants dans les forêts humides de basses altitudes des Néo-tropiques. À l'inverse, dans les forêts tropicales asiatiques dominées par les dipterocarpe, les Detarioideae, bien que présentes, présentent une faible abondance et une faible diversité.
+
+
+## Liste des genres (LPWG 2017)
+Le tableau suivant est la liste alphabétique de tous les genres acceptés dans [LPWG 2017](https://doi.org/10.1071/SB19025) avec des liens vers les pages taxonomiques de GBIF et de Plants of the World Online. Cette liste sera mise-à-jour au fil du temps afin de refléter l'évolution de la taxonomie.
+
+Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](https://hp-legume.gbif-staging.org/fr/taxonomy/species-list) et à celle du [Groupe de travail sur la taxonomie](https://hp-legume.gbif-staging.org/fr/working-groups/taxonomy) pour obtenir plus d'informations. La taxonomie actuelle est accessible via la page [Parcourir](https://hp-legume.gbif-staging.org/fr/taxonomy/browse) ou la [Recherche avancée](https://hp-legume.gbif-staging.org/fr/taxonomy/search).
+
+
 
 |Genus                  |     GBIF                     | Plants of the World   |
 | --------------------- |------------------------------|-----------------------|

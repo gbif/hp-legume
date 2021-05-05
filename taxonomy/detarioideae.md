@@ -15,14 +15,15 @@ toc: true
 ---
 
 ## Introduction
+Detarioideae is one of the early branching clades within Leguminosae, consisting in 79 genera and c. 760 species, almost exclusively tropical with genera present in Central and South America, Africa and South East Asia; and the genus Schotia in sub-tropical South Africa. Floral morphology is extremely variable and, in many taxa, highly modified, making classification of the group very challenging. There are currently six tribes recognized within Detarioideae: Afzelieae, Amherstieae, Barnebydendreae, Detarieae, Saraceae and Schotieae.
 
 ## Morphology
+Medium to big unarmed trees, sometimes shrubs, rarely suffuticose. Specialised extrafloral nectaries often present abaxially (and rarely on the margins) of leaflets or on leaf rachis, and never on the petiole. Stipules in intrapetiolar position. Leaves commonly paripinnate, sometimes unifoliate or rarely unifoliate. Inflorescence a raceme or panicle; bracteoles small to large, frequently petaloid. Flowers variable (but never papilionate); sepals commonly 5 or 4 (two adaxial sepals often fused), rarely some or all absent or more (–7); petals free, 0–5(–7), when present imbricate; stamens 2–numerous but usually 10, the filaments partly connate or free, staminodes occasionally present; anthers dorsifixed or basifixed. Fruits mostly woody, dehiscent pods, sometimes indehiscent and woody or thin-valved or samaroid (detailed description in LPWG, 2017; Estrella et al., 2018).
 
 ## Distribution
-
+Despite its pantropical distribution, the majority of the detarioid generic and species diversity occurs in Africa and Madagascar (58% of genera and c. 330 spp.), followed by Central and South America (20% of genera and c. 247 spp.), and Asia (12% of genera and c. 124 spp.). The Detarioideae include many ecologically important tree species in African rainforests, and in some forest types the dominant species belongs to this subfamily. Some Detarioideae species are also ecologically important components in lowland wet forests of the Neotropics. In contrast, in Asian tropical dipterocarp-dominated rainforests, although present, Detarioideae have a small abundance and diversity.
 
 ## List of genera from LPWG 2017
-
 Below is an alphabetical list of all genera accepted in [LPWG 2017](https://doi.org/10.1071/SB19025) with links out to the taxonomic pages on GBIF and Plants of the World Online. Over time this list will be updated to reflect the evolving taxonomy. 
 
 Please see the [Species List and Synonyms](https://hp-legume.gbif-staging.org/taxonomy/species-list) and [Legume Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessbile by [Browse](https://hp-legume.gbif-staging.org/taxonomy/browse) or  [Advanced Search](https://hp-legume.gbif-staging.org/taxonomy/search).
