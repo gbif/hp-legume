@@ -6,4 +6,7 @@ differentLanguage:
   fr: "Cette page est disponible dans les langues suivantes"
 searchOccurrences:
   en: Search occurrences
-  fr: Search occurrences - needs translation
+  fr: Recherche d'occurrences
+tocTitle:
+  en: "On this page"
+  fr: "Sur cette page"
