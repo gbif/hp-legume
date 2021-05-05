@@ -1,0 +1,17 @@
+stats:
+  features:
+      # we can also use the graphql API to allow richer queries
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?taxonKey=5386&limit=0">20.000.000</span>
+      description: Occurrences
+      #background: /assets/images/landing_page/iconos_cifras/registros_biologicos.png
+      href: /data?view=MAP
+      # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
+    - title: <span data-ajax-url="https://api.gbif.org/v1/species/search?rank=SPECIES&highertaxon_key=5386&status=ACCEPTED&limit=0">xx</span>
+      description: Espèces
+      #background: /assets/images/landing_page/iconos_cifras/listas_de_especies.png
+      href: https://www.gbif.org/species/search?rank=SPECIES&highertaxon_key=5386&status=ACCEPTED
+      # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
+    - title: <span data-ajax-url="https://api.gbif.org/v1/species/search?rank=GENUS&highertaxon_key=5386&status=ACCEPTED&advanced=1&limit=0">xx</span>
+      description: Genres
+      #background: /assets/images/landing_page/iconos_cifras/fichas_de_especies.png
+      href: https://www.gbif.org/species/search?rank=GENUS&highertaxon_key=5386&status=ACCEPTED&advanced=1
