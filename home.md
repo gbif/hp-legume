@@ -6,7 +6,7 @@ description: Learn and discover data about the biology, diversity and evolution 
 background: /assets/images/Enterolobium_cyclocarpum_42323408.jpeg
 imageLicense: |
   *Enterolobium cyclocarpum* (Jacq.) Griseb. Photo by ric van den Berghe via [iNaturalist](https://www.gbif.org/occurrence/2609325904)
-height: 70vh
+height: 85vh
 cta:
   - text: Explore Data
     href: /data
