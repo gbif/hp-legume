@@ -3,7 +3,7 @@ layout: documentation
 sideNavigation: fr.sidenav.taxonomy
 title: Taxon
 permalink: /fr/taxonomy/search
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+description: Faire une recherche dans la checklist des Fabaceae
 klass: fullwidth
 lang-ref: species-search
 ---

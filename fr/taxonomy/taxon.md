@@ -25,9 +25,9 @@ class Taxon extends React.Component {
         ColBrowser.Taxon,
         { 
           catalogueKey: '{{site.col.catalogueKey}}',
-          pathToTree: '/taxonomy/browse',
-          pathToSearch: '/taxonomy/search',
-          pathToTaxon: '/taxonomy/taxon/',
+          pathToTree: '/fr/taxonomy/browse',
+          pathToSearch: '/fr/taxonomy/search',
+          pathToTaxon: '/fr/taxonomy/taxon/',
           pathToDataset: '/sourcedatasets/',
           pageTitleTemplate: 'Legume | __taxon__',
           citation: 'top'

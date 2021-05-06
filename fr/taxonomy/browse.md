@@ -1,9 +1,9 @@
 ---
 layout: documentation
 sideNavigation: fr.sidenav.taxonomy
-title: Browse
+title: Parcourir
 permalink: /fr/taxonomy/browse
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+description: Parcourir la checklist des Fabaceae
 klass: fullwidth
 lang-ref: species-browse
 ---
