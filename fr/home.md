@@ -6,9 +6,9 @@ description: Explorez les données sur la famille des Légumineuses
 background: /assets/images/Enterolobium_cyclocarpum_42323408.jpeg
 imageLicense: |
   *Enterolobium cyclocarpum* (Jacq.) Griseb. Photo by ric van den Berghe via [iNaturalist](https://www.gbif.org/occurrence/2609325904)
-height: 85vh
+height: 80vh
 cta:
-  - text: Explorez les données
+  - text: Explorez les données d'occurrences
     href: /fr/data
     isPrimary: true
   - text: Explorez la taxonomie
