@@ -40,7 +40,6 @@ Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](h
 |	[Caesalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	Adenanthera L. 	|	[GBIF](https://www.gbif.org/species/2951839)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21576-1)	|
 |	[Papilionoideae](https://hp-legume.gbif-staging.org/taxonomy/papilionoideae)	|	Adenocarpus DC.	|	[GBIF](https://www.gbif.org/species/2951623)	|		|
 |	[Papilionoideae](https://hp-legume.gbif-staging.org/taxonomy/papilionoideae)	|	Adenodolichos Harms	|	[GBIF](https://www.gbif.org/species/2970548)	|		|
-|	[Caesalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.	|	[GBIF](https://www.gbif.org/species/2956199)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21580-1)	|
 |	[Cercidoideae](https://hp-legume.gbif-staging.org/taxonomy/cercidoideae)	|	Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.	|	[GBIF](https://www.gbif.org/species/2956199)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21580-1)	|
 |	[Caesalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	Adenopodia C. Presl 	|	[GBIF](https://www.gbif.org/species/2952361)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21581-1)	|
 |	[Papilionoideae](https://hp-legume.gbif-staging.org/taxonomy/papilionoideae)	|	Adesmia DC.	|	[GBIF](https://www.gbif.org/species/2961501)	|		|
