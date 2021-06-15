@@ -3,7 +3,7 @@ layout: heroImage
 lang-ref: OToL
 title: OToL Phylogeny  Working Group
 background: /assets/images/circle_phylo.jpg
-description: Curating a community consensus phylogney of the legumes
+description: Curating a community consensus phylogeny of the legumes
 height: 70vh
 toc: true
 ---
@@ -13,12 +13,12 @@ Coordinators: [Joe Miller](mailto:jmiller@gbif.org) [(Global Biodiversity Inform
 
 ## Introduction
 
-[Open Tree of Life](https://tree.opentreeoflife.org/about/open-tree-of-life) aims to construct a comprehensive, dynamic and digitally-available tree of life by synthesizing published phylogenetic trees along with taxonomic data. I think of it as the phylogenetic version of GBIF. GBIF combines data from thousands of herbarium datasets into a system that allows anyone to access occurrence data in a geographic area or of a taxonomic group.  Likewise OToL, since we don’t have a single analyzed phylogenetic tree of all life does the same with open access data. OToL users can download a subset tree for example for all of Fabaceae or from a list of species.   As with GBIF the better the input data the better the output data.  OToL trees can be used for many purposes including research and for visualizations.
+[Open Tree of Life](https://tree.opentreeoflife.org/about/open-tree-of-life) aims to construct a comprehensive, dynamic and digitally-available tree of life by synthesizing published phylogenetic trees along with taxonomic data. We think of it as the phylogenetic version of GBIF. GBIF combines data from thousands of herbarium datasets into a system that allows anyone to access occurrence data in a geographic area or of a taxonomic group. Likewise OToL, since we don’t have a single analyzed phylogenetic tree of all life does the same with open access data. OToL users can download a subset tree for example for all of Fabaceae or from a list of species. As with GBIF the better the input data the better the output data. OToL trees can be used for many purposes including research and for visualizations.
 
 
-It is important to recognize that the OToL synthetic tree includes terminals from published phylogenetic analyses from many  sources (various genes, sampling and morphology) and terminals that are placed there only by taxonomy.  OToL has a robust Taxonomic Name Resolution Service (TNRS).  Many terminals in the tree are known only from the taxonomy, that is they are not currently represented in a source phylogeny currently in OToL.   For example the Fabaceae clade ([OTT: 560323](https://tree.opentreeoflife.org/opentree/argus/ottol@560323/Fabaceae)) includes 24,479 species but only [4,835 species’](https://docs.google.com/spreadsheets/d/1YQz6F-DOdCTZneGvEfnCtMZs6nyUTmp0N7le86aYnoY/edit?usp=sharing) placement are based on input phylogenies. Species that are not in any input trees are placed as a polytomy at the genus level resulting in polytomies. Therefore we need to input as many high quality trees as possible. With the help of OToL one can download a tree that only includes terminals that are from phylogenetic analyses. For info about OToL see the about tab [here](https://tree.opentreeoflife.org/about/open-tree-of-life).
+It is important to recognize that the OToL synthetic tree includes terminals from published phylogenetic analyses from many  sources (various genes, sampling and morphology) and terminals that are placed there only by taxonomy. OToL has a robust Taxonomic Name Resolution Service (TNRS). Many terminals in the tree are known only from the taxonomy, that is they are not currently represented in a source phylogeny currently in OToL. For example the Fabaceae clade ([OTT: 560323](https://tree.opentreeoflife.org/opentree/argus/ottol@560323/Fabaceae)) includes 24,479 species but only [4,835 species’](https://docs.google.com/spreadsheets/d/1YQz6F-DOdCTZneGvEfnCtMZs6nyUTmp0N7le86aYnoY/edit?usp=sharing) placement are based on input phylogenies. Species that are not in any input trees are placed as a polytomy at the genus level resulting in polytomies. Therefore we need to input as many high quality trees as possible. With the help of OToL one can download a tree that only includes terminals that are from phylogenetic analyses. For info about OToL see the about tab [here](https://tree.opentreeoflife.org/about/open-tree-of-life).
 
-We have been working closely with [Emily Jane McTavish](mailto:ejmctavish@ucmerced.edu) from UC Merced and a OToL PI. She has sent me much information including the synthetic trees and lists below.  She is keen to work with us to improve the Fabaceae clade of OToL. Please note that it is very easy to import a phylogeny from [Treebase](https://www.treebase.org/treebase-web/home.html) into OToL for further curation.  Therefore harvesting legume [Treebase](https://www.treebase.org/treebase-web/home.html) studies is the first place to improve the OToL synthetic tree.
+We have been working closely with [Emily Jane McTavish](mailto:ejmctavish@ucmerced.edu) from UC Merced and a OToL PI. She has sent us information including the synthetic trees and lists below. Emily Jane McTavish is keen to work with us to improve the Fabaceae clade of OToL. Please note that it is very easy to import a phylogeny from [Treebase](https://www.treebase.org/treebase-web/home.html) into OToL for further curation. Therefore harvesting legume [Treebase](https://www.treebase.org/treebase-web/home.html) studies is the first place to improve the OToL synthetic tree.
 
 ## Status of Legumes in OToL
 
@@ -82,7 +82,7 @@ Click on a OpenTree study link to see what the interface looks like.  You will n
 We could rewrite a paper describing the before and after this project. How many species and studies did we add? How much better/useful is the OToL phylogeny? Provide examples of how the tree would be used, especially in connection to the taxonomic georeferencing group work.  GBIF is working on a phylogenetic viewer that could be added to the Legume Data Portal.
 
 ## Join the Working Group
-Please send an email to [Joe Miller](mailto:jmiller@gbif.org) or [Vanessa Terra](mailto:vanessaterrab@gmail.com) or just start looking for studies to include.  No experience in curating OToL files is necessary.  The most important  thing we need is your knowledge of the best trees to include.
+Please send an email to [Joe Miller](mailto:jmiller@gbif.org) or [Vanessa Terra](mailto:vanessaterrab@gmail.com) or just start looking for studies to include.  No experience in curating OToL files is necessary.  The most important thing we need is your knowledge of the best trees to include.
 
 
 
