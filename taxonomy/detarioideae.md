@@ -31,7 +31,7 @@ Species of Detarioideae are almost exclusively tropical, except for Schotia Jacq
 ## Human uses
 Many members of the subfamily are of economic importance for their gums and resins (*Hymenaea*), oils (*Copaifera*), food (*Tamarindus*), timbers, and ornamentals. Plants of this subfamily provide timber (e.g. *Aphanocalyx*, *Berlinia*, *Didelotia*, *Hymenaea*, *Peltogyne* and *Tetraberlinia*), some of which are highly valuable (e.g., species of *Guibourtia*), several species are the source of useful resins (e.g. *Copaifera*, *Hymenaea*), and *Tamarindus* is used as a condiment for cooking. Some species are also part of cultural heritage, used for rituals and medicine or seen as holy trees (e.g. several species of *Brownea* and *Copaifera religiosa*).
 
-##Formal Botanical Description
+## Formal Botanical Description
 As published in LPWG (2017), Taxon 66: 44-77, doi.org/10.12705/661.3
 
 Subfam. Detarioideae Burmeist., Handb. Naturgesch.: 319. 1837 (“Detarieae”) 
