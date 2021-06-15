@@ -23,7 +23,7 @@ Several phylogenetic analyses have suggested that Cercidoideae is sister to all 
 ## Key Features
 Trees, shrubs or lianas, many with tendrils, mostly unarmed but frequently with prickles or infrastipular spines; branches rarely modified into cladodes. Leaves unifoliolate or bifoliolate (with opposite leaflets). Flowers slightly to strongly bilaterally symmetrical, sometimes papilionate. Sepals united in a spathaceous or two to five-lobed calyx or sepals free. Petals five, rarely two, six or absent, free, when present imbricate, the adaxial petal innermost and frequently differentiated. Stamens usually 10 in two whorls of alternate length. Dehiscent pods, often explosive with twisted valves, or indehiscent, then generally samaroid. Seeds with apical crescent-shaped (rarely circular) hilum.
 
-## Distribution
+## Distribution and Ecology
 Species of Cercidoideae occur across several biomes on all continents. They are found in the Temperate Biome in Eurasia, China and North America, in the Succulent Biome in southern Africa, and in the Rainforest Biome in South and Central America, Asia and Africa.
 
 ## Formal Botanical Description
