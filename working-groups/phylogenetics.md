@@ -3,7 +3,7 @@ layout: heroImage
 lang-ref: phylogenetics
 title: Legume Phylogenomics & Phylogenetics Working Group
 background: /assets/images/phylos.jpg
-description: Information about the Legume Phylogenomics & Phylogenetics Working group
+description: Information about the Legume Phylogenomics & Phylogenetics Working Group
 height: 70vh
 toc: true
 ---
@@ -16,7 +16,7 @@ The Phylogenomic Working Group brings together different teams from across the l
 
 ## Strategy
 
-The group also aims to find ways to harmonize the different target enrichment (hybrid capture) gene sets and approaches that have been developed for the family. At least five different target enrichment probe sets have been developed for specific legume clades, including Detarioideae, Caesalpinioideae (incl. the mimosoid clade), Cercidoideae and Papilionoideae. In addition, the hybrid capture approach developed for the Nitfix project led by Pam and Doug Soltis (see separate report in this issue of the Bean Bag) is being applied to a large sample of more than 9000 species across legumes. In addition, the Angiosperms353 universal bait set developed for the Plant and Fungal Trees of Life project at Royal Botanic Gardens, Kew is currently being used to sequence these genes for a sample of genera covering all major legume groups, with particular focus on subfamily Papilionoideae and its early-diverging lineages. The Working Group maintains an overview of the various legume gene sets that are being sequenced and has assessed overlap amongst them. Because the overlap in genes targeted by these various approaches is minimal, there are limited possibilities of directly combining the different data sets. 
+The group also aims to find ways to harmonize the different target enrichment (hybrid capture) gene sets and approaches that have been developed for the family. At least five different target enrichment probe sets have been developed for specific legume clades, including Detarioideae, Caesalpinioideae (incl. the mimosoid clade), Cercidoideae and Papilionoideae. In addition, the hybrid capture approach developed for the Nitfix project led by Pam and Doug Soltis (University of Florida) is being applied to a large sample of more than 9000 species across legumes. The Angiosperms353 universal bait set developed for the Plant and Fungal Trees of Life project at Royal Botanic Gardens, Kew is currently being used to sequence these genes for a sample of genera covering all major legume groups, with particular focus on subfamily Papilionoideae and its early-diverging lineages. The Working Group maintains an overview of the various legume gene sets that are being sequenced and has assessed overlap amongst them. Because the overlap in genes targeted by these various approaches is minimal, there are limited possibilities of directly combining the different data sets. 
 
 ## Future plans
 
