@@ -9,19 +9,53 @@ lang-ref: detarioideae
 background: /assets/images/Tamarindus_1294313.jpg
 imageLicense: |
   *Tamarindus indica* (L.) Photo by Graeme White via [iNaturalist](https://www.gbif.org/occurrence/1453047812)
-description: Information about the Detarioideae subfamily
+description: Information about subfamily Detarioideae 
 height: 70vh
 toc: true
 ---
 
 ## Introduction
-Detarioideae is one of the early branching clades within Leguminosae, consisting in 79 genera and c. 760 species, almost exclusively tropical with genera present in Central and South America, Africa and South East Asia; and the genus Schotia in sub-tropical South Africa. Floral morphology is extremely variable and, in many taxa, highly modified, making classification of the group very challenging. There are currently six tribes recognized within Detarioideae: Afzelieae, Amherstieae, Barnebydendreae, Detarieae, Saraceae and Schotieae.
+Detarioideae comprises 79 genera and c. 760 species, almost exclusively tropical with species present on all continents. Even though historically considered as two tribes, the monophyly of this group has been clearly demonstrated in all phylogenetic analyses and the generic content of Detarioideae has remained relatively stable since the mid-1800. Currently six tribes are recognised within Detarioideae: Afzelieae, Amherstieae, Barnebydendreae, Detarieae, Saraceae and Schotieae.
 
-## Morphology
-Medium to big unarmed trees, sometimes shrubs, rarely suffuticose. Specialised extrafloral nectaries often present abaxially (and rarely on the margins) of leaflets or on leaf rachis, and never on the petiole. Stipules in intrapetiolar position. Leaves commonly paripinnate, sometimes unifoliate or rarely unifoliate. Inflorescence a raceme or panicle; bracteoles small to large, frequently petaloid. Flowers variable (but never papilionate); sepals commonly 5 or 4 (two adaxial sepals often fused), rarely some or all absent or more (–7); petals free, 0–5(–7), when present imbricate; stamens 2–numerous but usually 10, the filaments partly connate or free, staminodes occasionally present; anthers dorsifixed or basifixed. Fruits mostly woody, dehiscent pods, sometimes indehiscent and woody or thin-valved or samaroid (detailed description in LPWG, 2017; Estrella et al., 2018).
+The subfamily is unusual in including many monospecific genera (35%) and only 9 genera with more than 20 species. Detarioideae is differentiated from other subfamilies by the presence of intrapetiolar stipules and well developed bracteoles that are imbricate or valvate in bud, and which often serve a protective function. However, the floral morphology is extremely variable and, in many taxa, highly modified with striking differences in floral symmetry, sepal, petal, and stamen numbers, and fusion and suppression of floral organs. The subfamily includes large tree species that predominate in wet forest habitats of the African, American, and Asian tropics, but they also form ecologically dominant elements in other habitat types (e.g., *Brachystegia*-dominated Miombo dry forests of East Africa).
 
-## Distribution
-Despite its pantropical distribution, the majority of the detarioid generic and species diversity occurs in Africa and Madagascar (58% of genera and c. 330 spp.), followed by Central and South America (20% of genera and c. 247 spp.), and Asia (12% of genera and c. 124 spp.). The Detarioideae include many ecologically important tree species in African rainforests, and in some forest types the dominant species belongs to this subfamily. Some Detarioideae species are also ecologically important components in lowland wet forests of the Neotropics. In contrast, in Asian tropical dipterocarp-dominated rainforests, although present, Detarioideae have a small abundance and diversity.
+Although several fossils have been attributed to Detarioideae, including some remarkable flower, fruit and wood fossils preserved in amber, the age of the subfamily remains contentious with crown age estimates ranging from early Paleocene to mid-Eocene.
+
+
+## Key Features
+Medium to tall unarmed trees, or sometimes shrubs. Specialised extrafloral nectaries often present abaxially on the leaflets or leaf rachis, and never on the petiole. Stipules in intrapetiolar position. Leaves commonly paripinnate, sometimes unifoliate or rarely unifoliate. Inflorescence a raceme or panicle; bracteoles small to large, frequently petaloid. Flowers variable (but never papilionate); sepals commonly five (two adaxial sepals often fused), rarely some or all absent; petals free, often absent, when present imbricate and varying in number from one, three, four or five; stamens two to numerous but usually 10, the filaments partly connate or free, staminodes occasionally present. Fruits are mostly woody dehiscent pods, sometimes indehiscent and samaroid.
+
+## Distribution and ecology
+Species of Detarioideae are almost exclusively tropical, except for Schotia Jacq., which occurs in sub-tropical South Africa. Detarioideae occur mostly in the tropical Rainforest biome but some species are native to the Succulent biome. Despite its pantropical distribution, the majority of Detarioideae generic and species diversity occurs in Africa and Madagascar (58% of genera and c. 330 spp). Detarioideae include many ecologically important tree species in African rainforests and in lowland wet forests of the Neotropics. Some Detarioideae species form large stands and are the dominant species in different forest types. In contrast, in Asian tropical dipterocarp-dominated rainforests, although present, Detarioideae are low in abundance and diversity.
+
+## Human uses
+Many members of the subfamily are of economic importance for their gums and resins (*Hymenaea*), oils (*Copaifera*), food (*Tamarindus*), timbers, and ornamentals. Plants of this subfamily provide timber (e.g. *Aphanocalyx*, *Berlinia*, *Didelotia*, *Hymenaea*, *Peltogyne* and *Tetraberlinia*), some of which are highly valuable (e.g., species of *Guibourtia*), several species are the source of useful resins (e.g. *Copaifera*, *Hymenaea*), and *Tamarindus* is used as a condiment for cooking. Some species are also part of cultural heritage, used for rituals and medicine or seen as holy trees (e.g. several species of *Brownea* and *Copaifera religiosa*).
+
+##Formal Botanical Description
+As published in LPWG (2017), Taxon 66: 44-77, doi.org/10.12705/661.3
+
+Subfam. Detarioideae Burmeist., Handb. Naturgesch.: 319. 1837 (“Detarieae”) 
+
+Type: *Detarium* Juss.
+
+Unarmed trees, sometimes shrubs, rarely suffruticose (*Cryptosepalum* Benth.); specialised extrafloral nectaries often present abaxially, rarely on the margins of leaflets or on leaf rachis, and never on the petiole. Stipules in intrapetiolar position (i.e., somewhere between the petiole and the axillary bud) and then free, valvate and connected by chaffy hairs, or fused, either partly (only at base) or entirely, rarely lateral and free. Leaves paripinnate (ending in a pair of leaflets or, if leaflets alternate and appearing imparipinnate, the terminal leaflet exceeded by a more or less caducous rachis-extension) with 1 (bifoliolate) to numerous pairs of leaflets, or rarely unifoliolate (*Paloue* Aubl., *Paloveopsis* R.S.Cowan, *Zenkerella* Taub., some *Cryptosepalum*, *Didelotia* Baill. and *Guibourtia* Benn.), bipinnate leaves totally lacking, leaves pulvinate, leaflets opposite or alternate, exstipellate, translucent glands sometimes present. Inflorescence a raceme or panicle; bracteoles small to large, frequently petaloid, valvate or imbricate, free or partially fused or partly fused with the hypanthium, partially or completely enclosing the bud. Flowers bisexual or with both bisexual and male flowers radially or slightly to strongly bilaterally symmetrical (but never papilionate), hypanthium elongated to almost absent; sepals commonly 5 or 4 (two adaxial sepals often fused), rarely some or all absent or more (–7); petals free, 0–5(–7), when present imbricate, the adaxial petal generally innermost (outermost in some flowers of *Hymenaea* L. and allies), all equal or the adaxial large and either the other 4 or only the abaxial ones smaller to rudimentary; stamens 2–numerous but usually 10, the filaments partly connate or free, staminodes occasionally present; anthers dorsifixed or basifixed; pollen mostly 3-colporate monads with a vast array of sculptures; gynoecium 1-carpellate, 1–many ovulate, stipe of ovary free or adnate to the wall of the hypanthium. Fruits mostly woody, dehiscent pods, sometimes indehiscent and woody or thin-valved, samaroid (*Brandzeia* Baill., *Barnebydendron* J.H.Kirkbr., *Gossweilerodendron* Harms, *Hardwickia* Roxb., *Neoapaloxylon* Rauschert), rarely filled with pulpy mesocarp (*Tamarindus* L.) or endocarp (*Hymenaea*). Seeds often overgrown, sometimes hard and then occasionally with pseudopleurograms (*Lysidice* Hance, *Paramacrolobium* J.Léonard, *Peltogyne* Vogel, *Tamarindus*), occasionally arillate; embryo straight. Vestured pits present in secondary xylem; axial (resin) canals sometimes present; silica bodies rarely present (*Hymenostegia* Harms, *Loesenera* Harms); septate fibres and storeyed rays sometimes present. Root nodules absent. 2n mostly 24 but occasionally 16, 20, 22, 36, 68. Coumarins reported; frequently with terpenes (resins) and non-protein amino acids. 
+
+##To learn more
+Bruneau, A., Klitgård, B., Prenner, G., Fougère-Danezan, M., Tucker, S.C. 2014. Floral evolution in the Detarieae (Leguminosae): phylogenetic evidence for labile floral development in an early-diverging legume lineage. International Journal of Plant Sciences 175, 392–417. doi: 10.1086/675574
+
+Estrella, M., Forest, F., Klitgård, B., Lewis, G.P., Mackinder, B., de Queiroz, L., Wieringa, J. & Bruneau, A. 2018. A new phylogeny-based tribal classification for the Detarioideae, an early-branching clade of florally diverse legumes. Scientific Reports 8(1), 6884. doi: 10.1038/s41598-018-24687-3
+
+Estrella, M., Forest, F. Wieringa, J.J., Fougère-Danezan, M. & Bruneau, A. 2017. Insights on the evolutionary origin of Detarioideae, a clade of ecologically dominant tropical African trees. New Phytologist 214: 1722-1735. doi: 10.1111/nph.14523
+
+Fougère-Danezan, M, S Maumont & A Bruneau. 2007. Relationships among resin producing Detarieae s.l. (Leguminosae) as inferred by molecular data. Syst Bot 32:748–761.
+
+Fougère-Danezan, M, PS Herendeen, S Maumont & A Bruneau 2009. Morphological evolution in the variable resin-producing Detarieae (Leguminosae): do morphological characters retain a phylogenetic signal? Ann Bot 105:311–325.
+
+Léonard, J. 1957. Genera des Cynometreae et des Amherstieae Africaines (Leguminosae-Caesalpinioideae). Mem Acad R Belg Cl Sci 30:1–314.
+
+Mackinder, BA 2005 Tribe Detarieae. Pages 68–109 in G Lewis, B Schrire, B Mackinder, M Lock, eds. Legumes of the world. Royal Botanic Gardens, Kew.
+
+
 
 ## List of genera from LPWG 2017
 Below is an alphabetical list of all genera accepted in [LPWG 2017](https://doi.org/10.1071/SB19025) with links out to the taxonomic pages on GBIF and Plants of the World Online. Over time this list will be updated to reflect the evolving taxonomy. 
