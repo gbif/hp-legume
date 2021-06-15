@@ -15,7 +15,7 @@ toc: true
 ---
 
 ## Introduction
-Dialioideae is the smallest of the legume subfamilies with 17 genera and approximately 85 species. *Dialium* is a pantropical genus of c 30 species, *Labichea* includes approximately 14 species, but otherwise the subfamily mostly comprises small genera with few species, eight of which are monospecific. Several of these small genera are considered threatened and have rarely been collected in nature.
+With 17 genera and approximately 85 species, Dialioideae is the second smallest of the legume subfamilies. *Dialium* is a pantropical genus of c 30 species, *Labichea* includes approximately 14 species, but otherwise the subfamily mostly comprises small genera with few species, eight of which are monospecific. Several of these small genera are considered threatened and have rarely been collected in nature.
 
 Flowers in Dialioideae are highly diverse, displaying multiple symmetries and widely varied numbers of floral organs. Organ loss is frequent in the subfamily. The subfamily is also unusual in that many Dialioideae have a thyrsoid inflorescences, a rare condition in the primarily racemose Leguminosae. The fruit is often indehiscent and drupaceous or samaroid, also less typical of the legumes. Finally, most species of the subfamily lack vestured pits in their xylem (present in *Poeppigia* and *Mendoravia*), a feature that is otherwise present in all Leguminosae except Cercidoideae and Duparquetioideae. 
 
