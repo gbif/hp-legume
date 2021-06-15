@@ -58,7 +58,7 @@ This is a [google spreadsheet](https://docs.google.com/spreadsheets/d/1Fvf6UJ7Q3
 --------
 * Potential Trees: This list of trees was pulled mailnly from LPWG citations. This is an old list and needs updating.
  
-## Priority list of things to do by the Working group
+## Priority list of things to do by the Working Group
 * Identify studies that are high priority to include
    * species level
    * missing in current synthetic tree
@@ -70,19 +70,19 @@ This is a [google spreadsheet](https://docs.google.com/spreadsheets/d/1Fvf6UJ7Q3
 * Update the taxonomy in the spreadsheet
    * to help find gaps
    * many mistakes
-* Perhps focus on Caesalpinioideae (incl. mimosoid clade), Dialioideae, Detarioideae, Cercidoideae, and Duparquetioideae
+* Perhaps focus on Caesalpinioideae (incl. mimosoid clade), Dialioideae, Detarioideae, Cercidoideae, and Duparquetioideae
    * much better current coverage in these clades
 
 
-## How curate files in OToL
-Click on a OpenTree study link to see what the interface looks like.  You will need a GitHb account to edit. More details to be added later. The OToL syntehitc tree is only updated occasionaly. The most recent was in December 2019. Updating the legume clade would be good incentive for a new synthetic tree update by OToL.
+## How to curate files in OToL
+Click on a OpenTree study link to see what the interface looks like. You will need a GitHb account to edit. More details to be added later. The OToL synthetic tree is only updated occasionally. The most recent was in December 2019. Updating the legume clade would be good incentive for a new synthetic tree update by OToL.
 
 
 ## Publication idea
-We could rewrite a paper describing the before and after this project. How many species and studies did we add? How much better/useful is the OToL phylogeny? Provide examples of how the tree would be used, especially in connection to the taxonomic georeferencing group work.  GBIF is working on a phylogenetic viewer that could be added to the Legume Data Portal.
+We could rewrite a paper describing the before and after this project. How many species and studies did we add? How much better/useful is the OToL phylogeny? Provide examples of how the tree would be used, especially in connection to the Taxonomic and Occurrence Data Working Groups. GBIF is working on a phylogenetic viewer that could be added to the Legume Data Portal.
 
 ## Join the Working Group
-Please send an email to [Joe Miller](mailto:jmiller@gbif.org) or [Vanessa Terra](mailto:vanessaterrab@gmail.com) or just start looking for studies to include.  No experience in curating OToL files is necessary.  The most important thing we need is your knowledge of the best trees to include.
+Please send an email to [Joe Miller](mailto:jmiller@gbif.org) or [Vanessa Terra](mailto:vanessaterrab@gmail.com) or just start looking for studies to include. No experience in curating OToL files is necessary. The most important thing we need is your knowledge of the best trees to include.
 
 
 
