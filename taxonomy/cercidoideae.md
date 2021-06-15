@@ -28,6 +28,7 @@ Species of Cercidoideae occur across several biomes on all continents. They are 
 
 ## Formal Botanical Description
 As published in LPWG (2017), Taxon 66: 44-77, doi.org/10.12705/661.3
+
 Subfam. Cercidoideae Legume Phylogeny Working Group, stat. nov. ≡ Cercideae Bronn, Form. Pl. Legumin.: 134, 131. 1822 (“Cerceae”)
 
 Type: *Cercis* L.
