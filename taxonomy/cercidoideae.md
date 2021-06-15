@@ -15,45 +15,50 @@ toc: true
 ---
 
 ## Introduction
-Subfamily Cercidoideae includes 14 genera, several newly recognised or reinstated from Bauhinia sl. 
+Although initially recognised at the tribal level, subfamily Cercidoideae has always been considered monophyletic and only the generic divisions have changed over the past decades. In the current taxonomy, the subfamily includes 14 genera, several of which are newly recognised or reinstated from *Bauhinia* sl. The vast majority of species in the subfamily (c. 400 spp) are *Bauhinia* segregates. Recent phylogenetic analyses have led to the re-circumscription of the paraphyletic *Bauhinia* sl into several smaller monophyletic genera that form two sister clades, a Bauhinia clade with *Bauhinia* L. (c. 230 spp), *Brenieria* Humbert (1 sp) and *Piliostigma* Hochst. (6 spp), and a Phanera clade with *Phanera* Lour. (74 spp), *Schnella* Raddi (45 spp), *Cheniella* R.Clark & Mackinder (10 spp), *Lysiphyllum* (Benth.) de Wit (8 spp), *Tylosema* (Schweinf.) Torre & Hillc. (5 spp), *Gigasiphon* Drake (5 spp), *Barklya* F.Muell. (1 sp) and *Tournaya* A.Schmitz (1 sp). Sister to this large clade, are the small genera *Griffonia* Baill. (5 spp), *Adenolobus* (Harv. ex Benth. & Hook.f.) Torre & Hillc. (2 spp) and *Cercis* L. (9-10 spp) that form a grade, with *Cercis* sister to the entire group. The latter is diploid (2n=14), whereas all other genera are polyploid, suggesting that a whole genome duplication may have occurred in the ancestor of all Cercidoideae except *Cercis*. 
+
+Several phylogenetic analyses have suggested that Cercidoideae is sister to all legumes, but the most recent phylogenomic analyses place Cercidoideae as sister to Detarioideae, the two occurring as sister to the rest of the legumes. Diversification time analyses calibrated with fossils of *Bauhinia* sl leaf impressions (46 Ma) and of *Cercis* leaf and fruit impressions (34 Ma) suggest a mid-Eocene crown node age for the subfamily. The most conspicuous distinguishing features of Cercidoideae are the unifoliolate bilobed leaves, zygomorphic, almost papilionate flowers (with the median petal innermost) and apical crescent-shaped hilum of the seeds – not all these characteristics occurring in all Cercidoideae genera.
+
 
 ## Key Features
-Trees, shrubs or lianas, many with tendrils, mostly unarmed but frequently with prickles or infrastipular spines; branches rarely modified into cladodes. Leaves unifoliolate or bifoliolate (with opposite leaflets). Flowers slightly to strongly bilaterally symmetrical, sometimes papilionate. Sepals united in a spathaceous or 2–5-lobed calyx or sepals free. Petals 5, rarely 2, 6 or absent, free, when present imbricate, the adaxial petal innermost and frequently differentiated. Stamens usually 10 in two whorls of alternate length. Dehiscent pods, often explosive with twisted valves, or indehiscent, then generally samaroid. Seeds with an apical crescent-shaped (rarely circular) hilum.
-
+Trees, shrubs or lianas, many with tendrils, mostly unarmed but frequently with prickles or infrastipular spines; branches rarely modified into cladodes. Leaves unifoliolate or bifoliolate (with opposite leaflets). Flowers slightly to strongly bilaterally symmetrical, sometimes papilionate. Sepals united in a spathaceous or two to five-lobed calyx or sepals free. Petals five, rarely two, six or absent, free, when present imbricate, the adaxial petal innermost and frequently differentiated. Stamens usually 10 in two whorls of alternate length. Dehiscent pods, often explosive with twisted valves, or indehiscent, then generally samaroid. Seeds with apical crescent-shaped (rarely circular) hilum.
 
 ## Distribution
-Species of Cercidoideae occur across several biomes on all continents. Temperate Biome (Eurasia, China, North America), Succulent Biome (southern Africa), Rainforest Biome (South and Central America, Asia, Africa)Temperate Biome (Eurasia, China, North America), Succulent Biome (southern Africa), Rainforest Biome (South and Central America, Asia, Africa)
-
-## Phylogenetic relationships
+Species of Cercidoideae occur across several biomes on all continents. They are found in the Temperate Biome in Eurasia, China and North America, in the Succulent Biome in southern Africa, and in the Rainforest Biome in South and Central America, Asia and Africa.
 
 ## Formal Botanical Description
 As published in LPWG (2017), Taxon 66: 44-77, doi.org/10.12705/661.3
 Subfam. Cercidoideae Legume Phylogeny Working Group, stat. nov. ≡ Cercideae Bronn, Form. Pl. Legumin.: 134, 131. 1822 (“Cerceae”)
-Type: Cercis L.
 
-Trees, shrubs or tendriled lianas (Figs. 3A–F), mostly unarmed but frequently with prickles or infrastipular spines, branches rarely modified into flattened cladodes (Brenierea Humbert); specialised extrafloral nectaries stipular when present (Bauhinia L.), never on petiole and leaf rachis. Stipules in lateral position, free. Leaves uni- or bifoliolate (bipinnate, pinnate, palmate and trifoliolate leaves totally lacking), pulvinate, leaflet blade (when unifoliolate) entire or bilobed with a small mucro at the apex or between the lobes, exstipellate.
-Inflorescence racemose or pseudoracemose; bracteoles minute or large. Flowers bisexual, rarely unisexual (plants polygamous or dioecious), slightly to strongly bilaterally symmetrical, sometimes papilionate (Cercis), hypanthium greatly elongated to almost absent; sepals united in a spathaceous or 2–5-lobed calyx or free; petals free, 5, rarely 2, 6 (some Bauhinia) or absent (Brenierea), imbricate, the adaxial petal innermost and frequently differentiated; stamens usually 10 (sometimes fewer) in two whorls of alternate length, the filaments partly connate or free, anthers mostly uniform and dorsifixed, opening by a longitudinal slit or central pore in each theca, reduced stamens or staminodes sometimes present; pollen 3-colporate, 3–6-colpate, 3-porate, 3-pororate, 3–4-colporoidate or inaperturate monads, rarely in tetrads (only in some Bauhinia); gynoecium 1-carpellate, stipe of ovary free or adnate to abaxial wall of the hypanthium, ovary 1–many-ovulate. Fruits dehiscent (often explosively with twisting
-valves) or indehiscent and then generally samaroid. 
-Seeds with apical crescent-shaped hilum, rarely circular (Cercis), lens inconspicuous, lacking pleurograms, pseudopleurograms, or wing or aril (in Brenierea two funicular aril-like lobes adnate to the testa leaving a short crescent-shaped scar or a long scar running nearly around the seed circumference); embryo straight, very rarely curved (Barklya F.Muell.). 
-Vestured pits lacking in secondary xylem; silica bodies absent; septate fibres and storeyed rays sometimes present. 
-Root nodules absent. 
-2n = 14, 24, 26, 28 (42, 56). 
-Coumarins and cyanogenic glucosides reported; non-protein amino acids common (5-hydroxy-L-tryptophan only reported in this subfamily, Griffonia Baill., Brenierea).
+Type: *Cercis* L.
 
-Clade-based definition (included taxa): The most inclusive crown clade containing Cercis canadensis L. and Bauhinia divaricata L. but not Poeppigia procera C.Presl, Duparquetia orchidacea Baill., or Bobgunnia fistuloides (Harms) J.H.Kirkbr. & Wiersema.
+Trees, shrubs or tendriled lianas, mostly unarmed but frequently with prickles or infrastipular spines, branches rarely modified into flattened cladodes (*Brenierea* Humbert); specialised extrafloral nectaries stipular when present (*Bauhinia* L.), never on petiole and leaf rachis. Stipules in lateral position, free. Leaves uni- or bifoliolate (bipinnate, pinnate, palmate and trifoliolate leaves totally lacking), pulvinate, leaflet blade (when unifoliolate) entire or bilobed with a small mucro at the apex or between the lobes, exstipellate. Inflorescence racemose or pseudoracemose; bracteoles minute or large. Flowers bisexual, rarely unisexual (plants polygamous or dioecious), slightly to strongly bilaterally symmetrical, sometimes papilionate (*Cercis*), hypanthium greatly elongated to almost absent; sepals united in a spathaceous or 2–5-lobed calyx or free; petals free, 5, rarely 2, 6 (some *Bauhinia*) or absent (*Brenierea*), imbricate, the adaxial petal innermost and frequently differentiated; stamens usually 10 (sometimes fewer) in two whorls of alternate length, the filaments partly connate or free, anthers mostly uniform and dorsifixed, opening by a longitudinal slit or central pore in each theca, reduced stamens or staminodes sometimes present; pollen 3-colporate, 3–6-colpate, 3-porate, 3-pororate, 3–4-colporoidate or inaperturate monads, rarely in tetrads (only in some *Bauhinia*); gynoecium 1-carpellate, stipe of ovary free or adnate to abaxial wall of the hypanthium, ovary 1–many-ovulate. Fruits dehiscent (often explosively with twisting valves) or indehiscent and then generally samaroid. Seeds with apical crescent-shaped hilum, rarely circular (*Cercis*), lens inconspicuous, lacking pleurograms, pseudopleurograms, or wing or aril (in *Brenierea* two funicular aril-like lobes adnate to the testa leaving a short crescent-shaped scar or a long scar running nearly around the seed circumference); embryo straight, very rarely curved (*Barklya* F.Muell.). Vestured pits lacking in secondary xylem; silica bodies absent; septate fibres and storeyed rays sometimes present. Root nodules absent. 2n = 14, 24, 26, 28 (42, 56). Coumarins and cyanogenic glucosides reported; non-protein amino acids common (5-hydroxy-L-tryptophan only reported in this subfamily, *Griffonia* Baill., *Brenierea*).
 
 ## To learn more
-Clark, R.P., Mackinder, B.A. & Banks, H. 2017. Cheniella gen. nov. (Leguminosae: Cercidoideae) from southern China, Indochina and Malesia. Eur. J. Taxon. 360: 1–37. https://doi.org/10.5852/ejt.2017.360
+Clark, R.P., Mackinder, B.A. & Banks, H. 2017. *Cheniella* gen. nov. (Leguminosae: Cercidoideae) from southern China, Indochina and Malesia. Eur. J. Taxon. 360: 1–37. https://doi.org/10.5852/ejt.2017.360
 
-Hao, G., Zhang, D.X., Zhang, M.-Y., Guo, L.-X. & Li, S.-J. 2003. Phylogenetics of Bauhinia subgenus Phanera (Leguminosae: Caesalpinioideae) based on ITS sequences of nuclear ribosomal DNA. Bot. Bull. Acad. Sin. 44(3): 223–228.
+Hao, G., Zhang, D.X., Zhang, M.-Y., Guo, L.-X. & Li, S.-J. 2003. Phylogenetics of *Bauhinia* subgenus *Phanera* (Leguminosae: Caesalpinioideae) based on ITS sequences of nuclear ribosomal DNA. Bot. Bull. Acad. Sin. 44(3): 223–228.
 
 Lewis, G.P. & Forest, F. 2005. Cercideae. Pp. 57–67 in: Lewis, G., Schrire, B., Mackinder, B. & Lock, M. (eds.), Legumes of the World. Richmond: Royal Botanic Gardens, Kew.
 
-Sinou, C., Forest, F., Lewis, G. & Bruneau, A. 2009. The genus Bauhinia s.l. (Leguminosae): A phylogeny based on the plastid trnLtrnF region. Botany 87(10): 947–960. https://doi.org/10.1139/B09-065
+Mackinder, B. & Clark, R. 2014. A synopsis of the Asian and Australasian genus *Phanera* Lour. (Cercideae: Caesalpinioideae: Leguminosae) including 19 new combinations. Phytotaxa 66: 49–68. https://doi.org/10.11646/phytotaxa.166.1.3
 
-Wunderlin, R.P. 2010a. Reorganization of the Cercideae (Fabaceae: Caesalpinioideae). Phytoneuron 2010-48: 1–5.
+Meng, H.H., Jacques, F.M., Su, T., Huang, Y.J., Zhang, S.T., Ma, H.J. & Zhou, Z.K. 2014. New biogeographic insight into *Bauhinia* s.l. (Leguminosae): Integration from fossil records and molecular analyses. B. M. C. Evol. Biol. 14(1): 181. https://doi.org/10.1186/s12862-014-0181-4
 
-Wunderlin, R.P. 2010b. New combinations in Schnella (Fabaceae: Caesalpinioideae: Cercideae). Phytoneuron 2010-49: 1–5.
+Queiroz, L.P. de 2006. New species and new combinations in *Phanera* Lour. (Caesalpinioideae: Cercideae) from the Caatinga Biome. Neodiversity 1: 6–10. https://doi.org/10.13102/neod.11.2
+
+Sinou, C., Forest, F., Lewis, G.P. & A. Bruneau. 2009. The genus *Bauhinia* s.l. (Leguminosae): a phylogeny based on the plastid trn L- trn F region. Botany 87: 947 – 960.
+
+Sinou, C., Cardinal-McTeague, W. & Bruneau, A. 2020. Testing generic limits in Cercidoideae (Leguminosae): Insights from plastid and duplicated nuclear gene sequences. TAXON, 69: 67-86. https://doi.org/10.1002/tax.12207
+
+Trethowan, L.A., Clark, R.P. & Mackinder, B.A. 2015. Asynopsis of the neotropical genus *Schnella* (Cercideae: Caesalpinioideae: Leguminosae) including 12 new combinations. Phytotaxa 204: 237–252. https://doi.org/10.11646/phytotaxa.204.4.1
+
+Wang, Y.-H., Wicke, S., Wang, H., Jin, J.-J., Chen, S.-Y., Zhang, S.-D., Li, D.-Z. & Yi, T.-S. 2018. Plastid genome evolution in the early-diverging Legume subfamily Cercidoideae (Fabaceae). Frontiers Pl. Sci. 9: 138. https://doi.org/10.3389/
+fpls.2018.00138.
+
+Wunderlin, R.P. 2010. Reorganization of the Cercideae (Fabaceae: Caesalpinioideae). Phytoneuron 2010-48: 1–5.
+
+Wunderlin, R.P. 2010. New combinations in *Schnella* (Fabaceae: Caesalpinioideae: Cercideae). Phytoneuron 2010-49: 1–5.
 
 ## List of genera from LPWG 2017
 
