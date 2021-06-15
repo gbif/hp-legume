@@ -10,16 +10,52 @@ lang: en
 background: /assets/images/Clianthus_puniceus_37457361.jpeg
 imageLicense: |
   *Clianthus_puniceus* Lindl. Photo by Diane Vallienne via [iNaturalist](https://www.gbif.org/occurrence/2557746015)
-description: Information about the Papilionoideae subfamily
+description: Information about subfamily Papilionoideae 
 height: 70vh
 toc: true
 ---
 
 ## Introduction
 
-## Morphology
+The monophyly of Papilionoideae has been demonstrated in all higher level molecular phylogenetic analyses beginning in the 1990s. This clade, comprised of more than 500 genera and about 40,000 species, is cosmopolitan in distribution. The majority of Papilionoideae are easily recognisable by the characteristic zygomorphic papilionate flower, with its calyx tube, corolla with a large standard (banner) petal outside the adjacent petals, smaller lateral wing petals, and the lower keel petals that are generally connate and protect the 10 stamens (often in a 9+1 arrangement) and gynoecium. Even though the flower is emblematic of the subfamily, the group is much more variable in its flower morphology, including actinomorphic flowers and modifications in all flower whorls. Papilionoideae also display a broad diversity in habit, leaf, fruit and seed morphology. 
 
-## Distribution
+Fossil calibrated phylogenetic and phylogenomic analyses estimate an early Eocene crown age for Papilionoideae. The subfamily is resolved as sister to Caesalpinioideae. Within Papilionoideae not all generic and tribal level relationships have been resolved, but certain clades are consistently highlighted (e.g., Vataireoid, Genistioid sl, Dalbergioid sl, IR-lacking, Mirbelioid, Robinioid, Milletioid, Hologalegina, ADA clades). Some of these clades have now been formally recognised at the tribal or formal clade level, but a revised classification is needed for Papilionoideae. 
+
+
+## Key Features
+Usually unarmed trees, shrubs, lianas, herbs, or twining vines with tendrils. Extrafloral nectaries are absent on petioles and leaf rachis, but are occasionally present on stipules, stipels, and bracts, and can be swollen structures on peduncles or sepals.  Leaves are mostly paripinnate, sometimes imparipinnate or palmately compound, but they are also commonly unifoliolate or trifoliolate. Leaflets sometimes modified into tendrils. Inflorescences are variable, but often racemes or pseudoracemes. Flowers are usually papilionate, more rarely asymmetrical or radially symmetrical. Usually five sepals, generally united at the base and sometimes splitting into irregular lobes. Petals generally five, imbricate with the adaxial petal outermost. Stamens usually 10, with filaments often connate into a sheath or tube. Anthers dehiscing via longitudinal slits. Pollen mostly 3-colporate, 3-colpate or 3-porate. Pods dehiscent pods along one or both sutures, or indehiscent, or loments, samaras or drupes. Seeds usually with a hard testa, sometimes with a fleshy aril or sarcotesta; complex hilar valve, with an elongate hilum and a lens usually present. Embryo usually curved. Root nodules usually present and either indeterminate or determinate. 
+
+
+## Distribution and Ecology
+Widely distributed throughout the world, occurring on all continents, and in all habitat types from rain forest and dry forest, to deserts, and cold arctic and alpine habitats. 
+
+## Human uses
+The vast majority of agriculturally important legume crops are members of Papilionoideae. These include *Glycine max* (L.) Merr. (soybean), *Arachis hypogaea* L. (peanut), *Pisum sativum* L. (pea), *Medicago sativa* L. (alfalfa), *Trifolium* L. (clovers), *Vicia* L. (vetches), *Lens* Mill. (lentils), *Lupinus* L. (lupins), *Phaseolus* L. (beans) and *Lablab purpureus* (L.) Sweet (hyacinth bean), for example. Papilionoideae are important crops that are highly nutritious sources of protein and micronutrients and which were domesticated and have been cultivated alongside grasses in different parts of the world since the beginning of agriculture. Papilionoideae are also used as fodder and green manure in both temperate and tropical regions, and they are used for their wood, tannins, oils and resins, in the manufacture of varnishes, paints, dyes and medicines. They are important in the horticultural trade as urban street trees and garden ornamentals.
+
+## Formal Botanical Description
+As published in LPWG (2017), Taxon 66: 44-77, doi.org/10.12705/661.3
+
+Subfam. Papilionoideae DC., Prodr. 2: 94. 1825 ≡ Faboideae Rudd in Rhodora 70: 496. 1968 – Type: *Faba* Mill., (≡*Vicia* L.).= Lotoideae Burnett, Outlines Bot.: 643. 1835 (“Lotidae”) 
+
+Type: *Lotus* L.
+
+Mostly unarmed trees, shrubs, lianas, herbs, and twining or tendriled vines (Figs. 7–9); specialised extrafloral nectaries lacking on petiole and leaf rachis, occasionally stipular, stipellar or bracteal nectaries, or swollen and nectar-secreting peduncles, rarely on sepals (*Erythrina* L.). Stipules in lateral position (very rarely interpetiolar, in all species of *Platymiscium* Vogel), free or absent. Leaves mostly pari- or imparipinnate to palmately compound, also commonly uni- or trifoliolate, rarely bi- or tetrafoliolate, never bipinnate (palmately-pinnate in *Rhynchosia ferulifolia* Benth. ex Harv.), either pulvinate or not, leaflets opposite or alternate, sometimes modified into tendrils, rarely phyllodinous, stipels present or absent. Inflorescence mostly racemose, pseudoracemose or paniculate,less often cymose, spicate or capitate, axillary or terminal, or flowers solitary; bracteoles usually present, rarely enlarged, valvate, enveloping bud. Flowers bisexual, rarely unisexual, usually bilaterally symmetrical, rarely asymmetrical, radially symmetrical or nearly so, rarely cleistogamous flowers also present; hypanthium present or absent; sepals (3–)5, united at least at the base, sometimes the calyx entire and splitting into irregular lobes or the calyx lobes dimorphic and some petaloid; petals (0–)5(–6) and then imbricate, corolla mostly papilionate, with the adaxial petal (= standard) outermost and largest, usually overlapping lateral wing petals which in turn overlap the abaxial keel petals or, in radially symmetrical flowered species, corolla with 5 small or undifferentiated petals, less often only one (standard) petal is present or all petals absent; stamens typically 10, rarely 9 or many, filaments most commonly connate into a sheath or tube, or uppermost filament wholly or partly free, sometimes all filaments free, anthers uniform or dimorphic, basifixed or dorsifixed, dehiscing longitudinally; pollen in monads, mostly 3-colporate, 3-colpate or 3-porate; gynoecium 1-carpellate, very rarely 2-carpellate, 1–many-ovuled. Fruit a 1–many seeded pod, dehiscing along one or both sutures, or indehiscent, or a loment, samara or drupe. Seeds usually with a hard testa, rarely overgrown, sometimes with a fleshy aril or sarcotesta, a complex hilar valve, elongate hilum and lens usually present, pleurogram absent; embryo usually curved, rarely straight. Vestured pits present in secondary xylem; silica bodies absent; septate fibres sometimes present; all elements (vessels, parenchyma, strands rays) usually in storeyed structure. Root nodules generally present, either indeterminate or determinate. 2n = more commonly 16, 18, 20, 22 but other numbers also reported (2n = 12, 14, 24, 26, 28, 30, 32, 38, 40, 48, 64, 84). Isoflavonoids, prenylated flavonoids, indolizidine or quinolizidine alkaloids reported. Non-protein amino acids widespread, some exclusively found in the subfamily (e.g., canavanine). 
+
+## To learn more
+Cardoso, D., de Queiroz, L.P., Pennington, R.T., de Lima, H.C., Fonty, É., Wojciechowski, M.F., Lavin, M., 2012. Revisiting the phylogeny of papilionoid legumes: new insights from comprehensively sampled early-branching lineages. American Journal of Botany 99, 1991–2013.
+
+Doyle, J.J., Doyle, J.L., Ballenger, J.A., Palmer, J.D. 1996. The distribution and phylogenetic significance of a 50-kb chloroplast DNA inversion in the flowering plant family Leguminosae. Molecular Phylogenetics and Evolution 5, 429–438.
+
+Doyle, J.J., Doyle, J.L., Ballenger, J.A., Dickson, E.E., Kajita, T., Ohashi,H. 1997. A phylogeny of the chloroplast gene rbcL in the Leguminosae: taxonomic correlations and insights into the evolution of nodulation. American Journal of Botany 84, 541–554.
+
+Käss, E., Wink, M., 1996. Molecular evolution of the Leguminosae: phylogeny of the three subfamilies based on rbcL sequences. Biochemical Systematics and Ecology 24, 365–378.
+
+Lavin, M., Herendeen, P.S. & Wojciechowski, M.F. 2005. Evolutionary rates analysis of Leguminosae implicates a rapid diversification of lineages during the Tertiary. Syst. Biol. 54: 575–594. https://doi.org/10.1080/10635150590947131
+
+Wojciechowski, M.F., Lavin, M., Sanderson, M.J., 2004. A phylogeny of legumes (Leguminosae) based on analysis of the plastid matK gene resolves many well supported subclades within the family. American Journal of Botany 91, 1846–1862.
+
+Wojciechowski, M.F. 2013. Towards a new classification of Leguminosae: Naming clades using non-Linnaean phylogenetic nomenclature. S. African J. Bot. 89: 85–93. https://doi.org/10.1016/j.sajb.2013.06.017
+
 
 ## List of genera from LPWG 2017
 
