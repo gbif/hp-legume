@@ -68,9 +68,9 @@ Below is an alphabetical list of all genera accepted in [LPWG 2017](https://doi.
 Please see the [Species List and Synonyms](https://hp-legume.gbif-staging.org/taxonomy/species-list) and [Legume Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessbile by [Browse](https://hp-legume.gbif-staging.org/taxonomy/browse) or  [Advanced Search](https://hp-legume.gbif-staging.org/taxonomy/search).
 
  
- |Genus                  |     GBIF                     | Plants of the World   |
+ |Genus                  | Legume Data Portal |           GBIF                  | World Checklist of Vascular Plants   |
 | --------------------- |------------------------------|-----------------------|
-|	Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.	|	[GBIF](https://www.gbif.org/species/2956199)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21580-1)	|
+|	Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.	|	[Legume Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21580-1)|	[GBIF](https://www.gbif.org/species/2956199)	|	[WCVP](https://wcvp.science.kew.org/taxon/21580-1)	|
 |	Barklya F.Muell.	|	[GBIF](https://www.gbif.org/species/2955817)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21784-1)	|
 |	Bauhinia L.	|	[GBIF](https://www.gbif.org/species/2952935)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327181-2)	|
 |	Brenierea Humbert; Cercis L.	|	[GBIF](https://www.gbif.org/species/2977380)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21855-1)	|
