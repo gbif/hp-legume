@@ -61,21 +61,19 @@ Le tableau suivant est la liste alphabétique de tous les genres acceptés dans 
 Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](https://hp-legume.gbif-staging.org/fr/taxonomy/species-list) et à celle du [Groupe de travail sur la toxonomie](https://hp-legume.gbif-staging.org/fr/working-groups/taxonomy) pour obtenir plus d'informations. La taxonomie actuelle est accessible via la page [Parcourir](https://hp-legume.gbif-staging.org/fr/taxonomy/browse) ou la [Recherche avancée](https://hp-legume.gbif-staging.org/fr/taxonomy/search).
 
 
- |Genus                  |     GBIF                     | Plants of the World   |
+ |Genus                  | Legume Data Portal |           GBIF                  | World Checklist of Vascular Plants   |
 | --------------------- |------------------------------|-----------------------|
-|	Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.	|	[GBIF](https://www.gbif.org/species/2956199)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21580-1)	|
-|	Barklya F.Muell.	|	[GBIF](https://www.gbif.org/species/2955817)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21784-1)	|
-|	Bauhinia L.	|	[GBIF](https://www.gbif.org/species/2952935)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327181-2)	|
-|	Brenierea Humbert; Cercis L.	|	[GBIF](https://www.gbif.org/species/2977380)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:21855-1)	|
-|	Cercis L.	|	[GBIF](https://www.gbif.org/species/2955919)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30001619-2)	|
-|	Cheniella R.Clark & Mackinder	|	[GBIF](https://www.gbif.org/species/9712046)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:77165904-1)	|
-|	Gigasiphon Drake	|	[GBIF](https://www.gbif.org/species/8059232)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22484-1)	|
-|	Griffonia Baill.	|	[GBIF](https://www.gbif.org/species/2945470)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22523-1)	|
-|	Lasiobema (Korth.) Miq. = Phanera Lour.	|	[GBIF](https://www.gbif.org/species/7301321)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22740-1)	|
-|	Lysiphyllum (Benth.) de Wit; Phanera Lour.	|	[GBIF](https://www.gbif.org/species/9105569)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:22849-1)	|
-|	Phanera Lour.	|	[GBIF](https://www.gbif.org/species/7278390)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23206-1)	|
-|	Piliostigma Hochst.	|	[GBIF](https://www.gbif.org/species/2947989)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:329960-2)	|
-|	Schnella Raddi	|	[GBIF](https://www.gbif.org/species/7278569)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30003119-2)	|
-|	Tournaya A.Schmitz	|	[GBIF](https://www.gbif.org/species/7301486)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23709-1)	|
-|	Tylosema (Schweinf.) Torre & Hillc. 	|	[GBIF](https://www.gbif.org/species/9010267)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:23743-1)	|
-
+| Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21580-1)|  [GBIF](https://www.gbif.org/species/2956199)  | [WCVP](https://wcvp.science.kew.org/taxon/21580-1)  |
+| Barklya F.Muell.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21784-1)|[GBIF](https://www.gbif.org/species/2955817)  | [WCVP](https://wcvp.science.kew.org/taxon/21784-1)  |
+| Bauhinia L. |[Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/327181-2)|  [GBIF](https://www.gbif.org/species/2952935)  | [WCVP](https://wcvp.science.kew.org/taxon/327181-2) |
+| Brenierea Humbert; Cercis L.  |[Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21855-1)| [GBIF](https://www.gbif.org/species/2977380)  | [WCVP](https://wcvp.science.kew.org/taxon/21855-1)  |
+| Cercis L. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/30001619-2)|[GBIF](https://www.gbif.org/species/2955919) | [WCVP](https://wcvp.science.kew.org/taxon/30001619-2) |
+| Cheniella R.Clark & Mackinder |[Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/77165904-1)|  [GBIF](https://www.gbif.org/species/9712046)  | [WCVP](https://wcvp.science.kew.org/taxon/77165904-1) |
+| Gigasiphon Drake  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22484-1)|[GBIF](https://www.gbif.org/species/8059232)  | [WCVP](https://wcvp.science.kew.org/taxon/22484-1)  |
+| Griffonia Baill.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22523-1)|[GBIF](https://www.gbif.org/species/2945470)  | [WCVP](https://wcvp.science.kew.org/taxon/22523-1)  |
+| Lysiphyllum (Benth.) de Wit; Phanera Lour.  |[Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22849-1)| [GBIF](https://www.gbif.org/species/9105569)  | [WCVP](https://wcvp.science.kew.org/taxon/22849-1)  |
+| Phanera Lour. |[Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21580-1)|[GBIF](https://www.gbif.org/species/7278390) | [WCVP](https://wcvp.science.kew.org/taxon/23206-1)  |
+| Piliostigma Hochst. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/329960-2)|[GBIF](https://www.gbif.org/species/2947989) | [WCVP](https://wcvp.science.kew.org/taxon/329960-2) |
+| Schnella Raddi  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/30003119-2)|[GBIF](https://www.gbif.org/species/7278569) | [WCVP](https://wcvp.science.kew.org/taxon/30003119-2) |
+| Tournaya A.Schmitz  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23709-1)|[GBIF](https://www.gbif.org/species/7301486)  | [WCVP](https://wcvp.science.kew.org/taxon/23709-1)  |
+| Tylosema (Schweinf.) Torre & Hillc.   | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23743-1)|[GBIF](https://www.gbif.org/species/9010267)  | [WCVP](https://wcvp.science.kew.org/taxon/23743-1)  |
