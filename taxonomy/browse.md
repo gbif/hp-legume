@@ -7,7 +7,10 @@ description: Browse the checklist of Fabaceae
 klass: fullwidth
 lang-ref: species-browse
 ---
-You can download the latest version of the WCVP-Fabaceae list in Excel (with DarwinCore fields) from the [Catalogue of Life ChecklistBank] (https://data.catalogueoflife.org/dataset/2304/about) and in pdf format here (link to be added later).
+
+You can download the latest version of the WCVP-Fabaceae list in Excel (with DarwinCore fields) from the [Catalogue of Life ChecklistBank](https://data.catalogueoflife.org/dataset/2304/about) and in pdf format here (link to be added later).
+
+
 <!--react and gbif component-->
 <script src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
 <script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>

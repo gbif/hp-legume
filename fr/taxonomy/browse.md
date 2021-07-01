@@ -8,6 +8,9 @@ klass: fullwidth
 lang-ref: species-browse
 ---
 
+Vous pouvez télécharger la dernière version de la liste WCVP-Fabaceae au format Excel (avec les champs Darwin Core) depuis la [ChecklistBank du Catalog of Life](https://data.catalogueoflife.org/dataset/2304/about) et au format pdf ici (Lien à ajouter).
+
+
 <!--react and gbif component-->
 <script src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
 <script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
