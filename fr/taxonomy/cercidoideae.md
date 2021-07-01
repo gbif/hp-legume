@@ -61,7 +61,7 @@ Le tableau suivant est la liste alphabétique de tous les genres acceptés dans 
 Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](https://hp-legume.gbif-staging.org/fr/taxonomy/species-list) et à celle du [Groupe de travail sur la toxonomie](https://hp-legume.gbif-staging.org/fr/working-groups/taxonomy) pour obtenir plus d'informations. La taxonomie actuelle est accessible via la page [Parcourir](https://hp-legume.gbif-staging.org/fr/taxonomy/browse) ou la [Recherche avancée](https://hp-legume.gbif-staging.org/fr/taxonomy/search).
 
 
- |Genus                  | Legume Data Portal |           GBIF                  | World Checklist of Vascular Plants   |
+ |Genus                  | Data Source   |
 | --------------------- |------------------------------|-----------------------|
 | Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21580-1)|  [GBIF](https://www.gbif.org/species/2956199)  | [WCVP](https://wcvp.science.kew.org/taxon/21580-1)  |
 | Barklya F.Muell.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21784-1)|[GBIF](https://www.gbif.org/species/2955817)  | [WCVP](https://wcvp.science.kew.org/taxon/21784-1)  |
