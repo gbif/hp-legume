@@ -75,7 +75,7 @@ algae:
 # be aware that COL ids are unstable https://github.com/CatalogueOfLife/backend/issues/980 - so this might not work tomorrow.
 col:
   gbifDatasetKey: f382f0ce-323a-4091-bb9f-add557f3a9a2
-  version: "0.7.11" # There is no latest version we can get, so we have to rely on a specific version. If the site appears broken, then this probably needs to be updated to the latest version
+  version: "1.0" # There is no latest version we can get, so we have to rely on a specific version. If the site appears broken, then this probably needs to be updated to the latest version
   catalogueKey: "2232"
   defaultTaxonKey: "x4VX" # This value have been observed to change over time
 
