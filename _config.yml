@@ -23,7 +23,7 @@ email: legumephylogenywg@gmail.com
 description: >- # this means to ignore newlines (until baseurl:)
   This data portal aims to give information about the Legume family, based on the expertise of the Legume Phylogeny Working Group (LPWG) and GBIF.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hp-legume.gbif-staging.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hp-legume.gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
