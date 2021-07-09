@@ -19,20 +19,21 @@ The LPWG has been working in collaboration with the Royal Botanic Gardens, Kew, 
 
 The most recent version of this taxonomy can be accessed through the [menu on the left](https://hp-legume.gbif-staging.org/taxonomy/browse). The Fabaceae data is also accessible via this [DOI](https://doi.org/10.15468/6h8ucr) which includes all vascular plant taxonomy of WCVP.
 
+
 ## Species List
-Currently the best way to access species lists is also through the [menu on the left](https://hp-legume.gbif-staging.org/taxonomy/browse). This functionality is part of the [Catalogue of Life Checklistbank](https://data.catalogueoflife.org/).  Unfortunately this list doesn't include subfamily designation. 
+The most recent version of this taxonomy can be accessed through the [menu on the left](https://hp-legume.gbif-staging.org/taxonomy/browse). The WCVP-Fabaceae species list is also available for download in .txt from the [Catalogue of Life ChecklistBank](https://data.catalogueoflife.org/dataset/2304/about) and in a classic checklist format [here](link to be added later). Unfortunately this list doesn't include subfamily designation. 
 
-## List of genera from LPWG 2017
+## List of genera accepted by the LPWG
 
-Below is an alphabetical list of all genera accepted in [LPWG 2017](https://doi.org/10.1071/SB19025) with links out to the taxonomic pages on GBIF and Plants of the World Online. Over time this list will be updated to reflect the evolving taxonomy. 
+Below is an alphabetical list of all genera, with the subfamily designation, as currently accepted by the LPWG. This is an update to the list of genera accepted in [LPWG 2017](https://doi.org/10.1071/SB19025). We provide links to the taxonomic pages in our verified taxonomic list, on GBIF and on the World Checklist of Vascular Plants. Over time this list will be updated to reflect the evolving taxonomy.
 
 Please see the [Species List and Synonyms](https://hp-legume.gbif-staging.org/taxonomy/species-list) and [Legume Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessbile by [Browse](https://hp-legume.gbif-staging.org/taxonomy/browse) or  [Advanced Search](https://hp-legume.gbif-staging.org/taxonomy/search).
 
 
 
-|Subfamily|Genus|GBIF |Plants of the World|
-| ---------------------- |------------------------|---------------------------|------------------------|
-|	[Caesalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	Abarema Pittier 	|	[GBIF](https://www.gbif.org/species/2977807)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30032383-2)	|
+|Genus|Subfamily | Data Source |
+| ---------------------- |------------------------|---------------------------|------------------------|------------------------|
+|Abarema Pittier 	|	[Caesalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	[Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/30032383-2)	[GBIF](https://www.gbif.org/species/2977807)	|	[WCVP](http://https://wcvp.science.kew.org/taxon/30032383-2)	|
 |	[Papilionoideae](https://hp-legume.gbif-staging.org/taxonomy/papilionoideae)	|	Abrus Adans.	|	[GBIF](https://www.gbif.org/species/2943776)	|		|
 |	[Caesalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	Acacia Mill. 	|	[GBIF](https://www.gbif.org/species/2978223)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:325783-2)	|
 |	[Caesalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	Acaciella Britton & Rose 	|	[GBIF](https://www.gbif.org/species/6627713)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296613-2)	|
