@@ -3,7 +3,7 @@ layout: heroImage
 lang-ref: traits
 title: Legume Traits Working Group
 background: /assets/images/traits.png
-description: The mysterious world of legume functional traits
+description: Unravelling legume morphological diversity
 height: 70vh
 toc: true
 ---
@@ -11,9 +11,7 @@ toc: true
 Coordinators: [Renske Onstein](mailto:onsteinre@gmail.com) (German Centre for Integrative Biodiversity Research ([iDiv](https://www.idiv.de/en/index.html)), Germany) & [Leonardo Borges](mailto:aquitemcaqui@gmail.com) (Universidade Federal de São Carlos, Brazil)
 
 ## Introduction
-Even after generations of work by an army of legume workers, the myriad and beauty of legume morphology, structure and function are still a mystery. How and when did all those traits evolve? What factors are behind their evolution? How do they dictate and influence how legumes interact with the world?
-
-Driven by such questions, the legume functional trait working group was founded. The working group aims to increase communication between researchers studying legume traits to facilitate collaboration and avoid redundant data collection efforts. We also want to promote sharing and integration of data and collection protocols.
+Even after generations of work by an army of legume workers, the myriad and beauty of legume morphology, structure and function are still a mystery. How and when did all those traits evolve? What factors are behind their evolution? How do they dictate and influence how legumes interact with the world? Driven by such questions, the legume trait working group was founded. The working group aims to increase communication between researchers studying legume traits to facilitate collaboration and avoid redundant data collection efforts. We also want to promote sharing and integration of data and collection protocols.
 
 ## Strategy & Future plans
 
