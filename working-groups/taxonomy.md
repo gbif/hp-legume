@@ -21,7 +21,7 @@ In collaboration with Rafaël Govaerts at Royal Botanic Gardens, Kew, the Taxono
 
 ## Future plans
 
-Eventually the taxonomic list can be used to link to and synthesise other data types – traits, descriptions, higher level taxonomy, occurrence and specimen data, dynamic maps and images. One of the goals of the LPWG is to collate information on legumes so that it is easily accessible and useful to researchers and other users around the world. In a 2019 publication the legume community expressed the need for an online portal for the family which would encompass richer data sets from multiple partners using a sound species checklist and benefitting from knowledge held held by the LPWG. 
+Eventually the taxonomic list can be used to link to and synthesise other data types – traits, descriptions, higher level taxonomy, occurrence and specimen data, dynamic maps and images. One of the goals of the LPWG is to collate information on legumes so that it is easily accessible and useful to researchers and other users around the world. In a 2019 publication the legume community expressed the need for an online portal for the family which would encompass richer data sets from multiple partners using a sound species checklist and benefitting from knowledge held by the LPWG. 
 
 ## Join the Working Group
 
