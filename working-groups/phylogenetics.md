@@ -12,7 +12,7 @@ Coordinators: [Felix Forest](mailto:F.Forest@kew.org) ([Royal Botanic Gardens, K
 
 ## Introduction
 
-The Phylogenomic Working Group brings together different teams from across the legume research community that have been investigating phylogenetic relationships within the family at different taxonomic levels using genomic-scale data sets. The principal aim of the group is to compile a well-sampled robust generic-level phylogenetic tree for the family, to serve as the basis for the progressive reconstruction of a complete species-level phylogenetic tree for the entire family. This generic-level phylogenetic framework is crucial to improve the subfamilial classification of the family (i.e. delimitation of tribes) and test the monophyly of genera to help with re-delimitation of genera suspected to be non-monophyletic. 
+The Phylogenomic Working Group brings together teams from across the legume research community that have been investigating phylogenetic relationships within the family at different taxonomic levels using genomic-scale data sets. The principal aim of the group is to compile a well-sampled robust generic-level phylogenetic tree for the family, to serve as the basis for the progressive reconstruction of a complete species-level phylogenetic tree for the entire family. This generic-level phylogenetic framework is crucial to improve the subfamilial classification of the family (i.e. delimitation of tribes) and test the monophyly of genera to help with re-delimitation of genera suspected to be non-monophyletic. 
 
 ## Strategy
 
@@ -20,7 +20,7 @@ The group also aims to find ways to harmonize the different target enrichment (h
 
 ## Future plans
 
-Given the advanced state of the work undertaken by several groups who have designed the probe sets enumerated above, phylogenomics within legumes is advancing rapidly on several fronts, with well sampled studies emerging for all subfamilies. Given that the monophyly of each subfamily is well established, these parallel efforts will each provide valuable information on phylogenetic relationships within the family. 
+Given the advanced state of the work undertaken by several groups who have designed the probe sets enumerated above, phylogenomics within legumes is advancing rapidly on several fronts, with well sampled studies emerging for all subfamilies. These parallel efforts will each provide valuable information on phylogenetic relationships within the family. For example, phylogenomic analyses are the basis for a new tribal and clade classification for subfamily Caesalpinioideae that is being developed by the LPWG. 
 
 ## Join the Working Group
 
