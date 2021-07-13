@@ -22,10 +22,14 @@ The most recent version of this taxonomy can be accessed through the [menu on th
 
 ## List of genera accepted by the LPWG
 
-Below is an alphabetical list of all genera, with the subfamily designation, as currently accepted by the LPWG. This is an update to the list of genera accepted in [LPWG 2017](https://doi.org/10.1071/SB19025). We provide links to the taxonomic pages in our verified taxonomic list, on GBIF and on the World Checklist of Vascular Plants. Over time this list will be updated to reflect the evolving taxonomy.
+Below is an alphabetical list of all genera, with the subfamily designation, as currently accepted by the LPWG. This is an update to the list of genera accepted in [LPWG 2017](https://doi.org/10.12705/661.3). We provide links to the taxonomic pages in our verified taxonomic list, on GBIF and on the World Checklist of Vascular Plants. Over time this list will be updated to reflect the evolving taxonomy.
 
-Please see the [Species List and Synonyms](https://hp-legume.gbif-staging.org/taxonomy/species-list) and [Legume Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessbile by [Browse](https://hp-legume.gbif-staging.org/taxonomy/browse) or  [Advanced Search](https://hp-legume.gbif-staging.org/taxonomy/search).
+The current taxonomy is accessbile by [Browse](https://hp-legume.gbif-staging.org/taxonomy/browse) or [Advanced Search](https://hp-legume.gbif-staging.org/taxonomy/search).
 
+Version 2 ?
+Below is an alphabetical list of all genera, with the subfamily designation, as currently accepted by the LPWG. Over time this list will be updated to reflect the evolving taxonomy. The current taxonomy is accessible by Browse or Advanced Search. 
+
+For each accepted genus, links to our verified taxonomic list, to GBIF and to the World Checklist of Vascular Plants are available on the generic lists of the subfamily pages.
 
 
 |Genus|Subfamily | Data Source |
