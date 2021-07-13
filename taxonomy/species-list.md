@@ -34,7 +34,7 @@ For each accepted genus, links to our verified taxonomic list, to GBIF and to th
 
 |Genus|Subfamily | Data Source |
 | ---------------------- |------------------------|---------------------------|------------------------|------------------------|
-|Abarema Pittier 	|	[Caesalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	[Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/30032383-2)|	[GBIF](https://www.gbif.org/species/2977807)	|	[WCVP](http://https://wcvp.science.kew.org/taxon/30032383-2)	|
+|Abarema Pittier 	|	[Caesalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae#list-of-genera-from-lpwg-2017)	|	[Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/30032383-2)|	[GBIF](https://www.gbif.org/species/2977807)	|	[WCVP](http://https://wcvp.science.kew.org/taxon/30032383-2)	|
 |	Abrus Adans.|	[Papilionoideae](https://hp-legume.gbif-staging.org/taxonomy/papilionoideae)	|	[Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21549-1)	|	[GBIF](https://www.gbif.org/species/2943776)	|	[WCVP](https://wcvp.science.kew.org/taxon/21549-1)	|
 |	[Caesalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	Acacia Mill. 	|	[GBIF](https://www.gbif.org/species/2978223)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:325783-2)	|
 |	[Caesalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae)	|	Acaciella Britton & Rose 	|	[GBIF](https://www.gbif.org/species/6627713)	|	[POWO](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:296613-2)	|
