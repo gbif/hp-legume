@@ -57,12 +57,11 @@ Wojciechowski, M.F., Lavin, M., Sanderson, M.J., 2004. A phylogeny of legumes (L
 Wojciechowski, M.F. 2013. Towards a new classification of Leguminosae: Naming clades using non-Linnaean phylogenetic nomenclature. S. African J. Bot. 89: 85–93. https://doi.org/10.1016/j.sajb.2013.06.017
 
 
-## List of genera from LPWG 2017
+## List of genera
 
-Below is an alphabetical list of all genera accepted in [LPWG 2017](https://doi.org/10.1071/SB19025) with links out to the taxonomic pages on GBIF. Over time this list will be updated to reflect the evolving taxonomy. 
+Below is an alphabetical list of all genera accepted by the LPWG with links out to the taxonomic pages on our portal, GBIF and World Checklist of Vascular Plants (Kew). Over time this list will be updated to reflect the evolving taxonomy. 
 
 Please see the [Species List and Synonyms](https://hp-legume.gbif-staging.org/taxonomy/species-list) and [Legume Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessbile by [Browse](https://hp-legume.gbif-staging.org/taxonomy/browse) or  [Advanced Search](https://hp-legume.gbif-staging.org/taxonomy/search).
-
 
 |Genus                  |     GBIF                     | 
 | --------------------- |------------------------------|
