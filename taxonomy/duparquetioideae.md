@@ -36,11 +36,11 @@ Unarmed, scrambling liana, often climbing to the forest canopy; specialised extr
 Prenner, G. and Klitgaard, B.B. (2008). Towards unlocking the deep nodes of Leguminosae: Floral development and morphology of the enigmatic *Duparquetia orchidacea* (Leguminosae, Caesalpinioideae). American Journal of Botany 95: 1349-1365. https://doi.org/10.3732/ajb.0800199
 
 
-## List of genera from LPWG 2017
+## List of genera
 
-Below is an alphabetical list of all genera accepted in [LPWG 2017](https://doi.org/10.1071/SB19025) with links out to the taxonomic pages on GBIF and Plants of the World Online. Over time this list will be updated to reflect the evolving taxonomy. 
+Below is an alphabetical list of all genera accepted by the LPWG with links out to the taxonomic pages on our portal, GBIF and World Checklist of Vascular Plants (Kew). Over time this list will be updated to reflect the evolving taxonomy. 
 
-Please see the [Species List and Synonyms](https://hp-legume.gbif-staging.org/taxonomy/species-list) and [Legume Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessbile by [Browse](https://hp-legume.gbif-staging.org/taxonomy/browse) or  [Advanced Search](https://hp-legume.gbif-staging.org/taxonomy/search). 
+Please see the [Species List and Synonyms](https://hp-legume.gbif-staging.org/taxonomy/species-list) and [Legume Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessbile by [Browse](https://hp-legume.gbif-staging.org/taxonomy/browse) or  [Advanced Search](https://hp-legume.gbif-staging.org/taxonomy/search).
 
 
 |Genus                  |     GBIF                     | Plants of the World   |
