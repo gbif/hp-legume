@@ -14,11 +14,11 @@ height: 70vh
 toc: true
 ---
 
-## Introduction
-Subfamily Duparquetioideae includes the single species *Duparquetia orchidacea*. This unusual West African species forms a distinct lineage in all phylogenetic analyses with no obvious closest relatives. Morphologically this species is also unique in the family. *Duparquetia* is a liana with imparipinnate leaves, a racemose inflorescence, zygomorphic flowers, and a woody, elastically dehiscent pod. In *Duparquetia* flowers the vexillary petal is exterior in bud, a characteristic which generally is found only in subfamily Papilionoideae. The morphology, ultrastructure and development of *Duparquetia* pollen are also unusual, not only in the Leguminosae, but among the eudicots. Finally, the species lacks vestured pits in the wood vessels, a feature that is present in most Leguminosae except Cercidoideae and most Dialioideae. Recent phylogenetic analyses resolve subfamily Duparquetioideae as sister to the clade formed by Papilioinoideae, Caesalpinioideae and Dialiodeae.
+## Introduction 
+Subfamily Duparquetioideae includes the single species *Duparquetia orchidacea*. This unusual West African species forms a distinct lineage in all phylogenetic analyses with no obvious closest relatives. Recent phylogenetic analyses resolve subfamily Duparquetioideae as sister to the clade formed by Papilioinoideae, Caesalpinioideae and Dialiodeae.
 
 ## Key Features
-Unarmed scrambling liana with imparipinnate leaves. Flowers arranged in a terminal raceme, bisexual, strongly bilaterally symmetrical, but never papilionate. Four free sepals, the abaxial and adaxial sepals cucullate and sepaloid, and the lateral ones petaloid. Five free, imbricate petals, the adaxial petal outermost, the adaxial and two lateral petals ovate, whereas the two abaxial ones are strap-like; all five have stalked glandular structures along their margins. Four free stamens with anthers that are fused into a curving synandrium and have poricidal dehiscence. Woody dehiscent pods, 4-angled, with valves that are spirally coiled, and two to five seeds.
+Morphologically subfamily Duparquetioideae is unique in the family. *Duparquetia* is a liana with imparipinnate leaves, a racemose inflorescence, zygomorphic flowers, and a woody, elastically dehiscent pod. In *Duparquetia* flowers the vexillary petal is exterior in bud, a characteristic which generally is found only in subfamily Papilionoideae. The morphology, ultrastructure and development of *Duparquetia* pollen are also unusual, not only in the Leguminosae, but among the eudicots. Finally, the species lacks vestured pits in the wood vessels, a feature that is present in most Leguminosae except Cercidoideae and most Dialioideae. 
 
 ## Distribution and Ecology
 *Duparquetia orchidacea* is endemic to tropical humid forests of Central and West Africa.
