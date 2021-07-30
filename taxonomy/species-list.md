@@ -26,13 +26,8 @@ Below is an alphabetical list of all genera, with the subfamily designation, as 
 
 The current taxonomy is accessbile by [Browse](https://hp-legume.gbif-staging.org/taxonomy/browse) or [Advanced Search](https://hp-legume.gbif-staging.org/taxonomy/search).
 
-Version 2 ?
-Below is an alphabetical list of all genera, with the subfamily designation, as currently accepted by the LPWG. Over time this list will be updated to reflect the evolving taxonomy. The current taxonomy is accessible by Browse or Advanced Search. 
 
-For each accepted genus, links to our verified taxonomic list, to GBIF and to the World Checklist of Vascular Plants are available on the generic lists of the subfamily pages.
-
-
-|Genus|Subfamily | Data Source |
+|Genus|Subfamily | Data Source            |
 | ---------------------- |------------------------|---------------------------|------------------------|------------------------|
 |Abarema Pittier 	|	[Caesalpinioideae](https://hp-legume.gbif-staging.org/taxonomy/caesalpinioideae#list-of-genera-from-lpwg-2017)	|	[Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/30032383-2)|	[GBIF](https://www.gbif.org/species/2977807)	|	[WCVP](http://https://wcvp.science.kew.org/taxon/30032383-2)	|
 |	Abrus Adans.|	[Papilionoideae](https://hp-legume.gbif-staging.org/taxonomy/papilionoideae)	|	[Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21549-1)	|	[GBIF](https://www.gbif.org/species/2943776)	|	[WCVP](https://wcvp.science.kew.org/taxon/21549-1)	|
