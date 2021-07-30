@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: Legume Data Portal
-description: Learn and discover data about the biology, diversity and evolution of this fascinating family of flowering plants...
+description: Learn and discover data about the biology, diversity and evolution of this fascinating family of flowering plants
 background: /assets/images/Enterolobium_cyclocarpum_42323408.jpeg
 imageLicense: |
   *Enterolobium cyclocarpum* (Jacq.) Griseb. Photo by ric van den Berghe via [iNaturalist](https://www.gbif.org/occurrence/2609325904)
