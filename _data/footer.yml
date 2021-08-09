@@ -11,11 +11,14 @@ columns:
     description: | # Can be Markdown
       This project is open source. 
       All files are available on [GitHub](https://github.com/gbif/hp-legume).
+      To leave a comment, report an issue or suggest an improvement, you can [create a new GitHub issue](https://github.com/gbif/hp-legume/issues/new).
 
   - name: Contact
     description: | # Can be Markdown
       * [Email]("mailto:legumephylogenywg@gmail.com")
     connectIcons: true
+other: |
+  [Privacy policy](/privacy)
 
   # EXAMPLE
   #- name: Group name

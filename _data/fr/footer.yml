@@ -7,15 +7,19 @@ columns:
     description: |
       Ce portail est un projet du Groupe de Travail sur la Phylogénie des Légumineuses (Legume Phylogeny Working Group - LPWG).
 
-  - name: Code
+  - name: Code et commentaires
     description: | # Can be Markdown
       Ce projet est open source. 
       Tous les fichiers sont disponibles sur [GitHub](https://github.com/gbif/hp-legume).
+      Pour laisser un commentaire, signaler une erreur ou suggérer une amélioration, [créez un nouvel "issue" GitHub](https://github.com/gbif/hp-legume/issues/new).
 
   - name: Contact
     description: | # Can be Markdown
       * [Courriel]("mailto:legumephylogenywg@gmail.com")
     connectIcons: true
+
+other: |
+  [Politique de confidentialité](/privacy)
 
   # EXAMPLE
   #- name: Group name
