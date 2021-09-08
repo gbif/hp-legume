@@ -25,6 +25,8 @@ Eventually the taxonomic list can be used to link to and synthesise other data t
 
 ## Join the Working Group
 
-If you would like to participate in this endeavour and share your taxonomic expertise, please contact [Anne Bruneau](mailto:anne.bruneau@umontreal.ca) or [Marianne le Roux](mailto:M.LeRoux@sanbi.org.za) 
+If you would like to participate in this endeavour and share your taxonomic expertise, please contact [Anne Bruneau](mailto:anne.bruneau@umontreal.ca) or [Marianne le Roux](mailto:M.LeRoux@sanbi.org.za).
+
+The list of genera that must still be verified is available [here](https://docs.google.com/spreadsheets/d/1lkWVr8OUFbIVirX6hbr4ISszxTJpuhTw/edit#gid=463185985).
 
 Further reading: Bruneau, A., Borges, L.M., Allkin, R., Egan, A.N., De la Estrella, M., Javadi, F., Klitgaard, B., Miller, J.T., Murphy, D.J., Sinou, C., Vatanparast, M. & Zhang, R. 2019. Towards a new online species-information system for legumes. Australian Systematic Botany 32: 495–518. [Link](https://doi.org/10.1071/SB19025) 
