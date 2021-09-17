@@ -1,5 +1,5 @@
 ---
-title:  "Updated Legumes species list"
+title:  "Updated Legume species checklist"
 date:   2021-09-17 10:00:00 +0100
 categories: ["Species list"]
 lang-ref: species list
