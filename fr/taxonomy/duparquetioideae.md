@@ -51,4 +51,4 @@ Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](h
 
 |Espèce                  |     Source de Données                     |
 | --------------------- |------------------------------|-----------------------|
-| Duparquetia orchidacea Baill. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/380758-1) | [GBIF](https://www.gbif.org/species/2968140) | WCVP](https://wcvp.science.kew.org/taxon/380758-1)  |
+| Duparquetia orchidacea Baill. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/380758-1) | [GBIF](https://www.gbif.org/species/2968140) | [WCVP](https://wcvp.science.kew.org/taxon/380758-1)  |
