@@ -32,11 +32,11 @@ Type: *Duparquetia* Baill.
 
 Unarmed, scrambling liana, often climbing to the forest canopy; specialised extrafloral nectaries lacking on petiole and leaf rachis. Stipules in lateral position, free, narrowly triangular. Leaves imparipinnate, pulvinate, leaflets opposite, exstipellate. Inflorescence a terminal, erect, 10–30-flowered raceme; bracteoles 2, small. Flowers bisexual, strongly bilaterally symmetrical, hypanthium lacking; sepals 4, unequal, the abaxial and adaxial sepals cucullate, sepaloid, the lateral sepals petaloid; petals 5, free, dimorphic, the adaxial and the two lateral petals ovate, two abaxial petals strap-like, oblong, all 5 petals with stalked gland-like extrusions along their margins, imbricate, the adaxial petal outermost; stamens 4, the anthers basifixed, oblong, with pointed appendages, the thecae dehisce by a short, apical, poricidal slit, the anthers postgenitally fused into a curving synandrium, the appendages remain free; pollen in monads, asymmetrical, one equatorial-encircling ectoaperture with two equatorial endoapertures; gynoecium 1-carpellate, stipitate, 2–5-ovuled, with four ridges running along the length of the ovary. Fruit an oblong four-angled, woody pod, dehiscent, valves spirally coiled. Seeds 2–5 per fruit, oblong to ovoid, the testa thick; embryo straight. Vestured pits lacking in secondary xylem; silica bodies, septate fibres and storeyed rays absent. Root nodules absent. Chromosome number unknown.
 
-## Pour en apprendre plus
+## Pour en savoir plus
 Prenner, G. and Klitgaard, B.B. (2008). Towards unlocking the deep nodes of Leguminosae: Floral development and morphology of the enigmatic *Duparquetia orchidacea* (Leguminosae, Caesalpinioideae). American Journal of Botany 95: 1349-1365. https://doi.org/10.3732/ajb.0800199
 
 
-## Liste des genres (LPWG 2017)
+## Liste des genres
 Le tableau suivant est la liste alphabétique de tous les genres acceptés par le LPWG, avec des liens vers les pages taxonomiques de notre portail, GBIF et de la World Checklist of Vascular Plants (Kew). Cette liste sera mise-à-jour au fil du temps afin de refléter l'évolution de la taxonomie.
 
 Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](https://hp-legume.gbif-staging.org/fr/taxonomy/species-list) et à celle du [Groupe de travail sur la toxonomie](https://hp-legume.gbif-staging.org/fr/working-groups/taxonomy) pour obtenir plus d'informations. La taxonomie actuelle est accessible via la page [Parcourir](https://hp-legume.gbif-staging.org/fr/taxonomy/browse) ou la [Recherche avancée](https://hp-legume.gbif-staging.org/fr/taxonomy/search).

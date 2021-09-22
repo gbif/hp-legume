@@ -63,10 +63,10 @@ Trees, shrubs, lianas, suffruticose or functionally herbaceous, occasionally aqu
 ## Utilisation humaine
 While no species of Caesalpinioideae provide important global food crops, many species are important elements of tropical agriculture systems, providing nitrogen-rich green manure for crops and protein-rich leaves and fruits for livestock, wood products including poles and firewood, and a wide range of non-timber forest products, such as Gum Arabic (Senegalia senegal) and Carob (Ceratonia siliqua), and forming an integral and significant component of tropical agroforestry. In addition, Caesalpinioideae include many important tropical timber species.
 
-## Liste des genres (LPWG 2017)
-Le tableau suivant est la liste alphabétique de tous les genres acceptés dans [LPWG 2017](https://doi.org/10.1071/SB19025) avec des liens vers les pages taxonomiques de GBIF et de Plants of the World Online. Cette liste sera mise-à-jour au fil du temps afin de refléter l'évolution de la taxonomie.
+## Liste des genres
+Le tableau suivant est la liste alphabétique de tous les genres acceptés par le LPWG, avec des liens vers les pages taxonomiques de notre portail, GBIF et de la World Checklist of Vascular Plants (Kew). Cette liste sera mise-à-jour au fil du temps afin de refléter l'évolution de la taxonomie.
 
-Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](https://hp-legume.gbif-staging.org/fr/taxonomy/species-list) et à celle du [Groupe de travail sur la taxonomie](https://hp-legume.gbif-staging.org/fr/working-groups/taxonomy) pour obtenir plus d'informations. La taxonomie actuelle est accessible via la page [Parcourir](https://hp-legume.gbif-staging.org/fr/taxonomy/browse) ou la [Recherche avancée](https://hp-legume.gbif-staging.org/fr/taxonomy/search).
+Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](https://hp-legume.gbif-staging.org/fr/taxonomy/species-list) et à celle du [Groupe de travail sur la toxonomie](https://hp-legume.gbif-staging.org/fr/working-groups/taxonomy) pour obtenir plus d'informations. La taxonomie actuelle est accessible via la page [Parcourir](https://hp-legume.gbif-staging.org/fr/taxonomy/browse) ou la [Recherche avancée](https://hp-legume.gbif-staging.org/fr/taxonomy/search).
 
 
 |Genus                  | Data Source   |
