@@ -29,7 +29,7 @@ Caesalpinioideae are almost entirely woody perennials, but within those bounds t
 Caesalpinioideae is the only legume subfamily which has bipinnate leaves, which are prevalent but nor universal across the subfamily. Some genera have species with pinnate leaves, and leaves modified into phyllodes occur in the majority of species of the large genus *Acacia* and a few species in other genera including *Senna* and *Mimosa*. There is considerable quantitative variation in leaf dimensions and dividedness of leaves and especially the bipinnate leaf, from the massive leaves of e.g. *Schizolobium* (> 1m long), to highly reduced leaves and even aphyllous species (e.g. *Prosopis kuntzei*).
 
 <br />
-<img src="/assets/images/Leaf_diversity_Mimoisoid_clade.tif">
+<img src="/assets/images/Leaf_diversity_Mimosoid_clade.tif" alt="Leaf diversity in Mimosoid clade">
 <br />
 
 Nyctinastic leaf movements are common across all legumes, including Caesalpinioideae, but seismonasty, i.e. leaf movements that are prompted by touch, are only known within subfamily Caesalpinioideae in the genus *Mimosa* – which was referred to as *Sensitivae Censitae* by Rupert Barneby in his monograph of New World *Mimosa*, and *Mimosa pudica* has come to be grown as a pet house plant.
