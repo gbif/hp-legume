@@ -3,7 +3,7 @@ title:  "A first community consensus legume checklist has now been published"
 date:   2021-09-17 10:00:00 +0100
 categories: ["Species list"]
 lang-ref: species list
-background: https://assets/Fruit_diversity_Cojoba_arborea_CEH1610_pods2_sq.jpg
+background: /assets/images/Fruit_diversity_Cojoba_arborea_CEH1610_pods2_sq.jpg
 ---
 
 The first community endorsed, consensus legume checklist was published in June 2021 and is now available on the Catalogue of Life's (CoL) ChecklistBank. 
