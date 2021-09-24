@@ -43,10 +43,6 @@ Caesalpinioideae are commonly, but far from universally, armed with prickles or 
 Across the subfamily, there is a progressive trend to reduced size of the perianth parts and showy exserted stamen filaments, with inflorescences rather than individual flowers taking over as the unit of pollinator attraction in the mimosoid clade. The mimosoid clade has characteristic globose capitulate or spicate and frequently heteromorphic inflorescences often with sterile flowers which sometimes become showy staminodia. While a large majority of Caesalpinioideae flowers are bee pollinated, specialized bat and moth pollinated flowers are also common, especially in some largely night-flowering genera, such as *Calliandra* and *Inga*, in the ingoid clade.
 Caesalpinioideae is the only subfamily of legumes where pollen is arranged in polyads. These are extremely variable across and sometimes within genera, with pollen in monads, tetrads, bitetrads and polyads. 
 
-Progressive trend to reduced size of the perianth parts and showy stamen filaments across the subfamily, with inflorescences rather than individual flowers taking over as the unit of pollinator attraction in the mimosoid clade. While a large majority of Caesalpinioideae flowers are bee pollinated, specialized bat and moth pollinated flowers are also common, especially in some largely night-flowering genera, such as Calliandra and Inga, in the ingoid clade.
-
-Caesalpinioideae is the only subfamily of legumes where pollen is arranged in polyads. These are extremely variable across and sometimes within genera, with pollen in monads, tetrads, bitetrads and polyads.
-
 Caesalpinioideae are prominent, diverse and sometimes dominant in savannas. Many species show striking fire adaptations, including thick corky bark and functionally herbaceous geoxyle habit with large underground lignotubers or xylopodia.
 
 One of the hallmarks of Caesalpinioideae, like many plant groups, are repeated morphological and ecological convergences whereby similar leaf, flower and fruit morphologies have been reinvented multiple times across the phylogeny. This is especially notable among fruits of the Mimosoid clade which have proved misleading for generic delimitation, and which reflect selection pressures for different seed dispersal syndromes, including passive and explosive dehiscence, water, wind, large herbivores, ants, and birds.
@@ -55,10 +51,7 @@ One of the hallmarks of Caesalpinioideae, like many plant groups, are repeated m
 ## Distribution and Ecology
 The vast majority of Caesalpinioideae diversity is tropical, but a small fraction of species extend to the warm temperate zone, a subset of which are frost tolerant (*Gleditsia*, *Gymnocladus*, some *Desmanthus*). Caesalpinioideae are infrequent above 2500 m in the tropics and are largely absent from mid- and high-elevation tropical montane forests. Generic diversity is highest in the Neotropics, and there are important centres of high species diversity in Mexico / Central America, lowland South America, Africa, Madagascar, parts of SE Asia and Australia.
 
-<br />
-<img src="/assets/images/Caesalpinioideae_biome_range.png" alt="Caesalpinioideae Biome Range">
-<br />
-{:standalone .has-text-centered}
+![Caeslpinioideae Biome Range](/assets/images/Caesalpinioideae_biome_range.png){:standalone .has-text-centered}
 *Caesalpinioideae are abundant and diverse woody elements across the lowland tropics in rain forests,
 seasonally dry vegetation of the succulent biome and savannas*
 
