@@ -58,7 +58,7 @@ The vast majority of Caesalpinioideae diversity is tropical, but a small fractio
 <br />
 <img src="/assets/images/Caesalpinioideae_biome_range.png" alt="Caesalpinioideae Biome Range">
 <br />
-![Caeslpinioideae Biome Range](/assets/images/Caesalpinioideae_biome_range.tif){:standalone .has-text-centered}
+{:standalone .has-text-centered}
 *Caesalpinioideae are abundant and diverse woody elements across the lowland tropics in rain forests,
 seasonally dry vegetation of the succulent biome and savannas*
 
