@@ -55,6 +55,9 @@ One of the hallmarks of Caesalpinioideae, like many plant groups, are repeated m
 ## Distribution and Ecology
 The vast majority of Caesalpinioideae diversity is tropical, but a small fraction of species extend to the warm temperate zone, a subset of which are frost tolerant (*Gleditsia*, *Gymnocladus*, some *Desmanthus*). Caesalpinioideae are infrequent above 2500 m in the tropics and are largely absent from mid- and high-elevation tropical montane forests. Generic diversity is highest in the Neotropics, and there are important centres of high species diversity in Mexico / Central America, lowland South America, Africa, Madagascar, parts of SE Asia and Australia.
 
+<br />
+<img src="/assets/images/Caesalpinioideae_biome_range.tif" alt="Caeslpinioideae Biome Range">
+<br />
 ![Caeslpinioideae Biome Range](/assets/images/Caesalpinioideae_biome_range.tif){:standalone .has-text-centered}
 *Caesalpinioideae are abundant and diverse woody elements across the lowland tropics in rain forests,
 seasonally dry vegetation of the succulent biome and savannas*
