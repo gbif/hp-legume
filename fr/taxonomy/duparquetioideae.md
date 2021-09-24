@@ -15,10 +15,10 @@ toc: true
 ---
 
 ## Introduction
-La sous-familles des Duparquetioideae ne contient qu'une espèce *Duparquetia orchidacea*. Cette espèce inusité de l'Afrique de l'Ouest forme une lignée distincte dans toutes les analyses phylogénétiques, sans aucun lien évident avec d'autres taxa. De récentes analyses phylogénétiques placent la sous-famille des Duparquetioideae comme soeur du clade formé par les Papilioinoideae, Caesalpinioideae et Dialiodeae.
+La sous-famille des Duparquetioideae ne contient qu'une espèce *Duparquetia orchidacea*. Cette espèce inusitée de l'Afrique de l'Ouest forme une lignée distincte dans toutes les analyses phylogénétiques, sans aucun lien évident avec d'autres taxa. De récentes analyses phylogénétiques placent la sous-famille des Duparquetioideae comme soeur du clade formé par les Papilioinoideae, Caesalpinioideae et Dialiodeae.
 
 ## Éléments morphologiques clés
-La sous-famille Duparquetioideae est morphologiquement unique dans la famille. *Duparquetia* est une liane avec des feuilles imparipennées, des inflorescences en forme de racème, et une gousse ligneuse, élastiquement déhiscente. Chez les fleurs de *Duparquetia*, l'étendard est extérieur dans le bourgeon, une caractérisque généralement observée seulement dans la sous-famille des Papilionoideae. La morphologie, l'ultrastructure et le développement du pollen de *Duparquetia* est également inusuelle, non seulement chez les Légumineuses, mais également au sein des eudicotylédones. Enfin, les espèces ne possèdent pas de "vestured pits" dans les vaisseaux ligneux, une caractéristique présente chez la plupart des Leguminosae excepté les Cercidoideae et la plupart des Dialioideae.
+La sous-famille Duparquetioideae est morphologiquement unique dans la famille. *Duparquetia* est une liane avec des feuilles imparipennées, des inflorescences en forme de racème, et une gousse ligneuse, élastiquement déhiscente. Chez les fleurs de *Duparquetia*, l'étendard est extérieur dans le bourgeon, une caractéristique généralement observée seulement dans la sous-famille des Papilionoideae. La morphologie, l'ultrastructure et le développement du pollen de *Duparquetia* est également inusuelle, non seulement chez les Légumineuses, mais également au sein des eudicotylédones. Enfin, les espèces ne possèdent pas de perforations bordurées du bois ("vestured pits") dans les vaisseaux ligneux, une caractéristique présente chez la plupart des Leguminosae excepté les Cercidoideae et la plupart des Dialioideae.
 
 ## Distribution et écologie
 *Duparquetia orchidacea* est endémique aux forêts tropicales humides de l'Afrique Centrale et de l'Afrique de l'Ouest.
@@ -39,7 +39,7 @@ Prenner, G. and Klitgaard, B.B. (2008). Towards unlocking the deep nodes of Legu
 ## Liste des genres
 Le tableau suivant est la liste alphabétique de tous les genres acceptés par le LPWG, avec des liens vers les pages taxonomiques de notre portail, GBIF et de la World Checklist of Vascular Plants (Kew). Cette liste sera mise-à-jour au fil du temps afin de refléter l'évolution de la taxonomie.
 
-Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](https://hp-legume.gbif-staging.org/fr/taxonomy/species-list) et à celle du [Groupe de travail sur la toxonomie](https://hp-legume.gbif-staging.org/fr/working-groups/taxonomy) pour obtenir plus d'informations. La taxonomie actuelle est accessible via la page [Parcourir](https://hp-legume.gbif-staging.org/fr/taxonomy/browse) ou la [Recherche avancée](https://hp-legume.gbif-staging.org/fr/taxonomy/search).
+Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](https://hp-legume.gbif-staging.org/fr/taxonomy/species-list) et à celle du [Groupe de travail sur la taxonomie](https://hp-legume.gbif-staging.org/fr/working-groups/taxonomy) pour obtenir plus d'informations. La taxonomie actuelle est accessible via la page [Parcourir](https://hp-legume.gbif-staging.org/fr/taxonomy/browse) ou la [Recherche avancée](https://hp-legume.gbif-staging.org/fr/taxonomy/search).
 
 
 |Genre                  |     Source de Données                     | 

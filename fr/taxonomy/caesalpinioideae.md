@@ -28,7 +28,7 @@ Les Caesalpinioideae sont quasiment tous des espèces ligneuses pérennes, mais 
 La sous-famille des Caesalpinioideae est la seule sous-famille des Légumineuses avec des feuilles bipennées, celles-ci étant prévalentes mais pas universelle à travers la sous-famille. Quelques genres contiennent des espèces avec des feuilles pennées, et des feuilles modifiées en phyllodes sont observables chez la majorité des espèces du large genres *Acacia* et quelques espèces dans d'autres genres dont *Senna* et *Mimosa*. Il existe une variation quantitative considérable dans la dimension et division des feuilles, particulièrement en ce qui a trait aux feuilles bipennées, allant de la feuille massive de e.g. *Schizolobium* (>1m de long) à des feuilles hautement réduites voire même des espèces aphylles (e.g. *Prosopis kuntzei*).
 
 <br />
-<img src="/assets/images/Leaf_diversity_Mimoisoid_clade.png" alt="Leaf diversity in Mimosoid clade">
+<img src="/assets/images/Leaf_diversity_Mimosoid_clade.png" alt="Diversité foliaire dans le clade des Mimosoïdes">
 <br />
 
 Les mouvements nyctinastiques des feuilles sont communs à travers toutes les Légumineuses, incluant les Caesalpinioideae, mais la séismonastie, i.e. le mouvement des feuilles en réponse au touché, est uniquement décrite au sein des Caesalpinioideae dans le genre *Mimosa* uniquement - genre ayant été décrit comme *Sensitivae Censitae* par Rupert Barneby dans sa monographie sur les *Mimosa* du Nouveau-monde, et *Mimosa pudica* est ainsi devenue une plante ornementale appréciée pour cette caractéristique.
@@ -76,7 +76,7 @@ Manzanilla, V. and Bruneau, A., 2012. Phylogeny reconstruction in the Caesalpini
 ## Liste des genres
 Le tableau suivant est la liste alphabétique de tous les genres acceptés par le LPWG, avec des liens vers les pages taxonomiques de notre portail, GBIF et de la World Checklist of Vascular Plants (Kew). Cette liste sera mise-à-jour au fil du temps afin de refléter l'évolution de la taxonomie.
 
-Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](https://hp-legume.gbif-staging.org/fr/taxonomy/species-list) et à celle du [Groupe de travail sur la toxonomie](https://hp-legume.gbif-staging.org/fr/working-groups/taxonomy) pour obtenir plus d'informations. La taxonomie actuelle est accessible via la page [Parcourir](https://hp-legume.gbif-staging.org/fr/taxonomy/browse) ou la [Recherche avancée](https://hp-legume.gbif-staging.org/fr/taxonomy/search).
+Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](https://hp-legume.gbif-staging.org/fr/taxonomy/species-list) et à celle du [Groupe de travail sur la taxonomie](https://hp-legume.gbif-staging.org/fr/working-groups/taxonomy) pour obtenir plus d'informations. La taxonomie actuelle est accessible via la page [Parcourir](https://hp-legume.gbif-staging.org/fr/taxonomy/browse) ou la [Recherche avancée](https://hp-legume.gbif-staging.org/fr/taxonomy/search).
 
 
 |Genus                  | Data Source   |
