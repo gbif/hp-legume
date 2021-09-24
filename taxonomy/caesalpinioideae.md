@@ -91,6 +91,8 @@ Below is an alphabetical list of all genera accepted by the LPWG with links out 
 
 Please see the [Species List and Synonyms](https://hp-legume.gbif-staging.org/taxonomy/species-list) and [Legume Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessbile by [Browse](https://hp-legume.gbif-staging.org/taxonomy/browse) or  [Advanced Search](https://hp-legume.gbif-staging.org/taxonomy/search). 
 
+Genera indicated with an asterisk (\*\) are members of the mimosoid clade.
+
 	
 |Genus                  | Data Source   |
 |--------------------------------|------------------------------------|-------------------------------|
