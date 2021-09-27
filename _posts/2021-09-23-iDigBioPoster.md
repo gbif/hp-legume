@@ -2,8 +2,9 @@
 title:  "The Legume Data Portal presented at the iDigBio Conference"
 date:   2021-09-17 10:00:00 +0100
 categories: ["Announcement"]
-lang-ref: en
-background: /assets/images/Fruit_diversity_Cojoba_arborea_CEH1610_pods2_sq.jpg
+lang-ref: iDigBio poster
+lang: en
+background: /assets/images/Portal_presentation.png
 ---
 
 Joe Miller presents an audio-poster at the iDigBio 2021 Conference! 
