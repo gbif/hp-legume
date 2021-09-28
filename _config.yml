@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines (until baseurl:)
   This data portal aims to give information about the Legume family, based on the expertise of the Legume Phylogeny Working Group (LPWG) and GBIF.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hp-legume.gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://www.legumeportal.org"
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -43,10 +44,16 @@ privacy:
   helpdeskEmail: legumephylogenywg@gmail.com
 
 # The text for the terms can be changed by adding translations for 'terms', 'acceptTerms' and 'rejectTerms' in `/_data/translations.yml`.
+#siteMeasurements:
+  #enable: true # When enabled there will be a popup asking the user for their consent. If they accept then the function "attachMeasurements" will be called. You can overwrite this function by adding a file `/_includes/js/measure.js` and replace the function.
+  #GA_ID: "G-39D0RHTSHT" # Your Google analytics ID. Sometimes they start with UA-XXXXX-X other times with G-XXXXXXXX depending on how you set it up
+  #termsVersion: "2021-08-09" # A version number for your terms. If you change this, then the users will see the popup again asking them to confirm/reject anew.
+
 siteMeasurements:
   enable: true # When enabled there will be a popup asking the user for their consent. If they accept then the function "attachMeasurements" will be called. You can overwrite this function by adding a file `/_includes/js/measure.js` and replace the function.
-  GA_ID: "G-39D0RHTSHT" # Your Google analytics ID. Sometimes they start with UA-XXXXX-X other times with G-XXXXXXXX depending on how you set it up
+  GA_ID: "G-SJ1GT3LP4Q" # Your Google analytics ID. Sometimes they start with UA-XXXXX-X other times with G-XXXXXXXX depending on how you set it up
   termsVersion: "2021-08-09" # A version number for your terms. If you change this, then the users will see the popup again asking them to confirm/reject anew.
+
 
 algae:
   rootLang: en
@@ -89,8 +96,10 @@ algae:
 col:
   gbifDatasetKey: f382f0ce-323a-4091-bb9f-add557f3a9a2
   version: "1.0" # There is no latest version we can get, so we have to rely on a specific version. If the site appears broken, then this probably needs to be updated to the latest version
-  catalogueKey: "2232"
-  defaultTaxonKey: "x4VX" # This value have been observed to change over time
+  catalogueKey: "2304" #WCVP Fabaceae dataset
+  defaultTaxonKey: "x4"
+  #catalogueKey: "2232" entire WCVP dataset
+  #defaultTaxonKey: "x4VX" # This value have been observed to change over time, this value goes with catalogueKey = 2232
 
 exclude:
   - .LICENSE
