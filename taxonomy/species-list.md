@@ -18,7 +18,7 @@ height: 70vh
 The LPWG has been working in collaboration with the Royal Botanic Gardens, Kew, to update the names of legume species and their synonymy (see [Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy)) and provide a single list of accepted legume species names. This list is curated as part of the World Checklist of Vascular Plants ([WCVP]( https://wcvp.science.kew.org/)), which links to the International Plant Name Index ([IPNI](https://www.ipni.org/)), the Global Biodiversity Information Facility ([GBIF](https://www.gbif.org/)) and also underlies the [Plants of the World Online](http://www.plantsoftheworldonline.org/) website. 
 
 ## Species List
-The most recent version of this taxonomy can be accessed through the [menu on the left](https://hp-legume.gbif-staging.org/taxonomy/browse). The WCVP-Fabaceae species list is also available for download in .txt from the [Catalogue of Life ChecklistBank](https://data.catalogueoflife.org/dataset/2304/about) and in a classic checklist format [here](link to be added later). Unfortunately this list doesn't include subfamily designation. 
+The most recent version of this taxonomy can be accessed through the [menu on the left](https://hp-legume.gbif-staging.org/taxonomy/browse). The WCVP-Fabaceae species list is also available for download in .txt from the [Catalogue of Life ChecklistBank](https://data.catalogueoflife.org/dataset/2304/about) and in a classic checklist format [here](http://sftp.kew.org/pub/data_collaborations/Fabaceae/DwCA/wcvp_fabaceae_DwCA.zip). Unfortunately this list doesn't include subfamily designation. 
 
 ## List of genera accepted by the LPWG
 

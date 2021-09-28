@@ -17,10 +17,9 @@ height: 70vh
 ## Taxonomie
 Le LPWG a travaillé en collaboration avec le Jardin Botanique Royal, Kew, afin de mettre à jour les noms des espèces de Légumineuses et leurs synonymes (voir le [Groupe de Travail sur la Taxonomie](https://hp-legume.gbif-staging.org/working-groups/taxonomy)) ainsi que de fournir une liste unique des noms d'espèces acceptés pour les Légumineuses. Cette liste fait partie de la Liste Mondiale des Plantes Vasculaires (World Checklist of Vascular Plants, [WCVP]( https://wcvp.science.kew.org/)), qui est connectée à l'Index International des Noms de Plantes (International Plant Name Index, [IPNI](https://www.ipni.org/)) et est à la base du site Internet [Plants of the World Online](http://www.plantsoftheworldonline.org/).
 
-La plus récente version de cette taxonomie est disponible via le [menu à gauche](https://hp-legume.gbif-staging.org/fr/taxonomy/browse). Les données sur les Fabaceae sont également accessibles via ce [DOI](https://doi.org/10.15468/6h8ucr) qui inclus toute la taxonomie des plantes vasculaires de WCVP.
 
 ## Liste d'espèces
-À l'heure actuelle, le [menu de gauche](https://hp-legume.gbif-staging.org/fr/taxonomy/browse) est également la  meilleure manière d'accéder à la liste des espèces. Cette fonctionnalité fait partie de la [Checklistbank de Catalog of Life](https://data.catalogueoflife.org/). Cette liste ne contient malheureusement pas l'appellation sous-famille.
+La plus récente version de cette taxonomie est disponible via le [menu à gauche](https://hp-legume.gbif-staging.org/fr/taxonomy/browse). La liste d'espèce de Fabaceae du WCVP est également disponible pour téléchargement en format .txt à partir de la [ChecklistBank de Catalogue of Life](https://data.catalogueoflife.org/dataset/2304/about) et dans un format de liste d'espèce classique [ici](http://sftp.kew.org/pub/data_collaborations/Fabaceae/DwCA/wcvp_fabaceae_DwCA.zip). Cette liste ne contient malheureusement pas l'appellation sous-famille.
 
 ## Liste des genres (LPWG 2017)
 Le tableau suivant est la liste alphabétique de tous les genres acceptés dans [LPWG 2017](https://doi.org/10.1071/SB19025) avec des liens vers les pages taxonomiques de GBIF et de Plants of the World Online. Cette liste sera mise-à-jour au fil du temps afin de refléter l'évolution de la taxonomie.
