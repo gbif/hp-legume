@@ -67,87 +67,87 @@ Please see the [Species List and Synonyms](https://hp-legume.gbif-staging.org/ta
 
 |Genus                  | Data Source   |
 | --------------------- |------------------------------|-----------------------|
-| Afzelia Sm. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/331326-2)  | [GBIF](https://www.gbif.org/species/1470349)  |[WCVP](https://wcvp.science.kew.org/taxon/331326-2) |
-| Amherstia Wall. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21630-1) | [GBIF](https://www.gbif.org/species/2968145)  |[WCVP](https://wcvp.science.kew.org/taxon/21630-1) |
-| Annea Mackinder & Wieringa  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/77133630-1)  | [GBIF](https://www.gbif.org/species/9816525)  |[WCVP](https://wcvp.science.kew.org/taxon/77133630-1)  |
-| Anthonotha P.Beauv. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/30048105-2)  | [GBIF](https://www.gbif.org/species/2976601)  |[WCVP](https://wcvp.science.kew.org/taxon/30048105-2)  |
-| Aphanocalyx Oliver  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21689-1) | [GBIF](https://www.gbif.org/species/2954231)  |[WCVP](https://wcvp.science.kew.org/taxon/21689-1) |
-| Augouardia Pellegr. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21755-1) | [GBIF](https://www.gbif.org/species/2954104)  |[WCVP](https://wcvp.science.kew.org/taxon/21755-1) |
-| Baikiaea Benth. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21767-1) | [GBIF](https://www.gbif.org/species/2943819)  |[WCVP](https://wcvp.science.kew.org/taxon/21767-1) |
-| Barnebydendron J.H.Kirkbr.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/1012322-1) | [GBIF](https://www.gbif.org/species/7278343)  |[WCVP](https://wcvp.science.kew.org/taxon/1012322-1) |
-| Berlinia Sol. ex Hook. f. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/331396-2)  | [GBIF](https://www.gbif.org/species/4929826)  |[WCVP](https://wcvp.science.kew.org/taxon/331396-2)  |
-| Bikinia Wieringa  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/1011127-1) | [GBIF](https://www.gbif.org/species/2954690)  |[WCVP](https://wcvp.science.kew.org/taxon/1011127-1) |
-| Brachycylix (Harms) R.S.Cowan | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21841-1) | [GBIF](https://www.gbif.org/species/2933017)  |[WCVP](https://wcvp.science.kew.org/taxon/21841-1) |
-| Brachystegia Benth. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21846-1) | [GBIF](https://www.gbif.org/species/2952646)  |[WCVP](https://wcvp.science.kew.org/taxon/21846-1) |
-| Brandzeia Baill.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21852-1) | [GBIF](https://www.gbif.org/species/2959233)  |[WCVP](https://wcvp.science.kew.org/taxon/21852-1) |
-| Brodriguesia R.S.Cowan  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/924901-1)  | [GBIF](https://www.gbif.org/species/2968204)  |[WCVP](https://wcvp.science.kew.org/taxon/924901-1)  |
-| Brownea Jacq. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/331429-2)  | [GBIF](https://www.gbif.org/species/2970433)  |[WCVP](https://wcvp.science.kew.org/taxon/331429-2)  |
-| Browneopsis Huber | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/296080-2)  | [GBIF](https://www.gbif.org/species/2944236)  |[WCVP](https://wcvp.science.kew.org/taxon/296080-2)  |
-| Colophospermum J.Kirk ex J.Léonard  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22064-1) | [GBIF](https://www.gbif.org/species/2974566)  |[WCVP](https://wcvp.science.kew.org/taxon/22064-1) |
-| Copaifera L.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/331514-2)  | [GBIF](https://www.gbif.org/species/2978115)  |[WCVP](https://wcvp.science.kew.org/taxon/331514-2)  |
-| Crudia Schreb.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/327294-2)  | [GBIF](https://www.gbif.org/species/2974579)  |[WCVP](https://wcvp.science.kew.org/taxon/327294-2)  |
-| Cryptosepalum Benth.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22142-1) | [GBIF](https://www.gbif.org/species/2956479)  |[WCVP](https://wcvp.science.kew.org/taxon/22142-1) |
-| Cynometra L.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22178-1) | [GBIF](https://www.gbif.org/species/2966806)  |[WCVP](https://wcvp.science.kew.org/taxon/22178-1) |
-| Daniellia Benn. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22208-1) | [GBIF](https://www.gbif.org/species/2948719)  |[WCVP](https://wcvp.science.kew.org/taxon/22208-1) |
-| Detarium Juss.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22234-1) | [GBIF](https://www.gbif.org/species/2961173)  |[WCVP](https://wcvp.science.kew.org/taxon/22234-1) |
-| Dicymbe Spruce ex Benth.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22253-1) | [GBIF](https://www.gbif.org/species/4929814)  |[WCVP](https://wcvp.science.kew.org/taxon/22253-1) |
-| Didelotia Baill.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22255-1) | [GBIF](https://www.gbif.org/species/2965869)  |[WCVP](https://wcvp.science.kew.org/taxon/22255-1) |
-| Ecuadendron D.A.Neill | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/1001401-1) | [GBIF](https://www.gbif.org/species/2959137)  |[WCVP](https://wcvp.science.kew.org/taxon/1001401-1) |
-| Elizabetha Schomb. ex Benth.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22354-1) | [GBIF](https://www.gbif.org/species/7395712)  |[WCVP](https://wcvp.science.kew.org/taxon/22354-1) |
-| Endertia Steenis & de Wit | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22360-1) | [GBIF](https://www.gbif.org/species/2940358)  |[WCVP](https://wcvp.science.kew.org/taxon/22360-1) |
-| Englerodendron Harms  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22367-1) | [GBIF](https://www.gbif.org/species/2970576)  |[WCVP](https://wcvp.science.kew.org/taxon/22367-1) |
-| Eperua Aubl.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22371-1) | [GBIF](https://www.gbif.org/species/2943504)  |[WCVP](https://wcvp.science.kew.org/taxon/22371-1) |
-| Eurypetalum Harms | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22406-1) | [GBIF](https://www.gbif.org/species/8373292)  |[WCVP](https://wcvp.science.kew.org/taxon/22406-1) |
-| Gabonius Wieringa & Mackinder | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/77133635-1)  | [GBIF](https://www.gbif.org/species/9681719)  |[WCVP](https://wcvp.science.kew.org/taxon/77133635-1)  |
-| Gilbertiodendron J.Léonard  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22485-1) | [GBIF](https://www.gbif.org/species/2941642)  |[WCVP](https://wcvp.science.kew.org/taxon/22485-1) |
-| Gilletiodendron Vermoesen | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22486-1) | [GBIF](https://www.gbif.org/species/2944302)  |[WCVP](https://wcvp.science.kew.org/taxon/22486-1) |
-| Goniorrhachis Taub. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/295719-2)  | [GBIF](https://www.gbif.org/species/2944249)  |[WCVP](https://wcvp.science.kew.org/taxon/295719-2)  |
-| Gossweilerodendron Harms  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22516-1) | [GBIF](https://www.gbif.org/species/8196126)  |[WCVP](https://wcvp.science.kew.org/taxon/22516-1) |
-| Guibourtia Benn.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22530-1) | [GBIF](https://www.gbif.org/species/2964774)  |[WCVP](https://wcvp.science.kew.org/taxon/22530-1) |
-| Hardwickia Roxb.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22557-1) | [GBIF](https://www.gbif.org/species/2946903)  |[WCVP](https://wcvp.science.kew.org/taxon/22557-1) |
-| Heterostemon Desf.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22595-1) | [GBIF](https://www.gbif.org/species/2943910)  |[WCVP](https://wcvp.science.kew.org/taxon/22595-1) |
-| Humboldtia J.Vahl | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/331664-2)  | [GBIF](https://www.gbif.org/species/2962724)  |[WCVP](https://wcvp.science.kew.org/taxon/331664-2) | 
-| Hylodendron Taub. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22634-1) | [GBIF](https://www.gbif.org/species/2952761)  |[WCVP](https://wcvp.science.kew.org/taxon/22634-1) |
-| Hymenaea L. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22635-1) | [GBIF](https://www.gbif.org/species/2950720)  |[WCVP](https://wcvp.science.kew.org/taxon/22635-1) |
-| Hymenostegia (Benth.) Harms | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22642-1) | [GBIF](https://www.gbif.org/species/2963360)  |[WCVP](https://wcvp.science.kew.org/taxon/22642-1) |
-| Icuria Wieringa | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/1011139-1) | [GBIF](https://www.gbif.org/species/2945449)  |[WCVP](https://wcvp.science.kew.org/taxon/1011139-1) |
-| Intsia Thouars  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22666-1) | [GBIF](https://www.gbif.org/species/2963210)  |[WCVP](https://wcvp.science.kew.org/taxon/22666-1) |
-| Isoberlinia Craib & Stapf | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22670-1) | [GBIF](https://www.gbif.org/species/8108120)  |[WCVP](https://wcvp.science.kew.org/taxon/22670-1) |
-| Isomacrolobium Aubrév. & Pellegr. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22672-1) | [GBIF](https://www.gbif.org/species/7301510)  |[WCVP](https://wcvp.science.kew.org/taxon/22672-1) |
-| Julbernardia Pellegr. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22686-1) | [GBIF](https://www.gbif.org/species/2981743)  |[WCVP](https://wcvp.science.kew.org/taxon/22686-1) |
-| Kingiodendron Harms | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22702-1) | [GBIF](https://www.gbif.org/species/2947455)  |[WCVP](https://wcvp.science.kew.org/taxon/22702-1) |
-| Lebruniodendron J.Léonard | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22753-1) | [GBIF](https://www.gbif.org/species/2983908)  |[WCVP](https://wcvp.science.kew.org/taxon/22753-1) |
-| Leonardoxa Aubrév.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22765-1) | [GBIF](https://www.gbif.org/species/2947375)  |[WCVP](https://wcvp.science.kew.org/taxon/22765-1) |
-| Leucostegane Prain  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22790-1) | [GBIF](https://www.gbif.org/species/2952637)  |[WCVP](https://wcvp.science.kew.org/taxon/22790-1) |
-| Librevillea Hoyle | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22793-1) | [GBIF](https://www.gbif.org/species/2941197)  |[WCVP](https://wcvp.science.kew.org/taxon/22793-1) |
-| Loesenera Harms | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22809-1) | [GBIF](https://www.gbif.org/species/2944255)  |[WCVP](https://wcvp.science.kew.org/taxon/22809-1) |
-| Lysidice Hance  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22847-1) | [GBIF](https://www.gbif.org/species/2958145)  |[WCVP](https://wcvp.science.kew.org/taxon/22847-1) |
-| Macrolobium Schreb. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/331742-2)  | [GBIF](https://www.gbif.org/species/7743878)  |[WCVP](https://wcvp.science.kew.org/taxon/331742-2) | 
-| Maniltoa Scheff.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/329916-2)  | [GBIF](https://www.gbif.org/species/2946132)  |[WCVP](https://wcvp.science.kew.org/taxon/329916-2)  |
-| Michelsonia Hauman  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22931-1) | [GBIF](https://www.gbif.org/species/2945463)  |[WCVP](https://wcvp.science.kew.org/taxon/22931-1) |
-| Micklethwaitia G.P.Lewis & Schrire  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/60435882-2)  | [GBIF](https://www.gbif.org/species/7301240)  |[WCVP](https://wcvp.science.kew.org/taxon/60435882-2) | 
-| Microberlinia A.Chev. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22934-1) | [GBIF](https://www.gbif.org/species/2941146)  |[WCVP](https://wcvp.science.kew.org/taxon/22934-1) |
-| Neoapaloxylon Rauschert | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/893558-1)  | [GBIF](https://www.gbif.org/species/2944228)  |[WCVP](https://wcvp.science.kew.org/taxon/893558-1) | 
-| Neochevalierodendron J.Léonard  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23009-1) | [GBIF](https://www.gbif.org/species/2975541)  |[WCVP](https://wcvp.science.kew.org/taxon/23009-1) |
-| Normandiodendron J.Léonard  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/974656-1)  | [GBIF](https://www.gbif.org/species/7302225)  |[WCVP](https://wcvp.science.kew.org/taxon/974656-1) | 
-| Oddoniodendron De Wild. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23058-1) | [GBIF](https://www.gbif.org/species/2959958)  |[WCVP](https://wcvp.science.kew.org/taxon/23058-1) |
-| Oxystigma Harms | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23116-1) | [GBIF](https://www.gbif.org/species/1424367)  |[WCVP](https://wcvp.science.kew.org/taxon/23116-1) |
-| Paloue Aubl.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/30099319-2)  | [GBIF](https://www.gbif.org/species/2958895)  |[WCVP](https://wcvp.science.kew.org/taxon/30099319-2) | 
-| Paloveopsis R.S.Cowan | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/296920-2)  | [GBIF](https://www.gbif.org/species/2959215)  |[WCVP](https://wcvp.science.kew.org/taxon/296920-2)  |
-| Paramacrolobium J.Léonard | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23144-1) | [GBIF](https://www.gbif.org/species/2962898)  |[WCVP](https://wcvp.science.kew.org/taxon/23144-1) |
-| Peltogyne Vogel | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/331837-2)  | [GBIF](https://www.gbif.org/species/2952686)  |[WCVP](https://wcvp.science.kew.org/taxon/331837-2) | 
-| Plagiosiphon Harms  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23267-1) | [GBIF](https://www.gbif.org/species/2961129)  |[WCVP](https://wcvp.science.kew.org/taxon/23267-1) |
-| Polystemonanthus Harms  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23320-1) | [GBIF](https://www.gbif.org/species/2960420)  |[WCVP](https://wcvp.science.kew.org/taxon/23320-1) |
-| Prioria Griseb. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23333-1) | [GBIF](https://www.gbif.org/species/2947107)  |[WCVP](https://wcvp.science.kew.org/taxon/23333-1) |
-| Pseudomacrolobium Hauman  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23355-1) | [GBIF](https://www.gbif.org/species/2960223)  |[WCVP](https://wcvp.science.kew.org/taxon/23355-1) |
-| Saraca L. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23478-1) | [GBIF](https://www.gbif.org/species/2372883)  |[WCVP](https://wcvp.science.kew.org/taxon/23478-1) |
-| Schotia Jacq. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/331941-2)  | [GBIF](https://www.gbif.org/species/2959237)  |[WCVP](https://wcvp.science.kew.org/taxon/331941-2) | 
-| Scorodophloeus Harms  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23511-1) | [GBIF](https://www.gbif.org/species/2952874)  |[WCVP](https://wcvp.science.kew.org/taxon/23511-1) |
-| Sindora Miq.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23561-1) | [GBIF](https://www.gbif.org/species/2943351)  |[WCVP](https://wcvp.science.kew.org/taxon/23561-1) |
-| Sindoropsis J.Léonard | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23562-1) | [GBIF](https://www.gbif.org/species/2952642)  |[WCVP](https://wcvp.science.kew.org/taxon/23562-1) |
-| Stemonocoleus Harms | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23612-1) | [GBIF](https://www.gbif.org/species/2951341)  |[WCVP](https://wcvp.science.kew.org/taxon/23612-1) |
-| Talbotiella Baker f.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23657-1) | [GBIF](https://www.gbif.org/species/2944645)  |[WCVP](https://wcvp.science.kew.org/taxon/23657-1) |
-| Tamarindus L. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23658-1) | [GBIF](https://www.gbif.org/species/2975767)  |[WCVP](https://wcvp.science.kew.org/taxon/23658-1) |
-| Tessmannia Harms  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23679-1) | [GBIF](https://www.gbif.org/species/2947679)  |[WCVP](https://wcvp.science.kew.org/taxon/23679-1) |
-| Tetraberlinia (Harms) Hauman  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23680-1) | [GBIF](https://www.gbif.org/species/2952737)  |[WCVP](https://wcvp.science.kew.org/taxon/23680-1) |
-| Zenkerella Taub.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23840-1) | [GBIF](https://www.gbif.org/species/2439359)  |[WCVP](https://wcvp.science.kew.org/taxon/23840-1) |
+| Afzelia Sm.|  |[Legume Data Portal](/taxonomy/taxon/624953)|    [GBIF](https://www.gbif.org/species/1470349)| |[WCVP](https://wcvp.science.kew.org/taxon/331326-2)| 
+| Amherstia Wall.|  |[Legume Data Portal](/taxonomy/taxon/633618)|    [GBIF](https://www.gbif.org/species/2968145)| |[WCVP](https://wcvp.science.kew.org/taxon/21630-1)|  
+| Annea Mackinder & Wieringa| |[Legume Data Portal](/taxonomy/taxon/970606)|    [GBIF](https://www.gbif.org/species/9816525)| |[WCVP](https://wcvp.science.kew.org/taxon/77133630-1)| 
+| Anthonotha P.Beauv.|  |[Legume Data Portal](/taxonomy/taxon/641697)|    [GBIF](https://www.gbif.org/species/2976601)| |[WCVP](https://wcvp.science.kew.org/taxon/30048105-2)|
+| Aphanocalyx Oliver| |[Legume Data Portal](/taxonomy/taxon/643388)|    [GBIF](https://www.gbif.org/species/2954231)| |[WCVP](https://wcvp.science.kew.org/taxon/21689-1)|  
+| Augouardia Pellegr.|  |[Legume Data Portal](/taxonomy/taxon/666241)|    [GBIF](https://www.gbif.org/species/2954104)| |[WCVP](https://wcvp.science.kew.org/taxon/21755-1)|  
+| Baikiaea Benth.|  |[Legume Data Portal](/taxonomy/taxon/667863)|    [GBIF](https://www.gbif.org/species/2943819)| |[WCVP](https://wcvp.science.kew.org/taxon/21767-1)|  
+| Barnebydendron J.H.Kirkbr.| |[Legume Data Portal](/taxonomy/taxon/670310)|    [GBIF](https://www.gbif.org/species/7278343)| |[WCVP](https://wcvp.science.kew.org/taxon/1012322-1)|  
+| Berlinia Sol. ex Hook. f.|  |[Legume Data Portal](/taxonomy/taxon/674950)|    [GBIF](https://www.gbif.org/species/4929826)| |[WCVP](https://wcvp.science.kew.org/taxon/331396-2)| 
+| Bikinia Wieringa| |[Legume Data Portal](/taxonomy/taxon/675892)|    [GBIF](https://www.gbif.org/species/2954690)| |[WCVP](https://wcvp.science.kew.org/taxon/1011127-1)|  
+| Brachycylix (Harms) R.S.Cowan|  |[Legume Data Portal](/taxonomy/taxon/681246)|    [GBIF](https://www.gbif.org/species/2933017)| |[WCVP](https://wcvp.science.kew.org/taxon/21841-1)|  
+| Brachystegia Benth.|  |[Legume Data Portal](/taxonomy/taxon/681394)|    [GBIF](https://www.gbif.org/species/2952646)| |[WCVP](https://wcvp.science.kew.org/taxon/21846-1)|  
+| Brandzeia Baill.| |[Legume Data Portal](/taxonomy/taxon/681906)|    [GBIF](https://www.gbif.org/species/2959233)| |[WCVP](https://wcvp.science.kew.org/taxon/21852-1)|  
+| Brodriguesia R.S.Cowan| |[Legume Data Portal](/taxonomy/taxon/683479)|    [GBIF](https://www.gbif.org/species/2968204)| |[WCVP](https://wcvp.science.kew.org/taxon/924901-1)|
+| Brownea Jacq.|  |[Legume Data Portal](/taxonomy/taxon/683839)|    [GBIF](https://www.gbif.org/species/2970433)| |[WCVP](https://wcvp.science.kew.org/taxon/331429-2)| 
+| Browneopsis Huber|  |[Legume Data Portal](/taxonomy/taxon/683889)|    [GBIF](https://www.gbif.org/species/2944236)| |[WCVP](https://wcvp.science.kew.org/taxon/296080-2)| 
+| Colophospermum J.Kirk ex J.Léonard| |[Legume Data Portal](/taxonomy/taxon/731424)|    [GBIF](https://www.gbif.org/species/2974566)| |[WCVP](https://wcvp.science.kew.org/taxon/22064-1)|  
+| Copaifera L.| |[Legume Data Portal](/taxonomy/taxon/735808)|    [GBIF](https://www.gbif.org/species/2978115)| |[WCVP](https://wcvp.science.kew.org/taxon/331514-2)| 
+| Crudia Schreb.| |[Legume Data Portal](/taxonomy/taxon/745047)|    [GBIF](https://www.gbif.org/species/2974579)| |[WCVP](https://wcvp.science.kew.org/taxon/327294-2)| 
+| Cryptosepalum Benth.| |[Legume Data Portal](/taxonomy/taxon/746504)|    [GBIF](https://www.gbif.org/species/2956479)| |[WCVP](https://wcvp.science.kew.org/taxon/22142-1)|  
+| Cynometra L.| |[Legume Data Portal](/taxonomy/taxon/752227)|    [GBIF](https://www.gbif.org/species/2966806)| |[WCVP](https://wcvp.science.kew.org/taxon/22178-1)|  
+| Daniellia Benn.|  |[Legume Data Portal](/taxonomy/taxon/756752)|    [GBIF](https://www.gbif.org/species/2948719)| |[WCVP](https://wcvp.science.kew.org/taxon/22208-1)|  
+| Detarium Juss.| |[Legume Data Portal](/taxonomy/taxon/763143)|    [GBIF](https://www.gbif.org/species/2961173)| |[WCVP](https://wcvp.science.kew.org/taxon/22234-1)|  
+| Dicymbe Spruce ex Benth.| |[Legume Data Portal](/taxonomy/taxon/767070)|    [GBIF](https://www.gbif.org/species/4929814)| |[WCVP](https://wcvp.science.kew.org/taxon/22253-1)|  
+| Didelotia Baill.| |[Legume Data Portal](/taxonomy/taxon/767109)|    [GBIF](https://www.gbif.org/species/2965869)| |[WCVP](https://wcvp.science.kew.org/taxon/22255-1)|  
+| Ecuadendron D.A.Neill|  |[Legume Data Portal](/taxonomy/taxon/784507)|    [GBIF](https://www.gbif.org/species/2959137)| |[WCVP](https://wcvp.science.kew.org/taxon/1001401-1)|  
+| Elizabetha Schomb. ex Benth.| |[Legume Data Portal](/taxonomy/taxon/531743)|    [GBIF](https://www.gbif.org/species/7395712)| |[WCVP](https://wcvp.science.kew.org/taxon/22354-1)|  
+| Endertia Steenis & de Wit|  |[Legume Data Portal](/taxonomy/taxon/788792)|    [GBIF](https://www.gbif.org/species/2940358)| |[WCVP](https://wcvp.science.kew.org/taxon/22360-1)|  
+| Englerodendron Harms| |[Legume Data Portal](/taxonomy/taxon/789244)|    [GBIF](https://www.gbif.org/species/2970576)| |[WCVP](https://wcvp.science.kew.org/taxon/22367-1)|  
+| Eperua Aubl.| |[Legume Data Portal](/taxonomy/taxon/789844)|    [GBIF](https://www.gbif.org/species/2943504)| |[WCVP](https://wcvp.science.kew.org/taxon/22371-1)|  
+| Eurypetalum Harms|  |[Legume Data Portal](/taxonomy/taxon/805216)|    [GBIF](https://www.gbif.org/species/8373292)| |[WCVP](https://wcvp.science.kew.org/taxon/22406-1)|  
+| Gabonius Wieringa & Mackinder|  |[Legume Data Portal](/taxonomy/taxon/995876)|    [GBIF](https://www.gbif.org/species/9681719)| |[WCVP](https://wcvp.science.kew.org/taxon/77133635-1)| 
+| Gilbertiodendron J.Léonard| |[Legume Data Portal](/taxonomy/taxon/825237)|    [GBIF](https://www.gbif.org/species/2941642)| |[WCVP](https://wcvp.science.kew.org/taxon/22485-1)|  
+| Gilletiodendron Vermoesen|  |[Legume Data Portal](/taxonomy/taxon/826004)|    [GBIF](https://www.gbif.org/species/2944302)| |[WCVP](https://wcvp.science.kew.org/taxon/22486-1)|  
+| Goniorrhachis Taub.|  |[Legume Data Portal](/taxonomy/taxon/829617)|    [GBIF](https://www.gbif.org/species/2944249)| |[WCVP](https://wcvp.science.kew.org/taxon/295719-2)| 
+| Gossweilerodendron Harms| |[Legume Data Portal](/taxonomy/taxon/830949)|    [GBIF](https://www.gbif.org/species/8196126)| |[WCVP](https://wcvp.science.kew.org/taxon/22516-1)|  
+| Guibourtia Benn.| |[Legume Data Portal](/taxonomy/taxon/834802)|    [GBIF](https://www.gbif.org/species/2964774)| |[WCVP](https://wcvp.science.kew.org/taxon/22530-1)|  
+| Hardwickia Roxb.| |[Legume Data Portal](/taxonomy/taxon/839537)|    [GBIF](https://www.gbif.org/species/2946903)| |[WCVP](https://wcvp.science.kew.org/taxon/22557-1)|  
+| Heterostemon Desf.| |[Legume Data Portal](/taxonomy/taxon/848554)|    [GBIF](https://www.gbif.org/species/2943910)| |[WCVP](https://wcvp.science.kew.org/taxon/22595-1)|  
+| Humboldtia J.Vahl|  |[Legume Data Portal](/taxonomy/taxon/607458)|    [GBIF](https://www.gbif.org/species/2962724)| |[WCVP](https://wcvp.science.kew.org/taxon/331664-2)| 
+| Hylodendron Taub.|  |[Legume Data Portal](/taxonomy/taxon/856882)|    [GBIF](https://www.gbif.org/species/2952761)| |[WCVP](https://wcvp.science.kew.org/taxon/22634-1)|  
+| Hymenaea L.|  |[Legume Data Portal](/taxonomy/taxon/857026)|    [GBIF](https://www.gbif.org/species/2950720)| |[WCVP](https://wcvp.science.kew.org/taxon/22635-1)|  
+| Hymenostegia (Benth.) Harms|  |[Legume Data Portal](/taxonomy/taxon/857347)|    [GBIF](https://www.gbif.org/species/2963360)| |[WCVP](https://wcvp.science.kew.org/taxon/22642-1)|  
+| Icuria Wieringa|  |[Legume Data Portal](/taxonomy/taxon/860251)|    [GBIF](https://www.gbif.org/species/2945449)| |[WCVP](https://wcvp.science.kew.org/taxon/1011139-1)|  
+| Intsia Thouars| |[Legume Data Portal](/taxonomy/taxon/865920)|    [GBIF](https://www.gbif.org/species/2963210)| |[WCVP](https://wcvp.science.kew.org/taxon/22666-1)|  
+| Isoberlinia Craib & Stapf|  |[Legume Data Portal](/taxonomy/taxon/867187)|    [GBIF](https://www.gbif.org/species/8108120)| |[WCVP](https://wcvp.science.kew.org/taxon/22670-1)|  
+| Isomacrolobium Aubrév. & Pellegr.|  |[Legume Data Portal](/taxonomy/taxon/867423)|    [GBIF](https://www.gbif.org/species/7301510)| |[WCVP](https://wcvp.science.kew.org/taxon/22672-1)|  
+| Julbernardia Pellegr.|  |[Legume Data Portal](/taxonomy/taxon/331522)|    [GBIF](https://www.gbif.org/species/2981743)| |[WCVP](https://wcvp.science.kew.org/taxon/22686-1)| 
+| Kingiodendron Harms|  |[Legume Data Portal](/taxonomy/taxon/336237)|    [GBIF](https://www.gbif.org/species/2947455)| |[WCVP](https://wcvp.science.kew.org/taxon/22702-1)|  
+| Lebruniodendron J.Léonard|  |[Legume Data Portal](/taxonomy/taxon/351173)|    [GBIF](https://www.gbif.org/species/2983908)| |[WCVP](https://wcvp.science.kew.org/taxon/22753-1)|  
+| Leonardoxa Aubrév.| |[Legume Data Portal](/taxonomy/taxon/345888)|    [GBIF](https://www.gbif.org/species/2947375)| |[WCVP](https://wcvp.science.kew.org/taxon/22765-1)|  
+| Leucostegane Prain| |[Legume Data Portal](/taxonomy/taxon/351287)|    [GBIF](https://www.gbif.org/species/2952637)| |[WCVP](https://wcvp.science.kew.org/taxon/22790-1)|  
+| Librevillea Hoyle|  |[Legume Data Portal](/taxonomy/taxon/351334)|    [GBIF](https://www.gbif.org/species/2941197)| |[WCVP](https://wcvp.science.kew.org/taxon/22793-1)|  
+| Loesenera Harms|  |[Legume Data Portal](/taxonomy/taxon/346457)|    [GBIF](https://www.gbif.org/species/2944255)| |[WCVP](https://wcvp.science.kew.org/taxon/22809-1)|  
+| Lysidice Hance| |[Legume Data Portal](/taxonomy/taxon/346717)|    [GBIF](https://www.gbif.org/species/2958145)| |[WCVP](https://wcvp.science.kew.org/taxon/22847-1)|  
+| Macrolobium Schreb.|  |[Legume Data Portal](/taxonomy/taxon/366400)|    [GBIF](https://www.gbif.org/species/7743878)| |[WCVP](https://wcvp.science.kew.org/taxon/331742-2)| 
+| Maniltoa Scheff.| |[Legume Data Portal](/taxonomy/taxon/368569)|    [GBIF](https://www.gbif.org/species/2946132)| |[WCVP](https://wcvp.science.kew.org/taxon/329916-2)| 
+| Michelsonia Hauman| |[Legume Data Portal](/taxonomy/taxon/367964)|    [GBIF](https://www.gbif.org/species/2945463)| |[WCVP](https://wcvp.science.kew.org/taxon/22931-1)|  
+| Micklethwaitia G.P.Lewis & Schrire| |[Legume Data Portal](/taxonomy/taxon/376781)|    [GBIF](https://www.gbif.org/species/7301240)| |[WCVP](https://wcvp.science.kew.org/taxon/60435882-2)| 
+| Microberlinia A.Chev.|  |[Legume Data Portal](/taxonomy/taxon/367970)|    [GBIF](https://www.gbif.org/species/2941146)| |[WCVP](https://wcvp.science.kew.org/taxon/22934-1)| 
+| Neoapaloxylon Rauschert|  |[Legume Data Portal](/taxonomy/taxon/383941)|    [GBIF](https://www.gbif.org/species/2944228)| |[WCVP](https://wcvp.science.kew.org/taxon/893558-1)| 
+| Neochevalierodendron J.Léonard| |[Legume Data Portal](/taxonomy/taxon/383910)|    [GBIF](https://www.gbif.org/species/2975541)| |[WCVP](https://wcvp.science.kew.org/taxon/23009-1)|  
+| Normandiodendron J.Léonard| |[Legume Data Portal](/taxonomy/taxon/383480)|    [GBIF](https://www.gbif.org/species/7302225)| |[WCVP](https://wcvp.science.kew.org/taxon/974656-1)| 
+| Oddoniodendron De Wild.|  |[Legume Data Portal](/taxonomy/taxon/386693)|    [GBIF](https://www.gbif.org/species/2959958)| |[WCVP](https://wcvp.science.kew.org/taxon/23058-1)|  
+| Oxystigma Harms|  |[Legume Data Portal](/taxonomy/taxon/388559)|    [GBIF](https://www.gbif.org/species/1424367)| |[WCVP](https://wcvp.science.kew.org/taxon/23116-1)|  
+| Paloue Aubl.| |[Legume Data Portal](/taxonomy/taxon/531743)|    [GBIF](https://www.gbif.org/species/2958895)| |[WCVP](https://wcvp.science.kew.org/taxon/30099319-2)| 
+| Paloveopsis R.S.Cowan|  |[Legume Data Portal](/taxonomy/taxon/415107)|    [GBIF](https://www.gbif.org/species/2959215)| |[WCVP](https://wcvp.science.kew.org/taxon/296920-2)|
+| Paramacrolobium J.Léonard|  |[Legume Data Portal](/taxonomy/taxon/531894)|    [GBIF](https://www.gbif.org/species/2962898)| |[WCVP](https://wcvp.science.kew.org/taxon/23144-1)|  
+| Peltogyne Vogel|  |[Legume Data Portal](/taxonomy/taxon/538385)|    [GBIF](https://www.gbif.org/species/2952686)| |[WCVP](https://wcvp.science.kew.org/taxon/331837-2)| 
+| Plagiosiphon Harms| |[Legume Data Portal](/taxonomy/taxon/539632)|    [GBIF](https://www.gbif.org/species/2961129)| |[WCVP](https://wcvp.science.kew.org/taxon/23267-1)|  
+| Polystemonanthus Harms| |[Legume Data Portal](/taxonomy/taxon/535816)|    [GBIF](https://www.gbif.org/species/2960420)| |[WCVP](https://wcvp.science.kew.org/taxon/23320-1)| 
+| Prioria Griseb.|  |[Legume Data Portal](/taxonomy/taxon/536362)|    [GBIF](https://www.gbif.org/species/2947107)| |[WCVP](https://wcvp.science.kew.org/taxon/23333-1)|  
+| Pseudomacrolobium Hauman| |[Legume Data Portal](/taxonomy/taxon/535182)|    [GBIF](https://www.gbif.org/species/2960223)| |[WCVP](https://wcvp.science.kew.org/taxon/23355-1)|  
+| Saraca L.|  |[Legume Data Portal](/taxonomy/taxon/592102)|    [GBIF](https://www.gbif.org/species/2372883)| |[WCVP](https://wcvp.science.kew.org/taxon/23478-1)|  
+| Schotia Jacq.|  |[Legume Data Portal](/taxonomy/taxon/490365)|    [GBIF](https://www.gbif.org/species/2959237)| |[WCVP](https://wcvp.science.kew.org/taxon/331941-2)| 
+| Scorodophloeus Harms| |[Legume Data Portal](/taxonomy/taxon/591797)|    [GBIF](https://www.gbif.org/species/2952874)| |[WCVP](https://wcvp.science.kew.org/taxon/23511-1)|  
+| Sindora Miq.| |[Legume Data Portal](/taxonomy/taxon/591028)|    [GBIF](https://www.gbif.org/species/2943351)| |[WCVP](https://wcvp.science.kew.org/taxon/23561-1)|  
+| Sindoropsis J.Léonard|  |[Legume Data Portal](/taxonomy/taxon/591062)|    [GBIF](https://www.gbif.org/species/2952642)| |[WCVP](https://wcvp.science.kew.org/taxon/23562-1)| 
+| Stemonocoleus Harms|  |[Legume Data Portal](/taxonomy/taxon/597087)|    [GBIF](https://www.gbif.org/species/2951341)| |[WCVP](https://wcvp.science.kew.org/taxon/23612-1)|  
+| Talbotiella Baker f.| |[Legume Data Portal](/taxonomy/taxon/444684)|    [GBIF](https://www.gbif.org/species/2944645)| |[WCVP](https://wcvp.science.kew.org/taxon/23657-1)|  
+| Tamarindus L.|  |[Legume Data Portal](/taxonomy/taxon/444682)|    [GBIF](https://www.gbif.org/species/2975767)| |[WCVP](https://wcvp.science.kew.org/taxon/23658-1)|  
+| Tessmannia Harms| |[Legume Data Portal](/taxonomy/taxon/443659)|    [GBIF](https://www.gbif.org/species/2947679)| |[WCVP](https://wcvp.science.kew.org/taxon/23679-1)|  
+| Tetraberlinia (Harms) Hauman| |[Legume Data Portal](/taxonomy/taxon/443642)|    [GBIF](https://www.gbif.org/species/2952737)| |[WCVP](https://wcvp.science.kew.org/taxon/23680-1)|  
+| Zenkerella Taub.| |[Legume Data Portal](/taxonomy/taxon/470203)|    [GBIF](https://www.gbif.org/species/2439359)| |[WCVP](https://wcvp.science.kew.org/taxon/23840-1)|  

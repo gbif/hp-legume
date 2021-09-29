@@ -39,16 +39,16 @@ Prenner, G. and Klitgaard, B.B. (2008). Towards unlocking the deep nodes of Legu
 ## Liste des genres
 Le tableau suivant est la liste alphabétique de tous les genres acceptés par le LPWG, avec des liens vers les pages taxonomiques de notre portail, GBIF et de la World Checklist of Vascular Plants (Kew). Cette liste sera mise-à-jour au fil du temps afin de refléter l'évolution de la taxonomie.
 
-Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](https://hp-legume.gbif-staging.org/fr/taxonomy/species-list) et à celle du [Groupe de travail sur la taxonomie](https://hp-legume.gbif-staging.org/fr/working-groups/taxonomy) pour obtenir plus d'informations. La taxonomie actuelle est accessible via la page [Parcourir](https://hp-legume.gbif-staging.org/fr/taxonomy/browse) ou la [Recherche avancée](https://hp-legume.gbif-staging.org/fr/taxonomy/search).
+Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](/fr/taxonomy/species-list) et à celle du [Groupe de travail sur la taxonomie](/fr/working-groups/taxonomy) pour obtenir plus d'informations. La taxonomie actuelle est accessible via la page [Parcourir](/fr/taxonomy/browse) ou la [Recherche avancée](/fr/taxonomy/search).
 
 
 |Genre                  |     Source de Données                     | 
 | --------------------- |------------------------------|-----------------------|
-| Duparquetia Baill | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/17014-1) | [GBIF](https://www.gbif.org/species/2968139)  | [WCVP](https://wcvp.science.kew.org/taxon/17014-1)  |
+| Duparquetia Baill | [Legume Data Portal](/fr/taxonomy/taxon/779361) | [GBIF](https://www.gbif.org/species/2968139)  | [WCVP](https://wcvp.science.kew.org/taxon/17014-1)  |
 
 
 
 
 |Espèce                  |     Source de Données                     |
 | --------------------- |------------------------------|-----------------------|
-| Duparquetia orchidacea Baill. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/380758-1) | [GBIF](https://www.gbif.org/species/2968140) | [WCVP](https://wcvp.science.kew.org/taxon/380758-1)  |
+| Duparquetia orchidacea Baill. | [Legume Data Portal](/fr/taxonomy/taxon/779362) | [GBIF](https://www.gbif.org/species/2968140) | [WCVP](https://wcvp.science.kew.org/taxon/380758-1)  |

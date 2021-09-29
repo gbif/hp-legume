@@ -58,22 +58,22 @@ Wunderlin, R.P. 2010b. New combinations in Schnella (Fabaceae: Caesalpinioideae:
 ## Liste des genres
 Le tableau suivant est la liste alphabétique de tous les genres acceptés par le LPWG, avec des liens vers les pages taxonomiques de notre portail, GBIF et de la World Checklist of Vascular Plants (Kew). Cette liste sera mise-à-jour au fil du temps afin de refléter l'évolution de la taxonomie.
 
-Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](https://hp-legume.gbif-staging.org/fr/taxonomy/species-list) et à celle du [Groupe de travail sur la tAxonomie](https://hp-legume.gbif-staging.org/fr/working-groups/taxonomy) pour obtenir plus d'informations. La taxonomie actuelle est accessible via la page [Parcourir](https://hp-legume.gbif-staging.org/fr/taxonomy/browse) ou la [Recherche avancée](https://hp-legume.gbif-staging.org/fr/taxonomy/search).
+Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](/fr/taxonomy/species-list) et à celle du [Groupe de travail sur la tAxonomie](/fr/working-groups/taxonomy) pour obtenir plus d'informations. La taxonomie actuelle est accessible via la page [Parcourir](/fr/taxonomy/browse) ou la [Recherche avancée](/fr/taxonomy/search).
 
 
- |Genre                  | Source de Données   |
+|Genre                  | Source de Données   |
 | --------------------- |------------------------------|-----------------------|
-| Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21580-1)|  [GBIF](https://www.gbif.org/species/2956199)  | [WCVP](https://wcvp.science.kew.org/taxon/21580-1)  |
-| Barklya F.Muell.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21784-1)|[GBIF](https://www.gbif.org/species/2955817)  | [WCVP](https://wcvp.science.kew.org/taxon/21784-1)  |
-| Bauhinia L. |[Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/327181-2)|  [GBIF](https://www.gbif.org/species/2952935)  | [WCVP](https://wcvp.science.kew.org/taxon/327181-2) |
-| Brenierea Humbert  |[Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21855-1)| [GBIF](https://www.gbif.org/species/2977380)  | [WCVP](https://wcvp.science.kew.org/taxon/21855-1)  |
-| Cercis L. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/30001619-2)|[GBIF](https://www.gbif.org/species/2955919) | [WCVP](https://wcvp.science.kew.org/taxon/30001619-2) |
-| Cheniella R.Clark & Mackinder |[Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/77165904-1)|  [GBIF](https://www.gbif.org/species/9712046)  | [WCVP](https://wcvp.science.kew.org/taxon/77165904-1) |
-| Gigasiphon Drake  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22484-1)|[GBIF](https://www.gbif.org/species/8059232)  | [WCVP](https://wcvp.science.kew.org/taxon/22484-1)  |
-| Griffonia Baill.  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22523-1)|[GBIF](https://www.gbif.org/species/2945470)  | [WCVP](https://wcvp.science.kew.org/taxon/22523-1)  |
-| Lysiphyllum (Benth.) de Wit  |[Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/22849-1)| [GBIF](https://www.gbif.org/species/9105569)  | [WCVP](https://wcvp.science.kew.org/taxon/22849-1)  |
-| Phanera Lour. |[Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/21580-1)|[GBIF](https://www.gbif.org/species/7278390) | [WCVP](https://wcvp.science.kew.org/taxon/23206-1)  |
-| Piliostigma Hochst. | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/329960-2)|[GBIF](https://www.gbif.org/species/2947989) | [WCVP](https://wcvp.science.kew.org/taxon/329960-2) |
-| Schnella Raddi  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/30003119-2)|[GBIF](https://www.gbif.org/species/7278569) | [WCVP](https://wcvp.science.kew.org/taxon/30003119-2) |
-| Tournaya A.Schmitz  | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23709-1)|[GBIF](https://www.gbif.org/species/7301486)  | [WCVP](https://wcvp.science.kew.org/taxon/23709-1)  |
-| Tylosema (Schweinf.) Torre & Hillc.   | [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/23743-1)|[GBIF](https://www.gbif.org/species/9010267)  | [WCVP](https://wcvp.science.kew.org/taxon/23743-1)  |
+| Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc. | [Legume Data Portal](/taxonomy/taxon/621808)| [GBIF](https://www.gbif.org/species/2956199)  | [WCVP](https://wcvp.science.kew.org/taxon/21580-1)  |
+| Barklya F.Muell.  | [Legume Data Portal](/fr/taxonomy/taxon/669816)|[GBIF](https://www.gbif.org/species/2955817) | [WCVP](https://wcvp.science.kew.org/taxon/21784-1)  |
+| Bauhinia L. |[Legume Data Portal](/fr/taxonomy/taxon/671275)|  [GBIF](https://www.gbif.org/species/2952935)  | [WCVP](https://wcvp.science.kew.org/taxon/327181-2) |
+| Brenierea Humbert |[Legume Data Portal](/fr/taxonomy/taxon/683252)|  [GBIF](https://www.gbif.org/species/2977380)  | [WCVP](https://wcvp.science.kew.org/taxon/21855-1)  |
+| Cercis L. | [Legume Data Portal](/fr/taxonomy/taxon/711402)|[GBIF](https://www.gbif.org/species/2955919) | [WCVP](https://wcvp.science.kew.org/taxon/30001619-2) |
+| Cheniella R.Clark & Mackinder |[Legume Data Portal](/fr/taxonomy/taxon/1014675)| [GBIF](https://www.gbif.org/species/9712046)  | [WCVP](https://wcvp.science.kew.org/taxon/77165904-1) |
+| Gigasiphon Drake  | [Legume Data Portal](/fr/taxonomy/taxon/825227)|[GBIF](https://www.gbif.org/species/8059232) | [WCVP](https://wcvp.science.kew.org/taxon/22484-1)  |
+| Griffonia Baill.  | [Legume Data Portal](/fr/taxonomy/taxon/833544)|[GBIF](https://www.gbif.org/species/2945470) | [WCVP](https://wcvp.science.kew.org/taxon/22523-1)  |
+| Lysiphyllum (Benth.) de Wit |[Legume Data Portal](/fr/taxonomy/taxon/347397)|  [GBIF](https://www.gbif.org/species/9105569)  | [WCVP](https://wcvp.science.kew.org/taxon/22849-1)  |
+| Phanera Lour. |[Legume Data Portal](/fr/taxonomy/taxon/537884)|[GBIF](https://www.gbif.org/species/7278390)  | [WCVP](https://wcvp.science.kew.org/taxon/23206-1)  |
+| Piliostigma Hochst. | [Legume Data Portal](/fr/taxonomy/taxon/415512)|[GBIF](https://www.gbif.org/species/2947989) | [WCVP](https://wcvp.science.kew.org/taxon/329960-2) |
+| Schnella Raddi  | [Legume Data Portal](/fr/taxonomy/taxon/591756)|[GBIF](https://www.gbif.org/species/7278569) | [WCVP](https://wcvp.science.kew.org/taxon/30003119-2) |
+| Tournaya A.Schmitz  | [Legume Data Portal](/fr/taxonomy/taxon/443521)|[GBIF](https://www.gbif.org/species/7301486) | [WCVP](https://wcvp.science.kew.org/taxon/23709-1)  |
+| Tylosema (Schweinf.) Torre & Hillc.   | [Legume Data Portal](/fr/taxonomy/taxon/441307)|[GBIF](https://www.gbif.org/species/9010267) | [WCVP](https://wcvp.science.kew.org/taxon/23743-1)  |

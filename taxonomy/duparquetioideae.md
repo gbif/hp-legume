@@ -40,17 +40,17 @@ Prenner, G. and Klitgaard, B.B. (2008). Towards unlocking the deep nodes of Legu
 
 Below is an alphabetical list of all genera accepted by the LPWG with links out to the taxonomic pages on our portal, GBIF and World Checklist of Vascular Plants (Kew). Over time this list will be updated to reflect the evolving taxonomy. 
 
-Please see the [Species List and Synonyms](https://hp-legume.gbif-staging.org/taxonomy/species-list) and [Legume Taxonomy Working Group](https://hp-legume.gbif-staging.org/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessbile by [Browse](https://hp-legume.gbif-staging.org/taxonomy/browse) or  [Advanced Search](https://hp-legume.gbif-staging.org/taxonomy/search).
+Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume Taxonomy Working Group](/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessbile by [Browse](/taxonomy/browse) or  [Advanced Search](/taxonomy/search).
 
 
 |Genus                  |     Data Source                     | 
 | --------------------- |------------------------------|-----------------------|
-|	Duparquetia Baill	|	[Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/17014-1) | [GBIF](https://www.gbif.org/species/2968139)	|	[WCVP](https://wcvp.science.kew.org/taxon/17014-1)	|
+|	Duparquetia Baill	|	[Legume Data Portal](/taxonomy/taxon/779361) | [GBIF](https://www.gbif.org/species/2968139)	|	[WCVP](https://wcvp.science.kew.org/taxon/17014-1)	|
 
 
 
 
 |Species                  |     Data Source                     |
 | --------------------- |------------------------------|-----------------------|
-|	Duparquetia orchidacea Baill.	|	[Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/taxon/380758-1) | [GBIF](https://www.gbif.org/species/2968140)	|	[WCVP](https://wcvp.science.kew.org/taxon/380758-1)	|
+|	Duparquetia orchidacea Baill.	|	[Legume Data Portal](/taxonomy/taxon/779362) | [GBIF](https://www.gbif.org/species/2968140)	|	[WCVP](https://wcvp.science.kew.org/taxon/380758-1)	|
 
