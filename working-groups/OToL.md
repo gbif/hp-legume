@@ -36,7 +36,7 @@ It is important to recognize that the OToL synthetic tree includes terminals fro
 
 This [google spreadsheet](https://docs.google.com/spreadsheets/d/1Fvf6UJ7Q35Mu9bmmx4f2gtj7ple2N9OEEIhM4SNnuqA/edit#gid=1233710896) lists the status of Leguminosae trees in OToL (January 2021) and indicates target trees to import from published studies:
 
-![alt text](/assets/images/OToL List.png)
+![alt text](/assets/images/OToL_List.png)
 
 | Tab                   | Status                         | Action                                                                                              |
 | --------------------- |:------------------------------:| ---------------------------------------------------------------------------------------------------:|
@@ -44,10 +44,10 @@ This [google spreadsheet](https://docs.google.com/spreadsheets/d/1Fvf6UJ7Q35Mu9b
 | OToL List             | In Progress                    | Considering your knowledge of the clade and paper, is this important to include?                    |
 | OToL List             | Priority                       | Update Priority in column 2                                                                         |
 | Potential Trees       | In Treebase                    | Import into OToL from TreeBase and curate                                                           |
-| Potential Trees       | pdf, not in treebase           | Determine if priority, find tree or contact authors, or determineif newer studies cover this clade|
+| Potential Trees       | pdf, not in treebase           | Determine if priority, find tree or contact authors, or determineif newer studies cover this clade  |
 | Potential Trees       | to assess                      | Is this worth chasing? or are there newer studies that cover this clade                             |
 | Potential Trees       | find pdf                       | Is this worth chasing? or are there newer studies that cover this clade                             |
-| Suggest a tree        | Trees needed                   | Recent trees that cover groups not in current synthetic tree, especially species level             |
+| Suggest a tree        | Trees needed                   | Recent trees that cover groups not in current synthetic tree, especially species level              |
 
 --------
 * Potential Trees: This list of trees was obtained mailnly from LPWG citations. This is an old list and needs updating.
@@ -70,7 +70,7 @@ This [google spreadsheet](https://docs.google.com/spreadsheets/d/1Fvf6UJ7Q35Mu9b
 Please help us!
 
 ## How to curate files in OToL
-Click on an OpenTree study link to see what the interface looks like. You will need a GitHb account to edit. More details to be added later. The OToL synthetic tree is only updated occasionally. The most recent was in December 2019, but updating the legume clade would be a good incentive for a new synthetic tree update by OToL.
+Click on an OpenTree study link to see what the interface looks like. You will need a GitHub account to edit. More details to be added later. The OToL synthetic tree is only updated occasionally. The most recent was in December 2019, but updating the legume clade would be a good incentive for a new synthetic tree update by OToL.
 
 
 ## Publication idea

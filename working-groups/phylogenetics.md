@@ -20,7 +20,7 @@ The group also aims to find ways to harmonize the different target enrichment (h
 
 ## Future plans
 
-Given the advanced state of the work undertaken by several groups who have designed the probe sets enumerated above, phylogenomics within legumes is advancing rapidly on several fronts, with well sampled studies emerging for all subfamilies. These parallel efforts will each provide valuable information on phylogenetic relationships within the family. For example, phylogenomic analyses are the basis for a new tribal and clade classification for subfamily Caesalpinioideae that is being developed by the LPWG. 
+Given the advanced state of the work undertaken by several groups who have designed the probe sets enumerated above, phylogenomics within legumes is advancing rapidly on several fronts, with well sampled studies emerging for all subfamilies. Given that the monophyly of each subfamily is well established, these parallel efforts will each provide valuable information on phylogenetic relationships within the family. 
 
 ## Join the Working Group
 
