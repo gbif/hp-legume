@@ -9,11 +9,10 @@ stats:
     - title: "22,939" #<span data-ajax-path="result.childCount" data-ajax-url="https://api.gbif.org/v1/species/search?rank=SPECIES&highertaxon_key=5386&status=ACCEPTED&limit=0">xx</span>
       description: Espèces
       #background: /assets/images/landing_page/iconos_cifras/listas_de_especies.png
-      href: https://hp-legume.gbif-staging.org/taxonomy/browse
+      href: /taxonomy/browse
       # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
-    - title: <span data-ajax-path="result.0.childCount" data-ajax-url="https://api.catalogueoflife.org/dataset/2304/tree?catalogueKey=3&extinct=true">xx</span>
+    - title: "770" #<span data-ajax-path="result.0.childCount" data-ajax-url="https://api.catalogueoflife.org/dataset/2304/tree?catalogueKey=3&extinct=true">xx</span>
       #could also use "https://api.catalogueoflife.org/dataset/2304/tree/x4/children?extinct=true&type=SOURCE&limit=1000" or "https://api.catalogueoflife.org/dataset/2304/tree/x4?catalogueKey=3&extinct=true"
       description: Genres
       #background: /assets/images/landing_page/iconos_cifras/fichas_de_especies.png
-      href: https://hp-legume.gbif-staging.org/taxonomy/browse
-      
+      href: /taxonomy/browse
