@@ -5,7 +5,7 @@
 columns:
   - name: Partners
     description: |
-      This portal is a project of the Legume Phylogeny Working Group (LPWG).
+      This portal is a project of the Legume Phylogeny Working Group (LPWG), with the support of [Canadensys](http://www.canadensys.net/) and [GBIF](https://www.gbif.org/).
 
   - name: Code
     description: | # Can be Markdown

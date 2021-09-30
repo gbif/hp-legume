@@ -5,7 +5,7 @@
 columns:
   - name: Partenaires
     description: |
-      Ce portail est un projet du Groupe de Travail sur la Phylogénie des Légumineuses (Legume Phylogeny Working Group - LPWG).
+      Ce portail est un projet du Groupe de Travail sur la Phylogénie des Légumineuses (Legume Phylogeny Working Group - LPWG), avec le soutien de [Canadensys](http://www.canadensys.net/) et [GBIF](https://www.gbif.org/).
 
   - name: Code et commentaires
     description: | # Can be Markdown
