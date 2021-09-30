@@ -1,7 +1,7 @@
 issues: 
   title: Derniers volumes du Bean Bag
   description: |
-    Les volumes précédents sont disponibles sur le site de la [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/search?searchTerm=bean+bag#/titles).
+    Les volumes précédents sont disponibles sur le [Kew Research Repository](https://kew.iro.bl.uk/collections/b50e6210-e231-4392-9301-c07bdce223cc) et la [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/search?searchTerm=bean+bag#/titles).
   features:
     - preTitle: Année 2021  # optional
       title: Volume 67 # required
@@ -10,6 +10,16 @@ issues:
       cta:
       - text: Téléchargement
         href: /media/The_BB_Newsletter_Issue67_2020.pdf
+        isPrimary: true
+    - preTitle: Année 2019  # optional
+      title: Issue 66 # required
+      background: /assets/images/bb66.jpg
+      imageLicense: |
+        *Flemingia gracilis* (Mukerjee) Ali Photo par Uday Agashe via [iNaturalist](https://www.inaturalist.org/observations/56509599)
+      href: /media/The_BB_Newsletter_Issue66_2019.pdf
+      cta:
+      - text: Download
+        href: /media/The_BB_Newsletter_Issue66_2019.pdf
         isPrimary: true
     - preTitle: Année 2018
       title: Volume 65
