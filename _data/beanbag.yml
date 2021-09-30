@@ -13,7 +13,7 @@ issues:
         isPrimary: true
     - preTitle: Year 2019  # optional
       title: Issue 66 # required
-      background: /assets/images/bb66.jpg
+      background: /assets/images/bb66.jpeg
       imageLicense: |
         *Flemingia gracilis* (Mukerjee) Ali Photo by Uday Agashe via [iNaturalist](https://www.inaturalist.org/observations/56509599)
       href: /media/The_BB_Newsletter_Issue66_2019.pdf
