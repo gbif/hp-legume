@@ -8,36 +8,35 @@ height: 70vh
 toc: true
 ---
 
-Coordinators: [Edeline Gagnon](mailto:edeline.gagnon@gmail.com) [(Royal Botanic Garden, Edinburgh, U.K.)](https://www.rbge.org.uk/), [Jens Ringelberg](mailto:jens.ringelberg@gmail.com) (University of Zurich, Switzerland) and [Joe Miller](mailto:jmiller@gbif.org) [(Global Biodiversity Information Facility) Copenhagen Denmark](https://www.gbif.org).
+Coordinateurs: [Edeline Gagnon](mailto:edeline.gagnon@gmail.com) [(Royal Botanic Garden, Edinburgh, U.K.)](https://www.rbge.org.uk/), [Jens Ringelberg](mailto:jens.ringelberg@gmail.com) (University of Zurich, Switzerland) et [Joe Miller](mailto:jmiller@gbif.org) [(Global Biodiversity Information Facility) Copenhagen Denmark](https://www.gbif.org).
 
 ## Introduction
-
-The central goal of the Legume Occurrence Working Group is to produce an expert-verified, global occurrence dataset for the entire legume family. As legumes are economically and ecologically important, such a dataset would find many uses among ecologists, evolutionary biologists, conservationists, plant breeders, foresters and others. To ensure data reproducibility, we focus primarily on preserved specimens from herbaria, although other records that are verifiable are also being considered.
-While it is now extremely easy to download data from global occurrence databases such as GBIF and use standard cleaning tools, custom-made R scripts and OpenRefine to edit the data, there are still a number of important bottlenecks to assembling high-quality occurrence data for legume species, including:
--	Having an up-to-date and accurate list of accepted names and synonyms for all legumes;
--	Verifying the taxonomic identity of occurrence records;
--	Assessing whether the final set of occurrence records for any given species accurately represents the known geographic distribution.
+L'objectif principal du Groupe de Travail sur les Occurrences des Légumineuses est de générer un jeu de données vérifié par des experts et contenant des données d'occurrences globales pour la famille des Légumineuses au complet. Les Légumineuses ayant une grande importance écologique et économique, un tel jeu de données trouverait de nombreux usages parmi les écologistes, biologistes évolutionnaires, conservationnistes, hybrideurs, forestiers et autres. Afin de s'assurer de la reproductivité des données, nous nous concentrons principalement sur les spécimens d'herbiers, mais d'autres enregistrements vérifiables pourraient être considérés.
+Alors qu'il est désormais extrêmement facile de télécharger des données depuis des bases de données d'occurrences globales, telles que GBIF, et d'utiliser des outils de nettoyage standards, des scripts R personnalisés et OpenRefine pour modifier les données, il existe toujours de nombreuses barrières dans la construction de jeux de données d'occurrences de haute qualité pour les espèces de Légumineuses, incluant: 
+-	Avoir une liste d'espèce mise-à-jour et précise de noms acceptés et de synonymes pour toutes les Légumineuses;
+-	Vérifier l'identité taxonomique des enregistrements d'occurrences;
+-	Évaluer si le jeu de données d'occurrence final pour n'importe quelle espèce représente de manière précise la distribution géographique connue.
 
 ## Stratégie
+Notre stratégie est de surmonter ces difficultés en :
+-	Basant notre jeu de données d'occurrences sur la liste d'espèces produite par le Groupe de Travail sur la Taxonomie des Légumineuses (Legume Taxonomic Working Group).
+-	Travaillant avec les experts sur les Légumineuses afin de vérifier la qualité du jeu de données d'occurrences.
+-	Encourageant le retour des occurrences nettoyées vers le fournisseur de données original afin de maintenir une amélioration constante des données. Nous prévoyons que différents jeux de données d'occurrences vont représenter différents défis (e.g. géo-référencement additionnels, utilisation de différentes bases de données dépendamment de la région géographique, nécessité d'identifier des occurrences non-natives) et que ceci va nécessiter différentes stratégies afin de nettoyer les données. Toutes les données devront rencontrer des standards minimums basés sur des guides et des outils, mais certains utilisateurs voudront nettoyer et explorer plus en détail les données.
+-	Encourageant la collaboration avec des taxonomistes et autres botanistes afin de nettoyer, évaluer et contribuer au géo-référencement des données via un procédé automatisé de micro-publications. Chaque micro-publication devra contenir la méthode et des outils utilisés pour nettoyer le jeu de données, et une évaluation de la qualité et complétude des données. Associés à des DOI, les micro-publications permettent la citation des travaux, permettant ainsi une reconnaissance de ce type de travail.
 
-Our strategy is to overcome these difficulties by:
--	Basing our occurrence dataset on the checklist produced by the Legume Taxonomic Working Group.
--	Working with legume experts to assess the quality of the occurrence dataset.
--	Encouraging return of cleaned occurrence records back to the original data providers so that the data improvement is sustained. We expect different occurrence datasets will present different challenges (e.g. additional geo-referencing, use of different databases depending on geographic regions, need to identify occurrences of non-native records) and will require different strategies to clean the data. All data will be required to meet minimum standards based on specified guidelines and tools, but some users will want to clean and further explore their data.
--	Encouraging collaboration with taxonomists and other botanists to clean, assess and contribute geo-referenced data through a semi-automated process of micro-publications. Each micro-publication would include the methods and tools used to clean the dataset, and an assessment of data quality and completeness. Associated with a DOI,  micro-publications make the work citable, thus providing recognition for this type of work. 
 
 ## Plans futurs
+-	Pour le moment, nous avons compilé une liste des projets actuels et prévus afin d'assembler et géo-référencer les données d'occurrences. Notre sondage indique que, bien que de considérables efforts aient été faits afin d'assembler des données de certaines sous-familles, des défis demeurent afin d'amasser des données pour la sous-famille des Papilionoideae, au sein de laquelle la majorité de la diversité des espèces de Légumineuses est concentrée.
+-	Le Groupe de Travail sur les Occurrences a produit une série de scripts R afin de (i) retrouver les données GBIF basées sur une liste de noms acceptés et de synonymes; (ii)
+nettoyer les données d'occurrences retrouvées , en se basant sur la structure du script de Ringleberg et al. (2020) modifié afin d'ajouter des outils provenant du paquet R "CoordinateCleaner" (Zizka et al., 2019), en plus de scripts additionnels fournis par E. Gagnon et Y. Barros Souza. Ces scripts seront bientôt disponibles sur GitHub. Au cours de l'année 2021 nous prévoyons d'organiser une rencontre afin de présenter et discuter le flux de travail proposé et les scripts R pour retrouver des données directement depuis GBIF et des outils de nettoyage de données standards.
+-	Des mises à jour sont attendues par rapport à des outils de nettoyage de données hébergés par GBIF et à l'indexation des données d'occurrences par rapport à une taxonomie révisée, tel que recommandé par le legume taxonomic working group.
+-	Nous prévoyons une rencontre de réflexion afin d'explorer des idées pour utiliser les nouvelles données d'occurrences vérifiées par les experts sur les Légumineuses dans des analyses sur la biogéographie des Légumineuses. De plus amples informations à propos de ces rencontres seront disponibles bientôt.
+-	Pour finir, dès que la liste taxonomique vérifiée des Légumineuses, nous prévoyons avancer dans le nettoyage des données des Légumineuses. De nouveaux documents développés par la communauté à propos des meilleures pratiques en géoréférencement ont été publiés sur GBIF. Cet ensemble de trois [guides](/fr/working-groups/occurrences#resources) fournissent la théorie, les méthodes et les conseils à propos de l'interprétation spatiale de la localité.
 
--	To date we have compiled a list of current and on-going efforts to assemble and geo-reference occurrence record data. Our survey indicates that while considerable efforts have been made for assembling data for certain subfamilies, challenges remain for amassing data for subfamily Papilionoideae, in which most legume species diversity is concentrated.
--	The Occurrences Working Group has produced a series of Rscripts for (i) retrieval of GBIF data based on a list of accepted names and synonyms; (ii) cleaning of the retrieved occurrence data, based on the framework of the script from Ringelberg et al. (2020), modified to add tools from the R Package “CoordinateCleaner” (Zizka et al. 2019), plus additional custom scripts provided by E. Gagnon and Y. Barros Souza. These scripts will be made available shortly through GitHub. During 2021 we plan to organize a meeting to present and discuss the proposed work-flow and Rscripts for retrieval of data directly from GBIF and standard cleaning tools. 
-- Updates are expected about new GBIF-hosted data cleaning tools and occurrence data indexing to an updated taxonomy, as recommended by the legume taxonomic working group. 
-- We are planning a brainstorming meeting to explore ideas for using the new expert-verified global legume occurrence data in legume biogeography. Further details about these meetings will be available shortly. 
-- Finally, as the updated legume taxonomic checklist becomes available, we plan to move forward with legume-wide data cleaning. New community developed best practices documents in geo-referencing have been published by GBIF. This set of three [guides](/fr/working-groups/occurrences#resources) provide theory, methods and advice on spatial interpretation of locations.
-nterpretation of locations.
 
 ## Rejoignez le Groupe de Travail
 
-If you are interested in participating in our group, or have questions, please contact [Edeline Gagnon](mailto:edeline.gagnon@gmail.com), [Jens Ringelberg](mailto:jens.ringelberg@gmail.com) or [Joe Miller](mailto:jmiller@gbif.org). We are keen to hear from everyone working to expand and improve the quality of available legume occurrence data.
+Si vous êtes intéressés à participer à notre groupe de travail, ou si vous avez des questions, veuillez contacter [Edeline Gagnon](mailto:edeline.gagnon@gmail.com), [Jens Ringelberg](mailto:jens.ringelberg@gmail.com) ou [Joe Miller](mailto:jmiller@gbif.org). Nous serions ravis de discuter avec quiconque intéressé à travailler sur l'expansion et l'amélioration de la qualité des données d'occurrences disponibles sur les Légumineuses.
 
 ## Ressources
 
