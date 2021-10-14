@@ -5,6 +5,6 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
 var siteConfig = {
   rootPredicate: { type: 'equals', key: 'taxonKey', value: 5386 },
   
-  highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince', 'basisOfRecord', 'typeStatus', 'cluster', 'recordedBy','publishingOrg', 'datasetName','occurrenceIssue'],
+  highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince', 'basisOfRecord', 'typeStatus', 'is_in_cluster', 'recordedBy','ppublishing_org', 'dataset_key','occurrenceIssue'],
   occurrenceSearchTabs: ['TABLE', 'MAP','GALLERY', 'DATASETS']
 };
