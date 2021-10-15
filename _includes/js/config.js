@@ -8,7 +8,7 @@ var siteConfig = {
     "predicates": [
       {"type":"equals","key":"taxonKey","value":"5386"},
       {"type":"equals","key":"hasGeospatialIssue","value":"false"},
-      {"type":"equals","key":"basiOfRecord", "value":"preservedSpecimen"},
+      {"type":"equals","key":"basisOfRecord", "value":"preservedSpecimen"},
     ]
   },
   highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince', 'basisOfRecord', 'typeStatus', 'isInCluster', 'recordedBy', 'datasetKey','occurrenceIssue'],
