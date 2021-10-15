@@ -7,7 +7,6 @@ var siteConfig = {
     "type":"and",
     "predicates": [
       {"type":"equals","key":"taxonKey","value":"5386"},
-      {"type":"equals","key":"hasGeospatialIssue","value":"false"},
       {"type":"equals","key":"basisOfRecord", "value":"preservedSpecimen"},
     ]
   },
