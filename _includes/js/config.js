@@ -3,8 +3,14 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
 }});
 
 var siteConfig = {
-  rootPredicate: { type: 'equals', key: 'taxonKey', value: 5386 },
-  
-  highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince', 'basisOfRecord', 'typeStatus', 'is_in_cluster', 'recordedBy','ppublishing_org', 'dataset_key','occurrenceIssue'],
+  rootPredicate: { 
+    "type":"and",
+    "predicates": [
+      {"type":"equals","key":"taxonKey","value":"5386"},
+      {"type":"equals","key":"hasGeospatialIssue","value":"false"},
+      {"type":"equals","key":"basiOfRecord", "value":"preservedSpecimen"},
+    ]
+  },
+  highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince', 'basisOfRecord', 'typeStatus', 'isInCluster', 'recordedBy', 'datasetKey','occurrenceIssue'],
   occurrenceSearchTabs: ['TABLE', 'MAP','GALLERY', 'DATASETS']
 };
