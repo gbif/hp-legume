@@ -15,7 +15,7 @@ columns:
 
   - name: Contact
     description: | # Can be Markdown
-      * [Email]("mailto:legumephylogenywg@gmail.com")
+      * [Email](mailto:legumephylogenywg@gmail.com)
     connectIcons: true
 other: |
   [Privacy policy](/privacy)
