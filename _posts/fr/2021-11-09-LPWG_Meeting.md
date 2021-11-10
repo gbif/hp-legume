@@ -1,5 +1,5 @@
 ---
-title:  "Rencontre virtuelle du LPWG du 30 septembre 2021 afin de présenter les nouvelles de la recherche et de lancer officiellement notre nouveau Portail de Données sur les Légumineuses !"
+title:  "Rencontre virtuelle du LPWG (30 septembre 2021) : des nouvelles de la recherche et lancement officiel de notre Portail de Données sur les Légumineuses !"
 date:   2021-11-09 10:00:00 +0100
 categories: ["Announcement"]
 lang-ref: LPWG Meeting
