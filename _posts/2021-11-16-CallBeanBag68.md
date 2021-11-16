@@ -4,7 +4,7 @@ date:   2021-11-16 10:00:00 +0100
 categories: ["Call"]
 lang-ref: Call2021
 lang: en
-background: https://www.inaturalist.org/photos/111019549
+background: /assets/images/Eriosema_salignum_3044896818.jpeg
 imageLicense: |
   *Eriosema salignum* E.Mey. Photo by Peter Warren via [iNaturalist](https://www.gbif.org/occurrence/3044896818)
 ---
