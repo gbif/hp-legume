@@ -20,3 +20,9 @@ taxonomy:
     path: /taxonomy/caesalpinioideae
   - title: Papilionoideae
     path: /taxonomy/papilionoideae
+beanbag:
+- content:
+  - title: Table of contents
+    path: /beanbag/67/67content
+  - title: From the editors
+    path: /beanbag/67/issue-67-from-the-editors
