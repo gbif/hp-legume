@@ -4,7 +4,7 @@ lang-ref: beanbag/issue-67-from-the-editors
 permalink: /beanbag/67/issue-67-from-the-editors
 title: From the Editors
 description: Issue 67 - From the Editors
-sideNavigation: sidenav.beanbag
+sideNavigation: sidenav.beanbag67
 ---
 
 
@@ -18,12 +18,12 @@ For recent issues see: [The Bean Bag | Kew](https://www.kew.org/science/our-scie
 Earlier issues (1975 to 2007) are available via the [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/bibliography/122385#/summary)
 Editor Email: <beanbag.kew@gmail.com>
 
-Email Listserv: <https://groups.google.com/forum/?hl=en#!forum/thebeanbag>
-Facebook: <https://www.facebook.com/groups/1484192248560637/>
-Twitter: <https://twitter.com/BeanBagNews>
+Email Listserv: <https://groups.google.com/forum/?hl=en#!forum/thebeanbag>  
+Facebook: <https://www.facebook.com/groups/1484192248560637/>  
+Twitter: <https://twitter.com/BeanBagNews>  
 
 # Editors:
-**Colin Hughes** (University of Zurich, Switzerland)
+**Colin Hughes** (University of Zurich, Switzerland)  
 **Warren Cardinal-McTeague** (Agriculture and Agri-Food Canada)
 
 

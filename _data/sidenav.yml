@@ -20,9 +20,47 @@ taxonomy:
     path: /taxonomy/caesalpinioideae
   - title: Papilionoideae
     path: /taxonomy/papilionoideae
-beanbag:
+beanbag67:
 - content:
   - title: Table of contents
     path: /beanbag/67/67content
   - title: From the editors
     path: /beanbag/67/issue-67-from-the-editors
+- grouptitle: Legume Phylogeny Working Group Reports
+  content:
+  - title: Reports Introduction
+    path: /beanbag/67/issue-67-legume-phylogeny-working-group-reports
+  - title: Taxonomy Working Group
+    path: /beanbag/67/issue-67-lpwg-taxonomy-working-group
+  - title: Phylogenomics Working Group
+    path: /beanbag/67/issue-67-lpwg-phylogenomics-working-group
+  - title: Occurrence Data Working Group
+    path: /beanbag/67/issue-67-lpwg-occurrence-data-working-group
+  - title: Functional Traits Working Group
+    path: /beanbag/67/issue-67-lpwg-functional-traits-working-group
+- grouptitle: Announcements
+  content:
+  - title: "Special issue of Diversity: Legume evolution and diversity"
+    path: /beanbag/67/issue-67-special-issue-of-diversity-legume-evolution-and-diversity
+  - title: "Advances in Legume Systematics 14: Classification of Caesalpinioideae"
+    path: /beanbag/67/issue-67-advances-in-legume-systematics-14-classification-of-caesalpinioideae
+  - title: Request for *Lathyrus* images
+    path: /beanbag/67/issue-67-request-for-lathyrus-images
+  - title: "Bean Sprouts: A new online international legume systematics and evolution club"
+    path: /beanbag/67/issue-67-bean-sprouts
+  - title: James Lee Zarucchi
+    path: /beanbag/67/issue-67-james-lee-zarucchi-phd-fls-1952-2019
+  - title: New legume species highlights
+    path: /beanbag/67/issue-67-new-legume-species-highlights-2020
+  - title: "From Amazon tree legumes to nitrogen-fixing maize: What's the connection?"
+    path: /beanbag/67/issue-67-from-amazon-tree-legumes-to-nitrogen-fixing-maize-whats-the-connection
+  - title: "A new resource for legume diversity and systematics: The NitFix Project"
+    path: /beanbag/67/issue-67-a-new-resource-for-legume-diversity-and-systematics-the-nit-fix-project
+  - title: New insights into the role of polyploidy in legume evolution
+    path: /beanbag/67/issue-67-new-insights-into-the-role-of-polyploidy-in-legume-evolution
+  - title: "Legume biogeography roundup 2020: Legume shed new light on the assembly of tropical biomes"
+    path: /beanbag/67/issue-67-legume-biogeography-roundup-2020
+  - title: "Legume bibliography under the spotlight: A taxonomic revision of *Flemingia*(Leguminosae: Papilionoideae) in India"
+    path: /beanbag/67/issue-67-legume-bibliography-under-the-spotlight
+  - title: Legume bibliography 2020
+    path: /beanbag/67/issue-67-legume-bibliography-2020
