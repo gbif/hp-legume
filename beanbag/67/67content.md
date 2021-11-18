@@ -9,7 +9,7 @@ description: Content of the issue 67 (2020)
 height: 70vh
 ---
 
-#Contents
+# Contents
 
 
 ### [From the Editors](/beanbag/67/issue-67-from-the-editors/)
