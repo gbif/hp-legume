@@ -4,6 +4,7 @@ lang-ref: beanbag/issue-67-from-the-editors
 permalink: /beanbag/67/issue-67-from-the-editors
 title: From the Editors
 description: Issue 67 - From the Editors
+sideNavigation: sidenav.beanbag
 ---
 
 
