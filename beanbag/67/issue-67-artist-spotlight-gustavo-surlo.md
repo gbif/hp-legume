@@ -7,13 +7,17 @@ description: Issue 67 - Artist Spotlight - Gustavo Surlo
 sideNavigation: sidenav.beanbag67
 ---
 
+# Issue 67: Artist Spotlight – Gustavo Surlo
+
 Gustavo Surlo was born in Itamaraju, Brazil in 1996. Gustavo started his drawing classes at the age of six. At 2017 he graduated as biologist and in 2018 was the student of Margaret Mee scholarship by Royal Botanic Gardens Kew – London.
 
 His first international award came at the age of 18, at the Latin American Congress of Botany, portraying a vulnerable orchid. The main objective of his work is to alert to the preservation of the portrayed species.
 
 Instagram: @gustavo_surlo  
 
-![Portrait of Gustavo Surlo](/assets/images/Gustavo_Surlo.jpg =100x20)
+<br />
+<img src="/assets/images/Gustavo_Surlo.jpg" alt="Portrait of Gustavo Surlo" width="100">
+<br />
 
 ![Botanical illustration of *Harpalyce*](/assets/images/harpalyce-tombadorensis.jpg)
 
