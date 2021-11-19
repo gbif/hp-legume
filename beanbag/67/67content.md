@@ -7,7 +7,7 @@ imageLicense: |
   *Dichrostachys cinerea* (L.) Wight & Arn. Photo by Bruno Durand via [iNaturalist](https://www.gbif.org/occurrence/1898844739)
 description: Content of the issue 67 (2020)
 height: 70vh
-sidenav: sidenav.beanbag67
+sideNavigation: sidenav.beanbag67
 ---
 
 # Contents
