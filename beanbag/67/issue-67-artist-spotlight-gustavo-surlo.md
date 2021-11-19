@@ -16,7 +16,7 @@ His first international award came at the age of 18, at the Latin American Congr
 Instagram: @gustavo_surlo  
 
 <br />
-<img src="/assets/images/Gustavo_Surlo.jpg" alt="Portrait of Gustavo Surlo" width="100">
+	<img src="/assets/images/Gustavo_Surlo.jpg" alt="Portrait of Gustavo Surlo" width="50%" align="center">
 <br />
 
 ![Botanical illustration of *Harpalyce*](/assets/images/harpalyce-tombadorensis.jpg)
