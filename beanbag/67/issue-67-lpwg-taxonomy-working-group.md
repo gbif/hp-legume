@@ -20,7 +20,8 @@ In collaboration with Rafaël Govaerts at Royal Botanic Gardens, Kew, the Taxono
 
 Down the line, the taxonomic list will be used to link to and synthesise other data types – traits, descriptions, higher level taxonomy, occurrence and specimen data, dynamic maps and images. One of the goals of the LPWG is to collate information on legumes so that it is easily accessible and useful to researchers and other users around the world. For this, the legume community is developing an online portal for the family which can encompass richer data sets from multiple partners using a sound species checklist and benefiting from knowledge held in “Legumes of the World Online”. The current collaboration represents an important step toward achieving that goal.
 
-![Architectural overview of the plans for a Legume Systematics Portal, connecting data from external sources (\*). From [Bruneau, A. et al. 2019. Australian Systematic Botany, 32: 495- 518](https://doi.org/10.1071/SB19025).](/assests/images/lpwg-p-1.png)
+![](/assets/images/lpwg-p-1.png)
+Architectural overview of the plans for a Legume Systematics Portal, connecting data from external sources (\*). From [Bruneau, A. et al. 2019. Australian Systematic Botany, 32: 495- 518](https://doi.org/10.1071/SB19025).
 
 The LPWG recently applied for a pilot portal via a new program at GBIF. This application was successful and the LPWG community, in coordination with the Canadensys GBIF node, will implement a thematic portal in the first half of 2021. This pilot will serve all legume occurrences currently in GBIF and will be underpinned by the consensus list of legume names and will also allow easy viewing of the legume taxonomy used. The portal will also have areas for describing the work of the four LPWG working groups. The portal is not expected to meet all LPWG needs, but will provide a first step for showcasing the work of the LPWG and more broadly the family Leguminosae.
 

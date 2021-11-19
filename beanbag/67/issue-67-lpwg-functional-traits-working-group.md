@@ -26,6 +26,6 @@ To coordinate on-going and future trait sampling efforts, we collectively keep t
 
 We welcome your input and ideas in the legume trait working group, or simply to receive your favourite monographs. Please get in touch if you would like to become part of our group, are interested in working with traits, have ongoing trait-related projects or future plans, or simply to share a virtual cup of coffee and talk more about the mysterious world of legume traits. Our group is still growing, and we welcome anyone interested in legume (functional) traits to join our efforts. To get involved, please contact <onsteinre@gmail.com> or <aquitemcaqui@gmail.com>
 
+![](/assets/images/ft-1-6.png)
 
-
-![*Exemplar Legume Functional Traits. Clockwise from top left: ant associations involving extrafloral nectaries, domatia and beltian bodies, Vachellia cornigera; growth forms: a fire-adapted geoxyle with an underground lignotuber, Calliandra longipes; armature: Prosopis ferox; nodulation: nodules of Lupinus nubigenus; seed dispersal syndromes: fleshy arils of Pithecellobium lanceolatum; pollination syndromes: humming bird pollinated flowers of Erythrina lanata. All photos Colin Hughes.*](/assets/images/ft-1-6.png)
+*Exemplar Legume Functional Traits. Clockwise from top left: ant associations involving extrafloral nectaries, domatia and beltian bodies, Vachellia cornigera; growth forms: a fire-adapted geoxyle with an underground lignotuber, Calliandra longipes; armature: Prosopis ferox; nodulation: nodules of Lupinus nubigenus; seed dispersal syndromes: fleshy arils of Pithecellobium lanceolatum; pollination syndromes: humming bird pollinated flowers of Erythrina lanata. All photos Colin Hughes.*
