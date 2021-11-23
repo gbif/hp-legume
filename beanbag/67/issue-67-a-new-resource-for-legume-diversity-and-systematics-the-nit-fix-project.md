@@ -9,10 +9,10 @@ sideNavigation: sidenav.beanbag67
 
 # Issue 67: A new resource for legume diversity and systematics: The Nit-Fix Project
 
-## *Heather Kates<sup>1</sup>>, Ryan Folk<sup>2</sup>>, Robert Guralnick<sup>1</sup>>, Doug Soltis<sup>1</sup>>, Pamela Soltis<sup>1</sup>>*
+### *Heather Kates<sup>1</sup>, Ryan Folk<sup>2</sup>, Robert Guralnick<sup>1</sup>, Doug Soltis<sup>1</sup>, Pamela Soltis<sup>1</sup>*
 
-<sup>1</sup> Florida Museum of Natural History, University of Florida
-<sup>1</sup> Department of Biological Sciences, Mississippi State University
+<sup>1</sup> Florida Museum of Natural History, University of Florida  
+<sup>2</sup> Department of Biological Sciences, Mississippi State University  
 
 Legumes are famous for their symbiotic relationship with bacteria that fix nitrogen, but we still have much to learn about this globally important symbiosis. Understanding the incredible diversity of legume species and their relatives is one key to unlocking the mystery of the evolutionary origins and genetic basis of this critical innovation in plant and microbial evolution.
 
@@ -27,6 +27,7 @@ We have assembled phylogenomic data comprising hundreds of gene sequences for ov
 Using plant specimens preserved in herbaria, we have sampled and sequenced close to 50% of the diversity of the nitrogen-fixing clade, including over 8,000 legume species, some of which have never been included in a molecular study. In collaboration with experts of the Legume Phylogeny Working Group, our evolutionary analyses (Fig. 1) are based on the most up-to-date legume taxonomy and genus-level nodulation-trait information available, both of which represent critical improvements upon earlier efforts to study the evolution of nodulation in the nitrogen-fixing clade.
 
 ![](/assets/images/nf-1)
+
 *Figure 1. A draft phylogeny of the nitrogen-fixing clade based on currently assembled data and analysis. Relationships among clades may change based on on-going analyses. Genus-level nodulation states are plotted at the tree tips, and legume subfamily clades and numbers of species sampled per clade indicated with colors (the monospecific subfamily Duparquetioideae sample is not indicated).*
 
 Our dataset will form an integral resource for the study of the evolution of nodulation and will make the nodulating clade the most densely sampled model clade for comparative research in plants. We also hope that our dataset will be a valuable resource for the legume research community to investigate compelling questions related to legume systematics and evolution due to its increased sampling and resolution of many legume genera and its potential to robustly resolve deeper relationships within legume phylogeny.

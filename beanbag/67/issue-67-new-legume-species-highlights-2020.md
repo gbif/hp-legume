@@ -17,7 +17,10 @@ Cota et al.’s (2020) 82-page taxonomic account of the 64 species of *Chamaecri
 
 Two of these new species, *C. howardii* and *C. rupertiana* are named in honour of Howard Irwin and Rupert Barneby, who established the modern classification of subtribe Cassiineae and assembled the last major taxonomic account of the New World species.
 
-![](/assets/images/ns-1.png)
+<p align="center">
+  <img src="/assets/images/ns-1.png" width="60%">
+</p>
+
 *Chamaecrista rupertiana, photo Matheus Martins Teixeira Cota*
 
 Cota, M.M.T., Rando, J.G. and Mello-Silva, R. 2020. *Chamaecrista* (Leguminosae) of the Diamantina Plateau, Minas Gerais, Brazil, with six new species and taxonomic novelties. *Phytotaxa* 469: 1-82. <https://doi.org/10.11646/phytotaxa.469.1.1>

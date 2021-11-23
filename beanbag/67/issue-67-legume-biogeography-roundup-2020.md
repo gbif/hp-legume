@@ -9,8 +9,8 @@ sideNavigation: sidenav.beanbag67
 
 # Issue 67: Legume biogeography roundup 2020
 
-## *Legumes shed new light on the assembly of tropical biomes*
-### *Toby Pennington<sup>1</sup>, Colin Hughes<sup>2</sup>*
+### *Legumes shed new light on the assembly of tropical biomes*
+#### *Toby Pennington<sup>1</sup>, Colin Hughes<sup>2</sup>*
 
 <sup>1</sup> University of Exeter, U.K. & Royal Botanic Gardens, Edinburgh  
 <sup>2</sup> University of Zurich, Switzerland  
@@ -25,12 +25,15 @@ First, in a phylogenomic study of the Berlinia clade of subfamily Detarioideae, 
 
 Second, new insights into the processes underlying the generation of Amazonian rainforest tree diversity were presented by Schley et al. (2020) in a detailed phylogenetic and population genetic study of the detarioid genus *Brownea*. Schley et al (2020) presented some of the first evidence that reticulation or hybridisation between both older lineages and extant species has been important in the diversification of tropical rainforest trees. Although hybridisation is undoubtedly a major evolutionary force in temperate floras, a prevailing paradigm, promoted by influential figures in tropical ecology and evolution, including Peter Ashton (1969) and Alywn Gentry (1982), is that hybridisation is rare in tropical trees. One of Schley et al.’s most striking results is the rampant non-monophyly of several widespread species of *Brownea*, a feature predicted for rain forest species by Pennington & Lavin (2016), and which Schley et al. attribute to reticulation. Overall, they argued that their data suggest that *Brownea* forms a syngameon, i.e. a widespread species complex in which there is geneflow between sympatric congeneric species. What is clear from all this is that species diversification in rainforests is complex, intricate and still very poorly understood. See also the Kew Science News piece on this study: [Taboo trysts between tropical trees](https://www.kew.org/read-and-watch/amazon-rainforest-tree-diversity-evolution?utm_campaign=759081_Science%20-%20KewScienceNews210121&utm_medium=email&utm_source=Kew&utm_content=Amazondiversityrwtext210121&dm_i=4THF,G9PL,32UYW8,1XAVZ,1).
 
+
 ![](/assets/images/tp-1-3.png)
+
 *Two co‐occurring Brownea lineages (Brownea grandiceps (photo © Rowan Schley) and Brownea jaramil-loi (photo © Xavier Cornejo)) and their putative hybrid Brownea “rosada” (photo © J. L. Clark); Figure from Shley et al (2020).*
 
 At the other end of the lowland tropical rainfall gradient, legumes have also played a central role in defining the global distribution and understanding the historical assembly of seasonally dry tropical forests. Legumes are often the most species-rich and abundant lineage in these dry vegetation formations, though their most characteristic element is plants with stem-succulence, including cacti and the emblematic baobabs of Africa and Madagascar. It was studies of legume clades that first pointed towards the idea of a trans-continental Succulent Biome (Schrire et al., 2005; Lavin et al., 2004; Gagnon et al. 2019; Donoghue, 2019). In a recent paper, Ringelberg et al. (2020) characterized, modelled and mapped this global succulent biome in detail for the first time by using the distribution of stem succulent species as a proxy and assembled a set of legume (and other) phylogenies to demonstrate high levels of succulent biome phylogenetic conservatism across the transcontinental distribution of this biome. Once again, the prominence of legumes for addressing biogeographical questions comes to the fore.
 
 ![](/assets/images/tp-4.png)
+
 *Typical tropical dry deciduous, grass-poor, fire-free, succulent-rich vegetation in the Tehuacán Valley in central Mexico, part of the trans-continental Succulent Biome which was mapped by Ringelberg et al. (2020). The prominent tree, laden with fruits and leafless during the dry season, is Conzattia multiflora (Leguminosae: Caesalpinioideae), photo Colin Hughes.*
 
 References:  

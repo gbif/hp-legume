@@ -9,6 +9,7 @@ sideNavigation: sidenav.beanbag67
 
 # Special issue of Diversity: Legume evolution and diversity
 
-## *Mohammad Vatanparast and Ashley Egan*
+### *Mohammad Vatanparast and Ashley Egan*
+
 
 ![](/assets/images/d-1-2.png)

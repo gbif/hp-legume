@@ -47,6 +47,6 @@ New community developed [best practices document in georeferencing](https://docs
 *Exemplar data set used to map the distribution of the Caesalpinia Group based on 17,260 quality-controlled occurrence records. From [Gagnon, E. et al. 2019. New Phytologist, 222: 1994- 2008.](https://doi.org/10.1111/nph.15633)*
 
 References:  
-Ringelberg, J.J., Zimmermann, N.E., Weeks, A., Lavin, M. & Hughes, CE. 2020. Biomes as evolutionary arenas: conver gence and conservatism in the trans-continental Succulent Biome. Global Ecology and Biogeography 29: 1100-1113. <https://doi.org/10.1111/geb.13089>
+Ringelberg, J.J., Zimmermann, N.E., Weeks, A., Lavin, M. & Hughes, CE. 2020. Biomes as evolutionary arenas: conver gence and conservatism in the trans-continental Succulent Biome. *Global Ecology and Biogeography* 29: 1100-1113. <https://doi.org/10.1111/geb.13089>
 
-Zizka, A., Silvestro, D., Andermann, T., et al. 2019. CoordinateCleaner: Standardized cleaning of occurrence records from biological collection databases. Methods in Ecology and Evolution 10: 744– 751. <https://doi.org/10.1111/2041-210X.13152>
+Zizka, A., Silvestro, D., Andermann, T., et al. 2019. CoordinateCleaner: Standardized cleaning of occurrence records from biological collection databases. *Methods in Ecology and Evolution* 10: 744– 751. <https://doi.org/10.1111/2041-210X.13152>

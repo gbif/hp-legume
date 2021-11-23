@@ -7,6 +7,8 @@ description: Issue 67 - Reports Introduction
 sideNavigation: sidenav.beanbag67
 ---
 
+# Legume Phylogeny Working Group Reports
+
 *Intro by Colin Hughes*
 
 The **Legume Phylogeny Working Group**, LPWG was established in 2010 as an informal global consortium of legume systematists to foster collaborative research in legume systematics, building on several decades of data sharing and collaboration since the first International Legume Conference organised by Roger Polhill and colleagues in 1978.
@@ -20,8 +22,6 @@ In May 2020, an informal pop-up meeting of a subset of the LPWG led to the estab
 
 It is important to note that these working groups are open to wider participation by all! If you want to get involved in a specific working group, please contact the individual working group coordinators (contact details below).
 
-
-## Legume Phylogeny Working Group Reports
 
 **[Reports Introduction](/beanbag/67/issue-67-legume-phylogeny-working-group-reports/)**  
 Colin Hughes

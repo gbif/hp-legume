@@ -9,7 +9,7 @@ sideNavigation: sidenav.beanbag67
 
 # Issue 67: Advances in Legume Systematics 14: Classification of Caesalpinioideae
 
-## *Erik Koenen, Colin Hughes, Anne Bruneau, and Gwilym Lewis*
+### *Erik Koenen, Colin Hughes, Anne Bruneau, and Gwilym Lewis*
 
 We are planning to assemble and publish a special issue in a taxonomic journal (possibly PhytoKeys, but other options are being considered) devoted to the systematics of Caesalpinioideae, as part of the **Advances in Legume Systematics** (ALS) series. This special issue will feature:
 

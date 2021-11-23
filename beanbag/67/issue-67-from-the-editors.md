@@ -14,9 +14,10 @@ The Bean Bag started in 1974 on the initiative of Charles (Bob) Gunn and Richard
 
 We warmly thank Brigitte Marazzi, previous editor of the Bean Bag, for all her hard work compiling the newsletter over the last five years, and especially for transforming it into a much more colourful and well-illustrated format. We also thank Gwilym Lewis at Kew for help with checking this issue and supporting the continued archiving of the Bean Bag. Finally, we thank the legume community and our many contributors for sharing their time and insights.
 
-For recent issues see: [The Bean Bag | Kew](https://www.kew.org/science/our-science/publications-and-reports/publications/the-bean-bag)
-Earlier issues (1975 to 2007) are available via the [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/bibliography/122385#/summary)
-Editor Email: <beanbag.kew@gmail.com>
+For recent issues see:  
+[The Bean Bag | Kew](https://www.kew.org/science/our-science/publications-and-reports/publications/the-bean-bag)  
+Earlier issues (1975 to 2007) are available via the [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/bibliography/122385#/summary)  
+Editor Email: <beanbag.kew@gmail.com>  
 
 Email Listserv: <https://groups.google.com/forum/?hl=en#!forum/thebeanbag>  
 Facebook: <https://www.facebook.com/groups/1484192248560637/>  

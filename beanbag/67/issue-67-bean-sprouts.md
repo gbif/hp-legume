@@ -9,7 +9,7 @@ sideNavigation: sidenav.beanbag67
 
 # Issue 67: Bean Sprouts: An international legume systematics and evolution club
 
-## *Sophie Winitsky and Joseph Charboneau*
+### *Sophie Winitsky and Joseph Charboneau*
 
 **Bean Sprouts** is a new online, international legume systematics and evolution club for graduate students and early career scientists to connect, share research, discuss papers, and invite speakers centered around our favorite (the best) plant family! How often we meet will depend on how many people want to participate, so let us know if you’re interested! We tentatively plan to have our next meeting over Zoom in late February.
 

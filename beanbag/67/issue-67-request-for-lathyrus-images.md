@@ -7,9 +7,9 @@ description: Request for Lathyrus images
 sideNavigation: sidenav.beanbag67
 ---
 
-# Issue 67: Request for Lathyrus images
+# Issue 67: Request for *Lathyrus* images
 
-## *Greg Kenicer*
+### *Greg Kenicer*
 
 Greg Kenicer (Royal Botanic Gardens, Edinburgh) is looking for **images of *Lathyrus*** to illustrate a horticultural monograph of the genus. If you can help, by providing images of wild species – particularly those from Turkey and the wider Eastern Mediterranean and ‘Near East’, Russia, China and North America, he would be very grateful. All images will be fully credited to the photographer.
 
@@ -17,8 +17,9 @@ This is a full-colour book produced by the Royal Horticultural Society as part o
 
 If you think you can provide images from your local area or fieldwork. please send them (e.g. on wetransfer or similar), with your preferred wording for credit to Greg on: <gkenicer@rbge.ac.uk>, before February the 15th.
 
-Many thanks in advance, Greg
+Many thanks in advance,  
+Greg  
 
 ![](/assets/images/l-1-5.png)
 
-**Left to right: Lathyrus aureus, L. multiceps, L. rotundifolius, L. sativus & L. tingitanus (photos Greg Kenicer).**
+*Left to right: Lathyrus aureus, L. multiceps, L. rotundifolius, L. sativus & L. tingitanus (photos Greg Kenicer).*

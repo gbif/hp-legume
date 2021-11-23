@@ -9,7 +9,7 @@ sideNavigation: sidenav.beanbag67
 
 # Issue 67: Legume bibliography 2020
 
-## *Compiled by Warren Cardinal-McTeague*
+### *Compiled by Warren Cardinal-McTeague*
 
 **Methodology** – The Legume Bibliography 2020 was manually collated on 28-Oct-2020 and 05-Jan-2021 using keyword searches and screening of the first 10 pages of Google Scholar and on the websites of the most frequently encountered journals (Appendix 1). The keywords included “**Leguminosae**” or “**Fabaceae**” and publications were limited to the year 2020. Where available, \*.bib or \*.ris files were downloaded and imported into Mendeley Desktop v.1.19.4 and manually tagged under the headings provided below. Most legume-related research is presented here, with the exception of the >54 Pharmacology studies exploring health and anti-microbial properties of numerous legume extracts. The final list was then reviewed by Colin Hughes and any publications missed by these methods were manually added. Automated approaches and DOIs are being considered for the future. The complete bibliography is available for direct download in BibTeX ([\*.bib](https://drive.google.com/uc?export=download&id=1xAl1VGPeWB7EBd-fIXExE29EaAvxoIlF)), Research Information Systems ([\*.ris](https://drive.google.com/uc?export=download&id=1pEkgfrgJGFmfH_5NykrAPi4yZ4GLLoZl)), and EndNote XML ([\*.xml](https://drive.google.com/uc?export=download&id=1rJIVXOkf-w5raYG4fUAX1Zl-4xY3E7oi)) format.
 
