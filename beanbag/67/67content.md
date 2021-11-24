@@ -2,7 +2,7 @@
 layout: post
 lang-ref: beanbag/67content
 title: Issue 67, Year 2020
-background: /assets/images/bb-67-cover-img.jpeg
+background: /assets/images/bb-67-cover-img.jpg
 description: Content of the issue 67 (2020)
 height: 70vh
 ---
