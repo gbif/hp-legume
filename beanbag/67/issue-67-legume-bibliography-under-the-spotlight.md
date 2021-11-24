@@ -20,13 +20,13 @@ Finally a taxonomic revision of the genus *Flemingia* in India has been publishe
 
 **From the abstract**: Indian *Flemingia* species are grouped under five subgenera, namely *Chalaria*, *Flemingiastrum*, *Lepidocoma*, *Ostryodium* and *Rhynchosioides*. In the present work, we revised the taxonomy of the genus (excluding subg. *Rhynchosioides*) based on the study of live material and preserved specimens. We reported 21 species and one variety (22 taxa) in India, of which one variety is endemic, i.e. *F. praecox var. robusta*. All the taxa have been described, illustrated and their ecology discussed. In the process, twelve binomials (*F. angustifolia*, *F. blancoana*, *F. chappar*, *F. congesta*, *F. grahamiana*, *F. latifolia*, *F. macrophylla*, *F. nudiflora*, *F. paniculata*, *F. stricta*, *F. wallichii* and *F. wightiana*) and one trinomial (*F. praecox var. robusta*) are lectotypified. *Flemingia sericans* and *F. stricta subsp. pteropus* are proposed as new synonyms for *F. macrophylla* and *F. stricta*, respectively. *Flemingia parviflora*, an Australian species, is recorded for India for the first time. *Flemingia strobilifera var. nudiflora* is raised to species level and a new combination proposed, i.e. *F. nudiflora*. *Flemingia tiliacea* is relegated to the synonymy of *F. nudiflora*. A taxonomic key for the subgenera and species analysed is provided for easy identification. Additionally, distributional maps for the genus and species are presented. Line drawings are included for each species, and colour photographs embellish the paper.
 
-<p float="left">
-	<img src="/assets/images/sg-1.png" height="50%" /> 
-	<img src="/assets/images/sg-2.png" height="50%" />
+<p align="left">
+	<img src="/assets/images/sg-1.png" height="50%" hspace="20"/> 
+	<img src="/assets/images/sg-2.png" height="50%" hspace="20"/>
 </p>
-<p float="left">
-	<img src="/assets/images/sg-3.png" height="50%" /> 
-	<img src="/assets/images/sg-4.png" height="50%" />
+<p align="left">
+	<img src="/assets/images/sg-3.png" height="50%" hspace="20"/> 
+	<img src="/assets/images/sg-4.png" height="50%" hspace="20"/>
 </p>
 
 *Clockwise from top left: Flemingia grahamiana, F. paniculata, F. procumbens & F. semialata, all photos, Dr. M.M. Lekhak.*
