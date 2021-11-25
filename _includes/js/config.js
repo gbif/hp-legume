@@ -10,6 +10,6 @@ var siteConfig = {
       {"type":"equals","key":"hasGeospatialIssue","value":"false"}
     ]
   },
-  highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince', 'basisOfRecord', 'typeStatus', 'isInCluster', 'recordedBy', 'datasetKey','occurrenceIssue'],
+  highlightedFilters: ['taxonKey', 'recordedBy', 'country', 'stateProvince', 'gadmGid', 'datasetKey', 'basisOfRecord', 'typeStatus', 'isInCluster','occurrenceIssue'],
   occurrenceSearchTabs: ['TABLE', 'MAP','GALLERY', 'DATASETS']
 };
