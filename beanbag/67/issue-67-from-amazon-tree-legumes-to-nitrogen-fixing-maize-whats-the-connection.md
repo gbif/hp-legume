@@ -20,7 +20,16 @@ Most, but not all, of the ca. 20,000 species of legumes are nodulated (Doyle 201
 
 Against this background, the specific aims of the Hutton team within ENSA are to assemble an interactive database ILDON (International Legume Database of Nodulation) to catalogue all reliable reports of nodulation (both current and future) and to document the diversity of nodule structures across all legume genera and species using the latest legume taxonomy. The Hutton team is analysing wild and cultivated legumes to define precisely the nature of infection and nodule structure. They are specifically interested in identifying species that undertake “primitive” crack versus “advanced” root hair entry; centralised versus peripheral nodule vasculature; and “primitive” fixation threads versus “advanced” symbiosomes. Understanding the diversity and phylogenetic distribution of these nodule traits is fundamental for unlocking the potential for successful transfer of nodulation to non-fixing crops. An important aim is to identify legume genomes for sequencing that could be used to identify the genes underpinning these important nodulation traits.
 
-![Figure 1. Location of the Rio Cuieiras legume sampling expedition Dec 2019.](/assets/images/ej-1.png) ![Figure 2. Flooded forest, photo Euan James.](/assets/images/ej-2.png)
+<div class="row">
+  <div class="column">
+    <img src="/assets/images/ej-1.png" style="width:100%">
+    <figcaption>Figure 1. Location of the Rio Cuieiras legume sampling expedition Dec 2019.</figcaption>
+  </div>
+  <div class="column">
+    <img src="/assets/images/ej-2.png" style="width:100%">
+    <figcaption>Figure 2. Flooded forest, photo Euan James.</figcaption>
+  </div>
+</div>
 
 As part of this work, in December 2019, a field expedition was conducted to the Brazilian Amazon to sample root nodules from legume trees. The Amazon region is globally one of the richest legume diversity hotspots and a centre for radiation of many legume genera, including a number of key “basal” genera in subfamilies Caesalpinioideae and Papilionoideae whose nodulation status and characteristics remain unknown. As such, the Amazon is a prime site for sampling taxa which can assist in our understanding of how nodulation evolved in legumes. The expedition concentrated around the Rio Cuieiras, a tributary of the Rio Negro (the northerly one of the 2 rivers that combine to make the Amazon “proper” at Manaus) (Fig. 1). December marks a period where increased precipitation and runoff from the Andes results in the Amazonian river level rising rapidly, so many of the forests were flooded or in the process of becoming flooded (Fig. 2).
 
@@ -33,8 +42,26 @@ Highlights of the expedition included:
 3. Sampling of nodules from Pentaclethra macroloba an early-branching mimosoid.
 4. Sampling of enormous nodules from several individuals of the profusely-nodulated, early-branching papilionoid genus Swartzia (Fig. 5, 6).
 
-![Figure 3. Digging for Jacqueshuberia nodules.](/assets/images/ej-3.png) ![Figure 4. Nodules on Jacqueshuberia roots, photo D. Cardoso.](/assets/images/ej-4.png)
-![Figure 5. Digging for Swartzia nodules.](/assets/images/ej-5-1.png) ![Figure 6. Swartzia polyphylla nodules, photo D. Cardoso.](/assets/images/ej-6.png)
+<div class="row">
+  <div class="column">
+    <img src="/assets/images/ej-3.png" style="width:100%">
+  	<figcaption>Figure 3. Digging for Jacqueshuberia nodules.</figcaption>
+  </div>
+  <div class="column">
+    <img src="/assets/images/ej-4.png" style="width:100%">
+    <figcaption>Figure 4. Nodules on Jacqueshuberia roots, photo D. Cardoso.</figcaption>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img src="/assets/images/ej-5-1.png" style="width:100%">
+    <figcaption>Figure 5. Digging for Swartzia nodules.</figcaption>
+  </div>
+  <div class="column">
+    <img src="/assets/images/ej-6.png" style="width:100%">
+    <figcaption>Figure 6. Swartzia polyphylla nodules, photo D. Cardoso.</figcaption>
+  </div>
+</div>
 
 We acknowledge the invaluable support and assistance of the Instituto Nacional de Pesquisas Amazônica (INPA), especially Charles Zartmann, without whom the expedition would not have been possible. In addition, we thank Domingos Cardoso (UFBA, Salvador, BA) and Haroldo de Lima (Jardim Botanico, Rio de Janeiro, RJ) for their botanical expertise, and Eduardo Gross (UESC, Ilheus, BA) for help with nodule sampling. The assistance and hospitality of communities in the Rio Cuieiras is also acknowledged. ENSA is sponsored through a grant to the University of Cambridge by the Bill & Melinda Gates Foundation and the UK government’s Foreign, Commonwealth and Development Office (FCDO).
 
