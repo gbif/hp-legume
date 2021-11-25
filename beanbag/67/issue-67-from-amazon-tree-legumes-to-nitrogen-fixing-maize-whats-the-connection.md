@@ -31,6 +31,7 @@ Against this background, the specific aims of the Hutton team within ENSA are to
   </div>
 </div>
 
+
 As part of this work, in December 2019, a field expedition was conducted to the Brazilian Amazon to sample root nodules from legume trees. The Amazon region is globally one of the richest legume diversity hotspots and a centre for radiation of many legume genera, including a number of key “basal” genera in subfamilies Caesalpinioideae and Papilionoideae whose nodulation status and characteristics remain unknown. As such, the Amazon is a prime site for sampling taxa which can assist in our understanding of how nodulation evolved in legumes. The expedition concentrated around the Rio Cuieiras, a tributary of the Rio Negro (the northerly one of the 2 rivers that combine to make the Amazon “proper” at Manaus) (Fig. 1). December marks a period where increased precipitation and runoff from the Andes results in the Amazonian river level rising rapidly, so many of the forests were flooded or in the process of becoming flooded (Fig. 2).
 
 Target legume genera and species were partly determined on the basis of enigmatic or incomplete reports of nodulation, but also on the availability of nodules on certain genera in the area covered by the expedition, which could only be determined by excavating their root systems. The sampled nodules are now being analysed, including DNA fingerprinting of the legume species, investigating nodule anatomy, rhizobial isolation and genome sequencing of selected isolates to determine the evolutionary history of their symbiosis genes (*nod, nif*).
@@ -62,6 +63,7 @@ Highlights of the expedition included:
     <figcaption>Figure 6. Swartzia polyphylla nodules, photo D. Cardoso.</figcaption>
   </div>
 </div>
+
 
 We acknowledge the invaluable support and assistance of the Instituto Nacional de Pesquisas Amazônica (INPA), especially Charles Zartmann, without whom the expedition would not have been possible. In addition, we thank Domingos Cardoso (UFBA, Salvador, BA) and Haroldo de Lima (Jardim Botanico, Rio de Janeiro, RJ) for their botanical expertise, and Eduardo Gross (UESC, Ilheus, BA) for help with nodule sampling. The assistance and hospitality of communities in the Rio Cuieiras is also acknowledged. ENSA is sponsored through a grant to the University of Cambridge by the Bill & Melinda Gates Foundation and the UK government’s Foreign, Commonwealth and Development Office (FCDO).
 
