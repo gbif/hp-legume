@@ -32,7 +32,9 @@ Second, new insights into the processes underlying the generation of Amazonian r
 
 At the other end of the lowland tropical rainfall gradient, legumes have also played a central role in defining the global distribution and understanding the historical assembly of seasonally dry tropical forests. Legumes are often the most species-rich and abundant lineage in these dry vegetation formations, though their most characteristic element is plants with stem-succulence, including cacti and the emblematic baobabs of Africa and Madagascar. It was studies of legume clades that first pointed towards the idea of a trans-continental Succulent Biome (Schrire et al., 2005; Lavin et al., 2004; Gagnon et al. 2019; Donoghue, 2019). In a recent paper, Ringelberg et al. (2020) characterized, modelled and mapped this global succulent biome in detail for the first time by using the distribution of stem succulent species as a proxy and assembled a set of legume (and other) phylogenies to demonstrate high levels of succulent biome phylogenetic conservatism across the transcontinental distribution of this biome. Once again, the prominence of legumes for addressing biogeographical questions comes to the fore.
 
-<img src="/assets/images/tp-4.png" width="50%"/>
+<p align="center">
+	<img src="/assets/images/tp-4.png" width="50%"/>
+</p>
 
 *Typical tropical dry deciduous, grass-poor, fire-free, succulent-rich vegetation in the Tehuacán Valley in central Mexico, part of the trans-continental Succulent Biome which was mapped by Ringelberg et al. (2020). The prominent tree, laden with fruits and leafless during the dry season, is Conzattia multiflora (Leguminosae: Caesalpinioideae), photo Colin Hughes.*
 
