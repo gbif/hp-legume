@@ -22,18 +22,18 @@ Finally a taxonomic revision of the genus *Flemingia* in India has been publishe
 
 <div class="row">
   <div class="column">
-    <img src="/assets/images/sg-1.png" style="width:100%">
+    <img src="/assets/images/sg-1.png" style="height:15em">
   </div>
   <div class="column">
-    <img src="/assets/images/sg-2.png" style="width:100%">
+    <img src="/assets/images/sg-2.png" style="height:15em">
   </div>
 </div>
 <div class="row">
   <div class="column">
-    <img src="/assets/images/sg-3.png" style="width:100%">
+    <img src="/assets/images/sg-3.png" style="height:15em">
   </div>
   <div class="column">
-    <img src="/assets/images/sg-4.png" style="width:100%">
+    <img src="/assets/images/sg-4.png" style="height:15em">
   </div>
 </div>
 
