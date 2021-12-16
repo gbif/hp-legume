@@ -1,12 +1,11 @@
-
+---
 title:  "Rupert Barneby Award, NYBG - Funding Opportunity"
 date:   2021-12-16 10:00:00 +0100
 categories: ["Call"]
 lang-ref: Call2022
 lang: en
 background: /assets/images/RupertBarneby.jpeg
-imageLicense: |
-  *Rupert Barneby*
+
 ---
 
 The Rupert Barneby Award of the New York Botanical Garden 
