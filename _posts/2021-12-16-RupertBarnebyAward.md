@@ -5,7 +5,6 @@ categories: ["Call"]
 lang-ref: Call2022
 lang: en
 background: /assets/images/RupertBarneby.jpeg
-
 ---
 
 The Rupert Barneby Award of the New York Botanical Garden 
