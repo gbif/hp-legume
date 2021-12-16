@@ -4,7 +4,7 @@ date:   2021-12-16 10:00:00 +0100
 categories: ["Call"]
 lang-ref: Call2022
 lang: en
-background: /assets/images/RupertBarneby.jpeg
+background: /assets/images/RupertBarneby.jpg
 ---
 
 The Rupert Barneby Award, named in honor of the late NYBG scientist and renowned legume expert, consists of US$2000 granted annually to assist researchers to visit the New York Botanical Garden to study the rich herbarium collection of Leguminosae. The Rupert Barneby Award, named in honor of the late NYBG scientist and renowned legume expert, consists of US$2000 granted annually to assist researchers to visit the New York Botanical Garden to study the rich herbarium collection of Leguminosae. Graduate students and early career professionals with research in systematics and/or legume diversity are given special consideration. Projects that will result in the improved curation of the collection are desirable. 
