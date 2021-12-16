@@ -1,5 +1,5 @@
 
-title:  "Rupert Barneby Award, NYBG - application deadline March 1, 2022"
+title:  "Rupert Barneby Award, NYBG - Funding Opportunity"
 date:   2021-12-16 10:00:00 +0100
 categories: ["Call"]
 lang-ref: Call2022
