@@ -23,7 +23,7 @@ The proposal should address specifically the activities to be performed at NYBG 
 3) literature cited; 
 4) travel budget. 
 
-The application should be addressed to Dr. Benjamin M. Torke, Institute of Systematic Botany, New York Botanical Garden, 1900 Southern Blvd., Bronx, NY 10458-5126, USA, and received no later than March 1, 2022. Submission by e-mail is preferred (send to: btorke@nybg.org). 
+The application should be addressed to Dr. Benjamin M. Torke, Institute of Systematic Botany, New York Botanical Garden, 1900 Southern Blvd., Bronx, NY 10458-5126, USA, and received no later than **March 1, 2022**. Submission by e-mail is preferred (send to: btorke@nybg.org). 
 
 Announcement of the recipient will be made before the end of March. Travel to NYBG should be planned for some period between July 1, 2022 and June 30, 2023. Recipients are asked to give a presentation at NYBG about their research.
 
