@@ -7,7 +7,7 @@ lang: en
 background: /assets/images/RupertBarneby.jpg
 ---
 
-The Rupert Barneby Award, named in honor of the late NYBG scientist and renowned legume expert, consists of US$2000 granted annually to assist researchers to visit the New York Botanical Garden to study the rich herbarium collection of Leguminosae. The Rupert Barneby Award, named in honor of the late NYBG scientist and renowned legume expert, consists of US$2000 granted annually to assist researchers to visit the New York Botanical Garden to study the rich herbarium collection of Leguminosae. Graduate students and early career professionals with research in systematics and/or legume diversity are given special consideration. Projects that will result in the improved curation of the collection are desirable. 
+The Rupert Barneby Award, named in honor of the late NYBG scientist and renowned legume expert, consists of US$2000 granted annually to assist researchers to visit the New York Botanical Garden to study the rich herbarium collection of Leguminosae. Graduate students and early career professionals with research in systematics and/or legume diversity are given special consideration. Projects that will result in the improved curation of the collection are desirable. 
 
 Anyone interested in applying for the award should submit their: 
 1) curriculum vitae; 
@@ -20,7 +20,7 @@ The proposal should address specifically the activities to be performed at NYBG 
 3) literature cited; 
 4) travel budget. 
 
-The application should be addressed to Dr. Benjamin M. Torke, Institute of Systematic Botany, New York Botanical Garden, 1900 Southern Blvd., Bronx, NY 10458-5126, USA, and received no later than **March 1, 2022**. Submission by e-mail is preferred (send to: btorke@nybg.org). 
+The application should be addressed to Dr. Benjamin M. Torke, Institute of Systematic Botany, New York Botanical Garden, 1900 Southern Blvd., Bronx, NY 10458-5126, USA, and received no later than **March 1, 2022**. Submission by e-mail is preferred (send to: <btorke@nybg.org>). 
 
 Announcement of the recipient will be made before the end of March. Travel to NYBG should be planned for some period between July 1, 2022 and June 30, 2023. Recipients are asked to give a presentation at NYBG about their research.
 
