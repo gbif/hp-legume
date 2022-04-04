@@ -10,17 +10,17 @@ sideNavigation: sidenav.beanbag68
 # Issue 68: Artist Spotlight – Marianne Hazlewood
 
 <br />
-	<img src="/assets/images/68/AS-1_MarianneHazlewood.jpg" alt="Portrait of Marianne Hazlewood" width="50%" align="center">
+	<img src="/assets/images/68/AS-1_MarianneHazlewood.jpg" alt="Portrait of Marianne Hazlewood" width="50%" align="left">
 <br />
 
-***Marianne Hazlewood*** Dip BI is an RBGE (Royal Botanic Garden Edinburgh) graduate and RHS (Royal Horticultural Society) & BISCOT (Botanical Image Scotia) Gold award-winning and exhibiting botanical illustrator. She creates modern botanical illustrations in various media including watercolour, Japanese ink paste, screen print, digital graphics and pen-and-ink. Each medium offers a different refinement on a close observational process.
+***Marianne Hazlewood*** Dip BI is an RBGE (Royal Botanic Garden Edinburgh) graduate and RHS (Royal Horticultural Society) & BISCOT (Botanical Image Scotia) Gold award-winning and exhibiting botanical illustrator. She creates modern botanical illustrations in various media including watercolour, Japanese ink paste, screen print, digital graphics and pen-and-ink. Each medium offers a different refinement on a close observational process. 
 
-She has continued her connection with RBGE where she is currently a tutor on the Online Diploma in Botanical Illustration course. She loves working with the students and assisting them with their introduction to botanical illustration. She is a Visual Arts Scotland award winner and had a solo exhibition with Open Eye Gallery in October 2020 in Edinburgh. She has also displayed with the Society of Scottish Artists and regularly shows as a solo artist at the annual Pittenweem Arts Festival. Her illustrations have been featured in various botanical society group exhibitions & botanical publications. Her work is also in the RBGE Florilegium and the NHS (National Health Service) Lothian Art Collection. She is interested in connecting and working with botanists, horticulturalists, environmental scientists and other artists, and enjoys taking on commission work.
+She has continued her connection with RBGE where she is currently a tutor on the Online Diploma in Botanical Illustration course. She loves working with the students and assisting them with their introduction to botanical illustration. She is a Visual Arts Scotland award winner and had a solo exhibition with Open Eye Gallery in October 2020 in Edinburgh. She has also displayed with the Society of Scottish Artists and regularly shows as a solo artist at the annual Pittenweem Arts Festival. Her illustrations have been featured in various botanical society group exhibitions & botanical publications. Her work is also in the RBGE Florilegium and the NHS (National Health Service) Lothian Art Collection. She is interested in connecting and working with botanists, horticulturalists, environmental scientists and other artists, and enjoys taking on commission work. 
 
-<www.mariannehazlewood.co.uk>
-<mail@mariannehazlewood.co.uk>
-<https://www.instagram.com/mariannehazlewood/>
-<https://www.facebook.com/Marianne.E.Hazlewood/>
+<https://www.mariannehazlewood.co.uk/> 
+<mail@mariannehazlewood.co.uk> 
+<https://www.instagram.com/mariannehazlewood/> 
+<https://www.facebook.com/Marianne.E.Hazlewood/> 
 
 ![*Pisum sativum* L., Papilionoideae, by Marianne Hazlewood, 2021 [= *Lathyrus oleraceus* Lam.]](/assets/images/68/AS-2_Pisumsativum2021-MarianneHazlewood.jpg)
 
