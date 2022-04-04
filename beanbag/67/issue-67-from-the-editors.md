@@ -25,10 +25,10 @@ Twitter: <https://twitter.com/BeanBagNews>
 
 # Editors:
 **Colin Hughes** (University of Zurich, Switzerland)  
-**Warren Cardinal-McTeague** (Agriculture and Agri-Food Canada)
+**Warren Cardinal-McTeague** (Agriculture and Agri-Food Canada)  
 
 
 ![*Abarema cochliacarpos (Caesalpinioideae) Luciano de Queiroz 15538, fruit pods, photo Colin Hughes*](/assets/images/abarema_cochliocarpum_lpq15538_pods11_x.jpg)
-
+*Abarema cochliacarpos (Caesalpinioideae) Luciano de Queiroz 15538, fruit pods, photo Colin Hughes*
 
 [Issue 67, Year 2020 Contents](/beanbag/67/67content)

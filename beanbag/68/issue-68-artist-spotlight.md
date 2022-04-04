@@ -10,7 +10,7 @@ sideNavigation: sidenav.beanbag68
 # Issue 68: Artist Spotlight – Marianne Hazlewood
 
 <br />
-	<img src="/assets/images/68/AS-1_MarianneHazlewood.jpg" alt="Portrait of Marianne Hazlewood" width="50%" align="left" style="margin: 0px 10px 0px 0px">
+	<img src="/assets/images/68/AS-1_MarianneHazlewood.jpg" alt="Portrait of Marianne Hazlewood" width="50%" align="left" style="margin: 0px 20px 0px 0px">
 <br />
 
 ***Marianne Hazlewood*** Dip BI is an RBGE (Royal Botanic Garden Edinburgh) graduate and RHS (Royal Horticultural Society) & BISCOT (Botanical Image Scotia) Gold award-winning and exhibiting botanical illustrator. She creates modern botanical illustrations in various media including watercolour, Japanese ink paste, screen print, digital graphics and pen-and-ink. Each medium offers a different refinement on a close observational process. 

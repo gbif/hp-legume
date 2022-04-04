@@ -16,17 +16,18 @@ Bean Bag Number 68 is another bumper issue reporting on diverse aspects of anoth
 
 We thank Anne Bruneau for compiling reports from the Legume Phylogeny Working Group (LPWG) meeting in September 2021, which are reproduced here in edited form. Thanks also to Gwilym Lewis at Kew for help with checking this issue and facilitating the archiving of the Bean Bag in the Kew Research Repository, which was completed in 2021. Finally, thanks to you, the legume community as a whole, and our many contributors for sharing their time and insights. 
 
-For recent BB issues see the Legume Data Portal 
-Earlier issues of the BB (1975 to 2021) are available via the [Kew Research Repository](https://www.kew.org/science/our-science/publications-and-reports/publications/the-bean-bag) 
-Editor email: <beanbag.kew@gmail.com> 
-Email listserv: <https://groups.google.com/forum/?hl=en#!forum/thebeanbag> 
-Facebook: <https://www.facebook.com/groups/1484192248560637/> 
+For recent BB issues see the Legume Data Portal  
+Earlier issues of the BB (1975 to 2021) are available via the [Kew Research Repository](https://www.kew.org/science/our-science/publications-and-reports/publications/the-bean-bag)  
+Editor email: <beanbag.kew@gmail.com>  
+Email listserv: <https://groups.google.com/forum/?hl=en#!forum/thebeanbag>  
+Facebook: <https://www.facebook.com/groups/1484192248560637/>  
 
 # Editors:
 
-**Colin Hughes**, University of Zürich, Switzerland 
-**Warren Cardinal-McTeague**, University of British Columbia, Canada (starting July 2022) 
+**Colin Hughes**, University of Zürich, Switzerland  
+**Warren Cardinal-McTeague**, University of British Columbia, Canada (starting July 2022)  
 
 ![*Fruits and seeds of Brodriguesia santosii R.S. Cowan, Detarioideae, Photo by Colin Hughes*](/assets/images/68/Welcome_Brodriguesia.png)
+*Fruits and seeds of Brodriguesia santosii R.S. Cowan, Detarioideae, Photo by Colin Hughes*
 
 [Issue 68, Year 2021 Contents](/beanbag/68/68content)
