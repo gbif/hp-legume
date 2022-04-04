@@ -10,7 +10,7 @@ sideNavigation: sidenav.beanbag68
 # Issue 68: Artist Spotlight – Marianne Hazlewood
 
 <br />
-	<img src="/assets/images/68/AS-1_MarianneHazlewood.jpg" alt="Portrait of Marianne Hazlewood" width="50%" align="left">
+	<img src="/assets/images/68/AS-1_MarianneHazlewood.jpg" alt="Portrait of Marianne Hazlewood" width="50%" align="left" style="margin: 0px 10px 0px 0px">
 <br />
 
 ***Marianne Hazlewood*** Dip BI is an RBGE (Royal Botanic Garden Edinburgh) graduate and RHS (Royal Horticultural Society) & BISCOT (Botanical Image Scotia) Gold award-winning and exhibiting botanical illustrator. She creates modern botanical illustrations in various media including watercolour, Japanese ink paste, screen print, digital graphics and pen-and-ink. Each medium offers a different refinement on a close observational process. 
@@ -22,6 +22,15 @@ She has continued her connection with RBGE where she is currently a tutor on the
 <https://www.instagram.com/mariannehazlewood/> 
 <https://www.facebook.com/Marianne.E.Hazlewood/> 
 
-![*Pisum sativum* L., Papilionoideae, by Marianne Hazlewood, 2021 [= *Lathyrus oleraceus* Lam.]](/assets/images/68/AS-2_Pisumsativum2021-MarianneHazlewood.jpg)
 
-![*Lathyrus magellanicus* Lam., Papilionoideae, by Marianne Hazlewood, 2015](/assets/images/68/AS-3_Lathyrusmagellanicus-2015-MarianneHazlewood.jpg)
+<figure>
+	<img src="/assets/images/68/AS-2_Pisumsativum2021-MarianneHazlewood.jpg" alt="Pisum sativum L.">
+	<figcaption><i>Pisum sativum</i> L., Papilionoideae, by Marianne Hazlewood, 2021 [= <i>Lathyrus oleraceus</i> Lam.]</figcaption>
+</figure>
+
+
+<figure>
+	<img src="/assets/images/68/AS-3_Lathyrusmagellanicus-2015-MarianneHazlewood.jpg" alt="Lathyrus magellanicus Lam.">
+	<figcaption><i>Lathyrus magellanicus</i> Lam., Papilionoideae, by Marianne Hazlewood, 2015</figcaption>
+</figure>
+

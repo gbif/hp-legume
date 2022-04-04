@@ -17,7 +17,7 @@ Cover image: Variation in the shape of the standard, keel, and wing petals in th
 Bilbao G, Bruneau A, Joly S (2021) Judge it by its shape: A pollinator‐blind approach reveals convergence in petal shape and infers pollination modes in the genus *Erythrina*. *American Journal of Botany*, 108: 1716-1730. 
 
 <br />
-	<img src="/assets/images/68/LC-2.png" alt="New Phytologists 229" width="50%" align="left">
+	<img src="/assets/images/68/LC-2.png" alt="New Phytologists 229" width="50%" align="right">
 <br />
 
 Cover image: Cross section of a root nodule of *Medicago truncatula* colonized by its nitrogen-fixing symbiont, *Sinorhizobium meliloti*, Ulrike Mathesius. 
@@ -31,7 +31,7 @@ Cover image: *Calliandra fuscipila* Harms, a shrub endemic to the campos rupestr
 Koenen EJ, Kidner C, de Souza ÉR, Simon MF, Iganci JR, Nicholls JA, Brown GK, de Queiroz LP, Luckow M, Lewis GP, Pennington RT, Hughes CE (2020). Hybrid capture of 964 nuclear genes resolves evolutionary relationships in the mimosoid legumes and reveals the polytomous origins of a large pantropical radiation. *American Journal of Botany*, 107: 1710-1735. 
 
 <br />
-	<img src="/assets/images/68/LC-4.png" alt="Anales del Jardín Botánico de Madrid 77" width="50%" align="left">
+	<img src="/assets/images/68/LC-4.png" alt="Anales del Jardín Botánico de Madrid 77" width="50%" align="right">
 <br />
 
 Cover image: *Astragalus wiesneri* Maassoumi & Pahlevani, a rare species in alpine habitats in the southern Zagros Mountains of Iran, Amir H. Pahlevani. 

@@ -27,6 +27,6 @@ Facebook: <https://www.facebook.com/groups/1484192248560637/>
 **Colin Hughes**, University of Zürich, Switzerland 
 **Warren Cardinal-McTeague**, University of British Columbia, Canada (starting July 2022) 
 
-![*Fruits and seeds of Brodriguesia santosii R.S. Cowan, Detarioideae, Photo by Colin Hughes*](/assets/images/Welcome_Brodriguesia.png)
+![*Fruits and seeds of Brodriguesia santosii R.S. Cowan, Detarioideae, Photo by Colin Hughes*](/assets/images/68/Welcome_Brodriguesia.png)
 
 [Issue 68, Year 2021 Contents](/beanbag/68/68content)
