@@ -20,6 +20,9 @@ height: 70vh
 
 ## Legume Phylogeny Working Group Updates
 
+**[The Legume Phylogeny Working Group](/beanbag/68/issue-68-legume-phylogeny-working-group)**
+Anne Bruneau & Colin Hughes
+
 **[Taxonomy Working Group](/beanbag/68/issue-68-taxonomy-working-group)** 
 Marianne le Roux & Anne Bruneau
 

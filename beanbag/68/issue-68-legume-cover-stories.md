@@ -11,10 +11,9 @@ sideNavigation: sidenav.beanbag68
 
 <br />
 	<img src="/assets/images/68/LC-1.png" alt="American Journal of Botany 108" width="50%" align="left" style="margin: 0px 20px 0px 0px">
+	<p>Cover image: Variation in the shape of the standard, keel, and wing petals in the pantropical genus *Erythrina* L., Gonzalo Bilbao. 
+Bilbao G, Bruneau A, Joly S (2021) Judge it by its shape: A pollinator‐blind approach reveals convergence in petal shape and infers pollination modes in the genus *Erythrina*. *American Journal of Botany*, 108: 1716-1730.</p>
 <br />
-
-Cover image: Variation in the shape of the standard, keel, and wing petals in the pantropical genus *Erythrina* L., Gonzalo Bilbao. 
-Bilbao G, Bruneau A, Joly S (2021) Judge it by its shape: A pollinator‐blind approach reveals convergence in petal shape and infers pollination modes in the genus *Erythrina*. *American Journal of Botany*, 108: 1716-1730. 
 
 <br />
 	<img src="/assets/images/68/LC-2.png" alt="New Phytologists 229" width="50%" align="right" style="margin: 20px 0px 0px 0px">
