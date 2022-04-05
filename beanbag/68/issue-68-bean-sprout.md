@@ -12,9 +12,7 @@ sideNavigation: sidenav.beanbag68
 **Sophie Winitsky**, Montana State University, USA  
 **Joseph Charboneau**, University of Arizona, USA  
 
-<br />
-	<img src="/assets/images/68/BS.png" alt="bean sprout" width="40%" align="center">
-<br />
+![A screenshot of the legume phylogeny working group virtual meeting.](/assets/images/68/BS.png)
 
 ***Bean Sprouts*** is a new online, international legume systematics and evolution club where graduate students, early career scientists, and the broader community can connect, share research, and invite speakers, centered around our favorite (the best) plant family!  
 

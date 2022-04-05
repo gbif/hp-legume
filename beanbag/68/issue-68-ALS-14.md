@@ -14,7 +14,7 @@ sideNavigation: sidenav.beanbag68
 **Gwilym Lewis**, Royal Botanic Gardens Kew, UK  
 
 <br />
-	<img src="/assets/images/68/BA-1.png" alt="Hydrochorea corymbosa" width="40%" align="left" style="margin: 0px 20px 0px 0px">
+	<img src="/assets/images/68/ASL-1.png" alt="Hydrochorea corymbosa" width="40%" style="float:right">
 <br />
 
 *Hydrochorea corymbosa* (Rich.) Barneby & J.W.Grimes, Caesalpinioideae, photo by Erik Koenen 
