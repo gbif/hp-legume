@@ -66,3 +66,59 @@ beanbag67:
     path: /beanbag/67/issue-67-legume-bibliography-under-the-spotlight
   - title: Legume bibliography 2020
     path: /beanbag/67/issue-67-legume-bibliography-2020
+beanbag68:
+- content:
+  - title: Table of contents
+    path: /beanbag/68/68content
+  - title: Welcome note
+    path: /beanbag/68/issue-68-welcome-note
+  - title: Legume Cover Stories
+    path: /beanbag/68/issue-68-legume-cover-stories
+  - title: Artist Spotlight
+    path: /beanbag/68/issue-68-artist-spotlight
+- grouptitle: Legume Phylogeny Working Group Reports
+  content:
+  - title: The Legume Phylogeny Working Group
+    path: /beanbag/68/issue-68-legume-phylogeny-working-group
+  - title: Taxonomy Working Group
+    path: /beanbag/68/issue-68-taxonomy-working-group
+  - title: Occurrence Data Working Group
+    path: /beanbag/68/issue-68-occurrence-data-working-group
+  - title: Traits Working Group
+    path: /beanbag/68/issue-68-traits-working-group
+  - title: Phylogenomics & Phylogenetics Working Group
+    path: /beanbag/68/issue-68-phylogenomics-phylogenetics-working-group
+  - title: Open Tree of Life - Legume Node
+    path: /beanbag/68/issue-68-open-tree-of-life
+- grouptitle: Announcements
+  content:
+  - title: Acacia Phylogenomics & Genomes
+    path: /beanbag/68/issue-68-acacia-phylogenomics-genomes
+  - title: "Advances in Legume Systematics 14: Caesalpinioideae"
+    path: /beanbag/68/issue-68-ALS-14
+  - title: The Rupert Barneby Award of the New York Botanical Garden
+    path: /beanbag/68/issue-68-rupert-barneby
+  - title: Bean Sprouts, An International Legume Systematics and Evolution Club
+    path: /beanbag/68/issue-68-bean-sprout
+  - title: "Forthcoming: International Legume Conference, ILC8"
+    path: /beanbag/68/issue-68-ILC8
+  - title: Updated Online Resources from the Desert Legume Program
+    path: /beanbag/68/issue-68-desert-legume-program
+- grouptitle: Articles
+  content: 
+  - title: "Flora do Brasil 2020: Where Does the Leguminosae Fit in the Megadiverse Brazilian Flora?"
+    path: /beanbag/68/issue-68-flora-do-brasil
+  - title: "Lathyrus: A Horticultural Monograph"
+    path: /beanbag/68/issue-68-lathyrus
+  - title: Legume Data Portal
+    path: /beanbag/68/issue-68-legume-data-portal
+  - title: Legume Genome Sequencing Consortium
+    path: /beanbag/68/issue-68-legume-genome-sequencing-consortium
+  - title: New Legume Species Highlights 2021
+    path: /beanbag/68/issue-68-new-legume-species-highlights
+- grouptitle: Bibliography
+  content:
+  - title: "Spotlight: A Look Inside the Stems of the Charismatic Genus Wisteria"
+    path: /beanbag/68/issue-68-spotlight
+  - title: Legume Bibliography 2021
+    path: /beanbag/68/issue-68-legume-bibliography-2021
