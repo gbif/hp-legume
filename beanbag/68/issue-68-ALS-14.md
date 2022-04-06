@@ -15,7 +15,7 @@ sideNavigation: sidenav.beanbag68
 
 
 <figure>
-	<img src="/assets/images/68/ASL-1.png" alt="Hydrochorea corymbosa" width="50%">
+	<img src="/assets/images/68/ASL-1.png" alt="Hydrochorea corymbosa" width="50%" align="center">
 	<figcaption><i>Hydrochorea corymbosa</i> (Rich.) Barneby & J.W.Grimes, Caesalpinioideae, photo by Erik Koenen</figcaption>
 </figure> 
 
