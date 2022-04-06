@@ -13,6 +13,12 @@ sideNavigation: sidenav.beanbag68
 **Luciano Paganucci de Queiroz**, Universidade Estadual de Feira de Santana, Brazil  
 **Gwilym Lewis**, Royal Botanic Gardens Kew, UK  
 
+| ![ASL-1.png](/assets/images/68/ASL-1.png) |
+
+|:--:|
+
+| <b>*Hydrochorea corymbosa* (Rich.) Barneby & J.W.Grimes, Caesalpinioideae, photo by Erik Koenen</b>|
+
 <figure>
 	<img src="/assets/images/68/ASL-1.png" alt="Hydrochorea corymbosa" width="40%" align="right" style="margin: 20px 20px 20px 20px">
 	<figcaption>*Hydrochorea corymbosa* (Rich.) Barneby & J.W.Grimes, Caesalpinioideae, photo by Erik Koenen</figcaption>
