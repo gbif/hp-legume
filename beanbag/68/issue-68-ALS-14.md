@@ -13,11 +13,10 @@ sideNavigation: sidenav.beanbag68
 **Luciano Paganucci de Queiroz**, Universidade Estadual de Feira de Santana, Brazil  
 **Gwilym Lewis**, Royal Botanic Gardens Kew, UK  
 
-<br />
-	<img src="/assets/images/68/ASL-1.png" alt="Hydrochorea corymbosa" width="40%" style="float:right">
-<br />
-
-*Hydrochorea corymbosa* (Rich.) Barneby & J.W.Grimes, Caesalpinioideae, photo by Erik Koenen 
+<figure>
+	<img src="/assets/images/68/ASL-1.png" alt="Hydrochorea corymbosa" width="40%" align="right" style="margin: 20px 20px 20px 20px">
+	<figcaption>*Hydrochorea corymbosa* (Rich.) Barneby & J.W.Grimes, Caesalpinioideae, photo by Erik Koenen</figcaption>
+</figure> 
 
 *The Advances in Legume Systematics* (ALS) series has been a highly successful and productive vehicle for publishing work on legume classification over many years, with 13 published volumes. Now we are assembling Part 14 which will focus on the classification of subfamily Caesalpinioideae (sensu LPWG, 2017).  
 

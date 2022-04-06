@@ -14,7 +14,7 @@ sideNavigation: sidenav.beanbag68
 *Dr. Dan Murphy* would like to draw attention to other legume researchers that two projects investigating the phylogenomics and genomics of *Acacia* are being led by a team of researchers based at the Royal Botanic Gardens Victoria in Melbourne, Australia, with support from the Genomics for Australian Plants (GAP) Initiative and in collaboration with *Acacia* researchers from other research institutions.  
 
 <br />
-	<img src="/assets/images/68/APG-1.png" alt="Acacia pycnantha" width="50%" align="right" style="margin: 20px 0px 0px 0px">
+	<img src="/assets/images/68/APG-1.png" alt="Acacia pycnantha" width="50%" align="right" style="margin: 20px 20px 20px 20px">
 <br />
 
 *Acacia pycnantha*, Australia’s Floral Emblem, at Phillip Island,Victoria, Australia, photo by Dan Murphy.  
