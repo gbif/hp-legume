@@ -12,7 +12,7 @@ sideNavigation: sidenav.beanbag68
 **Reviewed by Colin Hughes**, University of Zürich, Switzerland  
 
 <br />
-	<img src="/assets/images/68/LA-1_Book.png" alt="Rupert Barneby" width="40%" align="right" style="margin: 20px 0px 0px 0px">
+	<img src="/assets/images/68/LA-1_Book.png" alt="Lathyrus Book" width="40%" align="right" style="margin: 20px 20px 20px 20px">
 <br />
 
 ***The genus Lathyrus***, the archetypal pea of the pea family, has a new taxonomic monograph published in 2021. This is the fifth in the acclaimed series of Royal Horticultural Society (U.K.) *Horticultural Monographs*, and the second focusing on a legume genus, with a previous volume on *Wisteria*. As a horticultural monograph, it presents a fusion of botanical and science-based horticultural knowledge in a single volume. This fusion has been melded by the partnership of ***Greg Kenicer***, a taxonomist based at the Royal Botanic Garden, Edinburgh, and ***Roger Parsons*** a horticulturalist and plantsman who has dedicated his life to growing, selecting, and curating varieties of one species of *Lathyrus*, the sweet pea, *Lathyrus odoratus*.  
@@ -28,7 +28,7 @@ Even with such a large chunk of this monograph devoted to just this one species,
 This is a magnificent monograph, richly filled with keys, descriptions, notes and photographs, and an excellent template for other legume genera of horticultural importance. 
 
 <br />
-	<img src="/assets/images/68/LA-2_Flower.png" alt="Rupert Barneby" width="40%" align="right" style="margin: 20px 0px 0px 0px">
+	<img src="/assets/images/68/LA-2_Flower.png" alt="Lathyrus Flower" width="40%" align="right" style="margin: 20px 20px 20px 20px">
 <br />
 
 <sup>1</sup>Schaefer H, Hechenleitner P, Santos-Guerra A, de Sequeira MM, Pennington RT, Kenicer G, Carine MA (2012). Systematics, biogeography, and character evolution of the legume tribe Fabeae with special focus on the middle- Atlantic island lineages. *BMC Evolutionary Biology*, **12**: 250. <https://doi.org/10.1186/1471-2148-12-250>  

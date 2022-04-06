@@ -14,7 +14,7 @@ sideNavigation: sidenav.beanbag68
 ***Funding opportunity***  
 
 <br />
-	<img src="/assets/images/68/BA-1.png" alt="Rupert Barneby" width="40%" style="float:right">
+	<img src="/assets/images/68/BA-1.png" alt="Rupert Barneby" width="40%" align="right" style="margin: 20px 20px 20px 20px">
 <br />
 
 *Dr. Rupert Barneby*

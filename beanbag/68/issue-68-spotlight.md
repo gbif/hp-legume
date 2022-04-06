@@ -24,5 +24,6 @@ In this study, we demonstrate that three species of *Wisteria* develop successiv
 **Full reference:**
 Nejapa R, Cabanillas PA, Pace MR (2021) Cortical origin of the successive cambia in the stems of the charismatic temperate lianescent genus *Wisteria* (Fabaceae) and its systematic importance. *Botanical Journal of the Linnean Society*: boab091, <https://doi.org/10.1093/botlinnean/boab091>  
 
-![Adapted from Fig. 2 of Nejapa et al. (2021). Transverse sections of the ontogeny of *Wisteria sinensis* stems. From the onset of secondary growth (A) to stems with two successive cambia (E and F).](/assets/images/68/Biblio-Spot_Figure.jpg)
+![Adapted from Fig. 2 of Nejapa et al. (2021). Transverse sections of the ontogeny of *Wisteria sinensis* stems. From the onset of secondary growth (A) to stems with two successive cambia (E and F).](/assets/images/68/Biblio-Spot_Figure.jpg)  
 
+Adapted from Fig. 2 of Nejapa et al. (2021). Transverse sections of the ontogeny of *Wisteria sinensis* stems. From the onset of secondary growth (A) to stems with two successive cambia (E and F).

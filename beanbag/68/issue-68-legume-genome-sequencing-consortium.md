@@ -9,7 +9,7 @@ sideNavigation: sidenav.beanbag68
 
 # Legume Genome Sequencing Consortium 
 
-**Shifeng Cheng<sup>1</sup>, Ashley N. Egan<sup>2</sup>>, Warren Cardinal-McTeague<sup>3</sup>, Gane Ka-Shu Wong<sup>4</sup> & Jeffrey J. Doyle<sup>5</sup>**   
+**Shifeng Cheng<sup>1</sup>, Ashley N. Egan<sup>2</sup>, Warren Cardinal-McTeague<sup>3</sup>, Gane Ka-Shu Wong<sup>4</sup> & Jeffrey J. Doyle<sup>5</sup>**   
 <sup>1</sup>Chinese Academy of Agricultural Sciences, China  
 <sup>2</sup>Utah Valley University, USA  
 <sup>3</sup>University of British Columbia, Canada  
@@ -20,7 +20,6 @@ sideNavigation: sidenav.beanbag68
 
 1. **“Legume Nodulation and NFN Clade Phylogenomics v2.0” Project**
 In this subproject, two parts will be highlighted, aiming to sequence and assemble up to 300 high-quality chromosome-level genomes by combining long-read technologies like PacBio/ONT, Illumina or MGI short-read technologies, and linked read technologies like stLFR or HiC, etc. The first part is to sequence genomes from different legume lineages and or representatives of Fabales lineages which have lost the ability to noduate (including from subfamilies Cercidoideae, Detarioideae, Duparquetioideae, Dialioideae, some Caesalpinioideae, and some Papilionoideae). Species of particular interest will be covered like Nissolia from Dalbergieae, the ADA clade and Swartzieae from Papilionoids, and many taxa phylogenetically encompassing the clade that includes *Chamaecrista* and mimosoids in the Caesalpinioideae.  
-
 The second part is outside the legumes to sequence and assemble the genomes of “comparison pairs” of nodulating and non-nodulating taxa representing the other nine nodulating families across the four orders in the ***N2-Fixing root Nodule*** (NFN) clade of angiosperms, which mostly come from the actinorhizal plants. This is a continuation of the v1.0 effort in the ***EvoNod*** consortium, launched in 2015 (<https://www.science.org/doi/10.1126/science.aat1743>). Specifically, the second part will include: 1) outgroups outside the NFN clade (e.g., Malpighiales, and other orders closely related to the NFN clade); 2) actinorhizal nodulators (about 230 species out of 24 genera) and their closely-related non-nodulator relatives, which include *Comptonia*, *Morella*, *Myrica*, *Alnus*/*Betula*, *Casuarina*, *Allocasuarina*, *Ceuthostoma*, and *Gymnostoma* from Fagales; the two subfamilies *Datisca* and *Coriaria* from Cucurbitales; *Dryas*, *Purshia*, *Chamaebatia*, *Cercocarpus*, *Elaeagnus*, *Hippophae*, *Shepherdia*, *Trevoa*, *Retanilla*, *Ochetophila*, *Colletia*, *Discaria*, *Kentrothamnus*, *Ceanothus* and *Parasponia* (associated with rhizobia) from Rosales. 
 
 2. **Super-Pangenomics of Legume Crops**
@@ -51,7 +50,8 @@ To facilitate planning of these initiatives, Ashley N. Egan (Utah Valley Univers
 **Gane Ka-Shu Wong**, University of Alberta, Canada. <gane@ualberta.ca>  
 **Jeffrey J. Doyle**, Cornell University, USA. <jjd5@cornell.edu>   
 
-![*Chamaecrista desvauxii* (Collad.) Killip, Caesalpinioideae, photo by Colin Hughes.](/assets/images/68/LGSC-1_Chamaecrista.png)
+![*Chamaecrista desvauxii* (Collad.) Killip, Caesalpinioideae, photo by Colin Hughes.](/assets/images/68/LGSC-1_Chamaecrista.png)  
+*Chamaecrista desvauxii* (Collad.) Killip, Caesalpinioideae, photo by Colin Hughes.
 
 ![Figure modified from Egan and Vatanparast (2019) with stars and smaller font indicating new additions.](/assets/images/68/LGSC-2_Figure.png)
-
+Figure modified from Egan and Vatanparast (2019) with stars and smaller font indicating new additions.
