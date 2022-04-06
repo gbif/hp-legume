@@ -22,23 +22,23 @@ List of searched journals and publishers (updated annually, if one is missed ple
 **Results** – A total of **351** new publications were recovered for the 2021 Bibliography:  
 
 **Bibliography Index**   
-[Anatomy & Morphology = 15](#mardown-header-anatomy-&-morphology)  
-Biogeography = 4  
-Chloroplast Genomes = 43  
-Development = 4  
-Ecology = 33  
-Floristics = 11  
-Genetics, Genomics, & Molecular Biology = 32  
-Microbiology, Nodulation, & Symbiosis = 14  
-Paleobotany = 4  
-Palynology = 2  
-Phylogenetics, Phylogenomics, Systematics,& Evolution = 20  
-Physiology = 27  
-Phytochemistry = 10  
-Phytogeography = 10  
-Population Genetics & Genomics = 18  
-Taxonomy = 50  
-New Species = 54  
+[Anatomy & Morphology = 15](#markdown-header-anatomy-&-morphology)  
+[Biogeography = 4](#markdown-header-biogeography)  
+[Chloroplast Genomes = 43](#markdown-header-chloroplast-genomes)  
+[Development = 4](#markdown-header-development)  
+[Ecology = 33](#markdown-header-ecology)  
+[Floristics = 11](#markdown-header-floristics)  
+[Genetics, Genomics, & Molecular Biology = 32](#markdown-header-genetics,-genomics,-&-molecular-biology)  
+[Microbiology, Nodulation, & Symbiosis = 14](#markdown-header-microbiology,-nodulation,-&-symbiosis)  
+[Paleobotany = 4](#markdown-header-paleobotany)  
+[Palynology = 2](#markdown-header-palynology)  
+[Phylogenetics, Phylogenomics, Systematics, & Evolution = 20](#markdown-header-phylogenetics,-phylogenomics,-systematics,-&-evolution)  
+[Physiology = 27](#markdown-header-physiology)  
+[Phytochemistry = 10](#markdown-header-phytochemistry)  
+[Phytogeography = 10](#markdown-header-phytogeography)  
+[Population Genetics & Genomics = 18](#markdown-header-population-genetics-&-genomics)  
+[Taxonomy = 50](#markdown-header-taxonomy)  
+[New Species = 54](#markdown-header-new-species)  
 
 ## Anatomy & Morphology - 15  
 
