@@ -16,16 +16,17 @@ Carole Sinou<sup>1</sup>, Joe Miller<sup>2</sup> & Anne Bruneau<sup>1</sup>
 ***In November 2020***, the ***Global Biodiversity Information Facility*** (GBIF) launched a program to host tailored data portals for GBIF nodes in their community. The portals were designed primarily for GBIF country nodes and regions to showcase occurrence data for particular geographical areas. The LPWG was chosen as one of only two taxon-focused projects with the objective of presenting data about Leguminosae. GBIF provides the informatics infrastructure and expertise, while the legume community is responsible for the content. GBIF is interested in encouraging dialogue with expert communities in order to improve data quality and increase visibility and use of GBIF mediated data, which come from herbaria. In its initial phase, the portal has three major types of information for our community: the latest taxonomic information; distribution data from GBIF; and a platform for community communication. The Legume Data Portal was developed under the umbrella of ***Canadensys*** (<https://www.canadensys.net/>), which is an associate participant node of GBIF and publishes data from Canadian collections and initiatives.  
 
 <br />
-	<img src="/assets/images/68/LDP-1.png" alt="Legume Data Portal 1" width="40%" align="center">
+	<img src="/assets/images/68/LDP-1.png" alt="Legume Data Portal 1" width="100%" align="center">
 <br />
 
 
 The need for scientists to exchange, share and organise data has resulted in a proliferation of taxonomic and biodiversity research data portals in the past decades. These cyberinfrastructures have had a major impact and helped to revitalise taxonomy by allowing quick access to bibliographic information, biological and nomenclatural data, and specimen information. A pioneering example is the ***International Legume Database and Information Service*** (ILDIS), which was established in 1985, and led the way in developing methods and thinking with regard to taxonomic data management more generally. However, due to lack of resources, lack of institutional support and community involvement, as well as evolving software protocols, increased data complexity, and the need for distributed data curation, ILDIS had not been curated by the community for over ten years. In a 2019 paper in Advances in Legume Systematics Part 13, [Bruneau et al.](https://www.publish.csiro.au/sb/sb19025) proposed the establishment of a new Web portal to facilitate access to scientifically validated data about legumes, stemming from several years of discussions within the LPWG and a workshop held during the International Legume Conference in Japan in 2018. The collaboration with GBIF has provided the LPWG with a framework for helping to curate global data resources and working together to report data quality issues to data providers, leading to enhanced quality data on legumes.  
 
 <br />
-	<img src="/assets/images/68/LDP-2.png" alt="Legume Data Portal 2" width="40%" align="center">
+	<img src="/assets/images/68/LDP-2.png" alt="Legume Data Portal 2" width="100%" align="center">
 <br />
 
+*Example of subfamily description for Caesalpinioideae*
 
 The new Legume Data Portal was officially launched on September 30th 2021 at the virtual LPWG meeting. The portal currently provides an overview of the legume family and each of the subfamilies and a summary of the work and objectives of the LPWG and its five working groups.  
 
@@ -40,7 +41,7 @@ Finally, a section of the Legume Data Portal is dedicated to the Bean Bag, with 
 The Legume Data Portal aims to encourage international collaboration and exchange amongst scientists and students, and provide a platform to share data and expertise on the systematics and evolution of the Leguminosae with a broad community of users. Please take a look, and please contribute!  
 
 <br />
-	<img src="/assets/images/68/LDP-3.png" alt="Legume Data Portal" width="40%" align="center">
+	<img src="/assets/images/68/LDP-3.png" alt="Legume Data Portal" width="100%" align="center">
 <br />
 
-GBIF map view showing the distribution of occurrences for the mimosoid legume genus Senegalia on the Legume Data Portal. The user can click on an occurrence point and directly obtain the specimen data for the records that populate that locality. 
+*GBIF map view showing the distribution of occurrences for the mimosoid legume genus Senegalia on the Legume Data Portal. The user can click on an occurrence point and directly obtain the specimen data for the records that populate that locality.*
