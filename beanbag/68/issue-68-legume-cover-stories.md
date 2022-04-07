@@ -17,6 +17,8 @@ Bilbao G, Bruneau A, Joly S (2021) Judge it by its shape: A pollinator‐blind a
 
 <br />
 
+---
+
 <br />
 	<img src="/assets/images/68/LC-2.png" alt="New Phytologists 229" width="50%" align="right" style="margin: 20px 20px 20px 20px">  
 
@@ -25,6 +27,7 @@ Mens C, Hastwell AH, Su H, Gresshoff PM, Mathesius U, Ferguson BJ (2021) Charact
 
 <br />
 
+---
 
 <br />
 	<img src="/assets/images/68/LC-3.png" alt="American Journal of Botany 107" width="50%" align="left" style="margin: 20px 20px 20px 20px">  
@@ -34,6 +37,7 @@ Koenen EJ, Kidner C, de Souza ÉR, Simon MF, Iganci JR, Nicholls JA, Brown GK, 
 
 <br />
 
+---
 
 <br />
 	<img src="/assets/images/68/LC-4.png" alt="Anales del Jardín Botánico de Madrid 77" width="50%" align="right" style="margin: 20px 20px 20px 20px">  
