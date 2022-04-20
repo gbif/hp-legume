@@ -9,6 +9,13 @@ sideNavigation: sidenav.beanbag68
 
 # Legume Cover stories 
 
+
+![American Journal of Botany 108](/assets/images/68/LC-1.png){: style="float: left; width: 30%; margin-right: 1em"}
+
+Cover image: Variation in the shape of the standard, keel, and wing petals in the pantropical genus *Erythrina* L., Gonzalo Bilbao. 
+Bilbao G, Bruneau A, Joly S (2021) Judge it by its shape: A pollinator‐blind approach reveals convergence in petal shape and infers pollination modes in the genus *Erythrina*. *American Journal of Botany*, 108: 1716-1730.
+
+
 <br />
 	<img src="/assets/images/68/LC-1.png" alt="American Journal of Botany 108" width="30%" align="left" style="margin: 20px 20px 20px 20px">  
 
