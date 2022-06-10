@@ -16,10 +16,10 @@ The GBIF Secretariat is delighted to invite its network members to apply for hos
 
 For more information and to apply for a portal vist the [GBIF hosted portal site](https://www.gbif.org/hosted-portals).
 
-This [legume portal](https://www.legumedata.org/)is an  example of GBIF thematic hosted portal. 
+This [legume portal](https://www.legumedata.org/) is an  example of GBIF thematic hosted portal. 
 
 This is a GBIF program also offers hosted portals for individual collections and institutions such as the [Natural History Museum Rotterdam](https://specimens.hetnatuurhistorisch.nl/) for example or check out the [ACME template](https://hp-nhc-template.gbif-staging.org/) that can  be used to build your customized portal.
 
-or this ACME template that can  be used to build your co=stomized portal.  
+or this ACME template that can  be used to build your customized portal.  
 
 These portals are  free and and only require that the institution share data with the GBIF network.
