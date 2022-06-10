@@ -6,7 +6,7 @@ date:   2022-06-10 10:00:00 +0100
 categories: ["Call"]
 lang-ref: Hosted Portal Call 2022
 lang: en
-background: /assets/images/RupertBarneby.jpg
+background: /assets/images/Screenshot 2022-06-10 at 2.05.13 PM.png
 ---
 
 
