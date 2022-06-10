@@ -1,5 +1,3 @@
-
-
 ---
 title:  "Hosted Portal Call, GBIF - Collection Portal Opportunity"
 date:   2022-06-10 10:00:00 +0100
