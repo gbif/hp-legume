@@ -1,5 +1,5 @@
 ---
-title:  "*Delonix* collection in Oasis Wildlife Botanical Garden in Fuerteventura, Canary Islands"
+title:  "Delonix collection in Oasis Wildlife Botanical Garden in Fuerteventura, Canary Islands"
 date:   2022-07-11 14:20:00 +0100
 categories: ["announcements"]
 lang-ref: Delonix
