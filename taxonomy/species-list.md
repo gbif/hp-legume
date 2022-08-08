@@ -18,7 +18,7 @@ height: 70vh
 The LPWG has been working in collaboration with the Royal Botanic Gardens, Kew, to update the names of legume species and their synonymy (see [Taxonomy Working Group](/working-groups/taxonomy)) and provide a single list of accepted legume species names. This list is curated as part of the World Checklist of Vascular Plants ([WCVP]( https://wcvp.science.kew.org/)), which links to the International Plant Name Index ([IPNI](https://www.ipni.org/)), the Global Biodiversity Information Facility ([GBIF](https://www.gbif.org/)) and also underlies the [Plants of the World Online](http://www.plantsoftheworldonline.org/) website. 
 
 ## Species List
-The most recent version of this taxonomy can be accessed through the [menu on the left](/taxonomy/browse). The WCVP-Fabaceae species list is also available for download in .txt from the [Catalogue of Life ChecklistBank](https://data.catalogueoflife.org/dataset/2304/about) and in a classic checklist format [here](/media/WCVP_Fabaceae_checklist_Jun_2021.docx). Unfortunately this list doesn't include subfamily designation. 
+The most recent version of this taxonomy can be accessed through the [menu on the left](/taxonomy/browse). The WCVP-Fabaceae species list is also available for download in .txt from the [Catalogue of Life ChecklistBank](https://data.catalogueoflife.org/dataset/2304/about) and in a classic checklist format [here](/media/WCVP_Fabaceae_checklist_May_2022). Unfortunately this list doesn't include subfamily designation. 
 
 ## List of genera accepted by the LPWG
 
@@ -39,12 +39,14 @@ The current taxonomy is accessbile by [Browse](/taxonomy/browse) or [Advanced Se
 | Adenanthera L.| [Caesalpinioideae](/taxonomy/caesalpinioideae)| [Legume Data Portal](/taxonomy/taxon/621303)| [GBIF](https://www.gbif.org/species/2951839)| [WCVP](https://wcvp.science.kew.org/taxon/21576-1)
 | Adenocarpus DC.| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/621633)| [GBIF](https://www.gbif.org/species/2951623)| [WCVP](https://wcvp.science.kew.org/taxon/21578-1)
 | Adenodolichos Harms| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/621719)| [GBIF](https://www.gbif.org/species/2970548)| [WCVP](https://wcvp.science.kew.org/taxon/21579-1)
-| Adenolobus(Harv. ex Benth. & Hook.f.) Torre & Hillc.| [Cercidoideae](/taxonomy/cercidoideae)| [Legume Data Portal](/taxonomy/taxon/621808)| [GBIF](https://www.gbif.org/species/2956199)| [WCVP](https://wcvp.science.kew.org/taxon/21580-1)
+| Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.| [Cercidoideae](/taxonomy/cercidoideae)| [Legume Data Portal](/taxonomy/taxon/621808)| [GBIF](https://www.gbif.org/species/2956199)| [WCVP](https://wcvp.science.kew.org/taxon/21580-1)
 | Adenopodia C. Presl| [Caesalpinioideae](/taxonomy/caesalpinioideae)| [Legume Data Portal](/taxonomy/taxon/621829)| [GBIF](https://www.gbif.org/species/2952361)| [WCVP](https://wcvp.science.kew.org/taxon/21581-1)
 | Adesmia DC.| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/621978)| [GBIF](https://www.gbif.org/species/2961501)| [WCVP](https://wcvp.science.kew.org/taxon/331321-2)
+| Adinobotrys Dunn| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/622912)| [GBIF](https://www.gbif.org/species/2943129)| [WCVP](https://wcvp.science.kew.org/taxon/21583-1)
 | Aenictophyton A.T.Lee| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/623521)| [GBIF](https://www.gbif.org/species/2966763)| [WCVP](https://wcvp.science.kew.org/taxon/21588-1)
 | Aeschynomene L.| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/624018)| [GBIF](https://www.gbif.org/species/8014913)| [WCVP](https://wcvp.science.kew.org/taxon/30008210-2)
 | Afgekia Craib| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/624834)| [GBIF](https://www.gbif.org/species/2982849)| [WCVP](https://wcvp.science.kew.org/taxon/21592-1)
+| Afroamphica H.Ohashi & K.Ohashi| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/1226064)| [GBIF](https://www.gbif.org/species/10828202)| [WCVP](https://wcvp.science.kew.org/taxon/77178891-1)
 | Afrocalliandra E.R. Souza & L. P. Queiroz| [Caesalpinioideae](/taxonomy/caesalpinioideae)| [Legume Data Portal](/taxonomy/taxon/977032)| [GBIF](https://www.gbif.org/species/9783891)| [WCVP](https://wcvp.science.kew.org/taxon/77136037-1)
 | Afzelia Sm.| [Detarioideae](/taxonomy/detarioideae)| [Legume Data Portal](/taxonomy/taxon/624953)| [GBIF](https://www.gbif.org/species/1470349)| [WCVP](https://wcvp.science.kew.org/taxon/331326-2)
 | Aganope Miq.| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/625249)| [GBIF](https://www.gbif.org/species/2976739)| [WCVP](https://wcvp.science.kew.org/taxon/21596-1)
@@ -54,7 +56,7 @@ The current taxonomy is accessbile by [Browse](/taxonomy/browse) or [Advanced Se
 | Albizia Durazz.| [Caesalpinioideae](/taxonomy/caesalpinioideae)| [Legume Data Portal](/taxonomy/taxon/627218)| [GBIF](https://www.gbif.org/species/2972897)| [WCVP](https://wcvp.science.kew.org/taxon/30017224-2)
 | Aldina Endl.| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/627764)| [GBIF](https://www.gbif.org/species/3252064)| [WCVP](https://wcvp.science.kew.org/taxon/331331-2)
 | Alexa Moq.| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/628304)| [GBIF](https://www.gbif.org/species/2976586)| [WCVP](https://wcvp.science.kew.org/taxon/30001735-2)
-| Alhagi Gagnebin| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/628341)| [GBIF](https://www.gbif.org/species/7940405)| [WCVP](https://wcvp.science.kew.org/taxon/60457675-2)
+| Alhagi Tourn. ex Gagnebin| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/628341)| [GBIF](https://www.gbif.org/species/7940405)| [WCVP](https://wcvp.science.kew.org/taxon/60457675-2)
 | Alistilus N.E.Br.| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/628446)| [GBIF](https://www.gbif.org/species/2961188)| [WCVP](https://wcvp.science.kew.org/taxon/21613-1)
 | Almaleea Crisp & P.H.Weston| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/629779)| [GBIF](https://www.gbif.org/species/2965179)| [WCVP](https://wcvp.science.kew.org/taxon/956797-1)
 | Alysicarpus Desv.| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/631726)| [GBIF](https://www.gbif.org/species/2948588)| [WCVP](https://wcvp.science.kew.org/taxon/327013-2)
@@ -94,9 +96,9 @@ The current taxonomy is accessbile by [Browse](/taxonomy/browse) or [Advanced Se
 | Archidendron F. Muell.| [Caesalpinioideae](/taxonomy/caesalpinioideae)| [Legume Data Portal](/taxonomy/taxon/646920)| [GBIF](https://www.gbif.org/species/2941201)| [WCVP](https://wcvp.science.kew.org/taxon/21710-1)
 | Archidendropsis I.C. Nielsen| [Caesalpinioideae](/taxonomy/caesalpinioideae)| [Legume Data Portal](/taxonomy/taxon/647054)| [GBIF](https://www.gbif.org/species/2975530)| [WCVP](https://wcvp.science.kew.org/taxon/893260-1)
 | Arcoa Urb.| [Caesalpinioideae](/taxonomy/caesalpinioideae)| [Legume Data Portal](/taxonomy/taxon/647092)| [GBIF](https://www.gbif.org/species/2945826)| [WCVP](https://wcvp.science.kew.org/taxon/296987-2)
-| Arquita Gagnon, G.P. Lewis & C.E. Hughes| [Caesalpinioideae](/taxonomy/caesalpinioideae)| [Legume Data Portal](/taxonomy/taxon/1001573)| [GBIF](https://www.gbif.org/species/8238699)| [WCVP](https://wcvp.science.kew.org/taxon/77148630-1)
 | Argyrocytisus (Maire) Raynaud| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/650638)| [GBIF](https://www.gbif.org/species/2943814)| [WCVP](https://wcvp.science.kew.org/taxon/21714-1)
 | Argyrolobium Eckl. & Zeyh.| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/650716)| [GBIF](https://www.gbif.org/species/2963593)| [WCVP](https://wcvp.science.kew.org/taxon/331366-2)
+| Arquita Gagnon, G.P. Lewis & C.E. Hughes| [Caesalpinioideae](/taxonomy/caesalpinioideae)| [Legume Data Portal](/taxonomy/taxon/1001573)| [GBIF](https://www.gbif.org/species/8238699)| [WCVP](https://wcvp.science.kew.org/taxon/77148630-1)
 | Arthroclianthus Baill.| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/653750)| [GBIF](https://www.gbif.org/species/2956517)| [WCVP](https://wcvp.science.kew.org/taxon/21720-1)
 | Aspalathus L.| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/655447)| [GBIF](https://www.gbif.org/species/7826487)| [WCVP](https://wcvp.science.kew.org/taxon/21729-1)
 | Astragalus L.| [Papilionoideae](/taxonomy/papilionoideae)| [Legume Data Portal](/taxonomy/taxon/657136)| [GBIF](https://www.gbif.org/species/2933951)| [WCVP](https://wcvp.science.kew.org/taxon/330028-2)
