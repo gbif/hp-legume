@@ -1,5 +1,5 @@
 ---
-title:  "A new classification of Caesalpinioideae is now published!"
+title:  "New Generic Delimitations in Caesalpinioideae"
 date:   2022-08-25 09:20:00 +0100
 categories: ["publications"]
 lang-ref: ALS14
