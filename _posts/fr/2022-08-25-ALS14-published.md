@@ -1,5 +1,5 @@
 ---
-title:  "Nouvelles delimitations génériques chez les Caesalpinioideae"
+title:  "Nouvelles délimitations génériques chez les Caesalpinioideae"
 date:   2022-08-25 09:20:00 +0100
 categories: ["publications"]
 lang-ref: ALS14
