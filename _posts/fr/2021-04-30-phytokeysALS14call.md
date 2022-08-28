@@ -5,6 +5,7 @@ categories: ["Call"]
 lang-ref: phytokeys
 lang: fr
 background: https://phytokeys.pensoft.net//showimg.php?filename=oo_536710.jpg
+preTitle: 21 avril 2021
 ---
 
 Dans la lignée des précédents volumes de Advances in Legume Systematics, un numéro spécial de Phytokeys s'intéressant à la classification de la sous-famille des Caesalpinioideae est en préparation, et accepte actuellement des soumissions d'articles.

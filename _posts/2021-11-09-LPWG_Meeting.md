@@ -5,6 +5,7 @@ categories: ["Announcement"]
 lang-ref: LPWG Meeting
 lang: en
 background: /assets/images/LPWG_virtualGroup.png
+preTitle: 09 November 2021
 ---
 
 The LPWG met virtually on September 30th 2021 to update the community on progress with the LPWG Working Groups, to present some new research initiatives and to announce upcoming events. A total of 105 participants from 27 countries attended the virtual meeting. Our new Legume Data Portal was officially launched on that day! 

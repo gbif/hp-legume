@@ -5,6 +5,7 @@ categories: ["Announcement"]
 lang-ref: TDWG Conference
 lang: en
 background: /assets/images/LPWG_workflow.png
+preTitle: 08 November 2021
 ---
 
 Marianne le Roux (SANBI) presented the community effort involved in publishing the first version of the verified legume species checklist. 

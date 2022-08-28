@@ -5,6 +5,7 @@ categories: ["Appel"]
 lang-ref: Hosted Portal Call 2022
 lang: fr
 background: /assets/images/HostedPortalCall.png
+preTitle: 10 juin 2022
 ---
 
 

@@ -5,6 +5,7 @@ categories: ["Checklist"]
 lang-ref: GBIF-checklist
 lang: fr
 background: /assets/images/swainsona_formosa_87261194.jpg
+preTitle: 20 décembre 2021
 ---
 
 Les efforts fournis par le Groupe de Travail sur la Taxonomie du LPWG (LPWG TWG) ont portés leurs fruits. Sur [gbif.org](https://www.gbif.org/), nous organisons les données en les indexants (alignants) au squelette taxonomique. Bien entendu, plus la taxonomie utilisée est bien définie plus la qualité des données dans l'index augmente. La dernière liste taxonomique fournie par le LPWG TWG est maintenant la taxonomie utilisée pour la famille dans le squelette taxonomique de GBIF, ce qui a grandement amélioré la qualité des données sur GBIF.

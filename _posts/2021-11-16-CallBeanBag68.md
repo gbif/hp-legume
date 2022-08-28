@@ -7,6 +7,7 @@ lang: en
 background: /assets/images/Eriosema_salignum_3044896818.jpeg
 imageLicense: |
   *Eriosema salignum* E.Mey. Photo by Peter Warren via [iNaturalist](https://www.gbif.org/occurrence/3044896818)
+preTitle: 16 November 2021
 ---
 
 Dear Bean Bag readers, 

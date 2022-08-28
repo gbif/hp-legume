@@ -5,6 +5,7 @@ categories: ["Species list"]
 lang-ref: species list
 lang: fr
 background: /assets/images/Fruit_diversity_Cojoba_arborea_CEH1610_pods2_sq.jpg
+preTitle: 17 septembre 2021
 ---
 
 La première liste d'espèces des Légumineuses, construitre et validée par la communauté, a été publiée en Juin 2021 et est désormais disponible dans la banque de liste d'espèce de Catalogue of Life (CoL ChecklistBank).

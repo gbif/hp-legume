@@ -5,6 +5,7 @@ categories: ["Announcement"]
 lang-ref: TDWG Conference
 lang: fr
 background: /assets/images/LPWG_workflow.png
+preTitle: 08 novembre 2021
 ---
 
 Marianne le Roux (SANBI) a présenté le travail effectué par la communauté des Légumineuses afin de publier la première version vérifiée de la liste d'espèces de Légumineuses. 

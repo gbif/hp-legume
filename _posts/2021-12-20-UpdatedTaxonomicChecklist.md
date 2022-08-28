@@ -5,6 +5,7 @@ categories: ["Checklist"]
 lang-ref: GBIF-checklist
 lang: en
 background: /assets/images/swainsona_formosa_87261194.jpg
+preTitle: 20 December 2021
 ---
 
 The latest taxonomic work by the LPWG Taxonomic Working Group (LPWG TWG) has been put to good use. On [gbif.org](https://www.gbif.org/) we organize all data by indexing (aligning) it to a taxonomic backbone. Obviously, the better the taxonomy the better the occurrences data in the index. This latest legume taxonomy is now the taxonomy for the family in the GBIF backbone and with this update GBIF data is much improved.

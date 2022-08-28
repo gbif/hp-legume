@@ -5,6 +5,7 @@ categories: ["Announcement"]
 lang-ref: iDigBio poster
 lang: en
 background: /assets/images/Portal_presentation.png
+preTitle: 17 September 2021
 ---
 
 Joe Miller presents an audio-poster at the iDigBio 2021 Conference! 
