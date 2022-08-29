@@ -4,7 +4,7 @@ date:   2022-08-25 09:20:00 +0100
 categories: ["publications"]
 lang-ref: ALS14
 lang: en
-background: /assets/images/ALS14-1_CoverCropped.png
+background: /assets/images/ALS14-1_CoverCropped2.png
 preTitle: 25 August 2022
 ---
 
