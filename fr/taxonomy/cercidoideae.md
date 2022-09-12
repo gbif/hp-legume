@@ -65,7 +65,7 @@ Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](/
 | --------------------- |------------------------------|-----------------------|
 | Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc. | [Legume Data Portal](/taxonomy/taxon/621808)| [GBIF](https://www.gbif.org/species/2956199)  | [WCVP](https://wcvp.science.kew.org/taxon/21580-1)  |
 | Barklya F.Muell.  | [Legume Data Portal](/fr/taxonomy/taxon/669816)|[GBIF](https://www.gbif.org/species/2955817) | [WCVP](https://wcvp.science.kew.org/taxon/21784-1)  |
-| Bauhinia L. |[Legume Data Portal](/fr/taxonomy/taxon/671275)|  [GBIF](https://www.gbif.org/species/2952935)  | [WCVP](https://wcvp.science.kew.org/taxon/327181-2) |
+| Bauhinia Plum. ex L. |[Legume Data Portal](/fr/taxonomy/taxon/671275)|  [GBIF](https://www.gbif.org/species/2952935)  | [WCVP](https://wcvp.science.kew.org/taxon/327181-2) |
 | Brenierea Humbert |[Legume Data Portal](/fr/taxonomy/taxon/683252)|  [GBIF](https://www.gbif.org/species/2977380)  | [WCVP](https://wcvp.science.kew.org/taxon/21855-1)  |
 | Cercis L. | [Legume Data Portal](/fr/taxonomy/taxon/711402)|[GBIF](https://www.gbif.org/species/2955919) | [WCVP](https://wcvp.science.kew.org/taxon/30001619-2) |
 | Cheniella R.Clark & Mackinder |[Legume Data Portal](/fr/taxonomy/taxon/1014675)| [GBIF](https://www.gbif.org/species/9712046)  | [WCVP](https://wcvp.science.kew.org/taxon/77165904-1) |

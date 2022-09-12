@@ -510,7 +510,6 @@ La taxonomie actuelle est accessible via la page [Parcourir](/fr/taxonomy/browse
 | Myrocarpus Allemão| [Papilionoideae](/fr/taxonomy/papilionoideae)| [Legume Data Portal](/fr/taxonomy/taxon/375281)| [GBIF](https://www.gbif.org/species/2945756)| [WCVP](https://wcvp.science.kew.org/taxon/22992-1)
 | Myrospermum Jacq.| [Papilionoideae](/fr/taxonomy/papilionoideae)| [Legume Data Portal](/fr/taxonomy/taxon/375288)| [GBIF](https://www.gbif.org/species/2976680)| [WCVP](https://wcvp.science.kew.org/taxon/22993-1)
 | Myroxylon L.f.| [Papilionoideae](/fr/taxonomy/papilionoideae)| [Legume Data Portal](/fr/taxonomy/taxon/375273)| [GBIF](https://www.gbif.org/species/7362006)| [WCVP](https://wcvp.science.kew.org/taxon/331789-2)
-| Mysanthus G.P.Lewis & A.Delgado| [Papilionoideae](/fr/taxonomy/papilionoideae)| [Legume Data Portal](/fr/taxonomy/taxon/375171)| [GBIF](https://www.gbif.org/species/2963769)| [WCVP](https://wcvp.science.kew.org/taxon/977415-1)
 | Nanhaia J.Compton & Schrire| [Papilionoideae](/fr/taxonomy/papilionoideae)| [Legume Data Portal](/fr/taxonomy/taxon/1236642)| [GBIF](https://www.gbif.org/species/10420596)| [WCVP](https://wcvp.science.kew.org/taxon/77198974-1)
 | Nanogalactia L.P.Queiroz| [Papilionoideae](/fr/taxonomy/papilionoideae)| [Legume Data Portal](/fr/taxonomy/taxon/1275403)| [GBIF](https://www.gbif.org/species/10903226)|
 | Neoapaloxylon Rauschert| [Detarioideae](/fr/taxonomy/detarioideae)| [Legume Data Portal](/fr/taxonomy/taxon/383941)| [GBIF](https://www.gbif.org/species/2944228)| [WCVP](https://wcvp.science.kew.org/taxon/893558-1)
