@@ -8,7 +8,7 @@ klass: fullwidth
 lang-ref: species-browse
 ---
 
-Vous pouvez télécharger la dernière version de la liste WCVP-Fabaceae au format .txt (avec les champs Darwin Core) depuis la [ChecklistBank du Catalog of Life](https://data.catalogueoflife.org/dataset/2304/about) et au format Word [ici](ajouter lien).
+Vous pouvez télécharger la dernière version de la liste WCVP-Fabaceae au format .txt (avec les champs Darwin Core) depuis la [ChecklistBank du Catalog of Life](https://data.catalogueoflife.org/dataset/2304/about) et au format Word [ici](/media/WCVP_Fabaceae_checklist_May_2022.docx).
 
 
 <!--react and gbif component-->
