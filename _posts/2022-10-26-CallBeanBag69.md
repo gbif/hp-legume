@@ -2,7 +2,7 @@
 title:  "Call for contributions to the 2022 Bean Bag - Issue Number 69"
 date:   2022-10-26 10:00:00 +0100
 categories: ["Call"]
-lang-ref: Call2022
+lang-ref: Call2021
 lang: en
 background: /assets/images/Eriosema_salignum_3044896818.jpeg
 imageLicense: |
