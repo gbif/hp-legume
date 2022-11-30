@@ -75,7 +75,7 @@ Please see the [Species List and Synonyms](https://hp-legume.gbif-staging.org/ta
 | Augouardia Pellegr.|  |[Legume Data Portal](/taxonomy/taxon/666241)|    [GBIF](https://www.gbif.org/species/2954104)| |[WCVP](https://wcvp.science.kew.org/taxon/21755-1)|  
 | Baikiaea Benth.|  |[Legume Data Portal](/taxonomy/taxon/667863)|    [GBIF](https://www.gbif.org/species/2943819)| |[WCVP](https://wcvp.science.kew.org/taxon/21767-1)|  
 | Barnebydendron J.H.Kirkbr.| |[Legume Data Portal](/taxonomy/taxon/670310)|    [GBIF](https://www.gbif.org/species/7278343)| |[WCVP](https://wcvp.science.kew.org/taxon/1012322-1)|  
-| Berlinia Sol. ex Hook. f.|  |[Legume Data Portal](/taxonomy/taxon/674950)|    [GBIF](https://www.gbif.org/species/4929826)| |[WCVP](https://wcvp.science.kew.org/taxon/331396-2)| 
+| Berlinia Sol. ex Hook.f.|  |[Legume Data Portal](/taxonomy/taxon/674950)|    [GBIF](https://www.gbif.org/species/4929826)| |[WCVP](https://wcvp.science.kew.org/taxon/331396-2)| 
 | Bikinia Wieringa| |[Legume Data Portal](/taxonomy/taxon/675892)|    [GBIF](https://www.gbif.org/species/2954690)| |[WCVP](https://wcvp.science.kew.org/taxon/1011127-1)|  
 | Brachycylix (Harms) R.S.Cowan|  |[Legume Data Portal](/taxonomy/taxon/681246)|    [GBIF](https://www.gbif.org/species/2933017)| |[WCVP](https://wcvp.science.kew.org/taxon/21841-1)|  
 | Brachystegia Benth.|  |[Legume Data Portal](/taxonomy/taxon/681394)|    [GBIF](https://www.gbif.org/species/2952646)| |[WCVP](https://wcvp.science.kew.org/taxon/21846-1)|  
