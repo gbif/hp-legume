@@ -3,7 +3,7 @@ title:  "Checklist des Fabaceae 2022 maintenant publiée"
 date:   2022-11-25 12:00:00 +0100
 categories: ["Checklist"]
 lang-ref: GBIF-checklist
-lang: en
+lang: fr
 background: /assets/images/swainsona_formosa_87261194.jpg
 preTitle: 25 novembre 2022
 ---
