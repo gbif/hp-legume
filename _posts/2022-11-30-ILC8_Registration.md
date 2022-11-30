@@ -4,7 +4,7 @@ date:   2022-10-30 09:20:00 +0100
 categories: ["conferences"]
 lang-ref: ILC8
 lang: en
-background: https://lh5.googleusercontent.com/6xK2SDdrCks_7lnBpRRCMMqwzFmDFDqZ5RsXPBjtteooWYQjrmLvHYHTclmDh7jwM9zRu_vsQV1UdT0ESBpLRtEV_CeX0CSNUqQeVJPo41tgqztTKxZfbmJHxKgkLQ5KdARgQ7SOwy_iDzKjYH9huM3tCZhtrwDd2Ng9Zqrccg53oms2FduHzw=w1280
+background: /assets/images/8ilc_image.jpeg
 preTitle: 30 November 2022
 ---
 
