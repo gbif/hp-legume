@@ -14,5 +14,4 @@ Registration for the 8ILC is now open! Please check the conference website at [w
  
 We are looking forward to seeing you in Brazil next year!
  
- 
 Marcelo Simon and Tânia Moura, on behalf of the 8ILC organizing committee
