@@ -113,7 +113,7 @@ Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume T
 | Arthroclianthus Baill.| [Legume Data Portal](/taxonomy/taxon/653750)| [GBIF](https://www.gbif.org/species/2956517)| [WCVP](https://wcvp.science.kew.org/taxon/21720-1)| 
 | Aspalathus L.| [Legume Data Portal](/taxonomy/taxon/655447)| [GBIF](https://www.gbif.org/species/7826487)| [WCVP](https://wcvp.science.kew.org/taxon/21729-1)| 
 | Astragalus L.| [Legume Data Portal](/taxonomy/taxon/657136)| [GBIF](https://www.gbif.org/species/2933951)| [WCVP](https://wcvp.science.kew.org/taxon/330028-2)| 
-| Ateleia (DC.) Benth. | [Legume Data Portal](/taxonomy/taxon/664524)| [GBIF](https://www.gbif.org/species/7690201)| [WCVP](https://wcvp.science.kew.org/taxon/21748-1)| 
+| Ateleia (DC.) Benth.| [Legume Data Portal](/taxonomy/taxon/664524)| [GBIF](https://www.gbif.org/species/7690201)| [WCVP](https://wcvp.science.kew.org/taxon/21748-1)| 
 | Austrodolichos Verdc.| [Legume Data Portal](/taxonomy/taxon/666701)| [GBIF](https://www.gbif.org/species/2946473)| [WCVP](https://wcvp.science.kew.org/taxon/21760-1)| 
 | Austrosteenisia R.Geesink| [Legume Data Portal](/taxonomy/taxon/666719)| [GBIF](https://www.gbif.org/species/2962236)| [WCVP](https://wcvp.science.kew.org/taxon/924911-1)| 
 | Baphia Afzel. ex G.Lodd.| [Legume Data Portal](/taxonomy/taxon/669303)| [GBIF](https://www.gbif.org/species/2954106)| [WCVP](https://wcvp.science.kew.org/taxon/21775-1)| 
