@@ -113,7 +113,7 @@ Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume T
 | Arthroclianthus Baill.| [Legume Data Portal](/taxonomy/taxon/653750)| [GBIF](https://www.gbif.org/species/2956517)| [WCVP](https://wcvp.science.kew.org/taxon/21720-1)| 
 | Aspalathus L.| [Legume Data Portal](/taxonomy/taxon/655447)| [GBIF](https://www.gbif.org/species/7826487)| [WCVP](https://wcvp.science.kew.org/taxon/21729-1)| 
 | Astragalus L.| [Legume Data Portal](/taxonomy/taxon/657136)| [GBIF](https://www.gbif.org/species/2933951)| [WCVP](https://wcvp.science.kew.org/taxon/330028-2)| 
-| Ateleia (Moç & Sessé ex DC.) Benth.| [Legume Data Portal](/taxonomy/taxon/664524)| [GBIF](https://www.gbif.org/species/7690201)| [WCVP](https://wcvp.science.kew.org/taxon/21748-1)| 
+| Ateleia (DC.) Benth.| [Legume Data Portal](/taxonomy/taxon/664524)| [GBIF](https://www.gbif.org/species/7690201)| [WCVP](https://wcvp.science.kew.org/taxon/21748-1)| 
 | Austrodolichos Verdc.| [Legume Data Portal](/taxonomy/taxon/666701)| [GBIF](https://www.gbif.org/species/2946473)| [WCVP](https://wcvp.science.kew.org/taxon/21760-1)| 
 | Austrosteenisia R.Geesink| [Legume Data Portal](/taxonomy/taxon/666719)| [GBIF](https://www.gbif.org/species/2962236)| [WCVP](https://wcvp.science.kew.org/taxon/924911-1)| 
 | Baphia Afzel. ex G.Lodd.| [Legume Data Portal](/taxonomy/taxon/669303)| [GBIF](https://www.gbif.org/species/2954106)| [WCVP](https://wcvp.science.kew.org/taxon/21775-1)| 
@@ -160,10 +160,10 @@ Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume T
 | Castanospermum A.Cunn. ex Hook.| [Legume Data Portal](/taxonomy/taxon/704739)| [GBIF](https://www.gbif.org/species/2952128)| [WCVP](https://wcvp.science.kew.org/taxon/956754-1)| 
 | Centrolobium Mart. ex Benth.| [Legume Data Portal](/taxonomy/taxon/709057)| [GBIF](https://www.gbif.org/species/2945568)| [WCVP](https://wcvp.science.kew.org/taxon/21966-1)|
 | Centrosema (DC.) Benth.| [Legume Data Portal](/taxonomy/taxon/709075)| [GBIF](https://www.gbif.org/species/2964887)| [WCVP](https://wcvp.science.kew.org/taxon/1030212-2)| 
-| Cerradicola L.P. Queiroz| [Legume Data Portal](/taxonomy/taxon/1273060)| [GBIF](https://www.gbif.org/species/10805923)|
+| Cerradicola L.P.Queiroz| [Legume Data Portal](/taxonomy/taxon/1273060)| [GBIF](https://www.gbif.org/species/10805923)|
 | Chadsia Bojer| [Legume Data Portal](/taxonomy/taxon/713915)| [GBIF](https://www.gbif.org/species/2939913)| [WCVP](https://wcvp.science.kew.org/taxon/21976-1)| 
 | Chamaecytisus Link| [Legume Data Portal](/taxonomy/taxon/715322)| [GBIF](https://www.gbif.org/species/8090366)| [WCVP](https://wcvp.science.kew.org/taxon/21983-1)
-| Chapmannia Torr. & A. Gray| [Legume Data Portal](/taxonomy/taxon/715909)| [GBIF](https://www.gbif.org/species/2975655)| [WCVP](https://wcvp.science.kew.org/taxon/21988-1)| 
+| Chapmannia Torr. & A.Gray| [Legume Data Portal](/taxonomy/taxon/715909)| [GBIF](https://www.gbif.org/species/2975655)| [WCVP](https://wcvp.science.kew.org/taxon/21988-1)| 
 | Chesneya Lindl. ex Endl.| [Legume Data Portal](/taxonomy/taxon/717955)| [GBIF](https://www.gbif.org/species/2956096)| [WCVP](https://wcvp.science.kew.org/taxon/39812-1)| 
 | Chorizema Labill.| [Legume Data Portal](/taxonomy/taxon/719670)| [GBIF](https://www.gbif.org/species/2968187)| [WCVP](https://wcvp.science.kew.org/taxon/22004-1)| 
 | Christia Moench| [Legume Data Portal](/taxonomy/taxon/719760)| [GBIF](https://www.gbif.org/species/3259727)| [WCVP](https://wcvp.science.kew.org/taxon/22008-1)| 
@@ -249,14 +249,14 @@ Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume T
 | Erophaca Boiss.| [Legume Data Portal](/taxonomy/taxon/798492)| [GBIF](https://www.gbif.org/species/7961795)| [WCVP](https://wcvp.science.kew.org/taxon/22384-1)| 
 | Errazurizia Phil.| [Legume Data Portal](/taxonomy/taxon/798695)| [GBIF](https://www.gbif.org/species/2967034)| [WCVP](https://wcvp.science.kew.org/taxon/22385-1)| 
 | Erythrina L.| [Legume Data Portal](/taxonomy/taxon/800760)| [GBIF](https://www.gbif.org/species/2945830)| [WCVP](https://wcvp.science.kew.org/taxon/30007957-2)| 
-| Euchilopsis F. Muell.| [Legume Data Portal](/taxonomy/taxon/802592)| [GBIF](https://www.gbif.org/species/2968967)| [WCVP](https://wcvp.science.kew.org/taxon/22396-1)| 
+| Euchilopsis F.Muell.| [Legume Data Portal](/taxonomy/taxon/802592)| [GBIF](https://www.gbif.org/species/2968967)| [WCVP](https://wcvp.science.kew.org/taxon/22396-1)| 
 | Euchlora Eckl. & Zeyh.| [Legume Data Portal](/taxonomy/taxon/802603)| [GBIF](https://www.gbif.org/species/2977700)| [WCVP](https://wcvp.science.kew.org/taxon/22399-1)| 
 | Euchresta Benn.| [Legume Data Portal](/taxonomy/taxon/802608)| [GBIF](https://www.gbif.org/species/2951865)| [WCVP](https://wcvp.science.kew.org/taxon/22400-1)| 
 | Eutaxia R.Br.| [Legume Data Portal](/taxonomy/taxon/805347)| [GBIF](https://www.gbif.org/species/7368925)| [WCVP](https://wcvp.science.kew.org/taxon/22407-1)| 
 | Eversmannia Bunge| [Legume Data Portal](/taxonomy/taxon/805622)| [GBIF](https://www.gbif.org/species/2943923)| [WCVP](https://wcvp.science.kew.org/taxon/22409-1)| 
 | Exostyles Schott| [Legume Data Portal](/taxonomy/taxon/806316)| [GBIF](https://www.gbif.org/species/2944020)| [WCVP](https://wcvp.science.kew.org/taxon/22410-1)| 
 | Eysenhardtia Kunth| [Legume Data Portal](/taxonomy/taxon/806363)| [GBIF](https://www.gbif.org/species/2964730)| [WCVP](https://wcvp.science.kew.org/taxon/331605-2)| 
-| Ezoloba B.-E. van Wyk & Boatwr.| [Legume Data Portal](/taxonomy/taxon/903858)| [GBIF](https://www.gbif.org/species/6102654)| [WCVP](https://wcvp.science.kew.org/taxon/77110599-1)| 
+| Ezoloba B.-E.van Wyk & Boatwr.| [Legume Data Portal](/taxonomy/taxon/903858)| [GBIF](https://www.gbif.org/species/6102654)| [WCVP](https://wcvp.science.kew.org/taxon/77110599-1)| 
 | Fairchildia Britton & Rose| [Legume Data Portal](/taxonomy/taxon/807570)| [GBIF](https://www.gbif.org/species/2953999)| [WCVP](https://wcvp.science.kew.org/taxon/295415-2)| 
 | Fiebrigiella Harms| [Legume Data Portal](/taxonomy/taxon/812880)| [GBIF](https://www.gbif.org/species/2952359)| [WCVP](https://wcvp.science.kew.org/taxon/295427-2)| 
 | Fissicalyx Benth.| [Legume Data Portal](/taxonomy/taxon/813065)| [GBIF](https://www.gbif.org/species/2943739)| [WCVP](https://wcvp.science.kew.org/taxon/22438-1)| 
@@ -287,7 +287,7 @@ Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume T
 | Harashuteria K.Ohashi & H.Ohashi| [Legume Data Portal](/taxonomy/taxon/1014997)| [GBIF](https://www.gbif.org/species/9705437)| [WCVP](https://wcvp.science.kew.org/taxon/77162647-1)
 | Hardenbergia Benth.| [Legume Data Portal](/taxonomy/taxon/839504)| [GBIF](https://www.gbif.org/species/2948692)| [WCVP](https://wcvp.science.kew.org/taxon/22556-1)| 
 | Harleyodendron R.S.Cowan| [Legume Data Portal](/taxonomy/taxon/839638)| [GBIF](https://www.gbif.org/species/2950918)| [WCVP](https://wcvp.science.kew.org/taxon/298542-2)| 
-| Harpalyce Moç. & Sessé ex DC.| [Legume Data Portal](/taxonomy/taxon/839703)| [GBIF](https://www.gbif.org/species/2946917)| [WCVP](https://wcvp.science.kew.org/taxon/328810-2)| 
+| Harpalyce Moc. & Sessé ex DC.| [Legume Data Portal](/taxonomy/taxon/839703)| [GBIF](https://www.gbif.org/species/2946917)| [WCVP](https://wcvp.science.kew.org/taxon/328810-2)| 
 | Haymondia A.N.Egan & B.Pan| [Legume Data Portal](/taxonomy/taxon/1002352)| [GBIF](https://www.gbif.org/species/9754698)| [WCVP](https://wcvp.science.kew.org/taxon/77148233-1)| 
 | Hebestigma Urb.| [Legume Data Portal](/taxonomy/taxon/840715)| [GBIF](https://www.gbif.org/species/2966781)| [WCVP](https://wcvp.science.kew.org/taxon/298163-2)| 
 | Hedysarum L.| [Legume Data Portal](/taxonomy/taxon/840943)| [GBIF](https://www.gbif.org/species/2960767)| [WCVP](https://wcvp.science.kew.org/taxon/30007304-2)| 
