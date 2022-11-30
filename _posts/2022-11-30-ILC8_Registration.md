@@ -4,7 +4,7 @@ date:   2022-10-30 09:20:00 +0100
 categories: ["conferences"]
 lang-ref: ILC8
 lang: en
-background: /assets/images/8ilc_image.jpg
+background: /assets/images/8ilc_image.jpeg
 preTitle: 30 November 2022
 ---
 
