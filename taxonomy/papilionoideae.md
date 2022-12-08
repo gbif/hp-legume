@@ -574,4 +574,4 @@ Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume T
 | Zollernia Wied.-Neuw. & Nees| [Legume Data Portal](/taxonomy/taxon/470083)| [GBIF](https://www.gbif.org/species/2943579)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23848-1)|
 | Zornia J.F.Gmel.| [Legume Data Portal](/taxonomy/taxon/470142)| [GBIF](https://www.gbif.org/species/2959985)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30022518-2)| 
 | Zygocarpum Thulin & Lavin| [Legume Data Portal](/taxonomy/taxon/470877)| [GBIF](https://www.gbif.org/species/7301783)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1020981-1)| 
-| × Laburnocytisus Trel.| [Legume Data Portal](/taxonomy/taxon/350824)| [GBIF](https://www.gbif.org/species/11373245)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77220930-1)
+| × Laburnocytisus Trel.| [Legume Data Portal](/taxonomy/taxon/350824)| [GBIF](https://www.gbif.org/species/11373245)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77220930-1)|

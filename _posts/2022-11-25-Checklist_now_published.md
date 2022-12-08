@@ -13,6 +13,6 @@ All changes have also been included in the respective subfamilies lists in the L
 
 Corrections and updates mainly took place in the Caesalpinioideae (Arquita Gagnon, G.P.Lewis & C.E.Hughes, Biancaea Tod., Coulteria Kunth, Erythrostemon Klotzsch, Guilandina L., Hoffmannseggia Cav., Leucaena Benth., Mimosa L., Parapiptadenia Brenan, Piptadenia Benth., Pityrocarpa (Benth. & Hook.f.) Britton & Rose, Pomaria Cav., Pseudopiptadenia Rauschert and Stryphnodendron Mart.) and Papilionoideae (Acmispon Raf., Amorpha L., Calobota Eckl. & Zeyh., Exostyles Schott, Harleyodendron R.S.Cowan, Holocalyx Micheli, Lebeckia Thunb., Lecointea Ducke, Lotus L., Marina Liebm., Melilotus Mill., Psorothamnus Rydb., Robynsiophyton R.Wilczek, Rothia Pers., Uribea Dugand & Romero, Wiborgia Thunb., Wiborgiella Boatwr. & B.-E.van Wyk and Zollernia Wied-Neuw. & Nees).
 
-Legume checklist versions are now also archived on Zenodo (https://doi.org/10.5281/zenodo.6451530).
+Legume checklist versions are now also archived on Zenodo ([website](https://doi.org/10.5281/zenodo.6451530)).
 
 Thanks to everyone who helped improve and publish the checklist!

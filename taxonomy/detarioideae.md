@@ -143,3 +143,4 @@ Please see the [Species List and Synonyms](https://hp-legume.gbif-staging.org/ta
 | Tessmannia Harms|[Legume Data Portal](/taxonomy/taxon/443659)|    [GBIF](https://www.gbif.org/species/2947679)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23679-1)|  
 | Tetraberlinia (Harms) Hauman|[Legume Data Portal](/taxonomy/taxon/443642)|    [GBIF](https://www.gbif.org/species/2952737)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23680-1)|  
 | Zenkerella Taub.|[Legume Data Portal](/taxonomy/taxon/470203)|    [GBIF](https://www.gbif.org/species/2439359)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23840-1)|  
+
