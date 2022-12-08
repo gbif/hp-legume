@@ -45,12 +45,12 @@ Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume T
 
 |Genus                  |     Data Source                     | 
 | --------------------- |------------------------------|-----------------------|
-|	Duparquetia Baill	|	[Legume Data Portal](/taxonomy/taxon/779361) | [GBIF](https://www.gbif.org/species/2968139)	|	[WCVP](https://wcvp.science.kew.org/taxon/17014-1)	|
+|	Duparquetia Baill	|	[Legume Data Portal](/taxonomy/taxon/779361) | [GBIF](https://www.gbif.org/species/2968139)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17014-1)	|
 
 
 
 
 |Species                  |     Data Source                     |
 | --------------------- |------------------------------|-----------------------|
-|	Duparquetia orchidacea Baill.	|	[Legume Data Portal](/taxonomy/taxon/779362) | [GBIF](https://www.gbif.org/species/2968140)	|	[WCVP](https://wcvp.science.kew.org/taxon/380758-1)	|
+|	Duparquetia orchidacea Baill.	|	[Legume Data Portal](/taxonomy/taxon/779362) | [GBIF](https://www.gbif.org/species/2968140)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:380758-1)	|
 
