@@ -55,22 +55,22 @@ Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume T
 
 |Genus  | Data Source|
 | --------------------- |------------------------------|------------------------------|
-| Androcalymma Dwyer  |[Legume Data Portal](/taxonomy/taxon/637022)|  [GBIF](https://www.gbif.org/species/2947111)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296592-2)  
-| Apuleia Mart. |[Legume Data Portal](/taxonomy/taxon/644498)|  [GBIF](https://www.gbif.org/species/2955914)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:331358-2)  
-| Baudouinia Baill. |[Legume Data Portal](/taxonomy/taxon/671237)|  [GBIF](https://www.gbif.org/species/2963752)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21792-1) 
-| Dialium L.  |[Legume Data Portal](/taxonomy/taxon/763452)|  [GBIF](https://www.gbif.org/species/2970932)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22238-1) 
-| Dicorynia Benth.  |[Legume Data Portal](/taxonomy/taxon/766794)|  [GBIF](https://www.gbif.org/species/2944649)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22251-1) 
-| Distemonanthus Benth. |[Legume Data Portal](/taxonomy/taxon/773184)|  [GBIF](https://www.gbif.org/species/2964856)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22286-1) 
-| Eligmocarpus Capuron  |[Legume Data Portal](/taxonomy/taxon/787570)|  [GBIF](https://www.gbif.org/species/2960218)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22353-1) 
-| Kalappia Kosterm. |[Legume Data Portal](/taxonomy/taxon/336144)|  [GBIF](https://www.gbif.org/species/2939855)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22688-1) 
-| Koompassia Maingay ex Benth.  |[Legume Data Portal](/taxonomy/taxon/336264)|  [GBIF](https://www.gbif.org/species/2952890)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22706-1) 
-| Labichea Gaudich. ex DC.  |[Legume Data Portal](/taxonomy/taxon/350870)|  [GBIF](https://www.gbif.org/species/2975908)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22721-1) 
-| Martiodendron Gleason |[Legume Data Portal](/taxonomy/taxon/368514)|  [GBIF](https://www.gbif.org/species/2948702)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326830-2)
-| Mendoravia Capuron  |[Legume Data Portal](/taxonomy/taxon/368027)|  [GBIF](https://www.gbif.org/species/2960417)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22926-1) 
-| Petalostylis R.Br.  |[Legume Data Portal](/taxonomy/taxon/538854)|  [GBIF](https://www.gbif.org/species/8293499)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23198-1) 
-| Poeppigia C.Presl |[Legume Data Portal](/taxonomy/taxon/535922)|  [GBIF](https://www.gbif.org/species/5938931)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30241950-2)  
-| Storckiella Seem. |[Legume Data Portal](/taxonomy/taxon/478158)|  [GBIF](https://www.gbif.org/species/2949438)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23621-1) 
-| Uittienia Steenis |[Legume Data Portal](/taxonomy/taxon/446612)|  [GBIF](https://www.gbif.org/species/8351407)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23744-1) 
-| Zenia Chun  |[Legume Data Portal](/taxonomy/taxon/470192)|  [GBIF](https://www.gbif.org/species/2963590)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23839-1) 
+| Androcalymma Dwyer  |[Legume Data Portal](/taxonomy/taxon/637022)|  [GBIF](https://www.gbif.org/species/2947111)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296592-2)  |
+| Apuleia Mart. |[Legume Data Portal](/taxonomy/taxon/644498)|  [GBIF](https://www.gbif.org/species/2955914)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:331358-2)  |
+| Baudouinia Baill. |[Legume Data Portal](/taxonomy/taxon/671237)|  [GBIF](https://www.gbif.org/species/2963752)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21792-1) |
+| Dialium L.  |[Legume Data Portal](/taxonomy/taxon/763452)|  [GBIF](https://www.gbif.org/species/2970932)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22238-1) |
+| Dicorynia Benth.  |[Legume Data Portal](/taxonomy/taxon/766794)|  [GBIF](https://www.gbif.org/species/2944649)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22251-1) |
+| Distemonanthus Benth. |[Legume Data Portal](/taxonomy/taxon/773184)|  [GBIF](https://www.gbif.org/species/2964856)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22286-1) |
+| Eligmocarpus Capuron  |[Legume Data Portal](/taxonomy/taxon/787570)|  [GBIF](https://www.gbif.org/species/2960218)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22353-1) |
+| Kalappia Kosterm. |[Legume Data Portal](/taxonomy/taxon/336144)|  [GBIF](https://www.gbif.org/species/2939855)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22688-1) |
+| Koompassia Maingay ex Benth.  |[Legume Data Portal](/taxonomy/taxon/336264)|  [GBIF](https://www.gbif.org/species/2952890)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22706-1) |
+| Labichea Gaudich. ex DC.  |[Legume Data Portal](/taxonomy/taxon/350870)|  [GBIF](https://www.gbif.org/species/2975908)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22721-1) |
+| Martiodendron Gleason |[Legume Data Portal](/taxonomy/taxon/368514)|  [GBIF](https://www.gbif.org/species/2948702)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326830-2)|
+| Mendoravia Capuron  |[Legume Data Portal](/taxonomy/taxon/368027)|  [GBIF](https://www.gbif.org/species/2960417)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22926-1) |
+| Petalostylis R.Br.  |[Legume Data Portal](/taxonomy/taxon/538854)|  [GBIF](https://www.gbif.org/species/8293499)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23198-1) |
+| Poeppigia C.Presl |[Legume Data Portal](/taxonomy/taxon/535922)|  [GBIF](https://www.gbif.org/species/5938931)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30241950-2)  |
+| Storckiella Seem. |[Legume Data Portal](/taxonomy/taxon/478158)|  [GBIF](https://www.gbif.org/species/2949438)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23621-1) |
+| Uittienia Steenis |[Legume Data Portal](/taxonomy/taxon/446612)|  [GBIF](https://www.gbif.org/species/8351407)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23744-1) |
+| Zenia Chun  |[Legume Data Portal](/taxonomy/taxon/470192)|  [GBIF](https://www.gbif.org/species/2963590)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23839-1) |
 
 
