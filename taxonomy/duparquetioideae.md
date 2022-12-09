@@ -45,7 +45,7 @@ Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume T
 
 |Genus                  |     Data Source                     | 
 | --------------------- |------------------------------|-----------------------|
-|	Duparquetia Baill	|	[Legume Data Portal](/taxonomy/taxon/779361) | [GBIF](https://www.gbif.org/species/2968139)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17014-1)	|
+|	Duparquetia Baill.	|	[Legume Data Portal](/taxonomy/taxon/779361) | [GBIF](https://www.gbif.org/species/2968139)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17014-1)	|
 
 
 
