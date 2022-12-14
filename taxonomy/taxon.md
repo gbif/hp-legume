@@ -41,7 +41,7 @@ ReactDOM.render(e(Taxon), domContainer);
 </script>
 
 <script>
-  const taxonUrl = `//api.gbif.org/v1/species?datasetKey=f382f0ce-323a-4091-bb9f-add557f3a9a2&sourceId=${ location.pathname.substr(location.pathname.lastIndexOf('/') + 1)}`;
+  const taxonUrl = `//api.gbif.org/v1/species?datasetKey={{site.col.gbifDatasetKey}}&sourceId=${ location.pathname.substr(location.pathname.lastIndexOf('/') + 1)}`;
   fetch(taxonUrl)
       .then(function (response) {
         return response.json();
