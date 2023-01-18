@@ -2,7 +2,7 @@
 title:  "A recent publication highlights the work of the legume taxonomy community"
 date:   2022-12-14 12:00:00 +0100
 categories: ["Checklist"]
-lang-ref: GBIF-checklist
+lang-ref: GBIF-checklist-nature
 lang: en
 background: /assets/images/Publication_Checklist_Fig2.jpg
 preTitle: 14 December 2022
