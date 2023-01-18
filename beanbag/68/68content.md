@@ -1,6 +1,6 @@
 ---
 layout: post
-lang-ref: beanbag/68content
+lang-ref: /beanbag/68content
 title: Issue 68, Year 2021
 background: /assets/images/bb-68-cover-img.png
 description: Content of the issue 68 (2021)
