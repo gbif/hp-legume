@@ -2,7 +2,7 @@
 title:  "Updated Legume Taxonomic Checklist Now Used in GBIF"
 date:   2021-12-20 12:00:00 +0100
 categories: ["Checklist"]
-lang-ref: GBIF-checklist
+lang-ref: GBIF-checklist-update
 lang: en
 background: /assets/images/swainsona_formosa_87261194.jpg
 preTitle: 20 December 2021
