@@ -49,7 +49,7 @@ Zimmerman, E., G. Prenner & A. Bruneau. 2013. Floral ontogeny in Dialiinae (Caes
 ## List of genera
 Below is an alphabetical list of all genera accepted by the LPWG with links out to the taxonomic pages on our portal, GBIF and World Checklist of Vascular Plants (Kew). Over time this list will be updated to reflect the evolving taxonomy. 
 
-Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume Taxonomy Working Group](/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessbile by [Browse](/taxonomy/browse) or  [Advanced Search](/taxonomy/search).
+Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume Taxonomy Working Group](/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessible by [Browse](/taxonomy/browse) or  [Advanced Search](/taxonomy/search).
 
 
 
