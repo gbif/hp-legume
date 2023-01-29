@@ -15,7 +15,7 @@ toc: true
 ---
 
 ## Introduction
-With 17 genera and approximately 85 species, Dialioideae is the second smallest of the legume subfamilies. *Dialium* is a pantropical genus of c 30 species, *Labichea* includes approximately 14 species, but otherwise the subfamily mostly comprises small genera with few species, eight of which are monospecific. Several of these small genera are considered threatened and have rarely been collected in nature.
+With 17 genera and approximately 85 species, Dialioideae is the second smallest of the legume subfamilies. *Dialium* is a pantropical genus of c. 30 species, *Labichea* includes approximately 14 species, but otherwise the subfamily mostly comprises small genera with few species, eight of which are monospecific. Several of these small genera are considered threatened and have rarely been collected in nature.
 
 All recent phylogenetic analyses place Dialioideae as sister to Caesalpinioideae + Papilionoideae. Recent analyses suggest an Oligocene crown age but no fossils have been clearly attributed to the subfamily and because of this the age of the clade has been difficult to assess with certainty. Although studies are in progress, generic level relationships within the subfamily remain poorly resolved, except for the position of the New World *Poeppigia*, initially considered a close relative of taxa now placed in Caesalpinioideae, which is clearly resolved as sister to the rest of the subfamily. 
 
@@ -24,7 +24,7 @@ All recent phylogenetic analyses place Dialioideae as sister to Caesalpinioideae
 Dialioideae are mostly unarmed trees or shrubs (Australian *Labichea* and *Petalostyles*). Their flowers are highly diverse, displaying multiple symmetries and widely varied numbers of floral organs. Organ loss is frequent in the subfamily. The subfamily is also unusual in that many Dialioideae have thyrsoid inflorescences, a rare condition in the primarily racemose Leguminosae. The fruit is often indehiscent and drupaceous or samaroid, also less typical of the legumes. Finally, most species of the subfamily lack vestured pits in their xylem (present in *Poeppigia* and *Mendoravia*), a feature that is otherwise present in all Leguminosae except Cercidoideae and Duparquetioideae.
 
 ## Distribution and Ecology
-Dialioideae occur throughout the world tropics. They are native to South and Central America, Africa, Madagascar, South and Southeast Asia, south China, Australia, New Guinea and some Pacific islands. Most species of Dialioideae occur in the Rainforest biome, but *Poeppigia* (New World), *Eligmocarpus* and *Baudouinia* (both Madagascan) are Succulent biome plants, and *Labichea* and *Petalosytles* occur in the Savannah biome of Australia. 
+Dialioideae occur throughout the world tropics. They are native to South and Central America, Africa, Madagascar, South and Southeast Asia, south China, Australia, New Guinea and some Pacific islands. Most species of Dialioideae occur in the Rainforest biome, but *Poeppigia* (New World), *Eligmocarpus* and *Baudouinia* (both Madagascan) are Succulent biome plants, and *Labichea* and *Petalosytles* occur in the Savanna biome of Australia. 
 
 ## Formal Botanical Description
 As published in LPWG (2017), Taxon 66: 44-77, doi.org/10.12705/661.3
