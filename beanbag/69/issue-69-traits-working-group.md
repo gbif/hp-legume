@@ -28,4 +28,4 @@ In the meantime, we repeat our invitation for anyone working on legume trait dat
 
 (image)
 
-Dissected corollas of four *Mimosa* species, under study by PhD candidate Monique Maianne (Univer- sidade Federal de São Carlos, Brazil). Left to right: *M. bifurca* Benth., *M. elliptica* Benth., *M. hirsutissima* Mart., *M. lewisii* Barneby. Photos by Monique Maianne.
+Dissected corollas of four *Mimosa* species, under study by PhD candidate Monique Maianne (Universidade Federal de São Carlos, Brazil). Left to right: *M. bifurca* Benth., *M. elliptica* Benth., *M. hirsutissima* Mart., *M. lewisii* Barneby. Photos by Monique Maianne.
