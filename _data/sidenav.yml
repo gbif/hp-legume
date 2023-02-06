@@ -122,3 +122,49 @@ beanbag68:
     path: /beanbag/68/issue-68-spotlight
   - title: Legume Bibliography 2021
     path: /beanbag/68/issue-68-legume-bibliography-2021
+beanbag69:
+- content: 
+  - title: Table of contents
+    path: /beanbag/69/69content
+  - title: Welcome note
+    path: /beanbag/69/issue-6-welcome-note
+- grouptitle: Legume Phylogeny Working Group Reports
+  content: 
+  - title: Taxonomy Working Group
+    path: /beanbag/69/issue-69-taxonomy-working-group
+  - title: Phylogenetics Working Group
+    path: /beanbag/69/issue-69-phylogenetics-working-group
+  - title: Occurrence Data Working Group
+    path: /beanbag/69/issue-69-occurrence-data-working-group
+  - title: Traits Working Group
+    path: /beanbag/69/issue-69-traits-working-group  
+  - title: The Legume Phylogeny Working Group
+    path: /beanbag/69/issue-69-legume-phylogeny-working-group
+- grouptitle: Announcements
+  content:
+  - title: The Rupert Barneby Award
+    path: /beanbag/69/issue-69-rupert-barneby-award
+  - title: 8th International Legume Conference (8ILC)
+    path: /beanbag/69/issue-69-8ILC
+  - title: Advances in Legume Systematics 14 - Classification of Caesalpinioideae. Part 1 - New Generic Delimitations.
+    path: /beanbag/69/issue-69-ALS-14-Part1
+  - title: Flora of North America Legume Volume
+    path: /beanbag/69/issue-69-FNA-Legume
+  - title: Upcoming Research on Sanjappa
+    path: /beanbag/69/issue-69-Sanjappa
+- grouptitle: Articles
+  content: 
+  - title: "Artist Spotlight: Natanael Nascimento"
+    path: /beanbag/69/issue-69-Natanael-Nascimento
+  - title: Gallery of Leguminologists
+    path: /beanbag/69/issue-69-gallery-leguminologists
+  - title: "Student Digest: Evolution of chemical defenses in Inga"
+    path: /beanbag/69/issue-69-student-digest-Inga
+  - title: "Student Digest: Novel hypothesis on nitrogen fixation"
+    path: /beanbag/69/issue-69-student-digest-nitrogen-fixation
+  - title: New Legume Species Highlights 2022
+    path: /beanbag/69/issue-69-new-legume-species-highlights 
+- grouptitle: Bibliography
+  content:
+  - title: Legume Bibliography 2022
+    path: /beanbag/69/issue-69-legume-bibliography-2022
