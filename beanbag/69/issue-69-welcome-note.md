@@ -9,7 +9,7 @@ sideNavigation: sidenav.beanbag69
 
 # Welcome note
 
-# Issue 69: From the Editors
+## Issue 69: From the Editors
 
 The Bean Bag started in 1974 on the initiative of Charles (Bob) Gunn and
 Richard Cowan and the first printed issue was distributed 48 years ago
