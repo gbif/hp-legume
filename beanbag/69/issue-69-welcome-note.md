@@ -52,8 +52,7 @@ Repository](https://kew.iro.bl.uk/collections/b50e6210-e231-4392-9301-c07bdce223
 
 **Editors:\
 Colin Hughes** (University of Zürich, Switzerland)\
-**Warren Cardinal-McTeague** (University of British Columbia, Canada)
-
+**Warren Cardinal-McTeague** (University of British Columbia, Canada)\
 **Leonardo Borges** (Universidade Federal de São Carlos, Brazil)
 
 Editor email: <beanbag.kew@gmail.com>\
