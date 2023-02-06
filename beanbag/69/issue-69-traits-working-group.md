@@ -10,7 +10,7 @@ sideNavigation: sidenav.beanbag69
 # *Traits Working Group*
 
 Coordinators:
-**Leonardo Borges** (Universidade Federal de São Carlos, Brazil) 
+**Leonardo Borges** (Universidade Federal de São Carlos, Brazil) \
 **Renske Onstein** (Naturalis Biodiversity Centre, Netherlands & 
 German Centre for Integrative Biodiversity Research, iDiv, Germany)
 
