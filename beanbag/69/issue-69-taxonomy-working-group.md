@@ -11,7 +11,7 @@ sideNavigation: sidenav.beanbag69
 
 *Impacting biodiversity data using names*
 
-Coordinators:
+Coordinators:\
 **Marianne le Roux** (South African National Biodiversity Institute, SANBI, South Africa) \
 **Anne Bruneau** (Université de Montréal, Canada)
 
