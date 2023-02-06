@@ -11,7 +11,8 @@ sideNavigation: sidenav.beanbag69
 
 Coordinators:\
 **Leonardo Borges** (Universidade Federal de São Carlos, Brazil) \
-**Renske Onstein** (Naturalis Biodiversity Centre, Netherlands & \German Centre for Integrative Biodiversity Research, iDiv, Germany)
+**Renske Onstein** (Naturalis Biodiversity Centre, Netherlands & \
+German Centre for Integrative Biodiversity Research, iDiv, Germany)
 
 The Traits Working Group continues to focus on promoting collaboration between researchers working with legume morphology, including functional trait data. Information on on-going projects, research groups, a list of legume traits and definitions, and monographs used to extract trait data are all available in the Traits WG Google Drive (https://t.ly/5yGn0), which acts as a hub for the traits WG.
 
