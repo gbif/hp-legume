@@ -7,6 +7,8 @@ description: Issue 69 - Welcome Note
 sideNavigation: sidenav.beanbag69
 ---
 
+# WELCOME NOTE
+
 ## Issue 69: From the Editors
 
 The Bean Bag started in 1974 on the initiative of Charles (Bob) Gunn and
