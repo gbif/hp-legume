@@ -29,13 +29,13 @@ more widely with the legume community to potentially establish a light-touch Con
 Committee. Please contact Joe and Anne if you would like to be involved and we can progress
 some ideas and discuss at the August ILC8 (8th International Legume Conference).
 
-(image)
+![](/assets/images/69/legume-data-portal.png)
 
 Keep your eyes on the home page of the Legume Data Portal for upcoming
 activities and announcements pertinent to the legume systematics community.
 If you have news to share (events, prizes, special publications),
 send us a short summary and photo so that we can post them on the Portal.
 
-(image)
+![*Calliandra nebulosa* Barneby (Caesalpinioideae), photo by Colin Hughes.](/assets/images/69/calliandra-nebulosa.png)
 
 *Calliandra nebulosa* Barneby (Caesalpinioideae), photo by Colin Hughes.
