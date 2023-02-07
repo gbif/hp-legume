@@ -2,7 +2,7 @@
 layout: documentation
 lang-ref: beanbag/69/issue-69-legume-data-portal
 permalink: /beanbag/69/issue-69-legume-data-portal
-title: Welcome Note
+title: Legume Data Portal
 description: Issue 69 - Legume Data Portal
 sideNavigation: sidenav.beanbag69
 ---
