@@ -7,7 +7,7 @@ description: Issue 69 - Taxonomy Working Group
 sideNavigation: sidenav.beanbag69
 ---
 
-# Taxonomy working group
+# TAXOMOMY WORKING GROUP
 
 *Impacting biodiversity data using names*
 
