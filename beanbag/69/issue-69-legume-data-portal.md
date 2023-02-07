@@ -12,7 +12,7 @@ sideNavigation: sidenav.beanbag69
 Coordinators:\
 **Anne Bruneau** (Université de Montréal, Canada)\
 **Carole Sinou** (Université de Montréal & Canadensys, Canada)\
-**Joe Miller (Global Biodiversity Information Facility, GBIF)
+**Joe Miller** (Global Biodiversity Information Facility, GBIF)
 
 ***The Legume Data Portal*** (https://www.legumedata.org/) was launched in September 2021
 to encourage international collaboration and exchange amongst scientists and students,
