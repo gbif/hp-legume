@@ -36,6 +36,6 @@ activities and announcements pertinent to the legume systematics community.
 If you have news to share (events, prizes, special publications),
 send us a short summary and photo so that we can post them on the Portal.
 
-![*Calliandra nebulosa* Barneby (Caesalpinioideae), photo by Colin Hughes.](/assets/images/69/calliandra-nebulosa.png)
+![*Calliandra nebulosa* Barneby (Caesalpinioideae), photo by Colin Hughes.] (/assets/images/69/calliandra-nebulosa.png)
 
 *Calliandra nebulosa* Barneby (Caesalpinioideae), photo by Colin Hughes.
