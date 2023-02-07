@@ -7,6 +7,8 @@ description: Issue 69 - Traits Working Group
 sideNavigation: sidenav.beanbag69
 ---
 
+# TRAITS WORKING GROUP
+
 Coordinators:\
 **Leonardo Borges** (Universidade Federal de São Carlos, Brazil) \
 **Renske Onstein** (Naturalis Biodiversity Centre, Netherlands & \
