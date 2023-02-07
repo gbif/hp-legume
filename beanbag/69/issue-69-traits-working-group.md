@@ -26,6 +26,4 @@ Although researchers should be free to deposit data on their preferred platform 
 
 In the meantime, we repeat our invitation for anyone working on legume trait data to share information about your project on the Google Drive mentioned above. It is our main tool to keep the LPWG members up to date on past and current research and to provide opportunities for increased collaboration within our community.
 
-(image)
-
 ![Dissected corollas of four *Mimosa* species, under study by PhD candidate Monique Maianne (Universidade Federal de São Carlos, Brazil). Left to right: *M. bifurca* Benth., *M. elliptica* Benth., *M. hirsutissima* Mart., *M. lewisii* Barneby. Photos by Monique Maianne.] (/assets/images/69/traits-corolla.png)
