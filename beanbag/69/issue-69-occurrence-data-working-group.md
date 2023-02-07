@@ -35,6 +35,6 @@ Also from GBIF, take a look at the new clustering feature to search for similari
 
 Finally, the Occurrence Data Working Group needs your help! As an initial step to make cleaned legume occurrence datasets more easily accessible we are assembling a list with links to all existing datasets that are available online alongside who assembled the data and references to relevant papers. Our aim is to create a list that can easily be updated whenever new data become available. If you have a dataset that you would like to be included, please send us a message!
 
-![The distribution of Caesalpinioideae species-richness in one-degree cells across the tropics(Advances in Legume Systematics, ALS14, Part 2, in prep.).](/assets/images/69/occurrence-data-1.png)
+![The distribution of Caesalpinioideae species-richness in one-degree cells across the tropics(Advances in Legume Systematics, ALS14, Part 2, in prep.).] (/assets/images/69/occurrence-data-1.png)
 
 The distribution of Caesalpinioideae species-richness in one-degree cells across the tropics (Advances in Legume Systematics, ALS14, Part 2, in prep.).
