@@ -7,7 +7,7 @@ description: Issue 69 - Phylogenetics Working Group
 sideNavigation: sidenav.beanbag69
 ---
 
-# Phylogenomics Working Group
+# PHYLOGENOMICS WORKING GROUP
 
 Coordinator: \
 **Félix Forest** (Royal Botanic Gardens, Kew, UK)
