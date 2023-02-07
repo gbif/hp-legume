@@ -7,7 +7,7 @@ description: Issue 69 - Welcome Note
 sideNavigation: sidenav.beanbag69
 ---
 
-# Welcome note
+# WELCOME NOTE
 
 ## Issue 69: From the Editors
 
