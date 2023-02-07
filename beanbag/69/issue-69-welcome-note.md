@@ -57,8 +57,7 @@ Colin Hughes** (University of Zürich, Switzerland)\
 
 Editor email: <beanbag.kew@gmail.com>\
 Email listserv:
-<https://groups.google.com/forum/?hl=en#!forum/thebeanbag>
-
+<https://groups.google.com/forum/?hl=en#!forum/thebeanbag>\
 Facebook: <https://www.facebook.com/groups/1484192248560637/>
 
 \![*Mimosa pectinatipinna* Burkart, Caesalpinioideae, photo by Colin
