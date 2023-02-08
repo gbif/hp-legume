@@ -16,6 +16,9 @@ height: 70vh
 
 ## Legume Phylogeny Working Group Updates
 
+**[The Legume Phylogeny Working Group](/beanbag/69/issue-69-legume-phylogeny-working-group)**  
+Anne Bruneau, Carole Sinou & Colin Hughes 
+
 **[Taxonomy Working Group](/beanbag/69/issue-69-taxonomy-working-group)**   
 Marianne le Roux & Anne Bruneau  
 
@@ -28,8 +31,8 @@ Jens Ringelberg, Edeline Gagnon & Joe Miller
 **[Traits Working Group](/beanbag/69/issue-69-traits-working-group)**  
 Leonardo Borges & Renske Onstein  
 
-**[The Legume Phylogeny Working Group](/beanbag/69/issue-69-legume-phylogeny-working-group)**  
-Anne Bruneau, Carole Sinou & Colin Hughes   
+**[Legume Data Portal](/beanbag/69/issue-69-legume-data-portal)**  
+Anne Bruneau, Carole Sinou & Joe Miller   
 
 ## Announcements
 
