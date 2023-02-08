@@ -23,13 +23,13 @@ The 8ILC committee is organizing several excursions, which include a one-day tri
 **Copaifera langsdorfii** Desf. (Detarioideae), photo by Leonardo Borges
 
 The scientific program of the 8ILC is composed of eight main symposia, which will in- clude invited lectures, talks and posters:\
-• Assembling global checklists and floras of legumes
-• Updates in legume systematics
-• Advances in legume morphology and anatomy
-• Legumes and society: Genetic resources, uses and conservation 
-• Legume research in the era of genomics
-• Animals and legumes: From mutualistic to antagonistic interactions 
-• Novelties in legume-rhizobia symbiosis
+• Assembling global checklists and floras of legumes\
+• Updates in legume systematics\
+• Advances in legume morphology and anatomy\
+• Legumes and society: Genetic resources, uses and conservation\
+• Legume research in the era of genomics\
+• Animals and legumes: From mutualistic to antagonistic interactions\
+• Novelties in legume-rhizobia symbiosis\
 • Legumes as a model for biogeography, macroecology and evolution
 
 **Registration for the 8ILC is now open!** Please check the conference website at www.8ilc.com for online registration, abstract submission and additional information.
