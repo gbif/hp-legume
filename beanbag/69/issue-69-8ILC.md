@@ -20,7 +20,7 @@ The 8ILC committee is organizing several excursions, which include a one-day tri
 
 (image)
 
-**Copaifera langsdorfii** Desf. (Detarioideae), photo by Leonardo Borges
+*Copaifera langsdorfii* Desf. (Detarioideae), photo by Leonardo Borges
 
 The scientific program of the 8ILC is composed of eight main symposia, which will in- clude invited lectures, talks and posters:\
 • Assembling global checklists and floras of legumes\
