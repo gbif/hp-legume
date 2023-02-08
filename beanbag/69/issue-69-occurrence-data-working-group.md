@@ -9,7 +9,7 @@ sideNavigation: sidenav.beanbag69
 
 # OCCURRENCE DATA WORKING GROUP
 
-Coordinators:
+Coordinators:\
 **Jens Ringelberg** (University of Zürich, Switzerland; moving to University of Edinburgh, UK)\
 **Edeline Gagnon** (Technical University Munich, Germany; moving to University of Guelph, Canada)\
 **Joe Miller** (Global Biodiversity Information Facility, GBIF)
