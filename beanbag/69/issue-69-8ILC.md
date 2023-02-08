@@ -11,7 +11,7 @@ sideNavigation: sidenav.beanbag69
 
 ### *Integrating Knowledge on the Legume Family*
 
-**Marcelo Simon** (Empresa Brasileira de Pesquisa Agropecuária, EMBRAPA, Brazil)
+**Marcelo Simon** (Empresa Brasileira de Pesquisa Agropecuária, EMBRAPA, Brazil)\
 **Tânia Moura** (Instituto Federal Goiano, Brazil)
 
 We are pleased to announce that the global legume community is meeting in-person after five years since our last conference. The 8th International Legume Conference will take place from 6-11 August 2023 in Brazil, a country known for its extraordinary biological and cultural diversity. The host city, the colonial town of Pirenópolis, is located at the heart of the diverse and unique Cerrado, a savanna dominated vegetation home to nearly 1300 legume species. Pirenópolis, one of the most charming places in Goiás state is known for the beautiful waterfalls that surround the town, being the perfect setting for nature lovers. The town, which was founded back in 1725 by gold miners, has numerous well-preserved colonial-era houses, churches, and is home to cultural festivals and typical countryside cuisine.
