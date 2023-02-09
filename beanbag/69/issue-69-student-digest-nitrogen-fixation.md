@@ -27,6 +27,7 @@ Few studies of plant functional trait evolution have hypothesized the sort of ma
 
 Faria et al. (2022) highlight the non-mimosoid grade of subfamily Caesalpinioideae as a hotspot of evolutionary transitions including two shifts from FT- to SMY-type nodules and numerous evolutionary losses of nodulation, opening the way for wider genomic studies. Faria et al.’s study also paves the way for wider exploration of nodule anatomy across legumes to see whether similar patterns of evolutionary loss of nodulation in subfamily Papilionoideae are also associated with FT-type nodules, which are also known to occur in a subset of lineages within that subfamily. It appears that there is still much to be done to fully understand the evolution of the prominent functional trait of nodulation.
 
+
 ### References
 
 Doyle, J. J. (2016) Chasing unicorns: Nodulation origins and the paradox of novelty. *American Journal of Botany* **103**: 1865–1868.
