@@ -11,7 +11,7 @@ sideNavigation: sidenav.beanbag69
 
 ## Extraordinary and rapid evolution of chemical defenses in the Neotropical legume genus *Inga* Mill.
 
-*Francisco J. Velásquez-Puentes*, PhD student\
+**Francisco J. Velásquez-Puentes**, PhD student\
 German Centre for Integrative Biodiversity Research, iDiv, & Leipzig University, Germany\
 Universidad del Norte, Barranquilla, Colombia
 
@@ -28,7 +28,7 @@ But how do those chemical defenses evolve so quickly? The authors suggest that i
 
 Neotropical rain forests include many species-rich tree clades, including legume groups like, *Inga*, *Jupunba*, *Swartzia*, *Tachigali*, and *Zygia*, several of which appear to have diversified rapidly and recently over the last few million years and which tend to be characterized by high levels of sympatry, i.e., species co-existence. What combinations of abiotic and biotic factors drove these episodes of hyperfast rain forest species diversification remains an open question. What Forrister et al. show in this elegant study, is that secondary plant chemistry is a key niche axis facilitating species co-existence and undoubtedly played an important role in the assembly of the impressive diversity of *Inga* species in rain forests.
 
-References\
+### References\
 Bisby, F.A., Buckingham, J. & Harborne, J. (Eds.) (1994) Phytochemical Dictionary of the Leguminosae. Chapman & Hall, London, U.K.
 
 Chesson, P. (2000) Mechanisms of maintenance of species diversity. *Annual Review of Ecology and Systematics* **31**: 343–366.
