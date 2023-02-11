@@ -9,10 +9,9 @@ sideNavigation: sidenav.beanbag69
 
 # TRAITS WORKING GROUP
 
-Coordinators:\
-**Leonardo Borges** (Universidade Federal de São Carlos, Brazil) \
-**Renske Onstein** (Naturalis Biodiversity Centre, Netherlands & \
-German Centre for Integrative Biodiversity Research, iDiv, Germany)
+Coordinators:
+**Leonardo Borges** (Universidade Federal de São Carlos, Brazil) 
+**Renske Onstein** (Naturalis Biodiversity Centre, Netherlands & German Centre for Integrative Biodiversity Research, iDiv, Germany)
 
 The Traits Working Group continues to focus on promoting collaboration between researchers working with legume morphology, including functional trait data. Information on on-going projects, research groups, a list of legume traits and definitions, and monographs used to extract trait data are all available in the Traits WG Google Drive (https://t.ly/5yGn0), which acts as a hub for the traits WG.
 
@@ -26,4 +25,4 @@ Although researchers should be free to deposit data on their preferred platform 
 
 In the meantime, we repeat our invitation for anyone working on legume trait data to share information about your project on the Google Drive mentioned above. It is our main tool to keep the LPWG members up to date on past and current research and to provide opportunities for increased collaboration within our community.
 
-![Dissected corollas of four *Mimosa* species, under study by PhD candidate Monique Maianne (Universidade Federal de São Carlos, Brazil). Left to right: *M. bifurca* Benth., *M. elliptica* Benth., *M. hirsutissima* Mart., *M. lewisii* Barneby. Photos by Monique Maianne.] (/assets/images/69/traits-corolla.png)
+![Dissected corollas of four *Mimosa* species, under study by PhD candidate Monique Maianne (Universidade Federal de São Carlos, Brazil). Left to right: *M. bifurca* Benth., *M. elliptica* Benth., *M. hirsutissima* Mart., *M. lewisii* Barneby. Photos by Monique Maianne.](/assets/images/69/traits-corolla.png)

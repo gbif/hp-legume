@@ -16,14 +16,11 @@ height: 70vh
 
 ## Legume Phylogeny Working Group Updates
 
-**[The Legume Phylogeny Working Group](/beanbag/69/issue-69-legume-phylogeny-working-group)**  
-Anne Bruneau, Carole Sinou & Colin Hughes 
-
 **[Taxonomy Working Group](/beanbag/69/issue-69-taxonomy-working-group)**   
-Marianne le Roux & Anne Bruneau  
+Marianne le Roux & Anne Bruneau
 
-**[Phylogenetics Working Group](/beanbag/69/issue-69-phylogenetics-working-group)**  
-Felix Forest 
+**[Phylogenomics Working Group](/beanbag/69/issue-69-phylogenomics-working-group)**  
+Felix Forest   
 
 **[Occurrence Data Working Group](/beanbag/69/issue-69-occurrence-data-working-group)**  
 Jens Ringelberg, Edeline Gagnon & Joe Miller

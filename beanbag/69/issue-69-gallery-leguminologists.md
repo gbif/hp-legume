@@ -13,7 +13,7 @@ sideNavigation: sidenav.beanbag69
 
 # Jacques Vassal (1933–)
 
-(images)
+![](/assets/images/69/vassal-1.png)
 
 Jacques Vassal. Near Donnybrook, southwest Western Australia, examining *Acacia insolita*, 1 August 1981, photo Bruce Maslin, and 2016 in France, photo courtesy of Jacques Vassal.
 
@@ -21,13 +21,13 @@ Jacques Vassal. Near Donnybrook, southwest Western Australia, examining *Acacia 
 
 ## Philippe Guinet (1925–2019)
 
-(images)
+![](/assets/images/69/guinet-1.png)
 
 Philippe Guinet. Northcliffe, southwest Western Australia, 28 Sept. 1983, photo Bruce Maslin.
 
 ***Philippe Guinet***, French horticulturalist, botanist and palynologist worked for most of his career at the Université des Sciences et Techniques du Languedoc, Montpellier, France. Guinet’s early work was wide ranging. He started out as a horticulturalist at the school of Horticulture in Versailles where he was head gardener in 1947-1948, and in 1949 was appointed as *ingénieur horticole* to develop a botanical garden at Béni-Abbès in Algeria. In the early 1950s he undertook several field collecting expeditions to the western Sahara, in southern Morocco and Algeria, where, alongside plants, he discovered rock carvings in the Monts d’Ougarta in Algeria in 1950. From 1950-1952 he was also involved in the development of the Botanical Garden in Strasbourg. His early botanical research spanned taxonomic work on grasses and seeds of *Chenopodium*, the latter while he was working as an assistant at the Muséum National d’Histoire Naturelle in Paris. Later, for his PhD, he embarked on study of the extremely diverse pollen of mimosoid legumes, publishing a landmark study in 1969 [Guinet, P. (1969). Les Mimosacées, étude de palynologie fondamentale, corrélations, évolution. Travaux de la Section Scientifique et Technique Pondichéry 9, 1-293] which remains the key reference on the subject. This monumental work formed the basis for Guinet’s reviews of legume pollen in Advances in Legume Systematics Part 1 (1981) and Advances in Legume Biology (1986). The genus *Guinetia* L.Rico & M.Sousa (now a synonym of *Calliandra*) was named in his honour. Because pollen is so diverse and taxonomically useful in mimosoids, Guinet became heavily involved in their classification, including delimitation of a number of genera in collaboration with other specialists through the 1980s and 1990s.
 
-(image)
+![](/assets/images/69/vassal-guinet.png)
 
 Clockwise from top left: Philippe Guinet and Jacques Vassal at Box Hill, London during the third meeting of the International Group for the Study of Mimosoideae, IGSM, at Kew in 1978; Jacques Vassal and Pat Brenan, on an IGSM field trip to Brisbane Waters National Park, New South Wales, Australia, during the fourth IGSM meeting in August 1981; Philippe Guinet, Peter Poli and Bruce Maslin, near Esperance on the south coast of Western Australia, 1983. All photos courtesy of Bruce Maslin.
 

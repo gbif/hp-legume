@@ -14,7 +14,7 @@ sideNavigation: sidenav.beanbag69
 
 ***Natanael Nascimento*** graduated in biological sciences at the Universidade Federal da Bahia, in Salvador, Brazil and has dedicated his career to scientific illustration in botany. Working closely with Domingos Cardoso, Natanael has illustrated a series of new legume species over the last few years including ***Aeschynomene chicocesariana*** D.B.O.S. Cardoso & G. Ramos, and the remarkable new giant Atlantic rainforest tree ***Dipteryx hermetopascoaliana*** C.S. Carvalho, H.C. Lima & D.B.O.S. Cardoso, both illusrated here. The latter species is highlighted in the 2022 New Legume Species Highlights section (page 35). Other recent plates include several stunning new species of the genus ***Harpalyce, Rhynchosia franciscana*** L.P. Queiroz & D.B.O.S. Cardoso, and upcoming monographic sets of drawings of species of the genera ***Monopteryx*** and ***Dipteryx***.
 
-(image)
+![](/assets/images/69/spotlight-1.png)
 
 ***Dipteryx hermetopascoaliana*** C.S. Carvalho, H.C. Lima & D.B.O.S. Cardoso (Papilionoideae), illustrated by Natanael Nascimento and published in Carvalho et al., *Bot. J. Linn. Soc.* (2023).
 
@@ -23,7 +23,7 @@ In 2018, Natanael won the prestigious Margaret Flockton Prize awarded by the Roy
 Further information about Natanael is on his website **@natan.bio**\
 (https://www.instagram.com/natan.bio/)
 
-(image)
+![](/assets/images/69/spotlight-2.png)
 
-***Aeschynomene chicocesariana*** D.B.O.S. Cardoso & G. Ramos (Papilionoideae), illus- trated by Natanael Nascimento and published in Cardoso et al., *Syst. Bot.* (2019).
+***Aeschynomene chicocesariana*** D.B.O.S. Cardoso & G. Ramos (Papilionoideae), illustrated by Natanael Nascimento and published in Cardoso et al., *Syst. Bot.* (2019).
 
