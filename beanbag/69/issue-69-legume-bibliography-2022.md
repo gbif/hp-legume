@@ -19,15 +19,15 @@ A total of **151** new publications are presented in the 2022 Bibliography. Comp
 
 **Bibliography Index**
 
-[Anatomy, Morphology & Development=12](#anatomy--morphology--development---12)
-[Biogeography=7](#biogeography---7)
-[Ecology=7](#ecology---7)
-[Floristics & Conservation=12](#floristics--conservation---12)
-[Paleobotany=7](#paleobotany---7)
-[Palynology=8](#palynology---8)
-[Phylogeny & Evolution=12](#phylogeny--evolution---12)
-[Systematics & Taxonomy=58](#systematics--taxonomy---58)
-[New Species=28](#new--species---28)
+[Anatomy, Morphology & Development=12](#anatomy--morphology--development---12)  
+[Biogeography=7](#biogeography---7)  
+[Ecology=7](#ecology---7)  
+[Floristics & Conservation=12](#floristics--conservation---12)  
+[Paleobotany=7](#paleobotany---7)  
+[Palynology=8](#palynology---8)  
+[Phylogeny & Evolution=12](#phylogeny--evolution---12)  
+[Systematics & Taxonomy=58](#systematics--taxonomy---58)  
+[New Species=28](#new--species---28)  
 
 ## Anatomy, Morphology & Development - 12
 

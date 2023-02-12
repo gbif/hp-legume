@@ -15,7 +15,6 @@ sideNavigation: sidenav.beanbag69
 
 <br />
 	<img src="/assets/images/68/BA-1.png" alt="Rupert Barneby" width="40%" align="right" style="margin: 20px 20px 20px 20px">
-	<figcaption>Dr. Rupert Barneby</figcaption>
 <br />
 
 
