@@ -13,6 +13,5 @@ sideNavigation: sidenav.beanbag69
 
 Anyone who is interested in collaborating with one or other of the Working Groups and projects is encouraged to contact the relevant working group coordinators (see below).
 
-![Indet. Canavalia DC. sp., Papilionoideae, Pablo Duchen 252 (K), Bolivia, photo by Colin Hughes.] (/assets/images/69/lpwg_canavalia.png)
-
+![Indet. Canavalia DC. sp., Papilionoideae, Pablo Duchen 252 (K), Bolivia, photo by Colin Hughes.](/assets/images/69/lpwg_canavalia.png)
 Indet. _Canavalia_ DC. sp., Papilionoideae, Pablo Duchen 252 (K), Bolivia, photo by Colin Hughes.
