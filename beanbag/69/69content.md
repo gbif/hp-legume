@@ -35,24 +35,24 @@ Anne Bruneau, Carole Sinou & Joe Miller
 
 ## Announcements
 
-**[The Rupert Barneby Award](/beanbag/69/issue-69-rupert-barneby-award)**
+**[The Rupert Barneby Award](/beanbag/69/issue-69-rupert-barneby-award)**  
 Benjamin M. Torke
 
-**[8th International Legume Conference (8ILC)](/beanbag/69/issue-69-8ILC)**
+**[8th International Legume Conference (8ILC)](/beanbag/69/issue-69-8ILC)**  
 Marcelo Simon & Tânia Moura
 
 **[Advances in Legume Systematics 14 - Classification of Caesalpinioideae. Part 1 - New Generic Delimitations.](/beanbag/69/issue-69-ALS-14-Part1)**  
 Compiled by Colin Hughes, Luciano P. de Queiroz, Gwilym P. Lewis  
 
-**[Flora of North America Legume Volume](/beanbag/69/issue-69-FNA-Legume)**
+**[Flora of North America Legume Volume](/beanbag/69/issue-69-FNA-Legume)**  
 Tammy Charron
 
-**[Upcoming Research on *Sanjappa*](/beanbag/69/issue-69-Sanjappa)** 
+**[Upcoming Research on *Sanjappa*](/beanbag/69/issue-69-Sanjappa)**  
 Gopika Suresh & Krishnaraj M.V. 
 
 ## Articles
 
-**[Artist Spotlight: Natanael Nascimento](/beanbag/69/issue-69-Natanael-Nascimento)**
+**[Artist Spotlight: Natanael Nascimento](/beanbag/69/issue-69-Natanael-Nascimento)**  
 Compiled by Domingos Cardoso
 
 **[Gallery of Leguminologists](/beanbag/69/issue-69-gallery-leguminologists)**  
