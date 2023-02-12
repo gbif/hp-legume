@@ -9,8 +9,8 @@ sideNavigation: sidenav.beanbag69
 
 # Notes on the Reproductive Biology, Population Ecology, and Conservation of the Critically Endangered ***Sanjappa cynometroides*** (Leguminosae: Caesalpinioideae) from India
 
-**Gopika Suresh** (St Teresas College, Kerala, India)
-**Krishnaraj M.V.** (Baselius College, Kerala, India)
+**Gopika Suresh** (St Teresas College, Kerala, India)  
+**Krishnaraj M.V.** (Baselius College, Kerala, India)  
 
 ***Sanjappa cynometroides*** (Bedd.) E.R.Souza & Krishnaraj (mimosoid clade, Caesalpinioideae) is a monotypic genus of small legume trees narrowly endemic to Kerala in southern India. The taxonomic identity of this enigmatic taxon, previously placed in the genus Calliandra, was recently resolved using morphological and molecular phylogenetic analyses by Souza et al. (2016) who described the genus *Sanjappa* to account for its isolated phylogenetic position. However, despite these taxonomic advances and the conservation importance of the genus, data on the reproductive biology and ecology of *Sanjappa*, that could underpin conservation measures, are still lacking.
 
@@ -21,5 +21,4 @@ A new study of the reproductive biology and population ecology of *Sanjappa* is 
 Reference: Souza, E.R., Krishnaraj, M.V. and de Queiroz, L.P. (2016) *Sanjappa*, a new genus in the tribe Ingeae (Leguminosae, Mimosoideae) from India. Rheedea 26(1): 1–12.
 
 ![](/assets/images/69/Sanjappa.png)
-
 *Sanjappa cynometroides* (Bedd.) E.R.Souza & Krishnaraj (Caesalpinioideae), fruit, photo by authors.

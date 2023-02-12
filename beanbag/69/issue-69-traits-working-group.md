@@ -9,11 +9,11 @@ sideNavigation: sidenav.beanbag69
 
 # TRAITS WORKING GROUP
 
-Coordinators:
-**Leonardo Borges** (Universidade Federal de São Carlos, Brazil) 
-**Renske Onstein** (Naturalis Biodiversity Centre, Netherlands & German Centre for Integrative Biodiversity Research, iDiv, Germany)
+Coordinators:  
+**Leonardo Borges** (Universidade Federal de São Carlos, Brazil)  
+**Renske Onstein** (Naturalis Biodiversity Centre, Netherlands & German Centre for Integrative Biodiversity Research, iDiv, Germany)  
 
-The Traits Working Group continues to focus on promoting collaboration between researchers working with legume morphology, including functional trait data. Information on on-going projects, research groups, a list of legume traits and definitions, and monographs used to extract trait data are all available in the Traits WG Google Drive (https://t.ly/5yGn0), which acts as a hub for the traits WG.
+***The Traits Working Group*** continues to focus on promoting collaboration between researchers working with legume morphology, including functional trait data. Information on on-going projects, research groups, a list of legume traits and definitions, and monographs used to extract trait data are all available in the Traits WG Google Drive (<https://t.ly/5yGn0>), which acts as a hub for the traits WG.
 
 2022 saw the addition of two new projects working with trait data, both on Papilionoideae, one by Liam Trethowan, Gwil Lewis, and Ruth Clark, and another by Charles Stirton. These are welcome additions, particularly as most on-going trait related work so far has been on mimosoids. For 2023, we expect novelties to remain centered on the mimosoids, as results of ongoing projects start to become available, especially those being conducted by doctoral student Rachel Ferreira in Renske Onstein’s group. In addition, Leo Borges is working with Rob Guralnick, Ryan Folk and colleagues at the University of Florida and Mississippi State University to generate a morphological dataset for many mimosoid species.
 

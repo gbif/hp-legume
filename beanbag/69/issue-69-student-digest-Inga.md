@@ -11,9 +11,9 @@ sideNavigation: sidenav.beanbag69
 
 ## Extraordinary and rapid evolution of chemical defenses in the Neotropical legume genus *Inga* Mill.
 
-**Francisco J. Velásquez-Puentes**, PhD student
-German Centre for Integrative Biodiversity Research, iDiv, & Leipzig University, Germany
-Universidad del Norte, Barranquilla, Colombia
+**Francisco J. Velásquez-Puentes**, PhD student  
+German Centre for Integrative Biodiversity Research, iDiv, & Leipzig University, Germany  
+Universidad del Norte, Barranquilla, Colombia  
 
 Unlike animals, legumes and other plants cannot run away from their natural enemies when attacked. As a result, they have evolved an impressive array of physical and chemical defense strategies to deter even the hungriest vegan enemies. Among those defenses, plant secondary metabolites, a plethora of diverse chemical compounds, stand out for deterring herbivores and pathogens. The diversity of secondary metabolites across legumes as a whole has been extensively documented over many decades, culminating in the Phytochemical Dictionary of the Leguminosae (Bisby et al. 1994), but the detailed evolutionary trajectories of legume defense chemicals remain poorly understood, especially at species level. Understanding the evolutionary processes and mechanisms involved in the evolution of novel plant defense compounds is important because natural enemies are detrimental for plant species survival, presenting strong selective pressures for evolution of chemical defenses, thereby potentially driving evolutionary diversification and community assembly, and facilitating species co-existence (Marquis et al. 2016).
 
@@ -38,7 +38,7 @@ Connell, J.H. (1971) On the role of natural enemies in preventing competitive ex
 
 Endara, M.J., Coley, P.D., Ghabash, G., Nicholls, J.A., Dexter, K.G., Donoso, D.A., Stone, G.N., Pennington, R.T. & Kursar, T.A. (2017) Coevolutionary arms race versus host defence chase in a tropical herbivore–plant system. *Proceedings of the National Academy of Sciences* **114**: E7499-E7505.
 
-Forrister, D.L., Endara, M., Soule, A.J., Younkin, G.C., Mills, A.G., Lokvam, J., Dexter, K.G., Pennington, R.T., Kidner, C.A., Nicholls, J.A., Loiseau, O., Kursar, T.A. & Coley, P.D. (2022) Diversity and divergence: Evolution of secondary metabolism in the tropical tree genus *Inga*. *New Phytologist* **237**: 631-642. https://doi.org/10.1111/nph.18554
+Forrister, D.L., Endara, M., Soule, A.J., Younkin, G.C., Mills, A.G., Lokvam, J., Dexter, K.G., Pennington, R.T., Kidner, C.A., Nicholls, J.A., Loiseau, O., Kursar, T.A. & Coley, P.D. (2022) Diversity and divergence: Evolution of secondary metabolism in the tropical tree genus *Inga*. *New Phytologist* **237**: 631-642. <https://doi.org/10.1111/nph.18554>
 
 Janzen, D.H. (1970) Herbivores and the number of tree species in tropical forests. *The American Naturalist* **104**: 501–528.
 
@@ -46,6 +46,6 @@ Kursar, T.A., Dexter, K. G., Lokvam, J., Pennington, R.T., Richardson, J.E., Web
 
 Marquis, R.J., Salazar, D., Baer, C., Reinhardt, J., Priest, G. & Barnett, K. (2016) Ode to Ehrlich and Raven or how herbivorous insects might drive plant speciation. *Ecology* **97**: 2939–2951.
 
-Nicholls, J.A., Pennington, R.T., Koenen, E.J.M., Hughes, C.E., Hearn, J., Bunnefeld, L., Dexter, K.G., Stone, G.N. & Kidner, C.A. (2015) Using targeted enrichment of nuclear genes to increase phylogenetic resolution in the neotropical rain forest genus *Inga* (Leguminosae: Mimosoideae). *Frontiers in Plant Science* **6**. https://doi.org/10.3389/fpls.2015.00710
+Nicholls, J.A., Pennington, R.T., Koenen, E.J.M., Hughes, C.E., Hearn, J., Bunnefeld, L., Dexter, K.G., Stone, G.N. & Kidner, C.A. (2015) Using targeted enrichment of nuclear genes to increase phylogenetic resolution in the neotropical rain forest genus *Inga* (Leguminosae: Mimosoideae). *Frontiers in Plant Science* **6**. <https://doi.org/10.3389/fpls.2015.00710>
 
 Richardson, J.E., Pennington, R.T., Pennington, T.D. & Hollingsworth, P.M. (2001) Rapid diversifica- tion of a species-rich genus of Neotropical rain forest trees. *Science* **293**: 2242–2245.

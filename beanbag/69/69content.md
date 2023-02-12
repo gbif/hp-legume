@@ -2,7 +2,7 @@
 layout: post
 lang-ref: /beanbag/69content
 title: Issue 69, Year 2022
-background: /assets/images/bb-69-cover-img.png
+background: /assets/images/welcome_mimosa.jpg
 description: Content of the issue 69 (2022)
 height: 70vh
 ---
@@ -69,3 +69,6 @@ Colin Hughes
 
 **[Legume Bibliography 2022](/beanbag/69/issue-69-legume-bibliography-2022)**  
 Warren Cardinal-McTeague, Colin Hughes, Leonardo Borges & Gwilym P. Lewis  
+
+![](/assets/images/69/Parkia_bahiae.jpg)
+*Parkia bahiae* H.C.Hopkins, Caesalpinioideae, photo by Colin Hughes

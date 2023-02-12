@@ -9,10 +9,10 @@ sideNavigation: sidenav.beanbag69
 
 # OCCURRENCE DATA WORKING GROUP
 
-Coordinators:
-**Jens Ringelberg** (University of Zürich, Switzerland; moving to University of Edinburgh, UK)
-**Edeline Gagnon** (Technical University Munich, Germany; moving to University of Guelph, Canada)
-**Joe Miller** (Global Biodiversity Information Facility, GBIF)
+Coordinators:  
+**Jens Ringelberg** (University of Zürich, Switzerland; moving to University of Edinburgh, UK)  
+**Edeline Gagnon** (Technical University Munich, Germany; moving to University of Guelph, Canada)  
+**Joe Miller** (Global Biodiversity Information Facility, GBIF)  
 
 2022 has been a productive year for legume biogeography research. Multiple research groups have spent a lot of time and energy assembling substantial new quality-controlled occurrence datasets, several of which are (nearly) finished and being used to address various exciting research questions about legume biogeography.
 
@@ -24,7 +24,9 @@ In her MSc thesis, **Charlotte Hagelstam-Renshaw** (Université de Montréal), s
 
 Finally, the upcoming Advances in Legume Systematics, ALS14, Part 2 will feature a synopsis of the 163 genera in subfamily Caesalpinioideae, including detailed distribution maps for all genera based on quality-controlled occurrence data. ALS14 is a highly collaborative project; occurrence data of non-mimosoid Caesalpinioideae have been contributed by **Juliana Rando** (Universidade Federal do Oeste da Bahia, Brazil), **Guilherme Sousa** (Universidade Estadual de Campinas, Brazil), **Haroldo de Lima** (Instituto de Pesquisas Jardim Botânico do Rio de Janeiro, Brazil) and **Domingos Cardoso** (Universidade Federal do Bahia & Jardim Botânico do Rio de Janeiro, Brazil), and the data have been compiled and cleaned with the help of many legume researchers.
 
+![The distribution of Caesalpinioideae species-richness in one-degree cells across the tropics(Advances in Legume Systematics, ALS14, Part 2, in prep.).](/assets/images/69/occurrence-data-1.png)
 The distribution of Caesalpinioideae species-richness in one-degree cells across the tropics (Advances in Legume Systematics, ALS14, Part 2, in prep.).
+
 Publications from all these projects are expected in the near future, meaning that 2023 looks set to be another very exciting year in legume biogeography research.
 
 As a researcher it can sometimes be easy to forget that compiling (occurrence) datasets is not the only thing that matters; equally important is how the resulting datasets are stored and made available. Over the past few years, legume researchers have curated various spatial datasets to address specific research questions. These data are usually published with the manuscript as supplementary data, often deposited in Dryad, Figshare, Zenodo and the likes. A lot of work goes into compiling and cleaning these datasets and their reuse can save other people time. Keep your eyes on the Legume Data Portal, where many of these maps based on cleaned occurrence datasets will be made available, and as we continue to explore options for storing both the maps and data. Ultimately, the curated datasets could be integrated into one larger legume-wide global dataset once any discrepancies in data cleaning protocols are reconciled.
@@ -34,6 +36,3 @@ GBIF is also exploring how to make these cleaned, quality-controlled data availa
 Also from GBIF, take a look at the new clustering feature to search for similarities in occurrence data fields across datasets shared with GBIF. Joe Miller has used this feature to identify putative duplicate specimens of Senegalia that were collected in Brazil. Check out Joe’s [GBIF data blog post](https://data-blog.gbif.org/post/senegalia-clustering-in-brazil/) about the patterns of specimen data sharing between Brazilian herbaria and large northern hemisphere herbaria. Please provide feedback, make comments, and share ideas in the discussion on the GBIF community forum.
 
 Finally, the Occurrence Data Working Group needs your help! As an initial step to make cleaned legume occurrence datasets more easily accessible we are assembling a list with links to all existing datasets that are available online alongside who assembled the data and references to relevant papers. Our aim is to create a list that can easily be updated whenever new data become available. If you have a dataset that you would like to be included, please send us a message!
-
-![The distribution of Caesalpinioideae species-richness in one-degree cells across the tropics(Advances in Legume Systematics, ALS14, Part 2, in prep.).](/assets/images/69/occurrence-data-1.png)
-The distribution of Caesalpinioideae species-richness in one-degree cells across the tropics (Advances in Legume Systematics, ALS14, Part 2, in prep.).

@@ -9,15 +9,15 @@ sideNavigation: sidenav.beanbag69
 
 # THE RUPERT BARNEBY AWARD OF THE NEW YORK BOTANICAL GARDEN
 
-**Benjamin M. Torke** (New York Botanical Garden, NYBG, USA)
+**Benjamin M. Torke** (New York Botanical Garden, NYBG, USA)  
 
 # FUNDING OPPORTUNITY
 
 <br />
 	<img src="/assets/images/68/BA-1.png" alt="Rupert Barneby" width="40%" align="right" style="margin: 20px 20px 20px 20px">
+	<figcaption>Dr. Rupert Barneby</figcaption>
 <br />
 
-*Dr. Rupert Barneby*
 
 ***The Rupert Barneby Award***, named in honor of the late NYBG scientist and renowned legume expert, consists of US$2000 granted annually to assist researchers to visit the New York Botanical Garden to study the rich herbarium collection of Leguminosae. Graduate students and early ca- reer professionals with research in systematics and/or legume diversity are given special consid- eration. ***Projects that will result in the improved curation of the collection are desirable.***
 
