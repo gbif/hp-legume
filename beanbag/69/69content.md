@@ -2,7 +2,7 @@
 layout: post
 lang-ref: /beanbag/69content
 title: Issue 69, Year 2022
-background: /assets/images/welcome_mimosa.jpg
+background: /assets/images/69/welcome_mimosa.jpg
 description: Content of the issue 69 (2022)
 height: 70vh
 ---

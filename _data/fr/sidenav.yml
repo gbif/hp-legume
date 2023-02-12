@@ -130,16 +130,16 @@ beanbag69:
     path: /beanbag/69/issue-6-welcome-note
 - grouptitle: Legume Phylogeny Working Group Reports
   content: 
+  - title: The Legume Phylogeny Working Group
+    path: /beanbag/69/issue-69-legume-phylogeny-working-group
   - title: Taxonomy Working Group
     path: /beanbag/69/issue-69-taxonomy-working-group
   - title: Phylogenetics Working Group
-    path: /beanbag/69/issue-69-phylogenetics-working-group
+    path: /beanbag/69/issue-69-phylogenomics-working-group
   - title: Occurrence Data Working Group
     path: /beanbag/69/issue-69-occurrence-data-working-group
   - title: Traits Working Group
     path: /beanbag/69/issue-69-traits-working-group  
-  - title: The Legume Phylogeny Working Group
-    path: /beanbag/69/issue-69-legume-phylogeny-working-group
 - grouptitle: Announcements
   content:
   - title: The Rupert Barneby Award

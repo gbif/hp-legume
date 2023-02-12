@@ -5,7 +5,7 @@ issues:
   features:
     - preTitle: Année 2022  # optional
       title: Volume 69 # rerquired
-      background: /assets/images/bb-69-cover-img.png
+      background: /assets/images/69/welcome_mimosa.jpg
       href: /beanbag/69/69content
       cta:
       - text: Téléchargement

@@ -5,7 +5,7 @@ issues:
   features:
     - preTitle: Year 2022  # optional
       title: Issue 69 # rerquired
-      background: /assets/images/welcome_mimosa.jpg
+      background: /assets/images/69/welcome_mimosa.jpg
       href: /beanbag/69/69content
       cta:
       - text: Download
