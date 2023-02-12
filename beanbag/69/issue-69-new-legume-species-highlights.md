@@ -59,7 +59,7 @@ Soares MVB, Koenen EJM, Iganci JRV & Morim MP (2022) A new generic circumscripti
 
 The genus *Indigofera* (Papilionoideae, Indigoferae) is the third largest genus of legumes after *Astragalus* and *Acacia* and occupies a wide distribution with centres of diversity in Africa and Madagascar (c. 550 species), Asia, especially the temperate Sino-Himalayan region (ca. 105 species), Australia (c. 50 species), and the New World (c. 45 species). Of the Asian species, 79 (45 endemics) occur in China, where a steady stream of new species continues to be added, including this year, *Indigofera vallicola* Huan C. Wang & Jin L. Liu, a prostrate dwarf shrub known from just two localities in xerophilous scrub and grasslands in the Luzhijiang valley, central Yunnan.
 
-![](/assets/images/69/indigofera.png)
+![](/assets/images/69/indigofera-vallicola.png)
 Flowers of *Indigofera vallicola*. Photo: Huan Chong Wang.
 
 
@@ -103,11 +103,11 @@ Of the c. 130 species of *Ormosia* (Papilionoideae, Ormosieae), c. 21 are found 
 Tree habit, flowers with deep blackish violet petals, fruits and red monochromatic seeds of *Ormosia corcovada*. Photos: Andrés Cuadro, Maribel Herrera-Palma and Ricardo Callejas-Posada.
 
 
-Herrera-Palma M, Stirton CH, Ruiz-Bohórquez LK, Callejas-Posada R, Cardoso DB (2022) *Ormosia corcovada*, a new papilionoid legume from the Bajo Cauca Region of Northeastern Colombia. Systematic Botany **47**(3): 861-868. <https://doi.org/10.1600/036364422X1657301934839>
+Herrera-Palma M, Stirton CH, Ruiz-Bohórquez LK, Callejas-Posada R, Cardoso DB (2022) *Ormosia corcovada*, a new papilionoid legume from the Bajo Cauca Region of Northeastern Colombia. Systematic Botany **47**(3): 861-868. <https://doi.org/10.1600/036364422X16573019348391>
 
 ## Beating the drum for *Pultenaea percussa* – described and rediscovered in 2022
 
-### *Contributed by: Dr Russell Barrett, National Herbarium of New South Wales, Australia.*
+#### *Contributed by: Dr Russell Barrett, National Herbarium of New South Wales, Australia.*
 
 The bush peas, genus *Pultenaea*, are the largest genus in the largest legume tribe in Australia (tribe Mirbelieae, Papilionoideae). Despite being monographed just 20 years ago, new research is revealing a plethora of new species, especially rarely-collected, local endemics.
 
@@ -139,7 +139,7 @@ Choo LM, Loo AHB, Ang WF, Er KBH (2022) A natural hybrid of *Sindora* (Fabaceae,
 
 There are 28 species in the recircumscribed *Stryphnodendron* (Caesalpinioideae, mimosoid clade) sensu Lima et al. (2022), nine of which were described as new by Scalon et al. (2022), representing a major increment for the genus. These new species are small to large trees in Amazonian wet forests, savannas (cerrado) and Atlantic rain forests of South America, mainly in Brazil. Several of these new species are globally rare with highly restricted endemic ranges in areas where habitats are being lost, and as a result are categorized as Endangered by Scalon et al (2022).
 
-![](/assets/images/69/stryphnodendron.png)
+![](/assets/images/69/stryphodendron.png)
 *Stryphnodendron velutinum* Scalon. Photo: Viviane Scalon; drawing: Maria Alice de Rezende
 
 

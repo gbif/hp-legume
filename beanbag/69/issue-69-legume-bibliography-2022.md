@@ -27,7 +27,7 @@ A total of **151** new publications are presented in the 2022 Bibliography. Comp
 [Palynology=8](#palynology---8)  
 [Phylogeny & Evolution=12](#phylogeny--evolution---12)  
 [Systematics & Taxonomy=58](#systematics--taxonomy---58)  
-[New Species=28](#new--species---28)  
+[New Species=28](#new-species---28)  
 
 ## Anatomy, Morphology & Development - 12
 

@@ -18,7 +18,7 @@ sideNavigation: sidenav.beanbag69
 ***Dipteryx hermetopascoaliana*** C.S. Carvalho, H.C. Lima & D.B.O.S. Cardoso (Papilionoideae), illustrated by Natanael Nascimento and published in Carvalho et al., *Bot. J. Linn. Soc.* (2023).
 
 
-In 2018, Natanael won the prestigious Margaret Flockton Prize awarded by the Royal Botanic Gardens Sydney, Australia (<https://www.botanicalartandartists.com/news/nataneal-nascimento-wins-marga-ret-flockton-award-2018>). All of his illustrations are made with Photoshop using a pen tablet. Of course, Natanael’s work is not confined to legumes. For example, he also did the scientific illustrations for a book on the Brazilian Asteraceae (<https://repositorio.ufba.br/handle/ri/31892>). Latterly, Natanael has been working on tattoos, spreading the beauty of nature and plants via his designs on people’s bodies!
+In 2018, Natanael won the prestigious Margaret Flockton Prize awarded by the Royal Botanic Gardens Sydney, Australia (<https://www.botanicalartandartists.com/news/nataneal-nascimento-wins-margaret-flockton-award-2018>). All of his illustrations are made with Photoshop using a pen tablet. Of course, Natanael’s work is not confined to legumes. For example, he also did the scientific illustrations for a book on the Brazilian Asteraceae (<https://repositorio.ufba.br/handle/ri/31892>). Latterly, Natanael has been working on tattoos, spreading the beauty of nature and plants via his designs on people’s bodies!
 
 Further information about Natanael is on his website **@natan.bio**\
 (<https://www.instagram.com/natan.bio/>)

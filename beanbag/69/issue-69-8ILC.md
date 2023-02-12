@@ -32,7 +32,7 @@ The scientific program of the 8ILC is composed of eight main symposia, which wil
 * Novelties in legume-rhizobia symbiosis
 * Legumes as a model for biogeography, macroecology and evolution
 
-**Registration for the 8ILC is now open!** Please check the conference website at <www.8ilc.com> for online registration, abstract submission and additional information.
+**Registration for the 8ILC is now open!** Please check the conference website at <http://www.8ilc.com> for online registration, abstract submission and additional information.
 
 We are looking forward to warmly welcoming all of you to Brazil, and enhancing collaboration within the legume community.
 
