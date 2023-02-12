@@ -32,7 +32,7 @@ Editor email: <beanbag.kew@gmail.com>
 Email listserv: <https://groups.google.com/forum/?hl=en#!forum/thebeanbag>  
 Facebook: <https://www.facebook.com/groups/1484192248560637/>  
 
-![*Mimosa pectinatipinna* Burkart, Caesalpinioideae, photo by Colin Hughes.](/assets/images/69/mimosa-pectinatipinna.png)
-*Mimosa pectinatipinna* Burkart, Caesalpinioideae, photo by Colin Hughes.
+![*Caesalpinia pulcherrima* (Caeasalpinioideae), photo by Francisco Valazquez Puentes.](/assets/images/69/welcome_mimosa.png)
+*Caesalpinia pulcherrima* (Caeasalpinioideae), photo by Francisco Valazquez Puentes.
 
 [Issue 69, Year 2022 Contents](/beanbag/69/69content)
