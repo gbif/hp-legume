@@ -56,7 +56,7 @@ Gopika Suresh & Krishnaraj M.V.
 Compiled by Domingos Cardoso  
 
 **[Gallery of Leguminologists](/beanbag/69/issue-69-gallery-leguminologists)**  
-Colin Hughes, Bruce Maslin & Hlen Fortune-Hopkins  
+Colin Hughes, Bruce Maslin & Helen Fortune-Hopkins  
 
 **[Student Digest: Evolution of chemical defenses in *Inga*](/beanbag/69/issue-69-student-digest-Inga)**  
 Fransisco J. Velásquez-Puentes  
