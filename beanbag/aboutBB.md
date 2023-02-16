@@ -17,6 +17,8 @@ Electronic mailing through the BB Google Group and the BB WordPress makes commun
 
 ## Editors:
 
-[Dr. Colin Hughes](mailto:colin.hughes@systbot.uzh.ch) (University of Zurich, Switzerland)
+[Dr. Colin Hughes](mailto:colin.hughes@systbot.uzh.ch) (University of Zurich, Switzerland)  
 
-[Dr. Warren Cardinal-McTeague](mailto:warren.cardinal-mcteague@canada.ca) (Agriculture and Agri-Food Canada)
+[Dr. Warren Cardinal-McTeague](mailto:warren.cardinal-mcteague@ubc.ca) (University of British Columbia, Canada)  
+
+[Dr. Leonardo Borges](mailto:quitemcaqui@gmail.com) (Universidade Federal de São Carlos, Brazil)  
