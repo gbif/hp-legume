@@ -9,7 +9,7 @@ description: |
     <a href="/about-phylogeny-explorer" class="button is-primary" style="text-decoration: none;">Learn more</a>
     <button class="button" onClick="openWidgetInFullscreen()">Fullscreen</button>
   </div>
-background: /assets/images/placeholder_ai_beans.png
+background: /assets/images/placeholder_ai_beans.jpg
 height: 50vh
 composition: 
   - type: heroImage
