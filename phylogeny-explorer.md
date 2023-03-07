@@ -3,23 +3,33 @@ layout: compose
 lang: en
 lang-ref: phylogeny-explorer
 title: Phylogeny explorer
-description: Explore
-background: /assets/images/Vachellia_inflor_inaturalist12436165.jpg
-imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
-height: 41vh
+description: |
+  This tool allows the user to explore legume phylogeny in combination with occurrence data from GBIF, and geography. We would like to remind you that this tool is still an experiment, and as such, there may be some limitations and potential errors in the data and functionality.
+  <div class="feature-cta">
+    <a href="/about-phylogeny-explorer" class="button is-primary" style="text-decoration: none;">Learn more</a>
+    <button class="button" onClick="openWidgetInFullscreen()">Fullscreen</button>
+  </div>
+background: /assets/images/placeholder_ai_beans.png
+height: 50vh
 composition: 
   - type: heroImage
-  - type: pageMarkdown
   - type: blank
     inlineData: 
       klass: iframe-box
       markdownContent: |
-        <iframe seamless frameborder="150" src="https://phylogeny-gbif-labs.netlify.app/explore?explore=http%3A%2F%2Flocalhost%3A4000%2Fassets%2Fphylotree%2Fexample.json" height = '790' width="1370" 
-        style="height: calc(100vh - 68px);" scrolling='yes' ></iframe> 
-
+        <iframe id="phylotreeiframe" seamless frameborder="150" src="https://phylogeny-tool.gbif-staging.org/explore?explore={{ site.url | url_encode}}{{ site.phylo.treePath | url_encode}}&template={{ site.url | url_encode}}{{ site.phylo.template | url_encode}}" height = '790' width="1370" style="height: calc(100vh - 68px);" scrolling='yes' ></iframe> 
+  - type: pageMarkdown
 ---
 
-## Phylogeny tree
-
-With close to 800 genera and over 23,000 species, the Leguminosae is the third largest angiosperm family in terms of species numbers after Asteraceae and Orchidaceae. Legumes are economically important food crops providing highly nutritious sources of protein and micronutrients that can greatly benefit health and livelihoods. They have been domesticated alongside grasses in different areas of the world since the beginnings of agriculture and have played a key role in its early development.
+<script>
+  var elem = document.getElementById("phylotreeiframe");
+  function openWidgetInFullscreen() {
+    if (elem.requestFullscreen) {
+      elem.requestFullscreen();
+    } else if (elem.webkitRequestFullscreen) { /* Safari */
+      elem.webkitRequestFullscreen();
+    } else if (elem.msRequestFullscreen) { /* IE11 */
+      elem.msRequestFullscreen();
+    }
+  }
+</script>
