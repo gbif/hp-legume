@@ -22,3 +22,16 @@ $navbar-breakpoint: 1150px;
   clear: both;
   display: table;
 }
+
+.iframe-box {
+  padding: 24px;
+  iframe {
+    @extend .box;
+    width: 80%;
+    max-height: 80vh;
+    margin-left: auto;   /* Automatic margin from left */ 
+    margin-right: auto; /* Automatic margin from right */ 
+    border: 1px solid #00000011;
+    padding: 0;
+  }
+}
