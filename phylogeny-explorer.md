@@ -6,7 +6,7 @@ title: Phylogeny explorer
 description: |
   This tool allows the user to explore legume phylogeny in combination with occurrence data from GBIF, and geography. We would like to remind you that this tool is still an experiment, and as such, there may be some limitations and potential errors in the data and functionality.
   <div class="feature-cta">
-    <a href="/about-phylogeny-explorer" class="button is-primary" style="text-decoration: none;">Learn more</a>
+    <a href="#about-this-tool" class="button is-primary" style="text-decoration: none;">Learn more</a>
     <button class="button" onClick="openWidgetInFullscreen()">Fullscreen</button>
   </div>
 background: /assets/images/placeholder_ai_beans.jpg
@@ -33,3 +33,13 @@ composition:
     }
   }
 </script>
+
+## About this tool
+
+Thank you for using our tool to explore phylogenies, occurrence data from GBIF, and geography. We would like to remind you that this tool is still an experiment, and as such, there may be some limitations and potential errors in the data and functionality.
+
+Please be aware that the results you obtain from this tool should be considered preliminary and subject to change as we continue to refine and improve the tool. We are continuously working to improve the accuracy and reliability of the data and functionality, but we cannot guarantee that the information you obtain from this tool is entirely error-free.
+
+Furthermore, while we strive to provide the most up-to-date and accurate information available, the data we use is subject to potential biases and inaccuracies inherent in the sources we draw from. We recommend that you carefully consider the results and interpretations you obtain from this tool and use them in conjunction with other sources of information to make informed decisions.
+
+Thank you for your understanding and for helping us to improve this tool by providing feedback on your experiences and any issues you encounter.
