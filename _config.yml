@@ -134,5 +134,6 @@ defaults:
       permalink: "/fr/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
 
 phylo:
+  tool: https://phylogeny-tool.gbif.org
   treePath: /assets/phylotree/example.json
   template: /data?view=MAP&{query}
