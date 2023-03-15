@@ -5,9 +5,10 @@ categories: ["conferences"]
 lang-ref: ILC8
 lang: en
 background: /assets/images/ILC8_logo.png
-background-size: contain
+background-size: cover
 preTitle: 13 March 2023
 ---
+
 Early bird registration for the 8ILC is open until May 6th! Please check the conference [website](https://www.8ilc.com/) for online registration and additional information.
 
 The 8th International Legume Conference (8ILC) will take place from August 6 to 11 2023 in Piernópolis, Brazil.
