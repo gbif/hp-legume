@@ -4,9 +4,10 @@ date:   2023-03-13 09:20:00 +0100
 categories: ["conferences"]
 lang-ref: ILC8
 lang: en
-background: /assets/images/ILC8_logo.png
-background-size: cover
 preTitle: 13 March 2023
+background: /assets/images/ILC8_logo-small.png
+#background-size: cover
+
 ---
 
 Early bird registration for the 8ILC is open until May 6th! Please check the conference [website](https://www.8ilc.com/) for online registration and additional information.
