@@ -102,9 +102,9 @@ Genera indicated with an asterisk (\*\) are members of the mimosoid clade.
 | \*Albizia Durazz.   |[Legume Data Portal](/taxonomy/taxon/627218)|  [GBIF](https://www.gbif.org/species/2972897)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30017224-2)
 | \*Amblygonocarpus Harms   |[Legume Data Portal](/taxonomy/taxon/633310)|  [GBIF](https://www.gbif.org/species/2975851)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21622-1) 
 | \*Anadenanthera Speg.   |[Legume Data Portal](/taxonomy/taxon/635958)|  [GBIF](https://www.gbif.org/species/2952807)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296601-2)  
-| Anonychium (Benth.) Schweinf.   |[Legume Data Portal]|  [GBIF]  |[POWO]  
+| *Anonychium (Benth.) Schweinf.   |[Legume Data Portal]|  [GBIF]  |[POWO]  
 | Arapatiella Rizzini & A.Mattos   |[Legume Data Portal](/taxonomy/taxon/646625)|  [GBIF](https://www.gbif.org/species/2977715)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21709-1) 
-| Archidendron F.Muell.  |[Legume Data Portal](/taxonomy/taxon/646920)|  [GBIF](https://www.gbif.org/species/2941201)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21710-1)
+| *Archidendron F.Muell.  |[Legume Data Portal](/taxonomy/taxon/646920)|  [GBIF](https://www.gbif.org/species/2941201)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21710-1)
 | \*Archidendropsis I.C.Nielsen  |[Legume Data Portal](/taxonomy/taxon/647054)|  [GBIF](https://www.gbif.org/species/2975530)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:893260-1)  
 | Arcoa Urb.  |[Legume Data Portal](/taxonomy/taxon/647092)|  [GBIF](https://www.gbif.org/species/2945826)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296987-2)  
 | Arquita Gagnon, G.P.Lewis & C.E.Hughes| [Legume Data Portal](/taxonomy/taxon/1001573)| [GBIF](https://www.gbif.org/species/8238699)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77148630-1)
@@ -113,8 +113,8 @@ Genera indicated with an asterisk (\*\) are members of the mimosoid clade.
 | Balsamocarpon Clos  |[Legume Data Portal](/taxonomy/taxon/668317)|  [GBIF](https://www.gbif.org/species/2944316)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21771-1) 
 | Batesia Spruce ex Benth. & Hook.f.   |[Legume Data Portal](/taxonomy/taxon/671029)|  [GBIF](https://www.gbif.org/species/2965596)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21788-1) 
 | Biancaea Tod.   |[Legume Data Portal](/taxonomy/taxon/675691)|  [GBIF](https://www.gbif.org/species/7302381)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21809-1) 
-| Blanchetiodendron Barneby & J.W.Grimes   |[Legume Data Portal](/taxonomy/taxon/677130)|  [GBIF](https://www.gbif.org/species/2967009)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:989402-1)  
-| Boliviadendron E.R.Souza & C.E.Hughes   |[Legume Data Portal]|  [GBIF]  |[POWO] 
+| *Blanchetiodendron Barneby & J.W.Grimes   |[Legume Data Portal](/taxonomy/taxon/677130)|  [GBIF](https://www.gbif.org/species/2967009)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:989402-1)  
+| *Boliviadendron E.R.Souza & C.E.Hughes   |[Legume Data Portal]|  [GBIF]  |[POWO] 
 | Burkea Benth.   |[Legume Data Portal](/taxonomy/taxon/687337)|  [GBIF](https://www.gbif.org/species/7686165)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21874-1) 
 | Bussea Harms  |[Legume Data Portal](/taxonomy/taxon/687735)|  [GBIF](https://www.gbif.org/species/2977388)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21878-1) 
 | Caesalpinia Plum ex L.  |[Legume Data Portal](/taxonomy/taxon/689726)|  [GBIF](https://www.gbif.org/species/2958443)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30003203-2)  
@@ -128,7 +128,7 @@ Genera indicated with an asterisk (\*\) are members of the mimosoid clade.
 | Cenostigma Tul.   |[Legume Data Portal](/taxonomy/taxon/708555)|  [GBIF](https://www.gbif.org/species/2947114)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21965-1) 
 | Ceratonia L.  |[Legume Data Portal](/taxonomy/taxon/711130)|  [GBIF](https://www.gbif.org/species/3239857)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21972-1) 
 | Chamaecrista Moench   |[Legume Data Portal](/taxonomy/taxon/714614)|  [GBIF](https://www.gbif.org/species/2949492)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:329389-2)  
-| Chidlowia Hoyle   |[Legume Data Portal](/taxonomy/taxon/718064)|  [GBIF](https://www.gbif.org/species/2972894)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21995-1) 
+| *Chidlowia Hoyle   |[Legume Data Portal](/taxonomy/taxon/718064)|  [GBIF](https://www.gbif.org/species/2972894)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21995-1) 
 | \*Chloroleucon (Benth.) Britton & Rose  |[Legume Data Portal](/taxonomy/taxon/719196)|  [GBIF](https://www.gbif.org/species/8099375)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21999-1) 
 | \*Cojoba Britton & Rose   |[Legume Data Portal](/taxonomy/taxon/730514)|  [GBIF](https://www.gbif.org/species/2981327)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:297125-2) 
 | Colvillea Bojer ex Hook.  |[Legume Data Portal](/taxonomy/taxon/732213)|  [GBIF](https://www.gbif.org/species/2967934)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22069-1) 
@@ -155,15 +155,15 @@ Genera indicated with an asterisk (\*\) are members of the mimosoid clade.
 | \*Gagnebina Neck. ex DC.  |[Legume Data Portal](/taxonomy/taxon/815762)|  [GBIF](https://www.gbif.org/species/8061631)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30308295-2)  
 | Gelrebia Gagnon & G.P.Lewis  |[Legume Data Portal](/taxonomy/taxon/1010851)| [GBIF](https://www.gbif.org/species/9628233)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60473338-2)  
 | Gleditsia L.  |[Legume Data Portal](/taxonomy/taxon/826451)|  [GBIF](https://www.gbif.org/species/7396386)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30004026-2)  
-| Gretheria R.Duno & Torke  |[Legume Data Portal]|  [GBIF] |[POWO]  
+| *Gretheria R.Duno & Torke  |[Legume Data Portal]|  [GBIF] |[POWO]  
 | Guilandina L.   |[Legume Data Portal](/taxonomy/taxon/834881)|  [GBIF](https://www.gbif.org/species/6376699)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30026032-2)  
-| Gwilymia A.Lima, Paula-Souza & Scalon   |[Legume Data Portal]|  [GBIF]  |[POWO]
+| *Gwilymia A.Lima, Paula-Souza & Scalon   |[Legume Data Portal]|  [GBIF]  |[POWO]
 | Gymnocladus Lam.  |[Legume Data Portal](/taxonomy/taxon/835914)|  [GBIF](https://www.gbif.org/species/2944210)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22537-1) 
 | Haematoxylum L.   |[Legume Data Portal](/taxonomy/taxon/837497)|  [GBIF](https://www.gbif.org/species/2950902)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60452862-2)
 | \*Havardia Small  |[Legume Data Portal](/taxonomy/taxon/840291)|  [GBIF](https://www.gbif.org/species/2933839)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:298190-2)
-| Heliodendron Gill.K.Br. & Bayly  |[Legume Data Portal]| [GBIF]  |[POWO] 
+| *Heliodendron Gill.K.Br. & Bayly  |[Legume Data Portal]| [GBIF]  |[POWO] 
 | Hererolandia Gagnon & G.P.Lewis  |[Legume Data Portal](/taxonomy/taxon/1009478)| [GBIF](https://www.gbif.org/species/9552788)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77158009-1)  
-| Hesperalbizia Barneby & J.W.Grimes  |[Legume Data Portal]| [GBIF](https://www.gbif.org/species/2975858) |[POWO] 
+| *Hesperalbizia Barneby & J.W.Grimes  |[Legume Data Portal]| [GBIF](https://www.gbif.org/species/2975858) |[POWO] 
 | Heteroflorum M.Sousa   |[Legume Data Portal](/taxonomy/taxon/847977)|  [GBIF](https://www.gbif.org/species/7278527)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60438480-2) 
 | Hoffmannseggia Cav.   |[Legume Data Portal](/taxonomy/taxon/852192)|  [GBIF](https://www.gbif.org/species/5347489)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:331659-2)  
 | Hultholia Gagnon & G.P.Lewis   |[Legume Data Portal](/taxonomy/taxon/1009480)| [GBIF](https://www.gbif.org/species/9599254)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77158067-1)  
@@ -171,7 +171,7 @@ Genera indicated with an asterisk (\*\) are members of the mimosoid clade.
 | \*Indopiptadenia Brenan   |[Legume Data Portal](/taxonomy/taxon/864968)|  [GBIF](https://www.gbif.org/species/2949430)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22657-1) 
 | \*Inga Mill.  |[Legume Data Portal](/taxonomy/taxon/864988)|  [GBIF](https://www.gbif.org/species/2965936)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001555-2)  
 | Jacqueshuberia Ducke  |[Legume Data Portal](/taxonomy/taxon/331346)|  [GBIF](https://www.gbif.org/species/2943346)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:291635-2)  
-| Jupunba Britton & Rose|[Legume Data Portal](/taxonomy/taxon/331501)| [GBIF](https://www.gbif.org/species/7266089)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22687-1)
+| *Jupunba Britton & Rose|[Legume Data Portal](/taxonomy/taxon/331501)| [GBIF](https://www.gbif.org/species/7266089)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22687-1)
 | \*Kanaloa Lorence & K.R.Wood   |[Legume Data Portal](/taxonomy/taxon/336061)|  [GBIF](https://www.gbif.org/species/2961126)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:977791-1)  
 | \*Lachesiodendron P.G.Ribeiro, L.P.Queiroz & Luckow   |[Legume Data Portal](/taxonomy/taxon/1228432)| [GBIF](https://www.gbif.org/species/10580440) |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77178319-1)  
 | Lemurodendron Villiers & P.Guinet  |[Legume Data Portal](/taxonomy/taxon/351157)|  [GBIF](https://www.gbif.org/species/2959553)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:925219-1)  
@@ -182,9 +182,9 @@ Genera indicated with an asterisk (\*\) are members of the mimosoid clade.
 | \*Lysiloma Benth.   |[Legume Data Portal](/taxonomy/taxon/346727)|  [GBIF](https://www.gbif.org/species/2965788)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30038751-2)
 | \*Macrosamanea Britton & Rose ex Britton & Killip   |[Legume Data Portal](/taxonomy/taxon/366199)|  [GBIF](https://www.gbif.org/species/8425747)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22865-1) 
 | \*Mariosousa Seigler & Ebinger  |[Legume Data Portal](/taxonomy/taxon/604875)|  [GBIF](https://www.gbif.org/species/6362350)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60446089-2)  
-| Marlimorimia L.P.Queiroz, L.M.Borges, Marc.F.Simon & P.G.Ribeiro  |[Legume Data Portal]| [GBIF]  |[POWO] 
+| *Marlimorimia L.P.Queiroz, L.M.Borges, Marc.F.Simon & P.G.Ribeiro  |[Legume Data Portal]| [GBIF]  |[POWO] 
 | Melanoxylum Schott  ||  [GBIF](https://www.gbif.org/species/2945497)  |
-| Mezcala C.E.Hughes & J.L.Contr.  |[Legume Data Portal]| [GBIF]  |[POWO] 
+| *Mezcala C.E.Hughes & J.L.Contr.  |[Legume Data Portal]| [GBIF]  |[POWO] 
 | Mezoneuron Desf.  |[Legume Data Portal](/taxonomy/taxon/368055)|  [GBIF](https://www.gbif.org/species/2944261)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:50502721-1)
 | \*Microlobius C.Presl  |[Legume Data Portal](/taxonomy/taxon/367998)|  [GBIF](https://www.gbif.org/species/2964867)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22938-1)
 | \*Mimosa L.   |[Legume Data Portal](/taxonomy/taxon/374559)|  [GBIF](https://www.gbif.org/species/2969235)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001613-2)  
@@ -192,11 +192,11 @@ Genera indicated with an asterisk (\*\) are members of the mimosoid clade.
 | Moldenhawera Schrad.  |[Legume Data Portal](/taxonomy/taxon/373830)|  [GBIF](https://www.gbif.org/species/2976897)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30027278-2)  
 | Mora R.H.Schomb. ex Benth.  |[Legume Data Portal](/taxonomy/taxon/374003)|  [GBIF](https://www.gbif.org/species/2960422)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22970-1)
 | Moullava Adans.  |[Legume Data Portal](/taxonomy/taxon/374008)|  [GBIF](https://www.gbif.org/species/2941154)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:20124-1)
-| Naiadendron A.G.Lima, Paula-Souza & Scalon  |[Legume Data Portal]| [GBIF]  |[POWO] 
-| Neltuma Raf.  |[Legume Data Portal]| [GBIF](https://www.gbif.org/species/7302311)  |[POWO] 
+| *Naiadendron A.G.Lima, Paula-Souza & Scalon  |[Legume Data Portal]| [GBIF]  |[POWO] 
+| *Neltuma Raf.  |[Legume Data Portal]| [GBIF](https://www.gbif.org/species/7302311)  |[POWO] 
 | \*Neptunia Lour. |[Legume Data Portal](/taxonomy/taxon/383225)|  [GBIF](https://www.gbif.org/species/7599660)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30003917-2)  
 | \*Newtonia Baill.   |[Legume Data Portal](/taxonomy/taxon/383110)|  [GBIF](https://www.gbif.org/species/2493225)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:328165-2)
-| Osodendron E.J.M.Koenen  |[Legume Data Portal]| [GBIF]  |[POWO] 
+| *Osodendron E.J.M.Koenen  |[Legume Data Portal]| [GBIF]  |[POWO] 
 | Pachyelasma Harms   |[Legume Data Portal](/taxonomy/taxon/532035)|  [GBIF](https://www.gbif.org/species/2944796)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23119-1) 
 | \*Painteria Britton & Rose  |[Legume Data Portal](/taxonomy/taxon/531776)|  [GBIF](https://www.gbif.org/species/2981421)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296882-2)  
 | \*Parapiptadenia Brenan   |[Legume Data Portal](/taxonomy/taxon/531830)|  [GBIF](https://www.gbif.org/species/2941626)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23146-1) 
@@ -217,17 +217,17 @@ Genera indicated with an asterisk (\*\) are members of the mimosoid clade.
 | Pomaria Cav.  |[Legume Data Portal](/taxonomy/taxon/415205)|  [GBIF](https://www.gbif.org/species/2944606)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:327190-2)  
 | \*Prosopidastrum Burkart  |[Legume Data Portal](/taxonomy/taxon/536381)|  [GBIF](https://www.gbif.org/species/2950867)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:290909-2) 
 | \*Prosopis L.   ||  [GBIF](https://www.gbif.org/species/2970763)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23337-1) 
-| Pseudalbizzia Britton & Rose  |[Legume Data Portal]| [GBIF](https://www.gbif.org/species/7266081)  |[POWO] 
+| *Pseudalbizzia Britton & Rose  |[Legume Data Portal]| [GBIF](https://www.gbif.org/species/7266081)  |[POWO] 
 | \*Pseudopiptadenia Rauschert  |[Legume Data Portal](/taxonomy/taxon/535177)|  [GBIF](https://www.gbif.org/species/2952898)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:893571-1)  
 | \*Pseudoprosopis Harms  |[Legume Data Portal](/taxonomy/taxon/535178)|  [GBIF](https://www.gbif.org/species/2945480)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23356-1)
-| Pseudosamanea Harms|[Legume Data Portal](/taxonomy/taxon/535189)| [GBIF](https://www.gbif.org/species/8107622)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:290970-2)
+| *Pseudosamanea Harms|[Legume Data Portal](/taxonomy/taxon/535189)| [GBIF](https://www.gbif.org/species/8107622)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:290970-2)
 | \*Pseudosenegalia Siegler & Ebinger   |[Legume Data Portal](/taxonomy/taxon/1229190)| [GBIF](https://www.gbif.org/species/9755243)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77175806-1)  
 | Pterogyne Tul.  |[Legume Data Portal](/taxonomy/taxon/535404)|  [GBIF](https://www.gbif.org/species/7723364)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23382-1) 
 | Pterolobium R.Br. ex Wight & Arn.   |[Legume Data Portal](/taxonomy/taxon/535401)|  [GBIF](https://www.gbif.org/species/2965677)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:12962-1) 
 | \*Punjuba Britton & Rose  |[Legume Data Portal](/taxonomy/taxon/537531)|  [GBIF](https://www.gbif.org/species/7266077)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23399-1) 
 | Recordoxylon Ducke  |[Legume Data Portal](/taxonomy/taxon/419212)|  [GBIF](https://www.gbif.org/species/2947775)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:295532-2)
-| Ricoa Duno & Torke  |[Legume Data Portal]| [GBIF]  |[POWO] 
-| Robrichia (Barneby & J.W.Grimes) A.R.M.Luz & E.R.Souza  |[Legume Data Portal]| [GBIF]  |[POWO] 
+| *Ricoa Duno & Torke  |[Legume Data Portal]| [GBIF]  |[POWO] 
+| *Robrichia (Barneby & J.W.Grimes) A.R.M.Luz & E.R.Souza  |[Legume Data Portal]| [GBIF]  |[POWO] 
 | \*Samanea (Benth.) Merr.  |[Legume Data Portal](/taxonomy/taxon/592051)|  [GBIF](https://www.gbif.org/species/2971208)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:295968-2) 
 | \*Sanjappa E.R.Souza & Krishnaraj   |[Legume Data Portal](/taxonomy/taxon/1010301)| [GBIF](https://www.gbif.org/species/9651340)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77159216-1)  
 | Schizolobium Vogel  |[Legume Data Portal](/taxonomy/taxon/591757)|  [GBIF](https://www.gbif.org/species/2945452)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30031961-2)
@@ -238,10 +238,10 @@ Genera indicated with an asterisk (\*\) are members of the mimosoid clade.
 | \*Sphinga Barneby & J.W.Grimes   |[Legume Data Portal](/taxonomy/taxon/596766)|  [GBIF](https://www.gbif.org/species/2977787)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:989420-1)  
 | Stachyothyrsus Harms  |[Legume Data Portal](/taxonomy/taxon/596714)|  [GBIF](https://www.gbif.org/species/2970924)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23606-1)
 | Stenodrepanum Harms   |[Legume Data Portal](/taxonomy/taxon/491309)|  [GBIF](https://www.gbif.org/species/2950894)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296639-2)  
-| Strombocarpa Engelm. & A.Gray  |[Legume Data Portal]| [GBIF]  |[POWO] 
+| *Strombocarpa Engelm. & A.Gray  |[Legume Data Portal]| [GBIF]  |[POWO] 
 | \*Stryphnodendron Mart.   |[Legume Data Portal](/taxonomy/taxon/596914)|  [GBIF](https://www.gbif.org/species/2951701)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23633-1) 
 | Stuhlmannia Taub.   |[Legume Data Portal](/taxonomy/taxon/597019)|  [GBIF](https://www.gbif.org/species/3267615)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23634-1) 
-| Sympetalandra Stapf   |[Legume Data Portal](/taxonomy/taxon/598634)|  [GBIF](https://www.gbif.org/species/2947764)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23649-1)
+| *Sympetalandra Stapf   |[Legume Data Portal](/taxonomy/taxon/598634)|  [GBIF](https://www.gbif.org/species/2947764)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23649-1)
 | Tachigali Aubl.   |[Legume Data Portal](/taxonomy/taxon/444761)|  [GBIF](https://www.gbif.org/species/2945125)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30007737-2)
 | Tara Molina   |[Legume Data Portal](/taxonomy/taxon/444688)|  [GBIF](https://www.gbif.org/species/6376667)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23660-1) 
 | \*Tetrapleura Benth.  |[Legume Data Portal](/taxonomy/taxon/443843)|  [GBIF](https://www.gbif.org/species/1522925)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23685-1)
