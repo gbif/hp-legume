@@ -51,7 +51,7 @@ siteMeasurements:
 
 algae:
   rootLang: en
-  latestPostLimit: 3
+  latestPostLimit: 6
   logo: /assets/images/logo_banner_transparentbg.png  # Logo in navbar, will be displayed with 28px height
   logoAndTitle: false           # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
