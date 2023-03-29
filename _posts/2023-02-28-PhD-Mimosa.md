@@ -6,6 +6,7 @@ lang-ref: PhDMimosa
 lang: en
 background: /assets/images/Mimosa_oedoclada-Barneby.jpg
 preTitle: 28 February 2023
+thumbnail: /images/março2012_175.jpg
 ---
 
 The Taxonomy and Evolution of Plants lab ([TaxEP](www.taxep.ufscar.br/)) at the Federal University of São Carlos, Brazil, has two openings for PhD candidates who are interested in bridging morphological diversity, modularity and integration for the study of plant evolution. The positions are part of the research project **"The role of modularity and integration in the evolution of plant morphological diversity"**, led by Leonardo Borges, one of the coordinators of the Traits Working Group, and funded by [FAPESP](https://fapesp.br/en).
