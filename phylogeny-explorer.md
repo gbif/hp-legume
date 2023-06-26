@@ -36,10 +36,40 @@ composition:
 
 ## About this tool
 
-Thank you for using our tool to explore phylogenies, occurrence data from GBIF, and geography. We would like to remind you that this tool is still an experiment, and as such, there may be some limitations and potential errors in the data and functionality.
+We use the recent Ringelberg et al. 2023 phylogeny and match GBIF occurrence data to the tree.  The visualization tool matched the tree tip terminals and some internal nodes to the GBIF taxonomy.  We then use the taxonomic match to map occurrence data from GBIF for that taxon.  For an individual species this is identical to a species map on GBIF.org.  The novelty is that an entire clade can be mapped with a single click and that multiple clades, such as sister clades, can be mapped in different colors.  We have included several tools to navigate the tree, change maps views and colors and to download the resulting occurrences from a clade
 
-Please be aware that the results you obtain from this tool should be considered preliminary and subject to change as we continue to refine and improve the tool. We are continuously working to improve the accuracy and reliability of the data and functionality, but we cannot guarantee that the information you obtain from this tool is entirely error-free.
+How to use?
 
-Furthermore, while we strive to provide the most up-to-date and accurate information available, the data we use is subject to potential biases and inaccuracies inherent in the sources we draw from. We recommend that you carefully consider the results and interpretations you obtain from this tool and use them in conjunction with other sources of information to make informed decisions.
+First, we suggest using a full-screen on a large monitor. It works on my iphone but we don’t recommend the experience.  Larger phylogenies are more difficult to navigate.   
 
-Thank you for your understanding and for helping us to improve this tool by providing feedback on your experiences and any issues you encounter.
+We recommend using the sizing menu to best fit the tree to your screen.  “L” works best for me with this tree on my Macbook screen.  The tip labels may not show up on the tree until you choose a larger size and zoom in.
+ 
+When you hover over a tip or node the tips are highlighted and the tip label or range will float in a black box in the lower left.  This will help navigating later. 
+
+Use the Search Tree Box. Type in a species binomial or a genus name, that you think is in the tree and choose the selection as it appears. Try typing Erythrophleum into the box as it has an interesting distribution.  Choose one of the two species that it recognizes from the search. The tree will move to show that species in a box. Click on the circle to the left of the name and its distribution will be displayed on the map. 
+
+After clicking a line with a color circle and icons will appear in a table under the map. Click on the color circle to change color.
+
+This tool is often the most valuable investigating sister species occurrences relationships. Now go back to the tree and click on the other Erythrophleum species. Its distributkon will show up with a different color and a second line will appear in the table.
+
+Now click on the circle at the node that contains the two Erythrophleum species. Now a third line will occur in the table. This will be labeled by the top and bottom species in the clade as seen in the tree; however, but the dots on the map did not change color. Now hover the cursor over the three horizontal lines in front of this new line in the table. A hand will appear and you can click and slide this line to the top of the table. Watch how the color changes on the map. Also see the that there are three colors on the phylogeny, each representing the taxa in the table.
+
+That is a brief overview of the basic functionality. Click around and have fun.
+
+Legend for the Table
+•	The three lines: Change the layer order of the dots. Move a clade to better view as many dots may be on top of each other.
+•	Color: change the color of dots. Please remember that there is also limit to the number of colors that can be displayed (or recognized by our eyes).
+•	Eye: hide or unhide that selection on the map
+•	Wire diagram: Move the tree to that clade.  This helps if you get lost.
+•	Funnel: takes this clade and shows them on the legume portal map for further investigation and download.
+•	Clade: name of clade or the bounding species in the phylogeny
+
+Other notes
+•	Mulitple nodes can be selected – even non-sister nodes 
+•	If you select a node that has more than 200 species you will receive a waring message that only the first 200 will show on the map, please choose a smaller node or be aware that not all are mapped. There is also limit to the number of colors that can be displayed (or recognized by our eyes).
+•	This visualization only maps the species that are in the tree. It does not impute other species that are part of the genus but not in the tree. There are some exceptions to this rule.  I have coded a few genera such as Acacia, were coded in at nodes. If you click on that node you get all the species of that node not just the ones in the tree.  In this case it is using GBIF taxonomic hierarchy not the tree hierarchy.  We are investigating how we can make these internal nodes stand out from the others.
+•	On the map: There are four baselayers, try them out. Zoom in and  out as you normally would, either with the +/- or your mouse.
+
+Thank you for your understanding and for helping us to improve this tool by providing feedback on your experiences and any issues you encounter. Thanks to Morten Høfft and Thomas Stjernegaard Jeppesen of the GBIF Secretariat for programing.  Please write jmiller@gbif.org if you have any comments or ideas.
+
+
