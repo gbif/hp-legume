@@ -2,8 +2,10 @@
 
 - text: About
   href: /about
-- text: Data
+- text: Occurrences
   href: /data?view=MAP
+- text: Phylogeny
+  href: /phylogeny-explorer.md
 - text: Taxonomy
   href: /taxonomy
   menu: #Dropdown menu
