@@ -36,9 +36,9 @@ composition:
 
 ## About this tool
 
-We use the recent Ringelberg et al. 2023 phylogeny and match GBIF occurrence data to the tree.  The visualization tool matched the tree tip terminals and some internal nodes to the GBIF taxonomy.  We then use the taxonomic match to map occurrence data from GBIF for that taxon.  For an individual species this is identical to a species map on GBIF.org.  The novelty is that an entire clade can be mapped with a single click and that multiple clades, such as sister clades, can be mapped in different colors.  We have included several tools to navigate the tree, change maps views and colors and to download the resulting occurrences from a clade
+We use the recent [Ringelberg et al. 2023](https://www.science.org/doi/10.1126/sciadv.ade4954) phylogeny and match GBIF occurrence data to the tree.  The visualization tool matched the tree tip terminals and some internal nodes to the GBIF taxonomy.  We then use the taxonomic match to map occurrence data from GBIF for that taxon.  For an individual species this is identical to a species map on GBIF.org.  The novelty is that an entire clade can be mapped with a single click and that multiple clades, such as sister clades, can be mapped in different colors.  We have included several tools to navigate the tree, change maps views and colors and to download the resulting occurrences from a clade
 
-How to use?
+## How to use?
 
 First, we suggest using a full-screen on a large monitor. It works on my iphone but we don’t recommend the experience.  Larger phylogenies are more difficult to navigate.   
 
@@ -56,19 +56,19 @@ Now click on the circle at the node that contains the two Erythrophleum species.
 
 That is a brief overview of the basic functionality. Click around and have fun.
 
-Legend for the Table
-•	The three lines: Change the layer order of the dots. Move a clade to better view as many dots may be on top of each other.
-•	Color: change the color of dots. Please remember that there is also limit to the number of colors that can be displayed (or recognized by our eyes).
-•	Eye: hide or unhide that selection on the map
-•	Wire diagram: Move the tree to that clade.  This helps if you get lost.
-•	Funnel: takes this clade and shows them on the legume portal map for further investigation and download.
-•	Clade: name of clade or the bounding species in the phylogeny
+## Legend for the Table
+- The three lines: Change the layer order of the dots. Move a clade to better view as many dots may be on top of each other.
+- Color: change the color of dots. Please remember that there is also limit to the number of colors that can be displayed (or recognized by our eyes).
+- Eye: hide or unhide that selection on the map
+- Wire diagram: Move the tree to that clade.  This helps if you get lost.
+- Funnel: takes this clade and shows them on the legume portal map for further investigation and download.
+ -Clade: name of clade or the bounding species in the phylogeny
 
-Other notes
-•	Mulitple nodes can be selected – even non-sister nodes 
-•	If you select a node that has more than 200 species you will receive a waring message that only the first 200 will show on the map, please choose a smaller node or be aware that not all are mapped. There is also limit to the number of colors that can be displayed (or recognized by our eyes).
-•	This visualization only maps the species that are in the tree. It does not impute other species that are part of the genus but not in the tree. There are some exceptions to this rule.  I have coded a few genera such as Acacia, were coded in at nodes. If you click on that node you get all the species of that node not just the ones in the tree.  In this case it is using GBIF taxonomic hierarchy not the tree hierarchy.  We are investigating how we can make these internal nodes stand out from the others.
-•	On the map: There are four baselayers, try them out. Zoom in and  out as you normally would, either with the +/- or your mouse.
+## Other notes
+- Mulitple nodes can be selected – even non-sister nodes 
+-	If you select a node that has more than 200 species you will receive a waring message that only the first 200 will show on the map, please choose a smaller node or be aware that not all are mapped. There is also limit to the number of colors that can be displayed (or recognized by our eyes).
+-	This visualization only maps the species that are in the tree. It does not impute other species that are part of the genus but not in the tree. There are some exceptions to this rule.  I have coded a few genera such as Acacia, were coded in at nodes. If you click on that node you get all the species of that node not just the ones in the tree.  In this case it is using GBIF taxonomic hierarchy not the tree hierarchy.  We are investigating how we can make these internal nodes stand out from the others.
+-	On the map: There are four baselayers, try them out. Zoom in and  out as you normally would, either with the +/- or your mouse.
 
 Thank you for your understanding and for helping us to improve this tool by providing feedback on your experiences and any issues you encounter. Thanks to Morten Høfft and Thomas Stjernegaard Jeppesen of the GBIF Secretariat for programing.  Please write jmiller@gbif.org if you have any comments or ideas.
 
