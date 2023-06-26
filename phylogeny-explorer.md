@@ -4,7 +4,7 @@ lang: en
 lang-ref: phylogeny-explorer
 title: Phylogeny explorer
 description: |
-  This tool allows the user to explore legume phylogeny in combination with occurrence data from GBIF, and geography. We would like to remind you that this tool is still an experiment, and as such, there may be some limitations and potential errors in the data and functionality.
+  This tool allows the user to explore legume phylogeny in combination with occurrence data from GBIF.  This tool is still an experiment, and as such, there may be some limitations and potential errors in the data and functionality.
   <div class="feature-cta">
     <a href="#about-this-tool" class="button is-primary" style="text-decoration: none;">Learn more</a>
     <button class="button" onClick="openWidgetInFullscreen()">Fullscreen</button>
