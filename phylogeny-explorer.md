@@ -57,12 +57,14 @@ Now click on the circle at the node that contains the two Erythrophleum species.
 That is a brief overview of the basic functionality. Click around and have fun.
 
 ## Legend for the Table
-- The three lines: Change the layer order of the dots. Move a clade to better view as many dots may be on top of each other.
-- Color: change the color of dots. Please remember that there is also limit to the number of colors that can be displayed (or recognized by our eyes).
-- Eye: hide or unhide that selection on the map
-- Wire diagram: Move the tree to that clade.  This helps if you get lost.
-- Funnel: takes this clade and shows them on the legume portal map for further investigation and download.
- -Clade: name of clade or the bounding species in the phylogeny
+
+{: .legend-prose}
+- {% include icon-burger.html %} : Change the layer order of the dots. Move a clade to better view as many dots may be on top of each other.
+- {% include icon-color.html %} : change the color of dots. Please remember that there is also limit to the number of colors that can be displayed (or recognized by our eyes).
+- {% include icon-eye.html %} : hide or unhide that selection on the map
+- {% include icon-nodes.html %} : Move the tree to that clade.  This helps if you get lost.
+- {% include icon-funnel.html %} : takes this clade and shows them on the legume portal map for further investigation and download.
+- Clade: name of clade or the bounding species in the phylogeny
 
 ## Other notes
 - Mulitple nodes can be selected – even non-sister nodes 

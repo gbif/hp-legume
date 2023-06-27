@@ -35,3 +35,23 @@ $navbar-breakpoint: 1150px;
     padding: 0;
   }
 }
+
+.legend-prose {
+  p {
+    display: inline;
+  }
+  svg {
+    top: 3px;
+    position: relative;
+  }
+  .legend-prose-color {
+    width: 1em;
+    height: 1em;
+    border: 1px solid #333;
+    background: white;
+    display: inline-block;
+    border-radius: 50%;
+    position: relative;
+    top: 3px;
+  }
+}
