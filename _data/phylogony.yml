@@ -1,4 +1,4 @@
 trees:
-  example1: /assets/phylotree/example.json
-  example2: /assets/phylotree/hippocampus.json
-  example2: /assets/phylotree/legume.json
+  example: /assets/phylotree/example.json
+  hippocampus: /assets/phylotree/hippocampus.json
+  legume: /assets/phylotree/legume.json
