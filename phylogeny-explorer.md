@@ -17,6 +17,15 @@ composition:
     inlineData: 
       klass: iframe-box
       markdownContent: |
+        {: .button }
+        [example1](?tree=example1)
+        
+        {: .button }
+        [something else](?tree=example2)
+        
+        {: .button }
+        [and a third](?tree=example3)
+
         <iframe id="phylotreeiframe" seamless frameborder="150" src="{{ site.phylo.tool }}/explore?explore={{ site.url | url_encode}}{{ data.phylogony.example1 | url_encode}}&template={{ site.url | url_encode}}{{ site.phylo.template | url_encode}}" height = '790' width="1370" style="height: calc(100vh - 68px);" scrolling='yes' ></iframe> 
   - type: pageMarkdown
 ---
@@ -44,9 +53,6 @@ composition:
     }
   }
 </script>
-
-{:button}
-[other tree](?tree=example2)
 
 ## About this tool
 
