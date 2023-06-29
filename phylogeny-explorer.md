@@ -17,12 +17,23 @@ composition:
     inlineData: 
       klass: iframe-box
       markdownContent: |
-        <iframe id="phylotreeiframe" seamless frameborder="150" src="{{ site.phylo.tool }}/explore?explore={{ site.url | url_encode}}{{ site.phylo.treePath | url_encode}}&template={{ site.url | url_encode}}{{ site.phylo.template | url_encode}}" height = '790' width="1370" style="height: calc(100vh - 68px);" scrolling='yes' ></iframe> 
+        <iframe id="phylotreeiframe" seamless frameborder="150" src="{{ site.phylo.tool }}/explore?explore={{ site.url | url_encode}}{{ data.phylogony.example1 | url_encode}}&template={{ site.url | url_encode}}{{ site.phylo.template | url_encode}}" height = '790' width="1370" style="height: calc(100vh - 68px);" scrolling='yes' ></iframe> 
   - type: pageMarkdown
 ---
 
 <script>
-  var elem = document.getElementById("phylotreeiframe");
+  function setIframeTree(name) {
+    var treeOptions = {{ site.data.phylogony.trees | jsonify }};
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    var tree = urlParams.get('tree');
+    const treePath = treeOptions[name || tree] || "{{ site.phylo.treePath }}";
+    var elem = document.getElementById("phylotreeiframe");
+    const src = "{{ site.phylo.tool }}/explore?explore={{ site.url | url_encode}}" + encodeURIComponent(treePath) + "&template={{ site.url | url_encode}}{{ site.phylo.template | url_encode}}";
+    elem.src = src;
+  }
+  setIframeTree();
+
   function openWidgetInFullscreen() {
     if (elem.requestFullscreen) {
       elem.requestFullscreen();
@@ -33,6 +44,9 @@ composition:
     }
   }
 </script>
+
+{:button}
+[other tree](?tree=example2)
 
 ## About this tool
 
