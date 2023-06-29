@@ -18,13 +18,13 @@ composition:
       klass: iframe-box
       markdownContent: |
         {: .button }
-        [example1](?tree=example)
+        [example - Pararchidendroncercis](?tree=example)
         
         {: .button }
-        [something else](?tree=hippocampus)
+        [hippocampus - BOLD:AAF0603](?tree=hippocampus)
         
         {: .button }
-        [and a third](?tree=legume)
+        [legume - Cercis](?tree=legume)
 
         <iframe id="phylotreeiframe" seamless frameborder="150" src="{{ site.phylo.tool }}/explore?explore={{ site.url | url_encode}}{{ site.phylogony.treePath | url_encode}}&template={{ site.url | url_encode}}{{ site.phylo.template | url_encode}}" height = '790' width="1370" style="height: calc(100vh - 68px);" scrolling='yes' ></iframe> 
   - type: pageMarkdown
