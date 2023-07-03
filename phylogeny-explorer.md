@@ -62,8 +62,8 @@ Tree         | Clade              | Publication     | GBIF dataset  |   OpenTre
 [1-Ringelberg-2023](?tree=1-Ringelberg-2023) | Fabaceae | [Publication](https://www.science.org/doi/10.1126/sciadv.ade4954)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/ot_2227/?tab=home)
 [2-Azani-2017](?tree=2-Azani-2017) | Fabaceae | [Publication](https://onlinelibrary.wiley.com/doi/abs/10.12705/661.3)    | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/ot_1050/?tab=home)
 [3-Cardoso-2012](?tree=3-Cardoso-2012) | Fabaceae | [Publication](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.1200380)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_2057/?tab=home)
-[4-Simon-2011](?tree=4-Simon-2011) | Mimosa | Publication     | GBIF dataset          |   OpenTree Study
-[5-Mishler-2014](?tree=5-Mishler-2014) | Acacia | Publication     | GBIF dataset          |   OpenTree Study
+[4-Simon-2011](?tree=4-Simon-2011) | Mimosa | [Publication](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.1000520)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_293/?tab=home)
+[5-Mishler-2014](?tree=5-Mishler-2014) | Acacia | [Publication](https://www.nature.com/articles/ncomms5473)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/ot_303/?tab=home)
 [7-Achimon-2018](?tree=7-Achimon-2018) | Anarthrophyllum | Publication     | GBIF dataset          |   OpenTree Study
 [10-Delgado-Salinas](?tree=10-Delgado-Salinas) | Fabaceae | Publication     | GBIF dataset          |   OpenTree Study
 [11-Farruggia-2011](?tree=11-Farruggia-2011) | Fabaceae | Publication     | GBIF dataset          |   OpenTree Study
