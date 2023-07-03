@@ -59,7 +59,7 @@ composition:
 
 Tree         | Clade              | Publication     | GBIF dataset  |   OpenTree Study
 -------------|------------------- |------------     |-------------  |--------------- 
-[1-Ringelberg-2023](?tree=1-Ringelberg-2023) | Fabaceae | Publication     | GBIF dataset          |   OpenTree Study
+[1-Ringelberg-2023](?tree=1-Ringelberg-2023) | Fabaceae | [Publication](https://www.science.org/doi/10.1126/sciadv.ade4954)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/ot_2227/?tab=home)
 [2-Azani-2017](?tree=2-Azani-2017) | Fabaceae | Publication     | GBIF dataset          |   OpenTree Study
 [3-Cardoso-2012](?tree=3-Cardoso-2012) | Fabaceae | Publication     | GBIF dataset          |   OpenTree Study
 [4-Simon-2011](?tree=4-Simon-2011) | Mimosa | Publication     | GBIF dataset          |   OpenTree Study
