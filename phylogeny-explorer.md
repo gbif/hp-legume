@@ -72,10 +72,10 @@ Tree         | Clade              | Publication     | GBIF dataset  |   OpenTre
 [14-Cardosa-2012](?tree=14-Cardosa-2012) | Bowdichia | [Publication](https://www.ingentaconnect.com/content/iapt/tax/2012/00000061/00000005/art00012)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_2055/?tab=home)
 [15-Boatwright-2008](?tree=15-Boatwright-2008) | Crotalarieae | [Publication](https://www.ingentaconnect.com/content/aspt/sb/2008/00000033/00000004/art00013)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_58/?tab=home)
 [16-Ramos-2016](?tree=16-Ramos-2016) | Aldina | [Publication](https://www.sciencedirect.com/science/article/pii/S1055790315003966?via%3Dihub)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/ot_1443/?tab=home)
-[17-Schutte-Vlok-2011](?tree=17-Schutte-Vlok-2011) | Podalyria | Publication     | GBIF dataset          |   OpenTree Study
-[22-Schire-2009](?tree=22-Schire-2009) | Indigofereae | Publication     | GBIF dataset          |   OpenTree Study
-[23-Sinou-2020](?tree=23-Sinou-2020) | Cercidoideae | Publication     | GBIF dataset          |   OpenTree Study
-[24-Simpson-2006](?tree=24-Simpson-2006) | Pomaria | Publication     | GBIF dataset          |   OpenTree Study
+[17-Schutte-Vlok-2011](?tree=17-Schutte-Vlok-2011) | Podalyria | [Publication](https://www.ingentaconnect.com/content/aspt/sb/2011/00000036/00000003/art00011)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_2077/?tab=home)
+[22-Schire-2009](?tree=22-Schire-2009) | Indigofereae | [Publication](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.0800185)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_270/?tab=home)
+[23-Sinou-2020](?tree=23-Sinou-2020) | Cercidoideae | [Publication](https://onlinelibrary.wiley.com/doi/10.1002/tax.12207)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/ot_1987/?tab=home)
+[24-Simpson-2006](?tree=24-Simpson-2006) | Pomaria | [Publication](https://www.ingentaconnect.com/content/aspt/sb/2006/00000031/00000004/art00011)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_138/?tab=home)
 
 ## About this tool
 
