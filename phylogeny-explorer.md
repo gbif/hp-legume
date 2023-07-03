@@ -57,25 +57,25 @@ composition:
 
 ## Untested example files
 
-Tree         | Description
--------------|-------------------
-[1-Ringelberg-2023](?tree=1-Ringelberg-2023) | Some description could go here
-[2-Azani-2017](?tree=2-Azani-2017) | Some description could go here
-[3-Cardoso-2012](?tree=3-Cardoso-2012) | Some description could go here
-[4-Simon-2011](?tree=4-Simon-2011) | Some description could go here
-[5-Mishler-2014](?tree=5-Mishler-2014) | Some description could go here
-[7-Achimon-2018](?tree=7-Achimon-2018) | Some description could go here
-[10-Delgado-Salinas](?tree=10-Delgado-Salinas) | Some description could go here
-[11-Farruggia-2011](?tree=11-Farruggia-2011) | Some description could go here
-[12-Sousa-2013](?tree=12-Sousa-2013) | Some description could go here
-[13-Saslis-Lagoudakis](?tree=13-Saslis-Lagoudakis) | Some description could go here
-[14-Cardosa-2012](?tree=14-Cardosa-2012) | Some description could go here
-[15-Boatwright-2008](?tree=15-Boatwright-2008) | Some description could go here
-[16-Ramos-2016](?tree=16-Ramos-2016) | Some description could go here
-[17-Schutte-Vlok-2011](?tree=17-Schutte-Vlok-2011) | Some description could go here
-[22-Schire-2009](?tree=22-Schire-2009) | Some description could go here
-[23-Sinou-2020](?tree=23-Sinou-2020) | Some description could go here
-[24-Simpson-2006](?tree=24-Simpson-2006) | Some description could go here
+Tree         | Clade              | Publication     | GBIF dataset  |   OpenTree Study
+-------------|------------------- |------------     |-------------  |--------------- 
+[1-Ringelberg-2023](?tree=1-Ringelberg-2023) | Some | Publication     | GBIF dataset          |   OpenTree Study
+[2-Azani-2017](?tree=2-Azani-2017) | Some | Publication     | GBIF dataset          |   OpenTree Study
+[3-Cardoso-2012](?tree=3-Cardoso-2012) | Some | Publication     | GBIF dataset          |   OpenTree Study
+[4-Simon-2011](?tree=4-Simon-2011) | Some | Publication     | GBIF dataset          |   OpenTree Study
+[5-Mishler-2014](?tree=5-Mishler-2014) | Some | Publication     | GBIF dataset          |   OpenTree Study
+[7-Achimon-2018](?tree=7-Achimon-2018) | Some | Publication     | GBIF dataset          |   OpenTree Study
+[10-Delgado-Salinas](?tree=10-Delgado-Salinas) | Some | Publication     | GBIF dataset          |   OpenTree Study
+[11-Farruggia-2011](?tree=11-Farruggia-2011) | Some | Publication     | GBIF dataset          |   OpenTree Study
+[12-Sousa-2013](?tree=12-Sousa-2013) | Some | Publication     | GBIF dataset          |   OpenTree Study
+[13-Saslis-Lagoudakis](?tree=13-Saslis-Lagoudakis) | Some | Publication     | GBIF dataset          |   OpenTree Studye
+[14-Cardosa-2012](?tree=14-Cardosa-2012) | Some | Publication     | GBIF dataset          |   OpenTree Study
+[15-Boatwright-2008](?tree=15-Boatwright-2008) | Some | Publication     | GBIF dataset          |   OpenTree Study
+[16-Ramos-2016](?tree=16-Ramos-2016) | Some | Publication     | GBIF dataset          |   OpenTree Study
+[17-Schutte-Vlok-2011](?tree=17-Schutte-Vlok-2011) | Some | Publication     | GBIF dataset          |   OpenTree Study
+[22-Schire-2009](?tree=22-Schire-2009) | Some | Publication     | GBIF dataset          |   OpenTree Study
+[23-Sinou-2020](?tree=23-Sinou-2020) | Some | Publication     | GBIF dataset          |   OpenTree Study
+[24-Simpson-2006](?tree=24-Simpson-2006) | Some | Publication     | GBIF dataset          |   OpenTree Study
 
 ## About this tool
 
