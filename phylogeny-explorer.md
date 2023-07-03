@@ -65,8 +65,8 @@ Tree         | Clade              | Publication     | GBIF dataset  |   OpenTre
 [4-Simon-2011](?tree=4-Simon-2011) | Mimosa | [Publication](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.1000520)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_293/?tab=home)
 [5-Mishler-2014](?tree=5-Mishler-2014) | Acacia | [Publication](https://www.nature.com/articles/ncomms5473)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/ot_303/?tab=home)
 [7-Achimon-2018](?tree=7-Achimon-2018) | Anarthrophyllum | [Publication](https://link.springer.com/article/10.1007/s13127-017-0355-1)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/ot_1228/?tab=home)
-[10-Delgado-Salinas](?tree=10-Delgado-Salinas) | Fabaceae | Publication     | GBIF dataset          |   OpenTree Study
-[11-Farruggia-2011](?tree=11-Farruggia-2011) | Fabaceae | Publication     | GBIF dataset          |   OpenTree Study
+[10-Delgado-Salinas](?tree=10-Delgado-Salinas) | Fabaceae | [Publication](https://bsapubs.onlinelibrary.wiley.com/doi/10.3732/ajb.1100069)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_548/?tab=home)
+[11-Farruggia-2011](?tree=11-Farruggia-2011) | Fabaceae | [Publication](https://link.springer.com/article/10.1007/s12228-011-9189-x)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_590/?tab=home)
 [12-Sousa-2013](?tree=12-Sousa-2013) | Calliandra | Publication     | GBIF dataset          |   OpenTree Study
 [13-Saslis-Lagoudakis](?tree=13-Saslis-Lagoudakis) | Fabaceae | Publication     | GBIF dataset          |   OpenTree Studye
 [14-Cardosa-2012](?tree=14-Cardosa-2012) | Bowdichia | Publication     | GBIF dataset          |   OpenTree Study
