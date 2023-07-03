@@ -4,8 +4,6 @@
   href: /about
 - text: Occurrences
   href: /data?view=MAP
-- text: Phylogeny
-  href: /phylogeny-explorer
 - text: Taxonomy
   href: /taxonomy
   menu: #Dropdown menu
@@ -28,6 +26,8 @@
     href: /taxonomy/caesalpinioideae
   - text: Papilionoideae
     href: /taxonomy/papilionoideae
+- text: Phylogeny
+  href: /phylogeny-explore
 - text: Working Groups
   href: /Working Groups
   menu: #Dropdown menu
