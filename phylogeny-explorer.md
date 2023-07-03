@@ -70,8 +70,8 @@ Tree         | Clade              | Publication     | GBIF dataset  |   OpenTre
 [12-Sousa-2013](?tree=12-Sousa-2013) | Calliandra | [Publication](https://tree.opentreeoflife.org/curator/study/view/pg_2912/?tab=home)     | GBIF dataset          |   [OpenTree Study](https://onlinelibrary.wiley.com/doi/abs/10.12705/626.2)
 [13-Saslis-Lagoudakis](?tree=13-Saslis-Lagoudakis) | Fabaceae | [Publication](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.0800101)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_1862/?tab=home)
 [14-Cardosa-2012](?tree=14-Cardosa-2012) | Bowdichia | [Publication](https://www.ingentaconnect.com/content/iapt/tax/2012/00000061/00000005/art00012)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_2055/?tab=home)
-[15-Boatwright-2008](?tree=15-Boatwright-2008) | Crotalarieae | Publication     | GBIF dataset          |   OpenTree Study
-[16-Ramos-2016](?tree=16-Ramos-2016) | Aldina | Publication     | GBIF dataset          |   OpenTree Study
+[15-Boatwright-2008](?tree=15-Boatwright-2008) | Crotalarieae | [Publication](https://www.ingentaconnect.com/content/aspt/sb/2008/00000033/00000004/art00013)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_58/?tab=home)
+[16-Ramos-2016](?tree=16-Ramos-2016) | Aldina | [Publication](https://www.sciencedirect.com/science/article/pii/S1055790315003966?via%3Dihub)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/ot_1443/?tab=home)
 [17-Schutte-Vlok-2011](?tree=17-Schutte-Vlok-2011) | Podalyria | Publication     | GBIF dataset          |   OpenTree Study
 [22-Schire-2009](?tree=22-Schire-2009) | Indigofereae | Publication     | GBIF dataset          |   OpenTree Study
 [23-Sinou-2020](?tree=23-Sinou-2020) | Cercidoideae | Publication     | GBIF dataset          |   OpenTree Study
