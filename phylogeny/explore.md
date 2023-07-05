@@ -10,6 +10,8 @@ description: |
     <button class="button" onClick="openWidgetInFullscreen()">Fullscreen</button>
   </div>
 background: /assets/images/abarema_cochliocarpum_lpq15538_pods11_x.jpg
+imageLicense: |
+  *Abarema cochliacarpos (Caesalpinioideae) Luciano de Queiroz 15538, fruit pods, photo Colin Hughes*
 height: 50vh
 composition: 
   - type: heroImage
