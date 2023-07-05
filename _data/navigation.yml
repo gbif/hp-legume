@@ -27,10 +27,7 @@
   - text: Papilionoideae
     href: /taxonomy/papilionoideae
 - text: Phylogeny
-  href: /phylogeny-explore
-  menu: #Dropdown menu
-    - text OpenTree
-      href: /phylogeny/phylogeny-explore
+  href: /phylogeny/explore
 - text: Working Groups
   href: /Working Groups
   menu: #Dropdown menu

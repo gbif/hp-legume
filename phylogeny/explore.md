@@ -9,7 +9,7 @@ description: |
     <a href="#about-this-tool" class="button is-primary" style="text-decoration: none;">Learn more</a>
     <button class="button" onClick="openWidgetInFullscreen()">Fullscreen</button>
   </div>
-background: /assets/images/placeholder_ai_beans.jpg
+background: /assets/images/abarema_cochliocarpum_lpq15538_pods11_x.jpg
 height: 50vh
 composition: 
   - type: heroImage
@@ -17,28 +17,18 @@ composition:
     inlineData: 
       klass: iframe-box
       markdownContent: |
-        {: .button }
-        [example - Pararchidendroncercis](?tree=example)
-        
-        {: .button }
-        [hippocampus - BOLD:AAF0603](?tree=hippocampus)
-        
-        {: .button }
-        [legume - Cercis](?tree=legume)
-        
-
         <iframe id="phylotreeiframe" seamless frameborder="150" src="{{ site.phylo.tool }}/explore?explore={{ site.url | url_encode}}{{ site.phylogony.treePath | url_encode}}&template={{ site.url | url_encode}}{{ site.phylo.template | url_encode}}" height = '790' width="1370" style="height: calc(100vh - 68px);" scrolling='yes' ></iframe> 
   - type: pageMarkdown
 ---
 
 <script>
+  var elem = document.getElementById("phylotreeiframe");
   function setIframeTree(name) {
     var treeOptions = {{ site.data.phylogony.trees | jsonify }};
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
     var tree = urlParams.get('tree');
     const treePath = treeOptions[name || tree] || "{{ site.phylo.treePath }}";
-    var elem = document.getElementById("phylotreeiframe");
     const src = "{{ site.phylo.tool }}/explore?explore={{ site.url | url_encode}}" + encodeURIComponent(treePath) + "&template={{ site.url | url_encode}}{{ site.phylo.template | url_encode}}";
     elem.src = src;
   }
@@ -54,28 +44,6 @@ composition:
     }
   }
 </script>
-
-## Untested example files
-
-Tree         | Clade              | Publication     | GBIF dataset  |   OpenTree Study
--------------|------------------- |------------     |-------------  |--------------- 
-[1-Ringelberg-2023](?tree=1-Ringelberg-2023) | Fabaceae | [Publication](https://www.science.org/doi/10.1126/sciadv.ade4954)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/ot_2227/?tab=home)
-[2-Azani-2017](?tree=2-Azani-2017) | Fabaceae | [Publication](https://onlinelibrary.wiley.com/doi/abs/10.12705/661.3)    | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/ot_1050/?tab=home)
-[3-Cardoso-2012](?tree=3-Cardoso-2012) | Fabaceae | [Publication](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.1200380)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_2057/?tab=home)
-[4-Simon-2011](?tree=4-Simon-2011) | Mimosa | [Publication](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.1000520)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_293/?tab=home)
-[5-Mishler-2014](?tree=5-Mishler-2014) | Acacia | [Publication](https://www.nature.com/articles/ncomms5473)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/ot_303/?tab=home)
-[7-Achimon-2018](?tree=7-Achimon-2018) | Anarthrophyllum | [Publication](https://link.springer.com/article/10.1007/s13127-017-0355-1)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/ot_1228/?tab=home)
-[10-Delgado-Salinas](?tree=10-Delgado-Salinas) | Fabaceae | [Publication](https://bsapubs.onlinelibrary.wiley.com/doi/10.3732/ajb.1100069)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_548/?tab=home)
-[11-Farruggia-2011](?tree=11-Farruggia-2011) | Fabaceae | [Publication](https://link.springer.com/article/10.1007/s12228-011-9189-x)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_590/?tab=home)
-[12-Sousa-2013](?tree=12-Sousa-2013) | Calliandra | [Publication](https://tree.opentreeoflife.org/curator/study/view/pg_2912/?tab=home)     | GBIF dataset          |   [OpenTree Study](https://onlinelibrary.wiley.com/doi/abs/10.12705/626.2)
-[13-Saslis-Lagoudakis](?tree=13-Saslis-Lagoudakis) | Fabaceae | [Publication](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.0800101)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_1862/?tab=home)
-[14-Cardosa-2012](?tree=14-Cardosa-2012) | Bowdichia | [Publication](https://www.ingentaconnect.com/content/iapt/tax/2012/00000061/00000005/art00012)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_2055/?tab=home)
-[15-Boatwright-2008](?tree=15-Boatwright-2008) | Crotalarieae | [Publication](https://www.ingentaconnect.com/content/aspt/sb/2008/00000033/00000004/art00013)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_58/?tab=home)
-[16-Ramos-2016](?tree=16-Ramos-2016) | Aldina | [Publication](https://www.sciencedirect.com/science/article/pii/S1055790315003966?via%3Dihub)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/ot_1443/?tab=home)
-[17-Schutte-Vlok-2011](?tree=17-Schutte-Vlok-2011) | Podalyria | [Publication](https://www.ingentaconnect.com/content/aspt/sb/2011/00000036/00000003/art00011)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_2077/?tab=home)
-[22-Schire-2009](?tree=22-Schire-2009) | Indigofereae | [Publication](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.0800185)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_270/?tab=home)
-[23-Sinou-2020](?tree=23-Sinou-2020) | Cercidoideae | [Publication](https://onlinelibrary.wiley.com/doi/10.1002/tax.12207)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/ot_1987/?tab=home)
-[24-Simpson-2006](?tree=24-Simpson-2006) | Pomaria | [Publication](https://www.ingentaconnect.com/content/aspt/sb/2006/00000031/00000004/art00011)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_138/?tab=home)
 
 ## About this tool
 
