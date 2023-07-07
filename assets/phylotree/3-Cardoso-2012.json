@@ -1,5 +1,6 @@
 {
     "hideNavigation": true,
+    "defaultMultiplier": 20,
     "rawTree": {
         "children": [
             {
