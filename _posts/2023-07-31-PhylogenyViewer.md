@@ -13,6 +13,8 @@ thumbnail: /assets/images/phylo_tree.png
 
 GBIF introduces a phylogenetic tree visualization to celebrate the 8th International Legume Conference (8ILC) on August 6 to 11 2023 in Piernópolis, Brazil.
 
+Click on the Phylogeny menu above to access it.
+
 This experimental tool allows the user to explore legume phylogeny in combination with occurrence data from the GBIF network. This ongoing research and development project builds its predecessors [PhyloJive](https://doi.org/10.1093/bioinformatics/btu024) and [PhyloLink](https://doi.org/10.1093/bioinformatics/bty792).
 
 This visualization tool combines the recent [Ringelberg et al. 2023](https://www.science.org/doi/10.1126/sciadv.ade4954) phylogeny of Mimosoid legumes and aligns it with GBIF occurrence data. The visualization tool matched the tree tip terminals and some internal nodes to the GBIF taxonomy. We then use the taxonomic match to map occurrence data from GBIF for that taxon. For an individual species this is identical to a species map on GBIF.org. 
