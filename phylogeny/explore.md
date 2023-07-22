@@ -50,7 +50,7 @@ composition:
 ## Phylogenetic Exploration of GBIF data
 This experimental tool allows the user to explore legume phylogeny in combination with occurrence data from the GBIF network. This ongoing research and development project builds its predecessors [PhyloJive](https://doi.org/10.1093/bioinformatics/btu024) and [PhyloLink](https://doi.org/10.1093/bioinformatics/bty792).
 
-We welcome your feedback on your experiences and any issues you encounter. Special thanks to M Morten Høfft and Thomas Stjernegaard Jeppesen of the GBIF Secretariat for programming.
+We welcome your feedback on your experiences and any issues you encounter. Special thanks to Morten Høfft and Thomas Stjernegaard Jeppesen of the GBIF Secretariat for programming.
 
 ## What is this? • Why do this? • How do I use this? • Table legend • Other notes  
 
