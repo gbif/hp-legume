@@ -5,17 +5,15 @@ categories: ["conferences"]
 lang-ref: ILC8
 lang: en
 preTitle: 31 July 2023
-background: /assets/images/ILC8_logo-small.png
+background: /assets/images/phylo_map.png
 #background-size: cover
 ratio: 24.42
-thumbnail: /assets/images/marco2012_175.jpg
+thumbnail: /assets/images/phylo_tree.png
 ---
 
-Early bird registration for the 8ILC is open until May 6th! Please check the conference [website](https://www.8ilc.com/) for online registration and additional information.
+GBIF introduces a phylogenetic tree visualization to open the 8th International Legume Conference (8ILC) on August 6 to 11 2023 in Piernópolis, Brazil.
 
-The 8th International Legume Conference (8ILC) will take place from August 6 to 11 2023 in Piernópolis, Brazil.
+This experimental tool allows the user to explore legume phylogeny in combination with occurrence data from the GBIF network. This ongoing research and development project builds its predecessors [PhyloJive](https://doi.org/10.1093/bioinformatics/btu024) and [PhyloLink][https://doi.org/10.1093/bioinformatics/bty792).
 
-We are looking forward to seeing you in Brazil in August!
 
-Marcelo Simon and Tânia Moura, on behalf of the 8ILC organizing committee
 
