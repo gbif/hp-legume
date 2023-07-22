@@ -1,7 +1,7 @@
 ---
 title:  "GBIF Phylogeny Viewer makes debut on Legume Portal"
 date:   2023-03-13 09:20:00 +0100
-categories: ["conferences"]
+categories: ["announcements"]
 lang-ref: ILC8
 lang: en
 preTitle: 31 July 2023
