@@ -10,18 +10,29 @@ background: /assets/images/placeholder_ai_beans.jpg
 height: 25vh
 ---
 
-## Fabaceae phylogenetics
+## Fabaceae phylogenetics and Open Tree of Life
 
-Fabaceae researchers have published hundreds of phylogenies of different clades within the Fabaceae; however, building a single, speices level phylogney from a single dataset is still an ellusive goal.  The legume portal and GBIF are collaborating with the [Open Tree of Life](https://tree.opentreeoflife.org/about/open-tree-of-life) to create a synthetic tree building engine that is allows the legume community to curate its phylogenetic view of the Fabacae.  As new Fabaceae phylogenies are published to OToL, they can be used to update and add species to the overall synthetic tree.
+Fabaceae researchers have published hundreds of phylogenies of component clades within the Fabaceae; however, building a speices level phylogney from a single dataset is still an ellusive goal.  [Open Tree of Life](https://tree.opentreeoflife.org/about/open-tree-of-life) aims to construct a comprehensive, dynamic and digitally-available tree of life by synthesizing published phylogenetic trees along with taxonomic data.
+
+The legume portal and GBIF are collaborating with the [Open Tree of Life](https://tree.opentreeoflife.org/about/open-tree-of-life) to create synthetic phylogenetic trees which combines data from many individual phylogenies in a single hypotheiss of relationships.
+
+OToL's main product is a large, all of life, [synthetic tree](https://tree.opentreeoflife.org/opentree/argus/opentree14.7@ott93302), with nearly 2.4 million tips.  OToL recently developed a protocol for the curation of smaller subset clades, such as the Fabaceae, using tree collections individually curated by its user community.
+
+The legume building engine that is allows the legume community to curate its phylogenetic view of the Fabacae.  I\
+
+Read more about how OToL generates synthetic phylogenies.  Please upload and curate your phylogenies of any clade to improve our knowledge of hte evolutiaonary history of life. Access OToL curation [here](https://tree.opentreeoflife.org/curator).
 
 ## Current Fabaceae Synthetic Phylogeny
-This tree was generated using the [Fabaceae OToL Synthetic Tree Curation](https://tree.opentreeoflife.org/curator/collection/view/acaciamulga/fabaceae) page and the 24 input trees listed below. It contains over 5,000 Fabaceae speices. It is a demonstration of the utility of curation process and many more trees need to be added.  
+This tree was generated using the [Fabaceae OToL Synthetic Tree Curation](https://tree.opentreeoflife.org/curator/collection/view/acaciamulga/fabaceae) page and the 24 input trees listed below. It contains over 5,000 Fabaceae speices. It is a demonstration of the utility of curation process and many more trees need to be added.  As new Fabaceae phylogenies are published to OToL, they be used to update and add species to the overall synthetic tree.
 
-## Alternative phylogenies  
-Below is a list of phylogonies. To open it in the phylogeny explorer, then click the title in the `Tree` column. 
+WARNING: OToL's currently uses a different taxonomy from the legume portal and GBIF.  Therefore some names may be different then youmight expect. Our longer term goal is to align these taxonomies.
 
-{: .notification .is-warning }
-Be aware that this is work in progress and some may not work.
+## Input phylogenies to the current synthetic tree 
+Below is a list of phylogonies in the order they were used in [Fabaceae OToL Synthetic Tree Curation](https://tree.opentreeoflife.org/curator/collection/view/acaciamulga/fabaceae) page
+
+
+. To open it in the phylogeny explorer, then click the title in the `Tree` column. 
+
 
 Tree         | Clade              | Publication     | GBIF dataset  |   OpenTree Study
 -------------|------------------- |------------     |-------------  |--------------- 
