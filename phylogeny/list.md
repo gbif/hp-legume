@@ -26,13 +26,13 @@ add button or something that links to this synthetic tree that has been name res
 
 This tree was generated using the [Fabaceae OToL Synthetic Tree Curation](https://tree.opentreeoflife.org/curator/collection/view/acaciamulga/fabaceae) page and the 24 input trees listed below. It contains over 5,000 Fabaceae speices. It is a demonstration of the utility of curation process and many more trees need to be added.  As new Fabaceae phylogenies are published to OToL, they be used to update and add species to the overall synthetic tree.
 
-WARNING: OToL's currently uses a different taxonomy from the legume portal and GBIF.  Therefore some names may be different then youmight expect. Our longer term goal is to align these taxonomies.
+WARNING: OToL currently uses a different taxonomy from the legume portal and GBIF.  Therefore some names may be different then you might expect. Our longer term goal is to align these taxonomies.
 
 ## Input phylogenies to the current synthetic tree 
 Below is a list of phylogonies in the order they were used in [Fabaceae OToL Synthetic Tree Curation](https://tree.opentreeoflife.org/curator/collection/view/acaciamulga/fabaceae) page
 
 
-. To open it in the phylogeny explorer, then click the title in the `Tree` column. 
+To open it in the phylogeny explorer, then click the title in the `Tree` column. 
 
 
 Tree         | Clade              | Publication     | GBIF dataset  |   OpenTree Study
@@ -44,7 +44,7 @@ Tree         | Clade              | Publication     | GBIF dataset  |   OpenTre
 [5-Mishler-2014](../explore?tree=5-Mishler-2014) | Acacia | [Publication](https://www.nature.com/articles/ncomms5473)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/ot_303/?tab=home)
 [6-Miller-2017](../explore?tree=1-Ringelberg-2023) | Mimosoideae | [Publication]([https://www.science.org/doi/10.1126/sciadv.ade4954](https://doi.org/10.1600/036364417X696140))     | GBIF dataset          |   [OpenTree Study]([https://tree.opentreeoflife.org/curator/study/view/ot_2227/?tab=home](https://tree.opentreeoflife.org/curator/study/view/ot_1229/?tab=home))
 [7-Achimon-2018](../explore?tree=7-Achimon-2018) | Anarthrophyllum | [Publication](https://link.springer.com/article/10.1007/s13127-017-0355-1)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/ot_1228/?tab=home)
-[8-Ringelberg-2023](../explore?tree=1-Ringelberg-2023) | Fabaceae | [Publication](https://www.science.org/doi/10.1126/sciadv.ade4954)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/ot_2227/?tab=home)
+[8-Terra-2017](../explore?tree=1-Ringelberg-2023) | Parasenegalia | [Publication]([https://www.science.org/doi/10.1126/sciadv.ade4954](https://doi.org/10.1600/036364417X696122))     | GBIF dataset          |   [OpenTree Study]([https://tree.opentreeoflife.org/curator/study/view/ot_2227/?tab=home](https://tree.opentreeoflife.org/curator/study/view/ot_1881/?tab=home))
 [9-Ringelberg-2023](../explore?tree=1-Ringelberg-2023) | Fabaceae | [Publication](https://www.science.org/doi/10.1126/sciadv.ade4954)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/ot_2227/?tab=home)
 [10-Delgado-Salinas](../explore?tree=10-Delgado-Salinas) | Fabaceae | [Publication](https://bsapubs.onlinelibrary.wiley.com/doi/10.3732/ajb.1100069)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_548/?tab=home)
 [11-Farruggia-2011](../explore?tree=11-Farruggia-2011) | Fabaceae | [Publication](https://link.springer.com/article/10.1007/s12228-011-9189-x)     | GBIF dataset          |   [OpenTree Study](https://tree.opentreeoflife.org/curator/study/view/pg_590/?tab=home)
