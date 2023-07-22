@@ -4,7 +4,7 @@ lang: en
 lang-ref: phylogeny-explorer
 title: Phylogeny explorer
 description: |
-  This experimental tool allows the user to explore legume phylogeny in combination with occurrence data from the GBIF network. This ongoing research and development project builds its predecessors [PhyloJive](https://doi.org/10.1093/bioinformatics/btu024) and [PhyloLink][https://doi.org/10.1093/bioinformatics/bty792)
+  This experimental tool allows the user to explore legume phylogeny in combination with occurrence data from the GBIF network. This ongoing research and development project builds its predecessors [PhyloJive](https://doi.org/10.1093/bioinformatics/btu024) and [PhyloLink](https://doi.org/10.1093/bioinformatics/bty792)
   <div class="feature-cta">
     <a href="#about-this-tool" class="button is-primary" style="text-decoration: none;">Learn more</a>
     <button class="button" onClick="openWidgetInFullscreen()">Fullscreen</button>
@@ -48,12 +48,19 @@ composition:
 </script>
 
 ## Phylogenetic Exploration of GBIF data
+This experimental tool allows the user to explore legume phylogeny in combination with occurrence data from the GBIF network. This ongoing research and development project builds its predecessors [PhyloJive](https://doi.org/10.1093/bioinformatics/btu024) and [PhyloLink](https://doi.org/10.1093/bioinformatics/bty792).
+
+We welcome your feedback on your experiences and any issues you encounter. Special thanks to M Morten Høfft and Thomas Stjernegaard Jeppesen of the GBIF Secretariat for programming.
+
+## What is this? • Why do this? • How do I use this? • Table legend • Other notes  
 
 
-## About this tool
+## What is this?
 We use the recent [Ringelberg et al. 2023](https://www.science.org/doi/10.1126/sciadv.ade4954) phylogeny and match GBIF occurrence data to the tree.  The visualization tool matched the tree tip terminals and some internal nodes to the GBIF taxonomy.  We then use the taxonomic match to map occurrence data from GBIF for that taxon.  For an individual species this is identical to a species map on GBIF.org.  The novelty is that an entire clade can be mapped with a single click and that multiple clades, such as sister clades, can be mapped in different colors.  We have included several tools to navigate the tree, change maps views and colors and to download the resulting occurrences from a clade
 
-## How to use?
+## Why do this?
+
+## How do I use this?
 
 First, we suggest using a full-screen on a large monitor. It works on my iphone but we don’t recommend the experience.  Larger phylogenies are more difficult to navigate.   
 
@@ -71,7 +78,7 @@ Now click on the circle at the node that contains the two Erythrophleum species.
 
 That is a brief overview of the basic functionality. Click around and have fun.
 
-## Legend for the Table
+## Table legend
 
 {: .legend-prose}
 - {% include icon-burger.html %} : Change the layer order of the dots. Move a clade to better view as many dots may be on top of each other.
