@@ -3,14 +3,23 @@ layout: heroImage
 lang: en
 noindex: true # tell search engines not to index this page
 lang-ref: phylogeny-list
-title: Phylogenies
+title: Open Tree of Life Synthetic Legume Phylogeny
 description: |
-  This page is work in progress. The experiment is to have multiple trees for the phylogeny explorer. Not all trees are working yet.
+  The legume portal and GBIF has teamed up with Open Tree of Life (OToL) to create curated synthetic phylogeny of the legume family. 
 background: /assets/images/placeholder_ai_beans.jpg
 height: 25vh
 ---
 
-## Alternative phylogenies
+## Fabaceae phylogenetics
+
+Fabaceae researchers have published hundreds of phylogenies of different clades within the Fabaceae.  Building a single, speices level phylogney from a single dataset is an ellusive goal.  The legume portal and GBIF are collaborating with the [Open Tree of Life](https://tree.opentreeoflife.org/about/open-tree-of-life) to build a synthetic tree building engine that is allows the legume community to curate its phylogenetic view of the Fabacae.  As new Fabaceae phylogenies are published to OToL they can be used to update and add species to the overall synthetic tree.
+
+This page connects to the OToL synthreit c tree building serviceT
+  he current synthetic phylogeny and each como0nent tree are available for visualization here.
+
+[Fabaceae OToL Synthetic Tree Curation](https://tree.opentreeoflife.org/curator/collection/view/acaciamulga/fabaceae)
+
+## Alternative phylogenies  
 Below is a list of phylogonies. To open it in the phylogeny explorer, then click the title in the `Tree` column. 
 
 {: .notification .is-warning }
