@@ -56,37 +56,44 @@ We welcome your feedback on your experiences and any issues you encounter. Speci
 
 
 ## What is this?
-We use the recent [Ringelberg et al. 2023](https://www.science.org/doi/10.1126/sciadv.ade4954) phylogeny and match GBIF occurrence data to the tree.  The visualization tool matched the tree tip terminals and some internal nodes to the GBIF taxonomy.  We then use the taxonomic match to map occurrence data from GBIF for that taxon.  For an individual species this is identical to a species map on GBIF.org.  The novelty is that an entire clade can be mapped with a single click and that multiple clades, such as sister clades, can be mapped in different colors.  We have included several tools to navigate the tree, change maps views and colors and to download the resulting occurrences from a clade
+This visualization tool combines the recent [Ringelberg et al. 2023](https://www.science.org/doi/10.1126/sciadv.ade4954) phylogeny of Mimosoid legumes and aligns it with GBIF occurrence data. The visualization tool matched the tree tip terminals and some internal nodes to the GBIF taxonomy. We then use the taxonomic match to map occurrence data from GBIF for that taxon. For an individual species this is identical to a species map on GBIF.org. 
+
+The novelty is that an entire clade can be mapped with a single click and that multiple clades, such as sister clades, can be mapped in different colors.  We have included several tools to navigate the tree, change maps views and colors and to download the resulting occurrences from a clade
 
 ## Why do this?
+For nearly three hundred years, biologists have organized information about the identities and evolutionary relationships of the world’s organisms around Linnaean taxonomy. Developed by Carl Linnaeus, this system seeks to describe evolutionary relationships based on close observation of the similarities and differences in organisms’ physical traits.
+
+The emergence of tools, techniques and systems that enable biologists to rapidly test and sample organisms and their environments for fragments of DNA sparked the creation of a new branch of science: molecular phylogeny. Rather than assessing relatedness through physical characteristics, this new discipline uses biochemical analyses to compare key sections of DNA evidence collected from various settings to assess how organisms are related. 
+
+This tool presents the first large-scale interactive phylogenetic view of GBIF-mediated species occurrence data—one that organizes occurrences based on current phylogenetic understanding (in this case, for the large plant family Fabaceae, commonly known as legumes), rather than the traditional taxonomic view. While the most valuable immediate use is investigating the relationship between occurrences of adjacent “sister” species, we anticipate that having this novel view of the “the most comprehensive, openly available, application-agnostic (most unbiased), easiest-to-use, and modern access point to known digital species occurrence data” could enable the development of new avenues for research as well as new policy-relevant indicators of phylogenetic diversity.
 
 ## How do I use this?
+Here is a brief overview of the basic functionality. Click around and have fun.
 
-First, we suggest using a full-screen on a large monitor. It works on my iphone but we don’t recommend the experience.  Larger phylogenies are more difficult to navigate.   
+First, we suggest using a full-screen on a large monitor to explore the phylogenetic viewer (meaning: it may work on an iPhone, but we don’t recommend the experience). Large phylogenies remain more difficult to navigate.
 
-We recommend using the sizing menu to best fit the tree to your screen.  “L” works best for me with this tree on my Macbook screen.  The tip labels may not show up on the tree until you choose a larger size and zoom in.
- 
-When you hover over a tip or node the tips are highlighted and the tip label or range will float in a black box in the lower left.  This will help navigating later. 
+We recommend using the sizing menu to best fit the tree to your screen. The tip labels may not show up on the tree until you choose a larger size and zoom in.
+When you hover over a tip or node, the tips are highlighted, and the tip label or range will float in a black box in the lower left. This will help you navigate the tree later. 
 
 Use the Search Tree Box. Type in a species binomial or a genus name, that you think is in the tree and choose the selection as it appears. Try typing Erythrophleum into the box as it has an interesting distribution.  Choose one of the two species that it recognizes from the search. The tree will move to show that species in a box. Click on the circle to the left of the name and its distribution will be displayed on the map. 
 
-After clicking a line with a color circle and icons will appear in a table under the map. Click on the color circle to change color.
+After clicking a line with a color circle, and icons will appear in a table under the map. Click on the color circle to change color.
 
-This tool is often the most valuable investigating sister species occurrences relationships. Now go back to the tree and click on the other Erythrophleum species. Its distributkon will show up with a different color and a second line will appear in the table.
+The most immediate value of this tool may be in investigating the geospatial relationships between occurrences of sister species. 
 
-Now click on the circle at the node that contains the two Erythrophleum species. Now a third line will occur in the table. This will be labeled by the top and bottom species in the clade as seen in the tree; however, but the dots on the map did not change color. Now hover the cursor over the three horizontal lines in front of this new line in the table. A hand will appear and you can click and slide this line to the top of the table. Watch how the color changes on the map. Also see the that there are three colors on the phylogeny, each representing the taxa in the table.
+Now go back to the tree and click on the other Erythrophleum species. Its distribution will show up with a different color and a second line will appear in the table.
 
-That is a brief overview of the basic functionality. Click around and have fun.
+Click on the circle at the node that contains the two Erythrophleum species. Now a third line will occur in the table. This will be labeled by the top and bottom species in the clade as seen in the tree; however, but the dots on the map did not change color. Now hover the cursor over the three horizontal lines in front of this new line in the table. A hand will appear and you can click and slide this line to the top of the table. Watch how the color changes on the map. Also see that there are three colors on the phylogeny, each representing the taxa in the table.
 
 ## Table legend
 
 {: .legend-prose}
-- {% include icon-burger.html %} : Change the layer order of the dots. Move a clade to better view as many dots may be on top of each other.
+- {% include icon-burger.html %} : to Click and drag to change the layer order of the occurrences. Dragging a clade up or down to offers a clearer view if records are overlapping each other.
 - {% include icon-color.html %} : change the color of dots. Please remember that there is also limit to the number of colors that can be displayed (or recognized by our eyes).
-- {% include icon-eye.html %} : hide or unhide that selection on the map
-- {% include icon-nodes.html %} : Move the tree to that clade.  This helps if you get lost.
-- {% include icon-funnel.html %} : takes this clade and shows them on the legume portal map for further investigation and download.
-- Clade: name of clade or the bounding species in the phylogeny
+- {% include icon-eye.html %} : hide or unhide that taxa on the map.
+- {% include icon-nodes.html %} : Move the tree view to highlight that clade (this helps if you get lost in the tree).
+- {% include icon-funnel.html %} : Shows the selected clade on the legume portal map, where they can be further investigated and downloaded.
+- Clade: Name of clade or the bounding species in the phylogeny.
 
 ## Other notes
 - Mulitple nodes can be selected – even non-sister nodes 
