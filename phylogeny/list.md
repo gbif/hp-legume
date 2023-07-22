@@ -12,12 +12,10 @@ height: 25vh
 
 ## Fabaceae phylogenetics
 
-Fabaceae researchers have published hundreds of phylogenies of different clades within the Fabaceae.  Building a single, speices level phylogney from a single dataset is an ellusive goal.  The legume portal and GBIF are collaborating with the [Open Tree of Life](https://tree.opentreeoflife.org/about/open-tree-of-life) to build a synthetic tree building engine that is allows the legume community to curate its phylogenetic view of the Fabacae.  As new Fabaceae phylogenies are published to OToL they can be used to update and add species to the overall synthetic tree.
+Fabaceae researchers have published hundreds of phylogenies of different clades within the Fabaceae; however, building a single, speices level phylogney from a single dataset is still an ellusive goal.  The legume portal and GBIF are collaborating with the [Open Tree of Life](https://tree.opentreeoflife.org/about/open-tree-of-life) to create a synthetic tree building engine that is allows the legume community to curate its phylogenetic view of the Fabacae.  As new Fabaceae phylogenies are published to OToL, they can be used to update and add species to the overall synthetic tree.
 
-This page connects to the OToL synthreit c tree building serviceT
-  he current synthetic phylogeny and each como0nent tree are available for visualization here.
-
-[Fabaceae OToL Synthetic Tree Curation](https://tree.opentreeoflife.org/curator/collection/view/acaciamulga/fabaceae)
+## Current Fabaceae Synthetic Phylogeny
+This tree was generated using the [Fabaceae OToL Synthetic Tree Curation](https://tree.opentreeoflife.org/curator/collection/view/acaciamulga/fabaceae) page and the 24 input trees listed below. It contains over 5,000 Fabaceae speices. It is a demonstration of the utility of curation process and many more trees need to be added.  
 
 ## Alternative phylogenies  
 Below is a list of phylogonies. To open it in the phylogeny explorer, then click the title in the `Tree` column. 
