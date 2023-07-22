@@ -5,7 +5,7 @@ noindex: true # tell search engines not to index this page
 lang-ref: phylogeny-list
 title: Open Tree of Life Synthetic Legume Phylogeny
 description: |
-  The legume portal and GBIF has teamed up with Open Tree of Life (OToL) to create curated synthetic phylogeny of the legume family. 
+  The legume portal and GBIF has teamed up with Open Tree of Life (OToL) to create a curated synthetic phylogeny of the legume family. 
 background: /assets/images/placeholder_ai_beans.jpg
 height: 25vh
 ---
