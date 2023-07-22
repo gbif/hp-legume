@@ -96,11 +96,13 @@ Click on the circle at the node that contains the two Erythrophleum species. Now
 - Clade: Name of clade or the bounding species in the phylogeny.
 
 ## Other notes
-- Mulitple nodes can be selected – even non-sister nodes 
--	If you select a node that has more than 200 species you will receive a waring message that only the first 200 will show on the map, please choose a smaller node or be aware that not all are mapped. There is also limit to the number of colors that can be displayed (or recognized by our eyes).
--	This visualization only maps the species that are in the tree. It does not impute other species that are part of the genus but not in the tree. There are some exceptions to this rule.  I have coded a few genera such as Acacia, were coded in at nodes. If you click on that node you get all the species of that node not just the ones in the tree.  In this case it is using GBIF taxonomic hierarchy not the tree hierarchy.  We are investigating how we can make these internal nodes stand out from the others.
--	On the map: There are four baselayers, try them out. Zoom in and  out as you normally would, either with the +/- or your mouse.
+- Users can select multiple nodes– even non-sister nodes  
+-	If you select a node that has more than 200 species, you will receive a warning message that only the first 200 will show on the map. Please choose a smaller node or be aware that not all are mapped. 
+-	This visualization only maps the species that are in the tree. It does not impute other species that are part of the genus but not in the tree. There are a few exceptions to this rule, such as the genera Acacia, which are coded in at nodes. If you click on that node, you get all the species of that node, not just the ones in the tree. In this case the viewer is using GBIF taxonomic hierarchy as well as the tree hierarchy. We are investigating how we can make these internal nodes stand out from the others.
+-	The map provides four baselayers—try them out. Zoom in and out as you normally would, either with the +/- or your mouse.
 
-Thank you for your understanding and for helping us to improve this tool by providing feedback on your experiences and any issues you encounter. Thanks to Morten Høfft and Thomas Stjernegaard Jeppesen of the GBIF Secretariat for programing.  Please write jmiller@gbif.org if you have any comments or ideas.
+
+
+Thank you for investigating this new GBIF development. Please help us to improve this tool by providing feedback on your experiences and any issues you encounter. Please write phylogeny@gbif.org if you have any comments or ideas.
 
 
