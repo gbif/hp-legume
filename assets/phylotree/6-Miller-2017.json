@@ -1,0 +1,1011 @@
+{
+    "hideNavigation": true,
+    "rawTree": {
+        "children": [
+            {
+                "children": [
+                    {
+                        "name": "Senegalia berlandieri",
+                        "branch_length": 0.008911
+                    },
+                    {
+                        "name": "Senegalia macilenta",
+                        "branch_length": 0.013269
+                    }
+                ],
+                "branch_length": 0.015811
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "name": "Pseudosenegalia feddeana",
+                                "branch_length": 0.000953
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "name": "Pseudosenegalia feddeana SGB",
+                                        "branch_length": 0.002481
+                                    },
+                                    {
+                                        "name": "Pseudosenegalia riograndensis",
+                                        "branch_length": 0.00071
+                                    }
+                                ],
+                                "branch_length": 0.000999
+                            }
+                        ],
+                        "branch_length": 0.006031
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [
+                                                    {
+                                                        "name": "Parasenegalia muricata",
+                                                        "branch_length": 0.00368
+                                                    },
+                                                    {
+                                                        "name": "Parasenegalia skleroxyla",
+                                                        "branch_length": 0.003434
+                                                    }
+                                                ],
+                                                "branch_length": 0.006202
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "children": [
+                                                            {
+                                                                "name": "Paraseneglia rurrenabaqueana",
+                                                                "branch_length": 0.016142
+                                                            },
+                                                            {
+                                                                "name": "Parasenegalia vogeliana",
+                                                                "branch_length": 0.000521
+                                                            }
+                                                        ],
+                                                        "branch_length": 0.004195
+                                                    },
+                                                    {
+                                                        "name": "Parasenegalia vogeliana DS01",
+                                                        "branch_length": 0.002392
+                                                    }
+                                                ],
+                                                "branch_length": 0.025269
+                                            }
+                                        ],
+                                        "branch_length": 0.004472
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "Parasenegalia visco DELEP",
+                                                "branch_length": 0.004545
+                                            },
+                                            {
+                                                "name": "Parasenegalia visco",
+                                                "branch_length": 0.001471
+                                            }
+                                        ],
+                                        "branch_length": 0.009248
+                                    }
+                                ],
+                                "branch_length": 0.000829
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "Mariosousa durangensis",
+                                                "branch_length": 0.005676
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "name": "Mariosousa millefolia",
+                                                        "branch_length": 0.002277
+                                                    },
+                                                    {
+                                                        "name": "Mariosousa salazarii",
+                                                        "branch_length": 0.003043
+                                                    }
+                                                ],
+                                                "branch_length": 0.00426
+                                            }
+                                        ],
+                                        "branch_length": 0.002261
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [
+                                                    {
+                                                        "name": "Mariosousa russelliana",
+                                                        "branch_length": 0.000546
+                                                    },
+                                                    {
+                                                        "name": "Mariosousa russelliana TRVD",
+                                                        "branch_length": 0.000466
+                                                    }
+                                                ],
+                                                "branch_length": 0.00307
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "children": [
+                                                            {
+                                                                "name": "Mariosousa dolichostachya",
+                                                                "branch_length": 0.000409
+                                                            },
+                                                            {
+                                                                "name": "Mariosousa usuamacentsis",
+                                                                "branch_length": 0.001242
+                                                            }
+                                                        ],
+                                                        "branch_length": 0.003304
+                                                    },
+                                                    {
+                                                        "children": [
+                                                            {
+                                                                "name": "Mariosousa acatlensis",
+                                                                "branch_length": 0.00407
+                                                            },
+                                                            {
+                                                                "children": [
+                                                                    {
+                                                                        "name": "Mariosousa compacta",
+                                                                        "branch_length": 0.002195
+                                                                    },
+                                                                    {
+                                                                        "name": "Mariosousa coulteri",
+                                                                        "branch_length": 0.00125
+                                                                    }
+                                                                ],
+                                                                "branch_length": 0.000722
+                                                            }
+                                                        ],
+                                                        "branch_length": 0.000696
+                                                    }
+                                                ],
+                                                "branch_length": 0.003483
+                                            }
+                                        ],
+                                        "branch_length": 0.003862
+                                    }
+                                ],
+                                "branch_length": 0.004923
+                            }
+                        ],
+                        "branch_length": 0.001991
+                    }
+                ]
+            }
+        ],
+        "name": ";"
+    },
+    "matchedNames": [
+        {
+            "name": ";",
+            "match": {
+                "confidence": 100,
+                "matchType": "NONE",
+                "synonym": false
+            },
+            "key": ";",
+            "confidence": 100
+        },
+        {
+            "name": "Senegalia berlandieri",
+            "match": {
+                "usageKey": 2980082,
+                "scientificName": "Senegalia berlandieri (Benth.) Britton & Rose",
+                "canonicalName": "Senegalia berlandieri",
+                "rank": "SPECIES",
+                "status": "ACCEPTED",
+                "confidence": 99,
+                "note": "Similarity: name=110; authorship=0; classification=-2; rank=6; status=1; singleMatch=5",
+                "matchType": "EXACT",
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Senegalia",
+                "species": "Senegalia berlandieri",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 7989631,
+                "speciesKey": 2980082,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Senegalia berlandieri (Benth.) Britton & Rose",
+            "usageKey": 2980082,
+            "key": "Senegalia berlandieri",
+            "confidence": 99
+        },
+        {
+            "name": "Senegalia macilenta",
+            "match": {
+                "usageKey": 2980500,
+                "scientificName": "Senegalia macilenta (Rose) Britton & Rose",
+                "canonicalName": "Senegalia macilenta",
+                "rank": "SPECIES",
+                "status": "ACCEPTED",
+                "confidence": 99,
+                "note": "Similarity: name=110; authorship=0; classification=-2; rank=6; status=1; singleMatch=5",
+                "matchType": "EXACT",
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Senegalia",
+                "species": "Senegalia macilenta",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 7989631,
+                "speciesKey": 2980500,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Senegalia macilenta (Rose) Britton & Rose",
+            "usageKey": 2980500,
+            "key": "Senegalia macilenta",
+            "confidence": 99
+        },
+        {
+            "name": "Pseudosenegalia feddeana",
+            "match": {
+                "usageKey": 9666130,
+                "scientificName": "Pseudosenegalia feddeana (Harms) Seigler & Ebinger",
+                "canonicalName": "Pseudosenegalia feddeana",
+                "rank": "SPECIES",
+                "status": "ACCEPTED",
+                "confidence": 99,
+                "note": "Similarity: name=110; authorship=0; classification=-2; rank=6; status=1; singleMatch=5",
+                "matchType": "EXACT",
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Pseudosenegalia",
+                "species": "Pseudosenegalia feddeana",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 9755243,
+                "speciesKey": 9666130,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Pseudosenegalia feddeana (Harms) Seigler & Ebinger",
+            "usageKey": 9666130,
+            "key": "Pseudosenegalia feddeana",
+            "confidence": 99
+        },
+        {
+            "name": "Pseudosenegalia feddeana SGB",
+            "match": {
+                "usageKey": 9755243,
+                "scientificName": "Pseudosenegalia Seigler & Ebinger",
+                "canonicalName": "Pseudosenegalia",
+                "rank": "GENUS",
+                "status": "ACCEPTED",
+                "confidence": 94,
+                "note": "Similarity: name=100; classification=-2; rank=0; status=1; singleMatch=5",
+                "matchType": "HIGHERRANK",
+                "alternatives": [
+                    {
+                        "usageKey": 9666130,
+                        "scientificName": "Pseudosenegalia feddeana (Harms) Seigler & Ebinger",
+                        "canonicalName": "Pseudosenegalia feddeana",
+                        "rank": "SPECIES",
+                        "status": "ACCEPTED",
+                        "confidence": 76,
+                        "note": "Similarity: name=110; authorship=-44; classification=-2; rank=6; status=1; singleMatch=5",
+                        "matchType": "EXACT",
+                        "kingdom": "Plantae",
+                        "phylum": "Tracheophyta",
+                        "order": "Fabales",
+                        "family": "Fabaceae",
+                        "genus": "Pseudosenegalia",
+                        "species": "Pseudosenegalia feddeana",
+                        "kingdomKey": 6,
+                        "phylumKey": 7707728,
+                        "classKey": 220,
+                        "orderKey": 1370,
+                        "familyKey": 5386,
+                        "genusKey": 9755243,
+                        "speciesKey": 9666130,
+                        "synonym": false,
+                        "class": "Magnoliopsida"
+                    }
+                ],
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Pseudosenegalia",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 9755243,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Pseudosenegalia Seigler & Ebinger",
+            "usageKey": 9755243,
+            "key": "Pseudosenegalia feddeana SGB",
+            "confidence": 94
+        },
+        {
+            "name": "Pseudosenegalia riograndensis",
+            "match": {
+                "usageKey": 9799866,
+                "scientificName": "Pseudosenegalia riograndensis (Atahuachi & L.Rico) Seigler & Ebinger",
+                "canonicalName": "Pseudosenegalia riograndensis",
+                "rank": "SPECIES",
+                "status": "ACCEPTED",
+                "confidence": 99,
+                "note": "Similarity: name=110; authorship=0; classification=-2; rank=6; status=1; singleMatch=5",
+                "matchType": "EXACT",
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Pseudosenegalia",
+                "species": "Pseudosenegalia riograndensis",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 9755243,
+                "speciesKey": 9799866,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Pseudosenegalia riograndensis (Atahuachi & L.Rico) Seigler & Ebinger",
+            "usageKey": 9799866,
+            "key": "Pseudosenegalia riograndensis",
+            "confidence": 99
+        },
+        {
+            "name": "Parasenegalia muricata",
+            "match": {
+                "usageKey": 9796599,
+                "scientificName": "Parasenegalia muricata (L.) Seigler & Ebinger",
+                "canonicalName": "Parasenegalia muricata",
+                "rank": "SPECIES",
+                "status": "ACCEPTED",
+                "confidence": 99,
+                "note": "Similarity: name=110; authorship=0; classification=-2; rank=6; status=1; singleMatch=5",
+                "matchType": "EXACT",
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Parasenegalia",
+                "species": "Parasenegalia muricata",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 9681911,
+                "speciesKey": 9796599,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Parasenegalia muricata (L.) Seigler & Ebinger",
+            "usageKey": 9796599,
+            "key": "Parasenegalia muricata",
+            "confidence": 99
+        },
+        {
+            "name": "Parasenegalia skleroxyla",
+            "match": {
+                "usageKey": 9738749,
+                "scientificName": "Parasenegalia skleroxyla (Tussac) Seigler & Ebinger",
+                "canonicalName": "Parasenegalia skleroxyla",
+                "rank": "SPECIES",
+                "status": "ACCEPTED",
+                "confidence": 99,
+                "note": "Similarity: name=110; authorship=0; classification=-2; rank=6; status=1; singleMatch=5",
+                "matchType": "EXACT",
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Parasenegalia",
+                "species": "Parasenegalia skleroxyla",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 9681911,
+                "speciesKey": 9738749,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Parasenegalia skleroxyla (Tussac) Seigler & Ebinger",
+            "usageKey": 9738749,
+            "key": "Parasenegalia skleroxyla",
+            "confidence": 99
+        },
+        {
+            "name": "Paraseneglia rurrenabaqueana",
+            "match": {
+                "usageKey": 9712937,
+                "scientificName": "Parasenegalia rurrenabaqueana (Rusby) Seigler & Ebinger",
+                "canonicalName": "Parasenegalia rurrenabaqueana",
+                "rank": "SPECIES",
+                "status": "ACCEPTED",
+                "confidence": 82,
+                "note": "Similarity: name=75; authorship=0; classification=-2; rank=6; status=1; nextMatch=2",
+                "matchType": "FUZZY",
+                "alternatives": [
+                    {
+                        "usageKey": 11145026,
+                        "scientificName": "Parasenegalia rurrenabaqeana (Rusby)",
+                        "canonicalName": "Parasenegalia rurrenabaqeana",
+                        "rank": "SPECIES",
+                        "status": "ACCEPTED",
+                        "confidence": 75,
+                        "note": "Similarity: name=70; authorship=0; classification=-2; rank=6; status=1",
+                        "matchType": "FUZZY",
+                        "kingdom": "Plantae",
+                        "phylum": "Tracheophyta",
+                        "order": "Fabales",
+                        "family": "Fabaceae",
+                        "genus": "Parasenegalia",
+                        "species": "Parasenegalia rurrenabaqeana",
+                        "kingdomKey": 6,
+                        "phylumKey": 7707728,
+                        "classKey": 220,
+                        "orderKey": 1370,
+                        "familyKey": 5386,
+                        "genusKey": 9681911,
+                        "speciesKey": 11145026,
+                        "synonym": false,
+                        "class": "Magnoliopsida"
+                    }
+                ],
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Parasenegalia",
+                "species": "Parasenegalia rurrenabaqueana",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 9681911,
+                "speciesKey": 9712937,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Parasenegalia rurrenabaqueana (Rusby) Seigler & Ebinger",
+            "usageKey": 9712937,
+            "key": "Paraseneglia rurrenabaqueana",
+            "confidence": 82
+        },
+        {
+            "name": "Parasenegalia vogeliana",
+            "match": {
+                "usageKey": 9764181,
+                "scientificName": "Parasenegalia vogeliana (Steud.) Seigler & Ebinger",
+                "canonicalName": "Parasenegalia vogeliana",
+                "rank": "SPECIES",
+                "status": "ACCEPTED",
+                "confidence": 99,
+                "note": "Similarity: name=110; authorship=0; classification=-2; rank=6; status=1; singleMatch=5",
+                "matchType": "EXACT",
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Parasenegalia",
+                "species": "Parasenegalia vogeliana",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 9681911,
+                "speciesKey": 9764181,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Parasenegalia vogeliana (Steud.) Seigler & Ebinger",
+            "usageKey": 9764181,
+            "key": "Parasenegalia vogeliana",
+            "confidence": 99
+        },
+        {
+            "name": "Parasenegalia vogeliana DS01",
+            "match": {
+                "usageKey": 9764181,
+                "scientificName": "Parasenegalia vogeliana (Steud.) Seigler & Ebinger",
+                "canonicalName": "Parasenegalia vogeliana",
+                "rank": "SPECIES",
+                "status": "ACCEPTED",
+                "confidence": 99,
+                "note": "Similarity: name=110; authorship=0; classification=-2; rank=6; status=1; singleMatch=5",
+                "matchType": "EXACT",
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Parasenegalia",
+                "species": "Parasenegalia vogeliana",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 9681911,
+                "speciesKey": 9764181,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Parasenegalia vogeliana (Steud.) Seigler & Ebinger",
+            "usageKey": 9764181,
+            "key": "Parasenegalia vogeliana DS01",
+            "confidence": 99
+        },
+        {
+            "name": "Parasenegalia visco DELEP",
+            "match": {
+                "usageKey": 9681911,
+                "scientificName": "Parasenegalia Seigler & Ebinger",
+                "canonicalName": "Parasenegalia",
+                "rank": "GENUS",
+                "status": "ACCEPTED",
+                "confidence": 94,
+                "note": "Similarity: name=100; classification=-2; rank=0; status=1; singleMatch=5",
+                "matchType": "HIGHERRANK",
+                "alternatives": [
+                    {
+                        "usageKey": 9657641,
+                        "scientificName": "Parasenegalia visco (Lorentz ex Griseb.) Seigler & Ebinger",
+                        "canonicalName": "Parasenegalia visco",
+                        "rank": "SPECIES",
+                        "status": "ACCEPTED",
+                        "confidence": 76,
+                        "note": "Similarity: name=110; authorship=-44; classification=-2; rank=6; status=1; singleMatch=5",
+                        "matchType": "EXACT",
+                        "kingdom": "Plantae",
+                        "phylum": "Tracheophyta",
+                        "order": "Fabales",
+                        "family": "Fabaceae",
+                        "genus": "Parasenegalia",
+                        "species": "Parasenegalia visco",
+                        "kingdomKey": 6,
+                        "phylumKey": 7707728,
+                        "classKey": 220,
+                        "orderKey": 1370,
+                        "familyKey": 5386,
+                        "genusKey": 9681911,
+                        "speciesKey": 9657641,
+                        "synonym": false,
+                        "class": "Magnoliopsida"
+                    }
+                ],
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Parasenegalia",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 9681911,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Parasenegalia Seigler & Ebinger",
+            "usageKey": 9681911,
+            "key": "Parasenegalia visco DELEP",
+            "confidence": 94
+        },
+        {
+            "name": "Parasenegalia visco",
+            "match": {
+                "usageKey": 9657641,
+                "scientificName": "Parasenegalia visco (Lorentz ex Griseb.) Seigler & Ebinger",
+                "canonicalName": "Parasenegalia visco",
+                "rank": "SPECIES",
+                "status": "ACCEPTED",
+                "confidence": 99,
+                "note": "Similarity: name=110; authorship=0; classification=-2; rank=6; status=1; singleMatch=5",
+                "matchType": "EXACT",
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Parasenegalia",
+                "species": "Parasenegalia visco",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 9681911,
+                "speciesKey": 9657641,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Parasenegalia visco (Lorentz ex Griseb.) Seigler & Ebinger",
+            "usageKey": 9657641,
+            "key": "Parasenegalia visco",
+            "confidence": 99
+        },
+        {
+            "name": "Mariosousa durangensis",
+            "match": {
+                "usageKey": 3794904,
+                "scientificName": "Mariosousa durangensis (Britton & Rose) Seigler & Ebinger",
+                "canonicalName": "Mariosousa durangensis",
+                "rank": "SPECIES",
+                "status": "ACCEPTED",
+                "confidence": 99,
+                "note": "Similarity: name=110; authorship=0; classification=-2; rank=6; status=1; singleMatch=5",
+                "matchType": "EXACT",
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Mariosousa",
+                "species": "Mariosousa durangensis",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 6362350,
+                "speciesKey": 3794904,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Mariosousa durangensis (Britton & Rose) Seigler & Ebinger",
+            "usageKey": 3794904,
+            "key": "Mariosousa durangensis",
+            "confidence": 99
+        },
+        {
+            "name": "Mariosousa millefolia",
+            "match": {
+                "usageKey": 3794897,
+                "scientificName": "Mariosousa millefolia (S.Watson) Seigler & Ebinger",
+                "canonicalName": "Mariosousa millefolia",
+                "rank": "SPECIES",
+                "status": "ACCEPTED",
+                "confidence": 99,
+                "note": "Similarity: name=110; authorship=0; classification=-2; rank=6; status=1; singleMatch=5",
+                "matchType": "EXACT",
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Mariosousa",
+                "species": "Mariosousa millefolia",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 6362350,
+                "speciesKey": 3794897,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Mariosousa millefolia (S.Watson) Seigler & Ebinger",
+            "usageKey": 3794897,
+            "key": "Mariosousa millefolia",
+            "confidence": 99
+        },
+        {
+            "name": "Mariosousa salazarii",
+            "match": {
+                "usageKey": 3795400,
+                "scientificName": "Mariosousa salazarii (Britton & Rose) Seigler & Ebinger",
+                "canonicalName": "Mariosousa salazarii",
+                "rank": "SPECIES",
+                "status": "ACCEPTED",
+                "confidence": 99,
+                "note": "Similarity: name=110; authorship=0; classification=-2; rank=6; status=1; singleMatch=5",
+                "matchType": "EXACT",
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Mariosousa",
+                "species": "Mariosousa salazarii",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 6362350,
+                "speciesKey": 3795400,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Mariosousa salazarii (Britton & Rose) Seigler & Ebinger",
+            "usageKey": 3795400,
+            "key": "Mariosousa salazarii",
+            "confidence": 99
+        },
+        {
+            "name": "Mariosousa russelliana",
+            "match": {
+                "usageKey": 3794890,
+                "scientificName": "Mariosousa russelliana (Britton & Rose) Seigler & Ebinger",
+                "canonicalName": "Mariosousa russelliana",
+                "rank": "SPECIES",
+                "status": "ACCEPTED",
+                "confidence": 99,
+                "note": "Similarity: name=110; authorship=0; classification=-2; rank=6; status=1; singleMatch=5",
+                "matchType": "EXACT",
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Mariosousa",
+                "species": "Mariosousa russelliana",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 6362350,
+                "speciesKey": 3794890,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Mariosousa russelliana (Britton & Rose) Seigler & Ebinger",
+            "usageKey": 3794890,
+            "key": "Mariosousa russelliana",
+            "confidence": 99
+        },
+        {
+            "name": "Mariosousa russelliana TRVD",
+            "match": {
+                "usageKey": 6362350,
+                "scientificName": "Mariosousa Seigler & Ebinger",
+                "canonicalName": "Mariosousa",
+                "rank": "GENUS",
+                "status": "ACCEPTED",
+                "confidence": 94,
+                "note": "Similarity: name=100; classification=-2; rank=0; status=1; singleMatch=5",
+                "matchType": "HIGHERRANK",
+                "alternatives": [
+                    {
+                        "usageKey": 3794890,
+                        "scientificName": "Mariosousa russelliana (Britton & Rose) Seigler & Ebinger",
+                        "canonicalName": "Mariosousa russelliana",
+                        "rank": "SPECIES",
+                        "status": "ACCEPTED",
+                        "confidence": 76,
+                        "note": "Similarity: name=110; authorship=-44; classification=-2; rank=6; status=1; singleMatch=5",
+                        "matchType": "EXACT",
+                        "kingdom": "Plantae",
+                        "phylum": "Tracheophyta",
+                        "order": "Fabales",
+                        "family": "Fabaceae",
+                        "genus": "Mariosousa",
+                        "species": "Mariosousa russelliana",
+                        "kingdomKey": 6,
+                        "phylumKey": 7707728,
+                        "classKey": 220,
+                        "orderKey": 1370,
+                        "familyKey": 5386,
+                        "genusKey": 6362350,
+                        "speciesKey": 3794890,
+                        "synonym": false,
+                        "class": "Magnoliopsida"
+                    }
+                ],
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Mariosousa",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 6362350,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Mariosousa Seigler & Ebinger",
+            "usageKey": 6362350,
+            "key": "Mariosousa russelliana TRVD",
+            "confidence": 94
+        },
+        {
+            "name": "Mariosousa dolichostachya",
+            "match": {
+                "usageKey": 3794908,
+                "scientificName": "Mariosousa dolichostachya (S.F.Blake) Seigler & Ebinger",
+                "canonicalName": "Mariosousa dolichostachya",
+                "rank": "SPECIES",
+                "status": "ACCEPTED",
+                "confidence": 99,
+                "note": "Similarity: name=110; authorship=0; classification=-2; rank=6; status=1; singleMatch=5",
+                "matchType": "EXACT",
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Mariosousa",
+                "species": "Mariosousa dolichostachya",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 6362350,
+                "speciesKey": 3794908,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Mariosousa dolichostachya (S.F.Blake) Seigler & Ebinger",
+            "usageKey": 3794908,
+            "key": "Mariosousa dolichostachya",
+            "confidence": 99
+        },
+        {
+            "name": "Mariosousa usuamacentsis",
+            "match": {
+                "usageKey": 6362350,
+                "scientificName": "Mariosousa Seigler & Ebinger",
+                "canonicalName": "Mariosousa",
+                "rank": "GENUS",
+                "status": "ACCEPTED",
+                "confidence": 94,
+                "note": "Similarity: name=100; classification=-2; rank=0; status=1; singleMatch=5",
+                "matchType": "HIGHERRANK",
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Mariosousa",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 6362350,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Mariosousa Seigler & Ebinger",
+            "usageKey": 6362350,
+            "key": "Mariosousa usuamacentsis",
+            "confidence": 94
+        },
+        {
+            "name": "Mariosousa acatlensis",
+            "match": {
+                "usageKey": 3794925,
+                "scientificName": "Mariosousa acatlensis (Benth.) Seigler & Ebinger",
+                "canonicalName": "Mariosousa acatlensis",
+                "rank": "SPECIES",
+                "status": "ACCEPTED",
+                "confidence": 99,
+                "note": "Similarity: name=110; authorship=0; classification=-2; rank=6; status=1; singleMatch=5",
+                "matchType": "EXACT",
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Mariosousa",
+                "species": "Mariosousa acatlensis",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 6362350,
+                "speciesKey": 3794925,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Mariosousa acatlensis (Benth.) Seigler & Ebinger",
+            "usageKey": 3794925,
+            "key": "Mariosousa acatlensis",
+            "confidence": 99
+        },
+        {
+            "name": "Mariosousa compacta",
+            "match": {
+                "usageKey": 3794915,
+                "scientificName": "Mariosousa compacta (Rose) Seigler & Ebinger",
+                "canonicalName": "Mariosousa compacta",
+                "rank": "SPECIES",
+                "status": "ACCEPTED",
+                "confidence": 99,
+                "note": "Similarity: name=110; authorship=0; classification=-2; rank=6; status=1; singleMatch=5",
+                "matchType": "EXACT",
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Mariosousa",
+                "species": "Mariosousa compacta",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 6362350,
+                "speciesKey": 3794915,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Mariosousa compacta (Rose) Seigler & Ebinger",
+            "usageKey": 3794915,
+            "key": "Mariosousa compacta",
+            "confidence": 99
+        },
+        {
+            "name": "Mariosousa coulteri",
+            "match": {
+                "usageKey": 3794912,
+                "scientificName": "Mariosousa coulteri (Benth.) Seigler & Ebinger",
+                "canonicalName": "Mariosousa coulteri",
+                "rank": "SPECIES",
+                "status": "ACCEPTED",
+                "confidence": 99,
+                "note": "Similarity: name=110; authorship=0; classification=-2; rank=6; status=1; singleMatch=5",
+                "matchType": "EXACT",
+                "kingdom": "Plantae",
+                "phylum": "Tracheophyta",
+                "order": "Fabales",
+                "family": "Fabaceae",
+                "genus": "Mariosousa",
+                "species": "Mariosousa coulteri",
+                "kingdomKey": 6,
+                "phylumKey": 7707728,
+                "classKey": 220,
+                "orderKey": 1370,
+                "familyKey": 5386,
+                "genusKey": 6362350,
+                "speciesKey": 3794912,
+                "synonym": false,
+                "class": "Magnoliopsida"
+            },
+            "matchedName": "Mariosousa coulteri (Benth.) Seigler & Ebinger",
+            "usageKey": 3794912,
+            "key": "Mariosousa coulteri",
+            "confidence": 99
+        }
+    ]
+}
