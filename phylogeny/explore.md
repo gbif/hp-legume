@@ -6,7 +6,7 @@ title: Phylogeny Explorer
 description: |
   This experimental tool allows the user to view occurrence data from the GBIF network aligned to legume phylogeny. This ongoing research and development project builds on its predecessors, [PhyloJive](https://doi.org/10.1093/bioinformatics/btu024) and [PhyloLink](https://doi.org/10.1093/bioinformatics/bty792)
   <div class="feature-cta">
-    <a href="#about-this-tool" class="button is-primary" style="text-decoration: none;">Learn more</a>
+    <a href="#phylogenetic-exploration-of-gbif-data" class="button is-primary" style="text-decoration: none;">Learn more</a>
     <button class="button" onClick="openWidgetInFullscreen()">Fullscreen</button>
   </div>
 background: /assets/images/abarema_cochliocarpum_lpq15538_pods11_x.jpg
