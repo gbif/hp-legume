@@ -31,7 +31,7 @@ WARNING: OToL currently uses a different taxonomy from the legume portal and GBI
 ## Input phylogenies to the current synthetic tree 
 Below is a list of phylogonies in the order they were used in [Fabaceae OToL Synthetic Tree Curation](https://tree.opentreeoflife.org/curator/collection/view/acaciamulga/fabaceae) page
 
-To open it in the phylogeny explorer, then click the title in the `Tree` column. 
+To open it in the Phylogeny Explorer, then click the title in the `Tree` column. 
 
 Tree         | Clade              | Publication     | GBIF dataset  |   OpenTree Study
 -------------|------------------- |------------     |-------------  |--------------- 
