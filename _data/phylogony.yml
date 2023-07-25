@@ -2,6 +2,7 @@ trees:
   example: /assets/phylotree/example.json
   hippocampus: /assets/phylotree/hippocampus.json
   legume: /assets/phylotree/legume.json
+  OToL-synthetic-tree: /assets/phylotree/OToL-synthetic-tree.json
   1-Ringelberg-2023: /assets/phylotree/1-Ringelberg-2023.json
   2-Azani-2017: /assets/phylotree/2-Azani-2017.json
   3-Cardoso-2012: /assets/phylotree/3-Cardoso-2012.json

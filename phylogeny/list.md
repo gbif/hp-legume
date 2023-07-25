@@ -24,7 +24,7 @@ Read more about how OToL generates synthetic phylogenies. Please upload and cura
 
 This tree was generated using the [Fabaceae OToL Synthetic Tree Curation](https://tree.opentreeoflife.org/curator/collection/view/acaciamulga/fabaceae) page and the 24 input trees listed below. It contains over 5,000 Fabaceae speices. It is a demonstration of the utility of curation process and many more trees need to be added.  As new Fabaceae phylogenies are published to OToL, they be used to update and add species to the overall synthetic tree.
 
-<div class="feature-cta" align="center"><a href="#" class="button is-primary" style="text-decoration: none;" >View synthetic tree</a></div>
+<div class="feature-cta" align="center"><a href="/explore?tree=OToL-synthetic-tree" class="button is-primary" style="text-decoration: none;" >View synthetic tree</a></div>
 <br />
 
 WARNING: OToL currently uses a different taxonomy from the legume portal and GBIF.  Therefore some names may be different then you might expect. Our longer term goal is to align these taxonomies.
