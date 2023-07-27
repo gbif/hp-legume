@@ -54,7 +54,7 @@ Ce projet de recherche et développement en cours se base sur ses prédécesseur
 
 N'hésitez pas à nous faire part de vos commentaires à propos de votre expérience utilisateur et les problématiques que vous rencontrez lors de l'utilisation de cet outil. Remerciements particuliers à **Morten Høfft** et [**Thomas Stjernegaard Jeppesen**](https://orcid.org/0000-0003-1691-239X) du Secrétariat GBIF pour leur programmation.
 
-> [Qu'est-ce ?](#qu-est-ce) • [Pourquoi ?](#pourquoi) • [Comment l'utiliser ?](#comment-l-utiliser) • [Légende](#légende) • [Autres notes](#autres-notes)  
+> [Qu'est-ce ?](#quest-ce-) • [Pourquoi ?](#pourquoi-) • [Comment l'utiliser ?](#comment-lutiliser-) • [Légende](#légende) • [Autres notes](#autres-notes)  
 
 ## Qu'est-ce ?
 
