@@ -8,13 +8,13 @@ imageLicense: |
   *Enterolobium cyclocarpum* (Jacq.) Griseb. Photo by Eric van den Berghe via [iNaturalist](https://www.gbif.org/occurrence/2609325904)
 height: 80vh
 cta:
-  - text: Explore Occurrence Data
+  - text: Occurrence Data
     href: /data?view=MAP
-    isPrimary: true
-  - text: Explore Taxonomy
+    #isPrimary: true
+  - text: Taxonomy
     href: /taxonomy/species-list
-  - text: About
-    href: /about
+  - text: Phylogeny
+    href: /phylogeny
 permalink: /
 composition:
   - type: heroImage # the block type
