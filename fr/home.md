@@ -13,8 +13,8 @@ cta:
     isPrimary: true
   - text: Explorez la taxonomie
     href: /fr/taxonomy/species-list
-  - text: À Propos
-    href: /fr/about
+  - text: Phylogénie
+    href: /fr/phylogeny/explore/
 permalink: /fr
 composition:
   - type: heroImage # the block type

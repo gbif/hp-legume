@@ -14,7 +14,7 @@ cta:
   - text: Taxonomy
     href: /taxonomy/species-list
   - text: Phylogeny
-    href: /phylogeny
+    href: /phylogeny/explore/
 permalink: /
 composition:
   - type: heroImage # the block type
