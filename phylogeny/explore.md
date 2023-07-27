@@ -85,7 +85,7 @@ The most immediate value of this tool may be in investigating the geospatial rel
 
 Now go back to the tree and click on the other Erythrophleum species. Its distribution will show up with a different color and a second line will appear in the table.
 
-Click on the circle at the node that contains the two Erythrophleum species. Now a third line will occur in the table. This will be labeled by the top and bottom species in the clade as seen in the tree; however, but the dots on the map did not change color. Now hover the cursor over the three horizontal lines in front of this new line in the table. A hand will appear and you can click and slide this line to the top of the table. Watch how the color changes on the map. Also see that there are three colors on the phylogeny, each representing the taxa in the table.
+Click on the circle at the node that contains the two Erythrophleum species. Now a third line will occur in the table. This will be labeled by the top and bottom species in the clade as seen in the tree; however, the dots on the map did not change color. Now hover the cursor over the three horizontal lines in front of this new line in the table. A hand will appear and you can click and slide this line to the top of the table. Watch how the color changes on the map. Also see that there are three colors on the phylogeny, each representing the taxa in the table.
 
 ## Table legend
 
