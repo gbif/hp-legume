@@ -54,7 +54,7 @@ Ce projet de recherche et développement en cours se base sur ses prédécesseur
 
 N'hésitez pas à nous faire part de vos commentaires à propos de votre expérience utilisateur et les problématiques que vous rencontrez lors de l'utilisation de cet outil. Remerciements particuliers à **Morten Høfft** et [**Thomas Stjernegaard Jeppesen**](https://orcid.org/0000-0003-1691-239X) du Secrétariat GBIF pour leur programmation.
 
-> [Qu'est-ce ?](#what-is-this) • [Pourquoi ?](#why-do-this) • [Comment l'utiliser ?](#how-do-i-use-this) • [Légende de la table](#table-legend) • [Autres notes](#other-notes)  
+> [Qu'est-ce ?](#qu-est-ce) • [Pourquoi ?](#pourquoi) • [Comment l'utiliser ?](#comment-l-utiliser) • [Légende](#légende) • [Autres notes](#autres-notes)  
 
 ## Qu'est-ce ?
 
@@ -90,7 +90,7 @@ Retournez maintenant à l'arbre et cliquez sur l'autre espèce d'Erythrophleum. 
 Cliquez sur le cercle au niveau du nœud contenant les deux espèces d'Erythrophleum. Une troisième ligne apparaîtra dans le tableau. Celle-ci sera étiquetée avec les espèces supérieures et inférieures du clade tel que vu dans l'arbre; cependant, les points sur la carte n'ont pas changé de couleur. Passez maintenant le curseur sur les trois lignes horizontales devant cette nouvelle ligne dans le tableau. Une main apparaîtra et vous permettra de cliquer et faire glisser cette ligne vers le haut du tableau. Observez le changement de couleur sur la carte. Vous pouvez également voir qu'il y a trois couleurs sur la phylogénie, chacune représentant un taxon dans le tableau.
 
 
-## Légende de la table
+## Légende
 
 {: .legend-prose}
 - {% include icon-burger.html %} : cliquer, déplacer et modifier l'ordre des couches d'occurrences. Déplacer un clade vers le haut ou le bas offrira une visualisation plus claire si les enregistrements sont superposés.
