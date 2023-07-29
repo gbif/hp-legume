@@ -73,13 +73,13 @@ This tool presents the first large-scale interactive phylogenetic view of GBIF-m
 
 Here is a brief overview of the basic functionality—but click around and have fun.
 
-First, use a full-screen on a large monitor to explore the phylogenetic viewer (meaning: it may work on an iPhone, but we don’t recommend the experience). Large phylogenies remain more difficult to navigate.
+First, **use a full-screen on a large monitor** to explore the phylogenetic viewer (meaning: it may work on an iPhone, but we don’t recommend the experience). Large phylogenies remain more difficult to navigate.
 
-Then use the sizing menu to best fit the tree to your screen. The tip labels may not show up on the tree until you choose a larger size and zoom in. When you hover over a tip or node, the tips are highlighted, and the tip label or range will float in a black box in the lower left. This will help you navigate the tree later. 
+Then **use the sizing menu to fit the tree to your screen**. The tip labels may not show up on the tree until you choose a larger size and zoom in. When you hover over a tip or node, the tips are highlighted, and the tip label or range will float in a black box in the lower left. This will help you navigate the tree later. 
 
-Use the Search Tree Box. Type in a species binomial or a genus name, that you think is in the tree and choose the selection as it appears. Try typing Erythrophleum into the box as it has an interesting distribution.  Choose one of the two species that it recognizes from the search. The tree will move to show that species in a box. Click on the circle to the left of the name and its distribution will be displayed on the map. 
+**Use the Search Tree box**. Type in a species binomial or a genus name, that you think is in the tree and choose the selection as it appears. Try typing Erythrophleum into the box as it has an interesting distribution.  Choose one of the two species that it recognizes from the search. The tree will move to show that species in a box. Click on the circle to the left of the name and its distribution will be displayed on the map. 
 
-After clicking a line with a color circle, and icons will appear in a table under the map. Click on the color circle to change color.
+After clicking a line with a color circle, icons will appear in a table under the map. Click on the color circle to change color.
 
 The most immediate value of this tool may be in investigating the geospatial relationships between occurrences of sister species. 
 
