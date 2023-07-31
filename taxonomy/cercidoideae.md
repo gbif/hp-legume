@@ -71,17 +71,17 @@ Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume T
  
 |Genus                  | Data Source   |
 | --------------------- |------------------------------|-----------------------|
-|	Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.	|	[Legume Data Portal](/taxonomy/taxon/621808)|	[GBIF](https://www.gbif.org/species/2956199)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21580-1)	|
-|	Barklya F.Muell.	|	[Legume Data Portal](/taxonomy/taxon/669816)|[GBIF](https://www.gbif.org/species/2955817)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21784-1)	|
-|	Bauhinia Plum. ex L.	|[Legume Data Portal](/taxonomy/taxon/671275)|	[GBIF](https://www.gbif.org/species/2952935)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:327181-2)	|
-|	Brenierea Humbert	|[Legume Data Portal](/taxonomy/taxon/683252)|	[GBIF](https://www.gbif.org/species/2977380)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21855-1)	|
-|	Cercis L.	|	[Legume Data Portal](/taxonomy/taxon/711402)|[GBIF](https://www.gbif.org/species/2955919)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001619-2)	|
-|	Cheniella R.Clark & Mackinder	|[Legume Data Portal](/taxonomy/taxon/1014675)|	[GBIF](https://www.gbif.org/species/9712046)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77165904-1)	|
-|	Gigasiphon Drake	|	[Legume Data Portal](/taxonomy/taxon/825227)|[GBIF](https://www.gbif.org/species/8059232)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22484-1)	|
-|	Griffonia Baill.	|	[Legume Data Portal](/taxonomy/taxon/833544)|[GBIF](https://www.gbif.org/species/2945470)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22523-1)	|
-|	Lysiphyllum (Benth.) de Wit	|[Legume Data Portal](/taxonomy/taxon/347397)|	[GBIF](https://www.gbif.org/species/9105569)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22849-1)	|
-|	Phanera Lour.	|[Legume Data Portal](/taxonomy/taxon/537884)|[GBIF](https://www.gbif.org/species/7278390)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23206-1)	|
-|	Piliostigma Hochst.	|	[Legume Data Portal](/taxonomy/taxon/415512)|[GBIF](https://www.gbif.org/species/2947989)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:329960-2)	|
-|	Schnella Raddi	|	[Legume Data Portal](/taxonomy/taxon/591756)|[GBIF](https://www.gbif.org/species/7278569)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30003119-2)	|
-|	Tournaya A.Schmitz	|	[Legume Data Portal](/taxonomy/taxon/443521)|[GBIF](https://www.gbif.org/species/7301486)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23709-1)	|
-|	Tylosema (Schweinf.) Torre & Hillc. 	|	[Legume Data Portal](/taxonomy/taxon/441307)|[GBIF](https://www.gbif.org/species/9010267)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23743-1)	|
+|	Adenolobus (Harv. ex Benth. & Hook.f.) Torre & Hillc.	|	[Legume Data Portal](/taxonomy/taxon/2621808)|	[GBIF](https://www.gbif.org/species/2956199)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21580-1)	|
+|	Barklya F.Muell.	|	[Legume Data Portal](/taxonomy/taxon/2669816)|[GBIF](https://www.gbif.org/species/2955817)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21784-1)	|
+|	Bauhinia Plum. ex L.	|[Legume Data Portal](/taxonomy/taxon/2671275)|	[GBIF](https://www.gbif.org/species/2952935)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:327181-2)	|
+|	Brenierea Humbert	|[Legume Data Portal](/taxonomy/taxon/2683252)|	[GBIF](https://www.gbif.org/species/2977380)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21855-1)	|
+|	Cercis L.	|	[Legume Data Portal](/taxonomy/taxon/2711402)|[GBIF](https://www.gbif.org/species/2955919)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001619-2)	|
+|	Cheniella R.Clark & Mackinder	|[Legume Data Portal](/taxonomy/taxon/21014675)|	[GBIF](https://www.gbif.org/species/9712046)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77165904-1)	|
+|	Gigasiphon Drake	|	[Legume Data Portal](/taxonomy/taxon/2825227)|[GBIF](https://www.gbif.org/species/8059232)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22484-1)	|
+|	Griffonia Baill.	|	[Legume Data Portal](/taxonomy/taxon/2833544)|[GBIF](https://www.gbif.org/species/2945470)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22523-1)	|
+|	Lysiphyllum (Benth.) de Wit	|[Legume Data Portal](/taxonomy/taxon/2347397)|	[GBIF](https://www.gbif.org/species/9105569)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22849-1)	|
+|	Phanera Lour.	|[Legume Data Portal](/taxonomy/taxon/2537884)|[GBIF](https://www.gbif.org/species/7278390)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23206-1)	|
+|	Piliostigma Hochst.	|	[Legume Data Portal](/taxonomy/taxon/2415512)|[GBIF](https://www.gbif.org/species/2947989)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:329960-2)	|
+|	Schnella Raddi	|	[Legume Data Portal](/taxonomy/taxon/2591756)|[GBIF](https://www.gbif.org/species/7278569)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30003119-2)	|
+|	Tournaya A.Schmitz	|	[Legume Data Portal](/taxonomy/taxon/2443521)|[GBIF](https://www.gbif.org/species/7301486)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23709-1)	|
+|	Tylosema (Schweinf.) Torre & Hillc. 	|	[Legume Data Portal](/taxonomy/taxon/2441307)|[GBIF](https://www.gbif.org/species/9010267)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23743-1)	|
