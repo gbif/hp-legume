@@ -75,11 +75,11 @@ Cet outil présente la première visualisation phylogénétique à grande échel
 
 Voici un bref aperçu des fonctionnalités de base, mais cliquez partout et amusez-vous.
 
-Tout d'abord, utilisez le plein écran sur un grand écran pour explorer la phylogénie (ce qui signifie : cela peut fonctionner sur un iPhone, mais nous ne recommandons pas l'expérience). Les grandes phylogénies restent plus difficiles à naviguer.
+Tout d'abord, **utilisez le plein écran sur un grand écran** pour explorer la phylogénie (ce qui signifie : cela peut fonctionner sur un iPhone, mais nous ne recommandons pas l'expérience). Les grandes phylogénies restent plus difficiles à naviguer.
 
-Ensuite, utilisez le menu de redimension pour adapter au mieux l'arbre à votre écran. Les étiquettes d'extrémité peuvent ne pas apparaître sur l'arborescence tant que vous n'avez pas choisi une taille plus grande et effectué un zoom avant. Lorsque vous survolez une extrémité ou un nœud, les extrémités sont mises en surbrillance et l'étiquette d'extrémité ou la plage flottera dans une boîte noire en bas à gauche. Cela vous aidera à naviguer dans l'arborescence plus tard.
+Ensuite, **utilisez le menu de redimension pour adapter au mieux l'arbre à votre écran**. Les étiquettes d'extrémité peuvent ne pas apparaître sur l'arborescence tant que vous n'avez pas choisi une taille plus grande et effectué un zoom avant. Lorsque vous survolez une extrémité ou un nœud, les extrémités sont mises en surbrillance et l'étiquette d'extrémité ou la plage flottera dans une boîte noire en bas à gauche. Cela vous aidera à naviguer dans l'arborescence plus tard.
 
-Utilisez la boîte de recherche de l'arbre. Tapez un nom binomial d'espèce ou un nom de genre que vous pensez être dans l'arbre et choisissez la sélection telle qu'elle apparaît. Essayez de taper Erythrophleum dans la boîte puisque ce genre a une distribution intéressante. Choisissez l'une des deux espèces reconnues lors de la recherche. L'arbre se déplacera pour montrer cette espèce dans une boîte. Cliquez sur le cercle à gauche du nom et sa répartition s'affichera sur la carte.
+**Utilisez la boîte "Search Tree"**. Tapez un nom binomial d'espèce ou un nom de genre que vous pensez être dans l'arbre et choisissez la sélection telle qu'elle apparaît. Essayez de taper Erythrophleum dans la boîte puisque ce genre a une distribution intéressante. Choisissez l'une des deux espèces reconnues lors de la recherche. L'arbre se déplacera pour montrer cette espèce dans une boîte. Cliquez sur le cercle à gauche du nom et sa répartition s'affichera sur la carte.
 
 Après avoir cliqué une ligne avec un cercle de couleur, une icône apparaitra sous la carte dans un tableau. Cliquez sur le cercle coloré afin de modifier celle-ci.
 
