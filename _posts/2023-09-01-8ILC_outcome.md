@@ -2,13 +2,13 @@
 title:  "8th International Legume Conference - Outcomes!"
 date:   2023-09-01 09:00:00 +0100
 categories: ["conference"]
-lang-ref: checklist2023v4
+lang-ref: 
 lang: en
 preTitle: 01 September 2023
-background: /assets/images/phylo_map.png
+background: /assets/images/8ILC_photo2.JPG
 #background-size: cover
 ratio: 24.42
-thumbnail: /assets/images/phylo_tree.png
+thumbnail: /assets/images/8ILC_photo2.JPG
 ---
 **Summary of the 8ILC**
 
@@ -37,5 +37,7 @@ The 8ILC website now includes a series of photographs showing special moments we
 
 We are already thinking about the 9th International Legume Conference! Keep an eye open for our next email with more info on where and when the next conference will be. 
  
+Marcelo Simon & Tânia Moura
+on behalf of the 8ILC organizing committee 
 
 
