@@ -4,7 +4,7 @@ date:   2023-08-31 09:00:00 +0100
 categories: ["conference"]
 lang-ref: ILC8
 lang: en
-preTitle: 01 September 2023
+preTitle: 31 August 2023
 background: /assets/images/8ILC_photo2.JPG
 #background-size: cover
 ratio: 24.42
