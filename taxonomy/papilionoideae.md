@@ -132,11 +132,11 @@ Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume T
 | Bolusanthus Harms| [Legume Data Portal](/taxonomy/taxon/2679002)| [GBIF](https://www.gbif.org/species/2952354)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21824-1)| 
 | Bolusia Benth.| [Legume Data Portal](/taxonomy/taxon/2679005)| [GBIF](https://www.gbif.org/species/2947388)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21825-1)| 
 | Bossiaea Vent.| [Legume Data Portal](/taxonomy/taxon/2680424)| [GBIF](https://www.gbif.org/species/2968290)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21835-1)| 
-| Bouffordia H.Ohashi & K.Ohashi| [Legume Data Portal](/taxonomy/taxon/3227018)| [GBIF](https://www.gbif.org/species/10678871)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77190803-1)| 
+| Bouffordia H.Ohashi & K.Ohashi| [Legume Data Portal](/taxonomy/taxon/3227018)| [GBIF](https://www.gbif.org/species/10678871)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77190803-1)|
 | Bowdichia Kunth| [Legume Data Portal](/taxonomy/taxon/2680926)| [GBIF](https://www.gbif.org/species/2975475)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21839-1)| 
 | Bowringia Champ. ex Benth.| [Legume Data Portal](/taxonomy/taxon/2681041)| [GBIF](https://www.gbif.org/species/8304394)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17061780-1)| 
-| Brachypterum (Wight & Arn.) Benth.| [Legume Data Portal](/taxonomy/taxon/2681334)| [GBIF](https://www.gbif.org/species/2952879)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21844-1)| 
-| Bracteolaria Hochst.| [Legume Data Portal](/taxonomy/taxon/2681778)| [GBIF](https://www.gbif.org/species/7302248)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21848-1)| 
+| Brachypterum (Wight & Arn.) Benth.| [Legume Data Portal](/taxonomy/taxon/2681334)| [GBIF](https://www.gbif.org/species/2952879)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21844-1)|
+| Bracteolaria Hochst.| [Legume Data Portal](/taxonomy/taxon/2681778)| [GBIF](https://www.gbif.org/species/7302248)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21848-1)|
 | Brongniartia Kunth| [Legume Data Portal](/taxonomy/taxon/2683483)| [GBIF](https://www.gbif.org/species/7680996)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21860-1)| 
 | Brya P.Browne| [Legume Data Portal](/taxonomy/taxon/2684283)| [GBIF](https://www.gbif.org/species/7335178)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:33690-1)| 
 | Bryaspis P.A.Duvign.| [Legume Data Portal](/taxonomy/taxon/2684312)| [GBIF](https://www.gbif.org/species/2956898)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21865-1)| 
@@ -164,7 +164,7 @@ Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume T
 | Castanospermum A.Cunn. ex Hook.| [Legume Data Portal](/taxonomy/taxon/2704739)| [GBIF](https://www.gbif.org/species/2952128)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:956754-1)| 
 | Centrolobium Mart. ex Benth.| [Legume Data Portal](/taxonomy/taxon/2709057)| [GBIF](https://www.gbif.org/species/2945568)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21966-1)|
 | Centrosema (DC.) Benth.| [Legume Data Portal](/taxonomy/taxon/2709075)| [GBIF](https://www.gbif.org/species/2964887)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1030212-2)| 
-| Cerradicola L.P.Queiroz| [Legume Data Portal](/taxonomy/taxon/21273060)| [GBIF](https://www.gbif.org/species/10805923)|
+| Cerradicola L.P.Queiroz| [Legume Data Portal](/taxonomy/taxon/21273060)| [GBIF](https://www.gbif.org/species/10805923)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77220406-1)|
 | Chadsia Bojer| [Legume Data Portal](/taxonomy/taxon/2713915)| [GBIF](https://www.gbif.org/species/2939913)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21976-1)| 
 | Chamaecytisus Link| [Legume Data Portal](/taxonomy/taxon/2715322)| [GBIF](https://www.gbif.org/species/8090366)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21983-1)
 | Chapmannia Torr. & A.Gray| [Legume Data Portal](/taxonomy/taxon/2715909)| [GBIF](https://www.gbif.org/species/2975655)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21988-1)| 
@@ -356,8 +356,8 @@ Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume T
 | Macropsychanthus Harms| [Legume Data Portal](/taxonomy/taxon/2366227)| [GBIF](https://www.gbif.org/species/2959589)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22863-1)| 
 | Macroptilium (Benth.) Urb.| [Legume Data Portal](/taxonomy/taxon/2366216)| [GBIF](https://www.gbif.org/species/2945015)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30016192-2)| 
 | Macrotyloma (Wight & Arn.) Verdc.| [Legume Data Portal](/taxonomy/taxon/2366161)| [GBIF](https://www.gbif.org/species/2976914)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22869-1)| 
-| Maekawaea H.Ohashi & K.Ohashi| [Legume Data Portal](/fr/taxonomy/taxon/3275182)| [GBIF](https://www.gbif.org/species/11340122)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77215389-1)| 
-| Mantiqueira L.P.Queiroz| [Legume Data Portal](/fr/taxonomy/taxon/3275369)| [GBIF](https://www.gbif.org/species/10924767)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77220374-1)| 
+| Maekawaea H.Ohashi & K.Ohashi| [Legume Data Portal](/fr/taxonomy/taxon/3275182)| [GBIF](https://www.gbif.org/species/11340122)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77215389-1)|
+| Mantiqueira L.P.Queiroz| [Legume Data Portal](/fr/taxonomy/taxon/3275369)| [GBIF](https://www.gbif.org/species/10924767)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77220374-1)|
 | Maraniona C.E.Hughes, G.P.Lewis, Daza & Reynel| [Legume Data Portal](/taxonomy/taxon/2368605)| [GBIF](https://www.gbif.org/species/7301734)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77061321-1)| 
 | Marina Liebm.| [Legume Data Portal](/taxonomy/taxon/2368590)| [GBIF](https://www.gbif.org/species/2945639)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22884-1)| 
 | Mastersia Benth.| [Legume Data Portal](/taxonomy/taxon/2368690)| [GBIF](https://www.gbif.org/species/2962944)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22893-1)| 
@@ -394,7 +394,7 @@ Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume T
 | Nissolia Jacq.| [Legume Data Portal](/taxonomy/taxon/2383202)| [GBIF](https://www.gbif.org/species/5358617)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:331807-2)| 
 | Nogra Merr.| [Legume Data Portal](/taxonomy/taxon/2383500)| [GBIF](https://www.gbif.org/species/2952626)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23045-1)| 
 | Oberholzeria Swanepoel, M.M.le Roux, M.F.Wojc. & A.E.van Wyk| [Legume Data Portal](/taxonomy/taxon/21002828)| [GBIF](https://www.gbif.org/species/9791584)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77145129-1)| 
-| Ohashia X.Y.Zhu & R.P.Zhang| [Legume Data Portal](/fr/taxonomy/taxon/3275501)| [GBIF](https://www.gbif.org/species/11519461)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77234649-1)| 
+| Ohashia X.Y.Zhu & R.P.Zhang| [Legume Data Portal](/fr/taxonomy/taxon/3275501)| [GBIF](https://www.gbif.org/species/11519461)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77234649-1)|
 | Ohwia H.Ohashi| [Legume Data Portal](/taxonomy/taxon/2389108)| [GBIF](https://www.gbif.org/species/2942985)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1008957-1)| 
 | Olneya A.Gray| [Legume Data Portal](/taxonomy/taxon/2389101)| [GBIF](https://www.gbif.org/species/2974563)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:327686-2)| 
 | Onobrychis Mill.| [Legume Data Portal](/taxonomy/taxon/2389110)| [GBIF](https://www.gbif.org/species/8159597)| [POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30311989-2)| 
