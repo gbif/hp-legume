@@ -34,7 +34,8 @@ The 8ILC website now includes a series of photographs showing special moments we
 
 **9ILC**
 
-We are already thinking about the 9th International Legume Conference! Keep an eye open for our next email with more info on where and when the next conference will be. 
+We are already thinking about the 9th International Legume Conference! 
+Keep an eye open for our next email with more info on where and when the next conference will be. 
  
 Marcelo Simon & Tânia Moura
 on behalf of the 8ILC organizing committee 

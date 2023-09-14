@@ -7,36 +7,36 @@ lang: fr
 preTitle: 31 August 2023
 background: /assets/images/8ILC_photo2.JPG
 #background-size: cover
-ratio: 24.42
+ratio: 40
 thumbnail: /assets/images/8ILC_photo2.JPG
 ---
 
-The Organizing Committee thanks all 147 delegates from 18 countries for their participation at the 8ILC. Overall, the 8ILC was a major success - people from all over the world were able to meet in person, present some very exciting research, and establish new connections and collaborations.
+Le comité organisateur remercie les 147 délégués provenant de 18 pays pour leur participation à la 8ILC. La conférence 8ILC a été un franc succès : des personnes de partout dans le monde ont pu se rencontrer en personne, présenter des recherches excitantes et établir de nouvelles connections et collaborations.
 
-**Summary of the Conference** Read more at the updated [8ILC website](https://www.8ilc.com/).
+**Résumé de la Conférence**
+Retrouvez plus d'informations sur le [site de la 8ILC](https://www.8ilc.com/) mis à jour.
+
+**Appel à contribution !**
+
+Nous invitons tous les participants, ainsi que tous ceux n'ayant pu participer à la conférence, à soumettre des manuscrits afin de contribuer au prochain volume de **_Advances in Legume Systematics_**, une importante série de volume en cours dédiée à la recherche sur les Légumineuses. **Les soumissions seront acceptées jusqu'au 31 octobre 2023**.
+
+Veuillez visiter le [site du journal](https://www.springer.com/journal/40415/updates/24622142) pour de plus amples informations sur la manière de contribuer.
  
+**Album photo**
+
+Le site Internet de la conférence 8ILC inclus désormais une série de photographies montrant plusieurs moments spéciaux partagés à Pirenópolis.
+
+[Visionnez les photos ici](https://www.8ilc.com/photo-book)
  
-**Call for papers!**
-  
-We invite all attendees (and also those who missed the conference) to contribute manuscripts to the next volume of the **_Advances in Legume Systematics_**, an important ongoing series of volumes dedicated to legume research. **Submissions are open and go until 31 October 2023.**
-
-Please visit the journal's [website](https://www.springer.com/journal/40415/updates/24622142) for more info on how to contribute.
- 
-
-
-**Photo Book**
-  
-The 8ILC website now includes a series of photographs showing special moments we shared at Pirenópolis.
- 
-[Check the photos](https://www.8ilc.com/photo-book) 
-
-
 
 **9ILC**
 
-We are already thinking about the 9th International Legume Conference! Keep an eye open for our next email with more info on where and when the next conference will be. 
+Nous sommes d'ores et déjà en train de réfléchir à la 9èmr Conférence Internationale sur les Légumineuses !
+Gardez l'oeil ouvert lors de nos prochaines communications. Elles vous donneront plus d'informations quant au lieu et la date de la prochaine conférence.
+
+
  
 Marcelo Simon & Tânia Moura
-on behalf of the 8ILC organizing committee 
+au nom de l'ensemble du comité organisateur de la conférence 8ILC 
 
 
