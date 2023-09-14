@@ -1,13 +1,13 @@
 ---
 title:  "8ème Conférence Internationale sur les Légumineuses - Bilan !"
 date:   2023-08-31 09:00:00 +0100
-categories: ["conference"]
+categories: ["conference4"]
 lang-ref: ILC8
 lang: fr
 preTitle: 31 August 2023
 background: /assets/images/8ILC_photo2.JPG
 #background-size: cover
-ratio: 40
+#ratio: 40
 thumbnail: /assets/images/8ILC_photo2.JPG
 ---
 
@@ -31,7 +31,7 @@ Le site Internet de la conférence 8ILC inclus désormais une série de photogra
 
 **9ILC**
 
-Nous sommes d'ores et déjà en train de réfléchir à la 9èmr Conférence Internationale sur les Légumineuses !
+Nous sommes d'ores et déjà en train de réfléchir à la 9ème Conférence Internationale sur les Légumineuses !
 Gardez l'oeil ouvert lors de nos prochaines communications. Elles vous donneront plus d'informations quant au lieu et la date de la prochaine conférence.
 
 
