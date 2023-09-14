@@ -1,8 +1,8 @@
 ---
 title:  "8th International Legume Conference - Outcomes!"
 date:   2023-08-31 09:00:00 +0100
-categories: ["conference4"]
-lang-ref: ILC8
+categories: ["conference"]
+lang-ref: ILC8-outcome
 lang: en
 preTitle: 31 August 2023
 background: /assets/images/8ILC_photo2.JPG

@@ -1,8 +1,8 @@
 ---
 title:  "8th International Legume Conference - registration is now open"
 date:   2022-10-30 09:20:00 +0100
-categories: ["conferences2"]
-lang-ref: ILC8
+categories: ["conferences"]
+lang-ref: ILC8-registration
 lang: en
 background: /assets/images/8ilc_image.jpeg
 preTitle: 30 November 2022

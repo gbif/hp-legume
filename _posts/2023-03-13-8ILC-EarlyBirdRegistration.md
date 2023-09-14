@@ -1,13 +1,12 @@
 ---
 title:  "8th International Legume Conference - early-bird registration until May 6th"
 date:   2023-03-13 09:20:00 +0100
-categories: ["conferences3"]
-lang-ref: ILC8
+categories: ["conferences"]
+lang-ref: ILC8-early
 lang: en
 preTitle: 13 March 2023
 background: /assets/images/ILC8_logo-small.png
 #background-size: cover
-ratio: 40
 thumbnail: /assets/images/marco2012_175.jpg
 ---
 
