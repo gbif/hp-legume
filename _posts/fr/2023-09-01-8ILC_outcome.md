@@ -7,7 +7,7 @@ lang: fr
 preTitle: 31 August 2023
 background: /assets/images/8ILC_photo2.JPG
 #background-size: cover
-ratio: 45
+ratio: 55
 thumbnail: /assets/images/8ILC_photo2.JPG
 ---
 

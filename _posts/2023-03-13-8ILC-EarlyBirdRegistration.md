@@ -6,6 +6,7 @@ lang-ref: ILC8-early
 lang: en
 preTitle: 13 March 2023
 background: /assets/images/ILC8_logo-small.png
+ratio: 24.42
 #background-size: cover
 thumbnail: /assets/images/marco2012_175.jpg
 ---
