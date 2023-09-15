@@ -13,7 +13,9 @@ thumbnail: /assets/images/8ILC_photo2.JPG
 
 The Organizing Committee thanks all 147 delegates from 18 countries for their participation at the 8ILC. Overall, the 8ILC was a major success - people from all over the world were able to meet in person, present some very exciting research, and establish new connections and collaborations.
 
-**Summary of the Conference** Read more at the updated [8ILC website](https://www.8ilc.com/).
+**Summary of the Conference** 
+
+Read more at the updated [8ILC website](https://www.8ilc.com/).
  
  
 **Call for papers!**

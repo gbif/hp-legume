@@ -14,6 +14,7 @@ thumbnail: /assets/images/8ILC_photo2.JPG
 Le comité organisateur remercie les 147 délégués provenant de 18 pays pour leur participation à la 8ILC. La conférence 8ILC a été un franc succès : des personnes de partout dans le monde ont pu se rencontrer en personne, présenter des recherches excitantes et établir de nouvelles connections et collaborations.
 
 **Résumé de la Conférence**
+
 Retrouvez plus d'informations sur le [site de la 8ILC](https://www.8ilc.com/) mis à jour.
 
 **Appel à contribution !**
