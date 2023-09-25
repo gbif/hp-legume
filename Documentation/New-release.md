@@ -1,13 +1,13 @@
-# How to realease a new version of the Legume Data Portal
+# How to release a new version of the Legume Data Portal
 
 When you are ready to launch a new public release of the Legume Data Portal:
 - Go to https://github.com/gbif/hp-legume
 - Click on 'Release' on the right of the page
 - The new page lists all the previous releases of the Portal
-- Click on 'Draf a New Release' on the top-right part of the page
+- Click on 'Draft a New Release' on the top-right part of the page
 - In the new page, click on 'Choose a tag', and create a new tag following these rules:
 	- If this is a minor release (new News item, correction of typos, small modification of texts, etc), increment the last digit of the last tag by one (example: v.1.3.13 to v.1.3.14)
-	- If this is a medium realease (new pages, new sections, new tools), increment the middle digit by one (example: v.1.3.13 to v.1.4.0)
+	- If this is a medium release (new pages, new sections, new tools), increment the middle digit by one (example: v.1.3.13 to v.1.4.0)
 	- If this is a major release (big changes in taxonomy, complete revamp of Portal), increment the first digit by one (example: v.1.13.3 to v.2.0.0)
 - Click on '+ Create a new tag', once you have typed the new tag
 - Add an informative but short title
