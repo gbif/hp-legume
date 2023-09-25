@@ -1,7 +1,7 @@
 ---
 title:  "8ème Conférence Internationale sur les Légumineuses - Bilan !"
 date:   2023-08-31 09:00:00 +0100
-categories: ["conference"]
+categories: ["conferences"]
 lang-ref: ILC8-outcome
 lang: fr
 preTitle: 31 August 2023
