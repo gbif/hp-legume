@@ -1,6 +1,6 @@
 ---
 title:  "Celebrating the work of Brazilian Leguminologists"
-date:   2023-09-30 09:00:00 +0100
+date:   2023-09-25 09:00:00 +0100
 categories: ["conference"]
 lang-ref: 8ILC-celebration
 lang: en
