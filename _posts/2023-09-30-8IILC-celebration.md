@@ -19,12 +19,16 @@ The 8ILC Organizing Committee has selected seven Brazilian legume researchers wh
 
 **Ana Maria Goulart de Azevedo Tozzi** (Universidade Estadual de Campinas): has published 113 new legume taxa (including two new genera: *Guianodendron* and *Limadendron*) in 138 papers, 1 book and 5 book chapters, and supervised 38 students, 17 at PhD level.  
 
+<br />
+
 
 <br />
 	<img src="/assets/images/A_Vaz.jpg" alt="Angela Maria Studart da Fonseca Vaz" width="20%" align="left" style="margin: 20px 20px 20px 20px">
 <br />
 
 **Angela Maria Studart da Fonseca Vaz** (Jardim Botânico do Rio de Janeiro): has published 38 new legume taxa in 40 papers, 2 books and 18 book chapters, and supervised 5 students, 1 at PhD level.  
+
+
 
 
 
@@ -36,11 +40,15 @@ The 8ILC Organizing Committee has selected seven Brazilian legume researchers wh
 
 
 
+
+
 <br />
 	<img src="/assets/images/J_Valls.jpg" alt="José Francisco Montenegro Valls" width="20%" align="left" style="margin: 20px 20px 20px 20px">
 <br />
 
 **José Francisco Montenegro Valls** (Empresa Brasileira de Pesquisa Agropecuária): has published 46 new taxa (18 legumes) in 169 papers, 4 books and 38 book chapters, and supervised 73 students, 14 at PhD level. José has collected more than 5000 legume collections since he started collecting plants in 1969.  
+
+
 
 
 
@@ -52,11 +60,16 @@ The 8ILC Organizing Committee has selected seven Brazilian legume researchers wh
 
 
 
+
+
 <br />
 	<img src="/assets/images/M_Morim.png" alt="Marli Pires Morim" width="20%" align="left" style="margin: 20px 20px 20px 20px">
 <br />
 
 **Marli Pires Morim** (Jardim Botânico do Rio de Janeiro): has published 59 legume taxa in 56 papers, 6 books and 20 book chapters, and supervised 17 students, 5 at PhD level. 
+
+
+
 
 
 <br />
@@ -66,6 +79,9 @@ The 8ILC Organizing Committee has selected seven Brazilian legume researchers wh
 **Silvia Teresinha Sfoggia Miotto** (Universidade Federal do Rio Grande do Sul): has published 31 new taxa (15 legumes) in 117 papers, 4 books and 82 book chapters, and supervised 43 students, 19 at PhD level.  
 
 
+
+
+
 <br />
 	<img src="/assets/images/G_daSilva.jpg" alt="Glocimar Pereira da Silva" width="20%" align="left" style="margin: 20px 20px 20px 20px">
 <br />
@@ -73,11 +89,17 @@ The 8ILC Organizing Committee has selected seven Brazilian legume researchers wh
 **Glocimar Pereira da Silva** (Empresa Brasileira de Pesquisa Agropecuária): 3300 legume collections representing 652 species in 144 genera.  
 
 
+
+
+
 <br />
 	<img src="/assets/images/M_Guedes.png" alt="Maria Lenise Silva Guedes" width="20%" align="left" style="margin: 20px 20px 20px 20px">
 <br />
 
 **Maria Lenise Silva Guedes** (Universidade Federal da Bahia): 4175 collections covering 605 species in 166 genera.  
+
+
+
 
 
 <br />
