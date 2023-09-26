@@ -18,9 +18,9 @@ The 8ILC Organizing Committee has selected seven Brazilian legume researchers wh
 
 
 
-
-**Angela Maria Studart da Fonseca Vaz** (Jardim Botânico do Rio de Janeiro): has published 38 new legume taxa in 40 papers, 2 books and 18 book chapters, and supervised 5 students, 1 at PhD level.  
 ![](/assets/images/A_Vaz.jpg){: width="25", .inline-left }
+**Angela Maria Studart da Fonseca Vaz** (Jardim Botânico do Rio de Janeiro): has published 38 new legume taxa in 40 papers, 2 books and 18 book chapters, and supervised 5 students, 1 at PhD level.  
+
 
 **Haroldo Cavalcante de Lima** (Jardim Botânico do Rio de Janeiro): has published 101 new legume taxa (including three new genera: *Grazielodendron*, *Paubrasilia* and *Staminodianthus*) in 91 papers, 3 books and 36 book chapters, and supervised 54 students, 11 at PhD level. In addition, Haroldo has collected 4132 legume collections covering 901 species in 196 genera.  
 ![](/assets/images/H_deLima.png){: .inline-left }
