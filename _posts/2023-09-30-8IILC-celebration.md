@@ -13,8 +13,12 @@ thumbnail: /assets/images/8ILC_celebration.jpg
 
 The 8ILC Organizing Committee has selected seven Brazilian legume researchers who have contributed significantly to the advancement of knowledge about the legume family throughout their careers, by publishing widely on the systematics and phylogenetics of the family and by teaching and mentoring the next generation of students. The 8ILC Organizing Committee also recognized three major plant collectors, each having collected more than 3000 legume numbers, for their contribution to legume research.
 
+
 **Ana Maria Goulart de Azevedo Tozzi** (Universidade Estadual de Campinas): has published 113 new legume taxa (including two new genera: *Guianodendron* and *Limadendron*) in 138 papers, 1 book and 5 book chapters, and supervised 38 students, 17 at PhD level.  
-![](/assets/images/AM_Tozzi.png){: .inline-left }
+
+<br />
+	<img src="/assets/images/AM_Tozzi.png" alt="Ana Maria Goulart de Azevedo Tozzi" width="40%" align="right" style="margin: 20px 20px 20px 20px">
+<br />
 
 
 
@@ -22,8 +26,12 @@ The 8ILC Organizing Committee has selected seven Brazilian legume researchers wh
 **Angela Maria Studart da Fonseca Vaz** (Jardim Botânico do Rio de Janeiro): has published 38 new legume taxa in 40 papers, 2 books and 18 book chapters, and supervised 5 students, 1 at PhD level.  
 
 
-**Haroldo Cavalcante de Lima** (Jardim Botânico do Rio de Janeiro): has published 101 new legume taxa (including three new genera: *Grazielodendron*, *Paubrasilia* and *Staminodianthus*) in 91 papers, 3 books and 36 book chapters, and supervised 54 students, 11 at PhD level. In addition, Haroldo has collected 4132 legume collections covering 901 species in 196 genera.  
+
 ![](/assets/images/H_deLima.png){: .inline-left }
+**Haroldo Cavalcante de Lima** (Jardim Botânico do Rio de Janeiro): has published 101 new legume taxa (including three new genera: *Grazielodendron*, *Paubrasilia* and *Staminodianthus*) in 91 papers, 3 books and 36 book chapters, and supervised 54 students, 11 at PhD level. In addition, Haroldo has collected 4132 legume collections covering 901 species in 196 genera.  
+
+
+
 
 **José Francisco Montenegro Valls** (Empresa Brasileira de Pesquisa Agropecuária): has published 46 new taxa (18 legumes) in 169 papers, 4 books and 38 book chapters, and supervised 73 students, 14 at PhD level. José has collected more than 5000 legume collections since he started collecting plants in 1969.  
 ![](/assets/images/J_Valls.jpg){: .inline-left }
