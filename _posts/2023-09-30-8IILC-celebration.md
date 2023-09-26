@@ -13,14 +13,14 @@ thumbnail: /assets/images/8ILC_celebration.jpg
 
 The 8ILC Organizing Committee has selected seven Brazilian legume researchers who have contributed significantly to the advancement of knowledge about the legume family throughout their careers, by publishing widely on the systematics and phylogenetics of the family and by teaching and mentoring the next generation of students. The 8ILC Organizing Committee also recognized three major plant collectors, each having collected more than 3000 legume numbers, for their contribution to legume research.
 
-<br />
-	<img src="/assets/images/AM_Tozzi.png" alt="Ana Maria Goulart de Azevedo Tozzi" width="20%" align="left" style="margin: 10px 10px 10px 10px">
-<br />
+<div>
+	<br />
+		<img src="/assets/images/AM_Tozzi.png" alt="Ana Maria Goulart de Azevedo Tozzi" width="20%" align="left" style="margin: 10px 10px 10px 10px">
+	<br />
 
 **Ana Maria Goulart de Azevedo Tozzi** (Universidade Estadual de Campinas): has published 113 new legume taxa (including two new genera: *Guianodendron* and *Limadendron*) in 138 papers, 1 book and 5 book chapters, and supervised 38 students, 17 at PhD level.  
+</div>>
 
-<br />
-<br />
 
 <br />
 	<img src="/assets/images/A_Vaz.jpg" alt="Angela Maria Studart da Fonseca Vaz" width="20%" align="left" style="margin: 10px 10px 10px 10px">
