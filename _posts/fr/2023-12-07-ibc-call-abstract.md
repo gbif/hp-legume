@@ -1,9 +1,9 @@
 ---
-title:  "Call for abstracts for the XX International Botanical Congress"
+title:  "Appel à soumission de résumé pour le XXème International Botanical Congress"
 date:   2023-12-07 09:00:00 +0100
 categories: ["IBC","Call"]
 lang-ref: XXIBC-call
-lang: en
+lang: fr
 preTitle: 07 December 2023
 background: /assets/images/IBC_call.jpg
 imageLicense: |
