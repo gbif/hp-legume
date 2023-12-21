@@ -22,15 +22,15 @@ Organisers: Manuel de la Estrella & Dario Ojeda
 
 **Abstract**: Leguminosae (Fabaceae) is the third largest angiosperm family in terms of species richness with c. 800 genera and over 23,000 species. In ecological and economic terms, the family is also one of the most important plant groups of the World: it not only includes economically important food crops but also key components of a wide variety of ecosystems. Legume systematics benefits from the intensive work by the international Legume Phylogeny Working Group, an informal group of international scientists working towards a new insight of the classification and evolution of these plants. Increasing efforts on phylogenomics studies revealed multiple whole genome duplications within legumes, that along with the new NGS data available are contributing to our better understanding of the group diversification and evolution. Additionally, the new era of collaborative tools allowed the publication, and since then a continuous update, of the Leguminosae checklist provided for the worldwide community through a specific online legume data portal. This symposium will host leading experienced researchers as well as young systematics from across the World to introduce the most recent achievement in taxonomy, phylogenomics and evolution of legumes.
 
-**Speaker 1**: Marianne Le Roux<sup>1</sup>, Domingos Cardoso<sup>2</sup> & Anne Bruneau<sup>3</sup>. <sup>1</sup> South African National Biodiversity Institute (SANBI), <sup>3</sup>Université de Montréal M.LeRoux@sanbi.org.za, cardosobot@gmail.com, anne.bruneau@umontreal.ca 
+**Speaker 1**: Marianne Le Roux<sup>1</sup>, Domingos Cardoso<sup>2</sup> & Anne Bruneau<sup>3</sup>. <sup>1</sup> South African National Biodiversity Institute (SANBI), <sup>3</sup>Université de Montréal 
 
 Talk: The future of legume systematics and the use of collaborative tools
 
-**Speaker 2**: Rowan Schley<sup>1</sup> & Le Min Choo<sup>2</sup>. <sup>1</sup>University of Exeter, <sup>2</sup>Singapore Botanic Gardens, rowan.schley@gmail.com, choolemin@gmail.com 
+**Speaker 2**: Rowan Schley<sup>1</sup> & Le Min Choo<sup>2</sup>. <sup>1</sup>University of Exeter, <sup>2</sup>Singapore Botanic Gardens 
 
 Talk: Evolution of legumes: from introgression to whole genome duplication.
 
-**Speaker 3**: Ting-shuang Yi<sup>1</sup> & Rong Zhang Kunming<sup>1</sup>. <sup>1</sup>Insitute of Botany, Chinese Academy of Sciences tingshuangyi@mail.kib.ac.cn 
+**Speaker 3**: Ting-shuang Yi<sup>1</sup> & Rong Zhang Kunming<sup>1</sup>. <sup>1</sup>Insitute of Botany, Chinese Academy of Sciences 
 
 Talk: Resolve tribal relationships of Fabaceae using nuclear, plastid and mitochondrial genomic data
 
@@ -47,7 +47,7 @@ Abstract: The megadiverse legume subfamily Papilionoideae contains over 14,000 s
 
 Rafaela J. Trad, Flávia F. Pezzini, R. Toby Pennington, Gwilym Lewis, Bente Klitgaard, Rus-sell Barrett, Anne Bruneau, Warren Cardinal-McTeague, Domingos Cardoso, James Clugston, Manuel de la Estrella, Ashley N. Egan, Colin Hughes, Erik Koenen, Todd McLay, Daniel Murphy, Matt Renner, Jens Ringelberg, Rowan Schley, Mohammad Vatanparast, Martin Wojciechowski, Darren Crayn, Olivier Maurin, Raquel Negrão, Catherine McGinnie, Paul Bai-ley, William J. Baker, Félix Forest, and Gregory J. Kenicer
 
-**Talk 2(()): Advances in legume systematics: insights from the Dalbergiod clade (from rose-woods to fodder plants and peanuts)
+**Talk 2**: Advances in legume systematics: insights from the Dalbergiod clade (from rose-woods to fodder plants and peanuts)
 
 Ana Paula Fortuna-Perez and Bente B. Klitgaard
 
@@ -59,7 +59,7 @@ Ozan Şentürk, Zeki Aytaç, and Gregory J. Kenicer
 
 **Talk 1**: Combining legacy Sanger with new phylogenomic DNA sequence data to produce a densely sampled papilionoid phylogeny for comparative biology
 
-Flávia Fonseca Pezzini, Moabe Ferreira Fernandes, Rafaela Jorge Trad, Gregory J. Kenicer, Erik J. M. Koenen, Jens J. Ringelberg, Kyle G. Dexter, Colin E. Hughes, and R. Toby Pen-nington
+Flávia Fonseca Pezzini, Moabe Ferreira Fernandes, Rafaela Jorge Trad, Gregory J. Kenicer, Erik J. M. Koenen, Jens J. Ringelberg, Kyle G. Dexter, Colin E. Hughes, and R. Toby Pennington
 
 **Talk 2**: Developments in the phylogenetic and taxonomic studies of southern African genera of the tribe Phaseoleae
 
