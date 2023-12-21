@@ -71,4 +71,4 @@ James A. R. Clugston, Russell L. Barrett, Matthew A. M. Renner, Peter H. Weston,
 
 **Registration for the IBC is open** [info here](https://ibcmadrid2024.com/index.php?seccion=registrationArea&subSeccion=registrationInfo), and [registration form here](https://ibcmadrid2024.com/index.php?seccion=registrationArea&subSeccion=onlineRegistration)
 
-**Posters** can still be submitted and the **deadline is February 1st 2024** (guidelines here)[https://ibcmadrid2024.com/index.php?seccion=scientificArea&subSeccion=abstractGuidelines], and (submission page here)[https://ibcmadrid2024.com/index.php?seccion=scientificArea&subSeccion=abstractSubmission1]
+**Posters** can still be submitted and the **deadline is February 1st 2024** [guidelines here](https://ibcmadrid2024.com/index.php?seccion=scientificArea&subSeccion=abstractGuidelines) and (submission page here)(https://ibcmadrid2024.com/index.php?seccion=scientificArea&subSeccion=abstractSubmission1)
