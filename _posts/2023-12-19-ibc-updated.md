@@ -5,7 +5,7 @@ categories: ["IBC","Call"]
 lang-ref: XXIBC-call-updated
 lang: en
 preTitle: 19 December 2023
-background: /assets/images/IBC_call.jpg
+background: /assets/images/IBC-logo.jpeg
 imageLicense: |
   [Diagram under the Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0)].(https://www.c82.net/twining/plants/?id=49)
 #background-size: cover
@@ -14,7 +14,7 @@ thumbnail: /assets/images/IBC_call.jpg
 ---
 
 Two symposia focused on legumes are planned for the IBC.
-See: [XX International Botanical Congress Madrid 2024](ibcmadrid2024.com)
+See: [XX International Botanical Congress Madrid 2024](https://ibcmadrid2024.com/)
 
 **Legume Systematics: from collaborative networks to genome sequencing**
 
@@ -22,17 +22,20 @@ Organisers: Manuel de la Estrella & Dario Ojeda
 
 **Abstract**: Leguminosae (Fabaceae) is the third largest angiosperm family in terms of species richness with c. 800 genera and over 23,000 species. In ecological and economic terms, the family is also one of the most important plant groups of the World: it not only includes economically important food crops but also key components of a wide variety of ecosystems. Legume systematics benefits from the intensive work by the international Legume Phylogeny Working Group, an informal group of international scientists working towards a new insight of the classification and evolution of these plants. Increasing efforts on phylogenomics studies revealed multiple whole genome duplications within legumes, that along with the new NGS data available are contributing to our better understanding of the group diversification and evolution. Additionally, the new era of collaborative tools allowed the publication, and since then a continuous update, of the Leguminosae checklist provided for the worldwide community through a specific online legume data portal. This symposium will host leading experienced researchers as well as young systematics from across the World to introduce the most recent achievement in taxonomy, phylogenomics and evolution of legumes.
 
-**Speaker 1**: Marianne Le Roux<sup>1</sup>, Domingos Cardoso<sup>2</sup> & Anne Bruneau<sup>3</sup>. <sup>1</sup> South African National Biodiversity Institute (SANBI), <sup>3</sup>Université de Montréal 
+**Speaker 1**: Marianne Le Roux<sup>1</sup>, Domingos Cardoso<sup>2</sup> & Anne Bruneau<sup>3</sup>.  
+<sup>1</sup> South African National Biodiversity Institute (SANBI), <sup>3</sup>Université de Montréal 
 
-Talk: The future of legume systematics and the use of collaborative tools
+Talk: *The future of legume systematics and the use of collaborative tools*
 
-**Speaker 2**: Rowan Schley<sup>1</sup> & Le Min Choo<sup>2</sup>. <sup>1</sup>University of Exeter, <sup>2</sup>Singapore Botanic Gardens 
+**Speaker 2**: Rowan Schley<sup>1</sup> & Le Min Choo<sup>2</sup>.  
+<sup>1</sup>University of Exeter, <sup>2</sup>Singapore Botanic Gardens 
 
-Talk: Evolution of legumes: from introgression to whole genome duplication.
+Talk: *Evolution of legumes: from introgression to whole genome duplication.*
 
-**Speaker 3**: Ting-shuang Yi<sup>1</sup> & Rong Zhang Kunming<sup>1</sup>. <sup>1</sup>Insitute of Botany, Chinese Academy of Sciences 
+**Speaker 3**: Ting-shuang Yi<sup>1</sup> & Rong Zhang Kunming<sup>1</sup>.  
+<sup>1</sup>Insitute of Botany, Chinese Academy of Sciences 
 
-Talk: Resolve tribal relationships of Fabaceae using nuclear, plastid and mitochondrial genomic data
+Talk: *Resolve tribal relationships of Fabaceae using nuclear, plastid and mitochondrial genomic data*
 
 
 **Recent advances in the megadiverse legume subfamily papilionoideae**
