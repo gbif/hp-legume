@@ -17,7 +17,7 @@ Log into [Rhakhis](https://list.worldfloraonline.org/rhakhis/ui/) with your ORCI
 
 Search for the name of interest in the A-Z tab and select the relevant record. Make sure that the nomenclatural status is correct to activate other editing options and to place the name within the classification system. All the parts marked in grey are related to nomenclature while the parts marked in orange deal with taxonomy.
 
-/assets/images/Rhakhis1.png 
+![](/assets/images/Rhakhis1.png) 
 
 A user [handbook](https://plant-list-docs.rbge.info/rhakhis/) is available along with some training videos. A [sandbox](https://rhakhis.rbge.info/rhakhis/ui/) is also available to play around while learning. The system is fairly simple to use and automatically captures metadata in a single place while updates are made.
 
@@ -28,23 +28,23 @@ This works in the same way as the Excel spreadsheets that were used for checklis
 
 When a filter is applied in the sheet, it is preferable to create a filter view that is only visible to yourself. To do this, go to the Google sheet, click on the Data tab, then Filter Views, and Create a new filter. Use your name to label the filter:
 
-/assets/images/GoogleSheet2.png
+![](/assets/images/GoogleSheet2.png)
 
 A useful way of getting to the names of interest is by filtering in the accepted name column. 
 Every record checked should be flagged by entering the name of the person that checked the particular record along with the date. If there are changes needed, this should be recorded in the comments field:
 
-/assets/images/GoogleSheet3.png
+![](/assets/images/GoogleSheet3.png)
 
 **3.     Traditional checklist**
 To generate a traditional checklist, go to the [Plants of the World Online](https://powo.science.kew.org/) website and look for the Data tab on the home page and select Build a checklist.
 
-/assets/images/TraditionalChecklist4.png
+![](/assets/images/TraditionalChecklist4.png)
 
 Once you have generated the checklist, copy it to a text editor, activate track changes and make the necessary updates. All checklists must be submitted to the relevant subfamily or tribe coordinator. Here is the list of coordinators: 
 
 
 Subfamily/tribe/clade	|Coordinator
---------------------------------------------------
+----------------------|-------------------------
 Caesalpinioideae |Anne Bruneau and Marianne le Roux, Juliana Rando
 Cercidoideae	|Anne Bruneau
 Detarioideae	|Manuel de la Estrella
