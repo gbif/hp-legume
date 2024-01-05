@@ -5,14 +5,14 @@ categories: ["How to"]
 lang-ref: Checklist Procedures
 lang: en
 preTitle: 5 January 2024
-background: /assets/images/IBC-logo.jpeg
-imageLicense: |
-  [Diagram under the Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0)].(https://www.c82.net/twining/plants/?id=49)
+background: /assets/images/WCVP-Checklist.png
+imageLicense:
 #background-size: cover
 ratio: 50
-thumbnail: /assets/images/IBC-logo.jpeg
+thumbnail: /assets/images/WCVP-Checklist.png
 ---
 **1.     Rhakhis**
+
 Log into [Rhakhis](https://list.worldfloraonline.org/rhakhis/ui/) with your ORCID. Let us know that you will be using Rhkahis [here](https://docs.google.com/forms/d/1rWAcg8hJ6XIFqoJ6zT5TE4T0XjsYuUvfhUQcoL9rMUI/edit) so that we can allocate the relevant editing rights to you.
 
 Search for the name of interest in the A-Z tab and select the relevant record. Make sure that the nomenclatural status is correct to activate other editing options and to place the name within the classification system. All the parts marked in grey are related to nomenclature while the parts marked in orange deal with taxonomy.
@@ -24,6 +24,7 @@ A user [handbook](https://plant-list-docs.rbge.info/rhakhis/) is available along
 Unplaced names are visible under the family and genus pages. These need attention by taxon experts to clean up and clarify their application.
 
 **2.     Google Sheet**
+
 This works in the same way as the Excel spreadsheets that were used for checklist editing before, except that the checklist is accessible online and that it contains all the names. The newest version of the Checkist (WCVP: Fabaceae checklist 2023v.4) is available [here](https://docs.google.com/spreadsheets/d/1bnmb2CcQjky35rSDwqNn-6vgNo2mdWw3-LL4YehLbvY/edit#gid=277323699).
 
 When a filter is applied in the sheet, it is preferable to create a filter view that is only visible to yourself. To do this, go to the Google sheet, click on the Data tab, then Filter Views, and Create a new filter. Use your name to label the filter:
@@ -36,6 +37,7 @@ Every record checked should be flagged by entering the name of the person that c
 ![](/assets/images/GoogleSheet3.png)
 
 **3.     Traditional checklist**
+
 To generate a traditional checklist, go to the [Plants of the World Online](https://powo.science.kew.org/) website and look for the Data tab on the home page and select Build a checklist.
 
 ![](/assets/images/TraditionalChecklist4.png)
