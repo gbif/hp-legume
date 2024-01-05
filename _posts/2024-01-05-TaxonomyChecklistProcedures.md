@@ -5,11 +5,11 @@ categories: ["How to"]
 lang-ref: Checklist Procedures
 lang: en
 preTitle: 5 January 2024
-background: /assets/images/WCVP-Checklist.png
+background: /assets/images/LDP-logo.png
 imageLicense:
 #background-size: cover
 ratio: 50
-thumbnail: /assets/images/WCVP-Checklist.png
+thumbnail: /assets/images/LDP-logo.png
 ---
 **1.     Rhakhis**
 
