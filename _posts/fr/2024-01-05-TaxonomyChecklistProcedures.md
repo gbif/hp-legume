@@ -27,18 +27,18 @@ Des noms non-placés, ayant un statut incertain, sont visibles sur les pages de 
 
 Ce tableur fonctionne de la même façon que le tableur Excel que nous utilisions précédemment pour effectuer les modifications. Cependant le tableur Google est disponible en ligne et contient tous les noms. La dernière version de la checklist (WCVP: Fabaceae checklist 2023v.4) est disponible [ici](https://docs.google.com/spreadsheets/d/1bnmb2CcQjky35rSDwqNn-6vgNo2mdWw3-LL4YehLbvY/edit#gid=277323699).
 
-Lorsqu'un filtre est utilisé dans le tableur, il est préférable de créer une version du document visible que pour vous. Pour ce faire, dans le tableur, cliquez sur l'onglet des données ("Data"), et enstuite sur "Filter Views" et créez un nouveau filtre. Utilisez votre nom pour identifier le filtre: 
+Lorsqu'un filtre est utilisé dans le tableur, il est préférable de créer une version du document visible que pour vous. Pour ce faire, dans le tableur, cliquez sur l'onglet des données ("Data"), et ensuite sur "Filter Views" et créez un nouveau filtre. Utilisez votre nom pour nommer le filtre: 
 
 ![](/assets/images/GoogleSheet2.png)
 
 Une manière utile de trouver les noms d'intérêt est de filtrer dans la colonne des noms acceptés. 
-Pour chaque entrée vérifiée vous devez indiquer votre nom et la date de vérification. Si des changements sont nécessaires, ceux-ci devraient être notés dans la champs de commentaires:  
+Pour chaque entrée vérifiée vous devez indiquer votre nom et la date de vérification. Si des changements sont nécessaires, ceux-ci devraient être notés dans le champs de commentaires ("comments"):  
 
 ![](/assets/images/GoogleSheet3.png)
 
 **3.     La liste traditionnelle**
 
-Pour générer une copie de la checklist traditionnelle, allez sur le site de [Plants of the World Online](https://powo.science.kew.org/) et dans l'onglet pour les données (data), en haut à droite sur sur la page d'accueil, sélectionnez "Build a checklist".
+Pour générer une copie de la checklist traditionnelle, allez sur le site de [Plants of the World Online](https://powo.science.kew.org/) et dans le menu en haut à droite sur sur la page d'accueil, cliquez sur les données (data) et sélectionnez "Build a checklist".
 
 ![](/assets/images/TraditionalChecklist4.png)
 
@@ -97,7 +97,7 @@ Unresolved/unranked: Pericopsis 	|Gwil Lewis
 Unresolved/unranked: Sakoanala	|Gwil Lewis
 
 
-Si vous avez besoin d'aide, n'hésitez pas à contacter [Marianne le Roux]((m.leroux@sanbi.org.za), [Juliana Rando](jgrando@alumni.usp.br), ou [Anne Bruneau](anne.bruneau@umontreal.ca).  Merci pour vos contributions!
+Si vous avez besoin d'aide, n'hésitez pas à contacter [Marianne le Roux](m.leroux@sanbi.org.za), [Juliana Rando](jgrando@alumni.usp.br), ou [Anne Bruneau](anne.bruneau@umontreal.ca).  Merci pour vos contributions!
 
 
 
