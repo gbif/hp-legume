@@ -3,3 +3,5 @@ en:
   icon:  # optional
 fr:
   label: Français
+pt:
+  label: Portuguese
