@@ -5,15 +5,15 @@ categories: ["How to"]
 lang-ref: Checklist Procedures
 lang: fr
 preTitle: 5 January 2024
-background: https://www.inaturalist.org/photos/133409879?size=original
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/original.jpg
 imageLicense: |
   <em>Entada rheedei</em> Spreng. Photo par dineshvalke via [iNaturalist](https://www.inaturalist.org/observations/81342675)
 #background-size: cover
 ratio: 50
-thumbnail: https://www.inaturalist.org/photos/133409879?size=original
+thumbnail: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/original.jpg
 ---
 
-**1.     Rhakhis**
+## 1. Rhakhis
 
 Entrez sur [Rhakhis](https://list.worldfloraonline.org/rhakhis/ui/) avec votre compte ORCID. Vous devez nous prévenir [ici](https://docs.google.com/forms/d/1rWAcg8hJ6XIFqoJ6zT5TE4T0XjsYuUvfhUQcoL9rMUI/edit) que vous voulez utiliser Rhakhis pour que nous puissions vous allouer les droits de modification. 
 
@@ -25,7 +25,7 @@ Un [guide d'utilisateur](https://plant-list-docs.rbge.info/rhakhis/) est disponi
 
 Des noms non-placés, ayant un statut incertain, sont visibles sur les pages de la famille et des genres. Ces noms requièrent une attention particulière de la part d'experts taxonomiques afin de les vérifier et de clarifier leur application. 
 
-**2.     Tableur Google**
+## 2. Tableur Google
 
 Ce tableur fonctionne de la même façon que le tableur Excel que nous utilisions précédemment pour effectuer les modifications. Cependant le tableur Google est disponible en ligne et contient tous les noms. La dernière version de la checklist (WCVP: Fabaceae checklist 2023v.4) est disponible [ici](https://docs.google.com/spreadsheets/d/1bnmb2CcQjky35rSDwqNn-6vgNo2mdWw3-LL4YehLbvY/edit#gid=277323699).
 
@@ -38,7 +38,7 @@ Pour chaque entrée vérifiée vous devez indiquer votre nom et la date de véri
 
 ![](/assets/images/GoogleSheet3.png)
 
-**3.     La liste traditionnelle**
+## 3. La liste traditionnelle
 
 Pour générer une copie de la checklist traditionnelle, allez sur le site de [Plants of the World Online](https://powo.science.kew.org/) et dans le menu en haut à droite sur sur la page d'accueil, cliquez sur les données (data) et sélectionnez "Build a checklist".
 

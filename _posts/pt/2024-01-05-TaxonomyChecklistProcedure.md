@@ -5,14 +5,14 @@ categories: ["How to"]
 lang-ref: Checklist Procedures
 lang: pt
 preTitle: 5 January 2024
-background: https://www.inaturalist.org/photos/133409879?size=original
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/original.jpg
 imageLicense: |
   <em>Entada rheedei</em> Spreng. Image by dineshvalke via [iNaturalist](https://www.inaturalist.org/observations/81342675)
 #background-size: cover
 ratio: 50
-thumbnail: https://www.inaturalist.org/photos/133409879?size=original
+thumbnail: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/original.jpg
 ---
-**1.     Rhakhis**
+## 1. Rhakhis
 
 Faça o login no [Rhakhis](https://list.worldfloraonline.org/rhakhis/ui/) com seu ORCID. Por favor nos informe que você usará o Rhkahis [aqui](https://docs.google.com/forms/d/1rWAcg8hJ6XIFqoJ6zT5TE4T0XjsYuUvfhUQcoL9rMUI/edit) para que possamos abilitar a autorização de edição para seu usuário.
 
@@ -24,7 +24,7 @@ O [manual do usuário](https://plant-list-docs.rbge.info/rhakhis/) e vídeos de 
 
 Nomes sem posição definida são visíveis sob as páginas de família e gênero. Esses necessitam de atenção dos especialistas para limpar e clarificar sua aplicação. 
 
-**2.     Google Sheet**
+## 2. Google Sheet
 
 O Google Sheet funciona da mesma forma que planilhas do Excel que foram usadas para editar checklists anteriormente, com exceção do fato de ser acessível online e de conter todos os nomes. A mais nova versão da Checklist (WCVP: Fabaceae checklist 2023v.4) está disponível [aqui](https://docs.google.com/spreadsheets/d/1bnmb2CcQjky35rSDwqNn-6vgNo2mdWw3-LL4YehLbvY/edit#gid=277323699).
 
@@ -36,7 +36,7 @@ Um jeito útil de obter os nomes de interesse é filtrando a coluna de nomes ace
 
 ![](/assets/images/GoogleSheet3.png)
 
-**3. Checklist tradicional**
+## 3. Checklist tradicional
 
 Para gerar uma checklist tradicional, vá para o site [Plants of the World Online](https://powo.science.kew.org/) e procure pela aba Data na página inicial e então selecione Build a checklist.
 
