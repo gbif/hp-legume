@@ -1,9 +1,9 @@
 ---
-title:  "How to curate legume names: Read more to use Rhakhis, a Google Speadsheet or the Traditional Checklist"
+title:  "Como fazer a curadoria dos nomes de legumes: Leia mais sobre como usar o Rhakhis, Google Speadsheet ou a Checklist tradicional"
 date:   2024-01-05 09:00:00 +0100
 categories: ["How to"]
 lang-ref: Checklist Procedures
-lang: en
+lang: pt
 preTitle: 5 January 2024
 background: https://www.inaturalist.org/photos/133409879?size=original
 imageLicense: |
@@ -12,42 +12,40 @@ imageLicense: |
 ratio: 50
 thumbnail: https://www.inaturalist.org/photos/133409879?size=original
 ---
-
 **1.     Rhakhis**
 
-Log into [Rhakhis](https://list.worldfloraonline.org/rhakhis/ui/) with your ORCID. Let us know that you will be using Rhkahis [here](https://docs.google.com/forms/d/1rWAcg8hJ6XIFqoJ6zT5TE4T0XjsYuUvfhUQcoL9rMUI/edit) so that we can allocate the relevant editing rights to you.
+Faça o login no [Rhakhis](https://list.worldfloraonline.org/rhakhis/ui/) com seu ORCID. Por favor nos informe que você usará o Rhkahis [aqui](https://docs.google.com/forms/d/1rWAcg8hJ6XIFqoJ6zT5TE4T0XjsYuUvfhUQcoL9rMUI/edit) para que possamos abilitar a autorização de edição para seu usuário.
 
-Search for the name of interest in the A-Z tab and select the relevant record. Make sure that the nomenclatural status is correct to activate other editing options and to place the name within the classification system. All the parts marked in grey are related to nomenclature while the parts marked in orange deal with taxonomy.
+Procure pelo nome de interesse na aba A-Z e selecione o registro relevante. Certifique-se que o status nomenclatural está correto para ativar outras opções de edição e para inserir o nome no sistema de classificação. Todas as partes marcadas em cinza são relacionadas a nomenclatura e as partes marcadas em laranja a taxonomia.
 
 ![](/assets/images/Rhakhis1.png) 
 
-A user [handbook](https://plant-list-docs.rbge.info/rhakhis/) is available along with some training videos. A [sandbox](https://rhakhis.rbge.info/rhakhis/ui/) is also available to play around while learning. The system is fairly simple to use and automatically captures metadata in a single place while updates are made.
+O [manual do usuário](https://plant-list-docs.rbge.info/rhakhis/) e vídeos de treinamento estão disponíveis. Um [sandbox](https://rhakhis.rbge.info/rhakhis/ui/) também está disponível para brincar enquanto aprende. O sistema é simples para usar e captura os metadados automaticamente em um só lugar enquanto as atualizações são feitas.  
 
-Unplaced names are visible under the family and genus pages. These need attention by taxon experts to clean up and clarify their application.
+Nomes sem posição definida são visíveis sob as páginas de família e gênero. Esses necessitam de atenção dos especialistas para limpar e clarificar sua aplicação. 
 
 **2.     Google Sheet**
 
-This works in the same way as the Excel spreadsheets that were used for checklist editing before, except that the checklist is accessible online and that it contains all the names. The newest version of the Checkist (WCVP: Fabaceae checklist 2023v.4) is available [here](https://docs.google.com/spreadsheets/d/1bnmb2CcQjky35rSDwqNn-6vgNo2mdWw3-LL4YehLbvY/edit#gid=277323699).
+O Google Sheet funciona da mesma forma que planilhas do Excel que foram usadas para editar checklists anteriormente, com exceção do fato de ser acessível online e de conter todos os nomes. A mais nova versão da Checklist (WCVP: Fabaceae checklist 2023v.4) está disponível [aqui](https://docs.google.com/spreadsheets/d/1bnmb2CcQjky35rSDwqNn-6vgNo2mdWw3-LL4YehLbvY/edit#gid=277323699).
 
-When a filter is applied in the sheet, it is preferable to create a filter view that is only visible to yourself. To do this, go to the Google sheet, click on the Data tab, then Filter Views, and Create a new filter. Use your name to label the filter:
+Quando um filtro é aplicado a essa planilha, é preferível criar uma visualização de filtro que seja visível somente para você. Para isso, vá ao Google sheet, clique na aba Data, depois Filter Views, e Create a new filter. Use seu nome para nomear o filtro:
 
 ![](/assets/images/GoogleSheet2.png)
 
-A useful way of getting to the names of interest is by filtering in the accepted name column. 
-Every record checked should be flagged by entering the name of the person that checked the particular record along with the date. If there are changes needed, this should be recorded in the comments field:
+Um jeito útil de obter os nomes de interesse é filtrando a coluna de nomes aceitos. Cada registro verificado deve ser marcado por meio da inclusão do nome da pessoa que checou aquele registro e da data em que foi checado. Caso sejam necessárias mudanças, podem ser registradas no campo comments.  
 
 ![](/assets/images/GoogleSheet3.png)
 
-**3.     Traditional checklist**
+**3. Checklist tradicional**
 
-To generate a traditional checklist, go to the [Plants of the World Online](https://powo.science.kew.org/) website and look for the Data tab on the home page and select Build a checklist.
+Para gerar uma checklist tradicional, vá para o site [Plants of the World Online](https://powo.science.kew.org/) e procure pela aba Data na página inicial e então selecione Build a checklist.
 
 ![](/assets/images/TraditionalChecklist4.png)
 
-Once you have generated the checklist, copy it to a text editor, activate track changes and make the necessary updates. All checklists must be submitted to the relevant subfamily or tribe coordinator. Here is the list of coordinators: 
+Assim que você tiver gerado uma checklist, copie-a para um editor de texto, ative o controle de alterações e faça as atualizações necessárias. Todas as checklists devem ser submetidas ao respectivo coordenador de subfamília ou tribo. Abaixo a lista de coordenadores: 
 
 
-Subfamily/tribe/clade	|Coordinator
+Subfamília/tribo/clado	|Coordenador
 ----------------------|-------------------------
 Caesalpinioideae |Anne Bruneau and Marianne le Roux, Juliana Rando
 Cercidoideae	|Anne Bruneau
@@ -98,8 +96,4 @@ Unresolved/unranked: Orphanodendron	|Gwil Lewis
 Unresolved/unranked: Pericopsis 	|Gwil Lewis
 Unresolved/unranked: Sakoanala	|Gwil Lewis
 
-
-If you need further assistance, please contact [Marianne le Roux]((mailto:m.leroux@sanbi.org.za), [Juliana Rando](mailto:jgrando@alumni.usp.br), or [Anne Bruneau](mailto:anne.bruneau@umontreal.ca).
-
-
-
+Caso necessite ajuda, por favor entre em contato com [Marianne le Roux](mailto:m.leroux@sanbi.org.za), [Juliana Rando](mailto:jgrando@alumni.usp.br), ou [Anne Bruneau](mailto:anne.bruneau@umontreal.ca).

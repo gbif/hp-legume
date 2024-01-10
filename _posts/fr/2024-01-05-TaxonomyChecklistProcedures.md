@@ -5,12 +5,14 @@ categories: ["How to"]
 lang-ref: Checklist Procedures
 lang: fr
 preTitle: 5 January 2024
-background: /assets/images/LDP-logo.png
-imageLicense:
+background: https://www.inaturalist.org/photos/133409879?size=original
+imageLicense: |
+  <em>Entada rheedei</em> Spreng. Photo par dineshvalke via [iNaturalist](https://www.inaturalist.org/observations/81342675)
 #background-size: cover
 ratio: 50
-thumbnail: /assets/images/LDP-logo.png
+thumbnail: https://www.inaturalist.org/photos/133409879?size=original
 ---
+
 **1.     Rhakhis**
 
 Entrez sur [Rhakhis](https://list.worldfloraonline.org/rhakhis/ui/) avec votre compte ORCID. Vous devez nous prévenir [ici](https://docs.google.com/forms/d/1rWAcg8hJ6XIFqoJ6zT5TE4T0XjsYuUvfhUQcoL9rMUI/edit) que vous voulez utiliser Rhakhis pour que nous puissions vous allouer les droits de modification. 
@@ -97,7 +99,7 @@ Unresolved/unranked: Pericopsis 	|Gwil Lewis
 Unresolved/unranked: Sakoanala	|Gwil Lewis
 
 
-Si vous avez besoin d'aide, n'hésitez pas à contacter [Marianne le Roux](m.leroux@sanbi.org.za), [Juliana Rando](jgrando@alumni.usp.br), ou [Anne Bruneau](anne.bruneau@umontreal.ca).  Merci pour vos contributions!
+Si vous avez besoin d'aide, n'hésitez pas à contacter [[Marianne le Roux](mailto:m.leroux@sanbi.org.za), [Juliana Rando](mailto:jgrando@alumni.usp.br), ou [Anne Bruneau](mailto:anne.bruneau@umontreal.ca).  Merci pour vos contributions!
 
 
 
