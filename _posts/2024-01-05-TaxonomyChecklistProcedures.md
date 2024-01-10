@@ -99,7 +99,7 @@ Unresolved/unranked: Pericopsis 	|Gwil Lewis
 Unresolved/unranked: Sakoanala	|Gwil Lewis
 
 
-If you need further assistance, please contact [Marianne le Roux]((mailto:m.leroux@sanbi.org.za), [Juliana Rando](mailto:jgrando@alumni.usp.br), or [Anne Bruneau](mailto:anne.bruneau@umontreal.ca).
+If you need further assistance, please contact [Marianne le Roux](mailto:m.leroux@sanbi.org.za), [Juliana Rando](mailto:jgrando@alumni.usp.br), or [Anne Bruneau](mailto:anne.bruneau@umontreal.ca).
 
 
 
