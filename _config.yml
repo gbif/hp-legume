@@ -132,6 +132,19 @@ defaults:
     values:
       layout: "post"
       permalink: "/fr/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "pt/"
+    values:
+      lang: pt
+  -
+    scope:
+      path: "_posts/pt/" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: "/pt/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+
 
 phylo:
   tool: https://phylogeny-tool.gbif.org
