@@ -9,7 +9,7 @@ background: /assets/images/IBC-logo.jpeg
 imageLicense: |
   [Diagram under the Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0)].(https://www.c82.net/twining/plants/?id=49)
 #background-size: cover
-ratio: 24.4
+ratio: 50
 thumbnail: /assets/images/IBC-logo.jpeg
 ---
 
