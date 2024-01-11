@@ -1,0 +1,21 @@
+# Footer content is organized in columns.
+# You can also add a small print license statement at the bottom.
+
+# Columns (the more you add, the narrower they will be)
+columns:
+  - name: Partners
+    description: |
+      This portal is a project of the Legume Phylogeny Working Group (LPWG), with the support of [Canadensys](http://www.canadensys.net/) and [GBIF](https://www.gbif.org/).
+
+  - name: Code
+    description: | # Can be Markdown
+      This project is open source. 
+      All files are available on [GitHub](https://github.com/gbif/hp-legume).
+      To leave a comment, report an issue or suggest an improvement, you can [create a new GitHub issue](https://github.com/gbif/hp-legume/issues/new).
+
+  - name: Contact
+    description: | # Can be Markdown
+      * [Email](mailto:legumephylogenywg@gmail.com)
+    connectIcons: true
+other: |
+  [Privacy policy](/privacy)
