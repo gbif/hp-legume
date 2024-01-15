@@ -12,6 +12,8 @@ imageLicense: |
 ratio: 50
 thumbnail: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/original.jpg
 ---
+([English](/_posts/2024-01-05-TaxonomyChecklistProcedure.md) and [french](/_posts/fr/2024-01-05-TaxonomyChecklistProcedure.md) versions available)
+
 ## 1. Rhakhis
 
 Faça o login no [Rhakhis](https://list.worldfloraonline.org/rhakhis/ui/) com seu ORCID. Por favor nos informe que você usará o Rhkahis [aqui](https://docs.google.com/forms/d/1rWAcg8hJ6XIFqoJ6zT5TE4T0XjsYuUvfhUQcoL9rMUI/edit) para que possamos abilitar a autorização de edição para seu usuário.
