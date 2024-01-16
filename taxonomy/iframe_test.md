@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 lang: en
 title: Test page for an iframe
 description: Just trying out how iframes work
