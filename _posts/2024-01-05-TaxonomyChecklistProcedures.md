@@ -12,7 +12,7 @@ imageLicense: |
 ratio: 50
 thumbnail: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/original.jpg
 ---
-([Portuguese](/pt/post/2024/taxonomychecklistprocedures/) and [french](/fr/post/2024/taxonomychecklistprocedures/) versions available)
+([Portuguese](/pt/post/2024/taxonomychecklistprocedure/) and [french](/fr/post/2024/taxonomychecklistprocedures/) versions available)
 
 
 ## 1. Rhakhis
