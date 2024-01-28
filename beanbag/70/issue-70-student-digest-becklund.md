@@ -1,0 +1,43 @@
+---
+layout: documentation
+lang-ref: beanbag/70/issue-70-student-digest-becklund
+permalink: /beanbag/70/issue-70-student-digest-becklund
+title: Student Digest (Ellie Becklund)
+description: Student Digest (Ellie Becklund)
+sideNavigation: sidenav.beanbag70
+---
+
+# STUDENT DIGEST
+
+## Oceans and rain dictate Mimosoid species distributions across the tropics
+
+**L. Ellie Becklund**, PhD candidate  
+Department of Environmental and Plant Biology, Ohio University, Athens, Ohio, USA  
+
+Why do species occur here, but not there? Biologists have long investigated (Buffon, 1761) the factors influencing species distributions, community assemblages, and biomes to understand biogeographic trends, for example, why species assemblages in the tropics differ from those in temperate climates. Three main influences on present-day species distributions have been proposed, including stochastic processes, geographic barriers promoting speciation and limiting dispersal (e.g., oceans), and ecological niche barriers (e.g., precipitation, frost) that limit a species' success outside of its niche space (Cavender-Bares et al., 2009). If geographic distance shapes species distributions, instances of long-distance dispersal should be rare and niche shifts common, whereas if phylogenetic niche conservatism is the main driver of species distributions, long-distance dispersal should be more frequent than shifts into new niche space. We can test which among geography and niche conservatism has a larger effect over species distributions by investigating variations in phylogenetic turnover, i.e., the evolutionary dissimilarity between species assemblages across regions (Hardy et al., 2012). The advent of large phylogenetic, geographic, and environmental data sets allows us to do this across continents. In Fabaceae, Mimosoid legumes are species-rich in the tropics, occurring pantropically across the globe, but are scarce in temperate climates. While several genera are pantropically distributed (e.g., *Parkia*, *Vachellia*), some Mimosoid lineages are confined by continental connectivity (e.g., *Inga*, *Desmanthus*). The question is whether these present-day distributions are the result of dispersal limitations, or ecological adaptive barriers, or both, and whether geography or adaptation has a larger effect?  
+
+In a recent paper in Science Advances, Ringelberg et al. (2023) tackle this longstanding question by investigating the impacts of dispersal limitation and climatic niches on phylogenetic turnover of Mimosoid species. The Mimosoid clade is an ideal group to investigate broadscale patterns of phylogenetic turnover because of its high number of species (~3,500 in total) and lineages which vary from pantropical to continental distributions, and can be investigated in a phylogenomic context (Ringelberg et al., 2022) to understand speciation and dispersal trends over the last 45 Ma. A composite "metachronogram" was constructed by grafting subtrees onto a generic time-calibrated phylogenomic backbone as the basis for climatic niche comparisons of 3,156 species based on 424,333 occurrence records. To evaluate the effect of climate and dispersal limitation on phylogenetic turnover, mean annual precipitation, mean annual temperature, and seasonality of precipitation were compared, after correcting for geographic distance, across the entire pantropical data set and individual data sets partitioned by continent (Africa, North America, South America, Australia, and Asia). The authors found that dispersal limitation caused by oceanic barriers better explained phylogenetic turnover at the pantropical scale in Mimosoids. Interestingly, more instances of transoceanic dispersal events happened before 20 Ma and have since slowed, suggesting the pantropical distribution of the clade was achieved early. Conversely, within continents, precipitation and then temperature were better indicators of phylogenetic turnover. Within continents, Mimosoid species diversified within their ancestral precipitation regimes ~95% of the time, with just 5% of speciation events involving shifts into wetter or drier environments. Climatic niche also explained more of the turnover in past distributions than present, and periods of diversification and niche shifts throughout the clade's evolutionary history coincided with global cooling and opening of drier habitats. As expected, a high degree of tropical niche conservatism shaped Mimosoid species' distributions with just 7.2% of Mimosoids making it into temperate zones and tolerating frost.  
+
+Based on global data sets and near-complete sampling of a large pantropical lineage, Ringelberg et al. (2023) highlighted the importance of long-distance dispersal at the pantropical scale and of precipitation at the continental scale in dictating Mimosoid diversification over the past 35 Ma. Their findings align with other studies that also found mean annual precipitation, seasonality, and temperature as the most important variables that shape the climatic niche among plants and animals (Liu et al., 2020; Oyebanji et al., 2020). This importance of climate points to the strong selection pressures precipitation and temperature exert and to a strong propensity for phylogenetic niche conservatism. Yet, geographic and climatic distances alone do not altogether explain phylogenetic turnover in the Mimosoid clade, and other niche components such as competition, mutualisms, geology, and elevation, although not quantified by Ringelberg et al., undoubtedly also influenced the distribution of species and lineages. Alongside plant functional traits, morphology, and ploidy, these factors likely account for the remaining unexplained variance in phylogenetic turnover.  
+
+![](/assets/images/70/Becklund_StudentDigest_figure.png)
+Left to right: Different rainfall regimes of *Neltuma velutina* and *Vachellia constricta* (dry) in the United States, *Parkia pendula* (intermediate) in Bolivia, and *Archidendron lucidum* (wet) in Taiwan. Photographers: L.E. Becklund; V.A. Vos (iNaturalist); mira_hlt (iNaturalist).  
+
+
+One of the most striking findings of the Ringelberg et al. (2023) study is that the estimated number of trans-continental dispersal events is greater than the number of tropical to temperate transitions, despite the geographic adjacency of the tropics and the temperate zone, i.e., where there is an obvious dispersal barrier. For Mimosoids frost greatly limits distributions, posing an adaptive barrier that is as strong or stronger than the barrier to moving great distances across oceans. The study by Ringelberg et al. provides a template to investigate phylogenetic turnover in other groups and communities, as well as the underlying causes of the exceptions to these predominant trends. The limited evolvability to climate has remained consistent over evolutionary time, and leaves much to consider in our changing world.
+
+### References
+ 
+Buffon, G. L. L., Comte de. (1761) *Histoire Naturelle, Generale et Particuliere*, **Vol. 9**. Paris: Imprimerie Royale.  
+
+Cavender-Bares, J., Kozak, K. H., Fine, P. V. A., & Kembel, S. W. (2009) The merging of community ecology and phylogenetic biology. *Ecology Letters* **12**: 693–715.  
+
+Hardy, O. J., Couteron, P., Munoz, F., Ramesh, B. R., & Pélissier, R. (2012) Phylogenetic turnover in tropical tree communities: impact of environmental filtering, biogeography and mesoclimatic niche conservatism. *Global Ecology and Biogeography* **21**: 1007–1016.  
+
+Liu, H., Ye, Q., & Wiens, J. J. (2020) Climatic-niche evolution follows similar rules in plants and animals. *Nature Ecology & Evolution* **4**: 753–763.  
+
+Oyebanji, O., Zhang, R., Chen, S.-Y., Yi, T.-S. (2020) New insights into the plastome evolution of the Millettioid/Phaseoloid Clade (Papilionoideae, Leguminosae). *Frontiers in Plant Science* **11**: 151.  
+
+Ringelberg, J. J., Koenen, E. J. M., Iganci, J. R., de Queiroz, L. P., Murphy, D. J., Gaudeul, M., Bruneau, A., Luckow, M., Lewis, G. P., & Hughes, C. E. (2022) Phylogenomic analysis of 997 nuclear genes reveals the need for extensive generic re-delimitation in Caesalpinioideae (Leguminosae). *PhytoKeys* **205**: 3–58.  
+
+Ringelberg, J. J., Koenen, E. J. M., Sauter, B., Aebli, A., Rando, J. G., Iganci, J. R., De Queiroz, L. P., Murphy, D. J., Gaudeul, M., Bruneau, A., Luckow, M., Lewis, G. P., Miller, J. T., Simon, M. F., Jordão, L. S. B., Morales, M., Bailey, C. D., Nageswara-Rao, M., Nicholls, J. A., Loiseau, O., Pennington, R. T., Dexter, K. G., Zimmermann, N. E., & Hughes, C. E. (2023) Precipitation is the main axis of tropical plant phylogenetic turnover across space and time. *Science Advances* **9**: eade4954.  

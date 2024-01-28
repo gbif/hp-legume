@@ -170,3 +170,61 @@ beanbag69:
   content:
   - title: Legume Bibliography 2022
     path: /beanbag/69/issue-69-legume-bibliography-2022
+beanbag70:
+- content:
+  - title: Table of contents
+    path: /beanbag/70/70content
+  - title: Welcome note
+    path: /beanbag/70/issue-70-welcome-note
+- grouptitle: Legume Phylogeny Working Group Reports
+  content:
+  - title: The Legume Phylogeny Working Group
+    path: /beanbag/70/issue-70-legume-phylogeny-working-group-reports
+  - title: Taxonomy Working Group
+    path: /beanbag/70//issue-70-taxonomy-working-group
+  - title: Phylogenomics Working Group
+    path: /beanbag/70/issue-70-phylogenomics-working-group
+  - title: Occurrence Data Working Group
+    path: /beanbag/70/issue-70-occurrence-working-group
+  - title: Traits Working Group
+    path: /beanbag/70/issue-70-traits-working-group
+  - title: Legume Data Portal
+    path: /beanbag/70/issue-70-legume-data-portal
+- grouptitle: Announcements
+  content: 
+  - title: Barneby Award 2024
+    path: /beanbag/70/issue-70-barneby-award-2024
+  - title: Advances in Legume Systematics 14. Part 2
+    path: /beanbag/70/issue-70-ALS14-2
+  - title: "New Book: Papilionoideae do Rio Grande do Sul, Brasil"
+    path: /beanbag/70/issue-70-new-book-papilionoideae-rio-grande-do-sul
+  - title: 'New Book: Wattles on the move'
+    path: /beanbag/70/issue-70-new-book-wattles-on-the-move
+  - title: Mucuna Monograph
+    path: /beanbag/70/issue-70-mucuna-request
+  - title: Legumes at the IBC 2024
+    path: /beanbag/70/issue-70-legumes-at-the-ibc
+  - title: International Conference on Legume Genetics and Genomics 2024
+    path: /beanbag/70/issue-70-international_legume_genomics
+- grouptitle: Articles
+  content:
+    - title: 'Artist Spotlight: Bobbi Angell'
+      path: /beanbag/70/issue-70-artist-spotlight-bobbi-angell
+    - title: 'Artist Spotlight: João Augusto Castor Silva'
+      path: /beanbag/70/issue-70-artist-spotlight-joao-augusto-castor-silva
+    - title: Gallery of Leguminologists
+      path: /beanbag/70/issue-70-gallery-leguminologists
+    - title: 8th International Legume Conference Report
+      path: /beanbag/70/issue-70-8ILC
+    - title: 'Student Digest: Oceans and rain dictate Mimosoid species distributions'
+      path: /beanbag/70/issue-70-student-digest-becklund
+    - title: 'Student Digest: Comparative anatomy of Mimosoid sympetaly'
+      path: /beanbag/70/issue-70-student-digest-maianne
+    - title: 'Student Digest: Trait Evolution in the Neotropics'
+      path: /beanbag/70/issue-70-student-digest-barros-souza
+    - title: Legume Discoveries and New Species Highlights 2023
+      path: /beanbag/70/issue-70-new-species-highlights
+- grouptitle: Bibliography
+  content:
+    - title: Legume Bibliography
+      path: /beanbag/70/issue-70-legume-bibliography_2023
