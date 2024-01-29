@@ -17,7 +17,7 @@ This year's Bean Bag includes seven important announcements, reports from the le
 
 Don't forget to keep an eye on the [Legume Data Portal](https://www.legumedata.org/), which also posts news items of interest to the legume research community. You can read more about the Portal in this issue of the Bean Bag.  
 
-A big thank you to Helen Fortune-Hopkins for assembling two portraits for the gallery of leguminologists and to Stephen Boatwright for taking care of the artist spotlight this year. We also thank Carole Sinou for assistance with posting the Bean Bag to the Legume Data Portal and Gwilym Lewis at Kew for help with checking this issue and facilitating the archiving of the Bean Bag in the Kew Research Repository. Thanks also to you, the legume community as a whole, and our many contributors for sharing their time and insights.  
+A big thank you to Helen Fortune-Hopkins and Euan James for assembling the portraits for the gallery of leguminologists and to Stephen Boatwright and João Iganci for taking care of the artist spotlight this year. We also thank Carole Sinou for assistance with posting the Bean Bag to the Legume Data Portal and Gwilym Lewis at Kew for help with checking this issue and facilitating the archiving of the Bean Bag in the Kew Research Repository. Thanks also to you, the legume community as a whole, and our many contributors for sharing their time and insights.  
 
 
 **Colin Hughes** (University of Zurich, Switzerland)  

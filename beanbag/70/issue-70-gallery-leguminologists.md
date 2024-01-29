@@ -9,7 +9,7 @@ sideNavigation: sidenav.beanbag70
 
 # GALLERY OF LEGUMINOLOGISTS
 
-## Janet Sprent (1934--)
+## Janet Sprent (1934--) <a name="1.1"></a>
 
 **Compiled by Euan James, Julie Ardley, Colin Hughes and Peter Young**
 
@@ -29,7 +29,7 @@ Indeed, Janet is a remarkable communicator able to cross cultural and educationa
 Left to right: Janet Sprent at the Embrapa-CENARGEN herbarium, Brasilia, in September 2005 examining voucher specimens of *Mimosa* spp. Janet Sprent and Euan James in the Chapada dos Veiadeiros National Park, Goias, Brazil in September 2005. Photos: Peter Young.  
 
 
-## Josephine (Jo) Kenrick (1929--)
+## Josephine (Jo) Kenrick (1929--) <a name="1.2"></a>
 
 **Compiled by Peter Bernhardt and Helen C.F. Hopkins**
 
@@ -49,7 +49,7 @@ Left to Right: Jo Kenrick at the Flora of Australia *Acacia* Workshop, Melbourne
 "Fieldwork on *Acacia terminalis s.l*. in Gippsland, Victoria, posed new challenges to Jo. Depending on the population, this species can produce a large, red extrafloral nectary at the base of its petiole. As inflorescences appear at the base of the leaf, this suggested bird-pollination. Jo and her assistants learned to mist-net, band and release birds after taking instruction from local experts. To see if the bird was carrying *Acacia* polyads when caught, she rubbed the beak and head feathers with a cube of glycerine jelly stained with basic fuchsin. The cube was placed on a glass slide under a cover slip. She found the best way to liquify the cube, exposing the exine to the stain, was to warm the slide with the cigarette lighter in the dashboard of the university vehicle she had signed out for the trip. *Acacia terminalis* blooms during cold, wet April in Gippsland. While the mist net was checked, frequently some of the birds (tiny thornbills and silvereyes) were obviously shocked by entrapment and handling as well as by the cold, moist season. I would return from insect-collecting to find Jo and her assistants warming the birds under their coats and giving them drinks of glucose and water. Mosquitoes were thick in this woodland and we were surprised to see the same birds, once warmed and recharged, would often eat the dead mosquitos we swatted and offered before releasing them."  
 
 
-## Suzanne Koptur (1955--)
+## Suzanne Koptur (1955--) <a name="1.3"></a>
 
 **Compiled by Helen C.F. Hopkins**  
 

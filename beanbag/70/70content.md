@@ -3,8 +3,9 @@ layout: post
 lang-ref: /beanbag/70content
 title: Issue 70, Year 2023
 background: /assets/images/70/Androcalymma_fls_photo_Marcus-JosédeAzevedoFalcão_sq.jpg
+ratio: 70
 description: Content of the issue 70 (2023)
-height: 70vh
+#height: 70vh
 ---
 
 # Contents
@@ -51,11 +52,14 @@ Colin Hughes
 Gwilym Lewis  
 
 **[Legumes at the IBC 2024](/beanbag/70/issue-70-legumes-at-the-ibc)**  
+Rafaela Trad, Greg Kenicer, Ozan Sentürk, Manuel de la Estrella & Dario Ojeda  
 
 **[International Conference on Legume Genetics and Genomics 2024](/beanbag/70/issue-70-international_legume_genomics)**  
 Michael Udvardi  
 
 ## Articles
+
+### Artist spotlight
 
 **[Artist Spotlight: Bobbi Angell](/beanbag/70/issue-70-artist-spotlight-bobbi-angell)**  
 Stephen Boatwright  
@@ -63,11 +67,21 @@ Stephen Boatwright
 **[Artist Spotlight: João Augusto Castor Silva](/beanbag/70/issue-70-artist-spotlight-joao-augusto-castor-silva)**  
 João Iganci  
 
-**[Gallery of Leguminologists](/beanbag/70/issue-70-gallery-leguminologists)**  
-Multiple contributors  
+### Galery of Leguminologists
+
+**[Janet Sprent](/beanbag/70/issue-70-gallery-leguminologists#1.1)**
+Compiled by Euan James, Julie Ardley, Colin Hughes and Peter Young  
+
+**[Josephine (Jo) Kenrick](/beanbag/70/issue-70-gallery-leguminologists#1.2)**
+Compiled by Peter Bernhardt and Helen C.F. Hopkins  
+
+**[Suzanne Koptur](/beanbag/70/issue-70-gallery-leguminologists#1.3)**
+Compiled by Helen C.F. Hopkins  
 
 **[8<sup>th</sup> International Legume Conference Report](/beanbag/70/issue-70-8ILC)**  
 Marcelo Simon & Tania Moura  
+
+### Student Digest
 
 **[Student Digest: Oceans and rain dictate Mimosoid species distributions](/beanbag/70/issue-70-student-digest-becklund)**  
 Ellie Becklund  
