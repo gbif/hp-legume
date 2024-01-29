@@ -10,7 +10,7 @@ sideNavigation: sidenav.beanbag70
 # THE 8<sup>th</sup> INTERNATIONAL LEGUME CONFERENCE (8ILC), PIRENÓPOLIS, BRAZIL, AUGUST 2023
 
 **Marcelo Simon** (Embrapa Cenargen, Brazil)  
-**Tania Moura** (Instituto Federal Goiano, Brazil)  
+**Tania Moura** (Instituto Federal Goiano, Brazil)   
 On behalf of the 8ILC Organizing Committee  
 
 
@@ -33,16 +33,16 @@ Poster session at the 8ILC, photo by Gustavo Shimizu.
 
 The 8ILC Organizing Committee took the opportunity of hosting the conference in Brazil to pay tribute and make awards to seven Brazilian legume researchers: Ana Maria Goulart de Azevedo Tozzi (Universidade Estadual de Campinas), Angela Maria Studart da Fonseca Vaz (Jardim Botânico do Rio de Janeiro), Haroldo Cavalcante de Lima (Jardim Botânico do Rio de Janeiro), José Francisco Montenegro Valls (Empresa Brasileira de Pesquisa Agropecuária), Luciano Paganucci de Queiroz (Universidade Estadual de Feira de Santana), Marli Pires Morim (Jardim Botânico do Rio de Janeiro), Silvia Teresinha Sfoggia Miotto (Universidade Federal do Rio Grande do Sul), who have contributed significantly to advancing knowledge about the legume family throughout their careers, by publishing widely on the systematics and phylogenetics of the family and by teaching and mentoring the next generation of legume scientists. Three plant collectors, Glocimar Pereira da Silva (Empresa Brasileira de Pesquisa Agropecuária), Maria Lenise Silva Guedes (Universidade Federal da Bahia), and Vinicius Castro Souza (Universidade de São Paulo/ESALQ), each having collected more than 3,000 legume numbers, were also celebrated during the special ceremony, which was presented by Dr. Gwilym Lewis. The awardees were each presented with a certificate and a trophy in recognition of their widely appreciated and impressive contributions to legume science. The 8ILC also dedicated one symposium to the career of Janet Sprent, a global authority on nodulation in legumes.  
 
-![](/assets/images/70/8ILC_Report_Fig5.jpg)
+![](/assets/images/70/8ILC_Report_Fig5.JPG)
 Celebrating the work of Brazilian leguminologists – a Ceremony recognising ten outstanding people at the 8ILC, photo by Adilson Werneck.  
 
 Conference attendees had the opportunity to unwind and savor the beauty of a natural reserve during a field excursion, where they strolled through the unique Cerrado vegetation, observed a number of interesting and/or endemic legume species of the Brazilian flora, and indulged in refreshing swims beneath cascading waterfalls despite the cold water! Later that evening, the conference party provided a delightful experience, complete with live music and dancing, adding a memorable touch to the day's events.  
 
-![](/assets/images/70/8ILC_Report_Fig6.jpg)
+![](/assets/images/70/8ILC_Report_Fig6.JPG)
 Field excursion to the Salto Corumbá waterfall during the conference break, photo by Adilson Werneck.  
 
 Before the closing ceremony, the conference opened a discussion of proposals to host the next 9ILC in Kunming, China, or in Edinburgh, Scotland, as kindly offered and nicely presented by Professor Tingshuang Yi and Professor Toby Pennington, respectively. Although a final decision about this was not taken during the conference in Pirenópolis, we are all excited about our forthcoming meeting in the next few years to delve deeper into the frontiers of legume science.  
 
 A selection of works presented at the 8ILC will be part of the series Advances in Legume Systematics (volume 15), which will be published as a special issue of the *Brazilian Journal of Botany* in 2024 (<https://www.springer.com/journal/40415/updates/24622142>). Papers not presented at the 8ILC, but within the various research topics involving legume science, are also being considered for publication in the same special issue.  
 
-In summary, the 8ILC proved to be a resounding success, bringing together people from all over the world, allowing them to meet in person, present groundbreaking scientific research, and establish new connections and collaborations. The conference book of the 8ILC, as well as the event's photo book, are available on the conference website (www.8ilc.com). The Organizing Committee of the 8ILC would like to thank all attendees and sponsors for making such a stimulating and enjoyable conference. We look forward to meeting all of you again at the next ILC!  
+In summary, the 8ILC proved to be a resounding success, bringing together people from all over the world, allowing them to meet in person, present groundbreaking scientific research, and establish new connections and collaborations. The conference book of the 8ILC, as well as the event's photo book, are available on the conference website (<https://www.8ilc.com/>). The Organizing Committee of the 8ILC would like to thank all attendees and sponsors for making such a stimulating and enjoyable conference. We look forward to meeting all of you again at the next ILC!  

@@ -11,11 +11,11 @@ sideNavigation: sidenav.beanbag70
 
 ## Janet Sprent (1934--)
 
-### Compiled by Euan James, Julie Ardley, Colin Hughes and Peter Young
+**Compiled by Euan James, Julie Ardley, Colin Hughes and Peter Young**
 
 ***Janet I. Sprent*** received a BSc, Associateship of the Royal College of Science (ARCS) from Imperial College London in 1954, a PhD from the University of Tasmania in 1960, a DSc from London University in 1988 and an honorary Doctorate in Agriculture from the University of Uppsala (Sweden) in 2006. Most of Janet's academic career was spent as a professor at the University of Dundee in Scotland where she is now Emeritus Professor of Plant Biology.  
 
-![](/assets/images/70/Janet_Sprent1_ühoto_Julie_Ardley_sq.jpg)
+![](/assets/images/70/Janet_Sprent1_photo_Julie_Ardley_sq.jpg)
 Janet Sprent in Tasmania, 2019. Photo: Julie Ardley.  
 
 Through her extensive research career spanning more than 50 years, Janet became a leading world authority on legume nodulation and nitrogen-fixation. She travelled widely, conducting field research in many countries, including Kenya, South Africa, Australia and Brazil. A major focus of Janet's research has been to relate legume taxonomy and evolution to microsymbiont taxonomy, and throughout her career she collaborated extensively with the legume systematics community, contributing evidence from nodulation to the understanding of legume evolution, and always eager to see the latest legume phylogenies and what they say about nodulation. Janet's work also addressed practical problems through more applied research, such as the development of novel drought-resistant legumes for the wheat belt of Australia; this has led to the naming of one of the rhizobial inoculants that is used, in her honour, as *Paraburkholderia sprentiae*. Janet is a long-standing member of British Ecological Society (BES), a Fellow of the Royal Society of Edinburgh (FRSE), and was latterly a Trustee of the Royal Botanic Gardens in Edinburgh. She has published more than 500 peer-reviewed papers since the mid-1950s, many of them pioneering studies on legumes and other symbiotic plants. Janet has also published four books that became standard textbooks on the N-cycle, legume nodulation and N-fixation spanning all levels from high school upwards.  
@@ -31,7 +31,7 @@ Left to right: Janet Sprent at the Embrapa-CENARGEN herbarium, Brasilia, in Sept
 
 ## Josephine (Jo) Kenrick (1929--)
 
-### Compiled by Peter Bernhardt and Helen C.F. Hopkins
+**Compiled by Peter Bernhardt and Helen C.F. Hopkins**
 
 **Jo Kenrick** worked in the School of Botany at the University of Melbourne in Parkville, Australia. Many of her early publications, often in collaboration with R. Bruce Knox, were on the pollen and stigmas of *Acacia*, including a major overview of pollen-pistil interactions in mimosoid legumes in *Advances in Legume Biology* in 1989, and she also published on the pollination of *Acacia* species in Victoria. She received an MSc in 1982, followed by a PhD in 1994. Although she is probably best known for her studies on *Acacia*, as part of a pollen and allergen research group, her interests later extended to other plant families. The following reminiscences have kindly been contributed by Prof. Peter Bernhardt of St. Louis University, U.S.A.  
 
@@ -83,7 +83,7 @@ Koptur, S. (1984). Experimental evidence for defense of *Inga* (Mimosoideae) sap
 
 Koptur, S. (1985). Alternative defenses against herbivores in *Inga* (Fabaceae: Mimosoideae) over an elevational gradient. *Ecology* 66(5): 1639--1650.  
 
-Koptur, S., Jones, I. M. & Peña, J. E. (2015). The influence of host plant extrafloral nectaries on multitrophic interactions: an experimental investigation. *PLoS ONE* 10(9): e0138157. doi:10.1371/journal.pone.0138157   
+Koptur, S., Jones, I. M. & Peña, J. E. (2015). The influence of host plant extrafloral nectaries on multitrophic interactions: an experimental investigation. *PLoS ONE* 10(9): e0138157. <https://doi.org/10.1371/journal.pone.0138157>   
 
 Marquis, R. J. & Koptur, S. (2022). [*Caterpillars in the Middle: Tritrophic interactions in a changing world.*](https://www.amazon.de/-/en/Robert-J-Marquis/dp/3030866874/ref=sr_1_1?crid=2UY7BFN34P7PW&keywords=Suzanne+Koptur&qid=1701706523&s=books&sprefix=suzanne+koptur%2Cstripbooks%2C66&sr=1-1) Springer.  
 

@@ -24,15 +24,15 @@ Organisers: Manuel de la Estrella & Dario Ojeda
 Presentations will include:  
 
 Marianne Le Roux, Domingos Cardoso & Anne Bruneau  
-Contact: M.LeRoux@sanbi.org.za, cardosobot@gmail.com, anne.bruneau@umontreal.ca  
+Contact: <M.LeRoux@sanbi.org.za>, <cardosobot@gmail.com>, <anne.bruneau@umontreal.ca>  
 Talk: **The future of legume systematics and the use of collaborative tools**  
 
 Rowan Schley & Le Min Choo  
-Contact: rowan.schley@gmail.com, choolemin@gmail.com  
+Contact: <rowan.schley@gmail.com>, <choolemin@gmail.com>  
 Talk: **Evolution of legumes: from introgression to whole genome duplication**  
 
 Ting-shuang Yi & Rong Zhang  
-Contact: tingshuangyi@mail.kib.ac.cn  
+Contact: <tingshuangyi@mail.kib.ac.cn>  
 Talk: **Resolve tribal relationships of Fabaceae using nuclear, plastid and mitochondrial genomic data**  
 
 
@@ -47,7 +47,7 @@ Presentations will include:
 Rafaela J. Trad, Flávia F. Pezzini, R. Toby Pennington, Gwilym Lewis, Bente Klitgaard, Russell Barrett, Anne Bruneau, Warren Cardinal-McTeague, Domingos Cardoso, James Clugston, Manuel de la Estrella, Ashley N. Egan, Colin Hughes, Erik Koenen, Todd McLay, Daniel Murphy, Matt Renner, Jens Ringelberg, Rowan Schley, Mohammad Vatanparast, Martin Wojciechowski, Darren Crayn, Olivier Maurin, Raquel Negrão, Catherine McGinnie, Paul Bailey, William J. Baker, Félix Forest, and Gregory J. Kenicer.  
 Talk: **A new phylogeny of the megadiverse legume subfamily Papilionoideae**  
 
-Ana Paula Fortuna-Perez and Bente B. Klitgaard.
+Ana Paula Fortuna-Perez and Bente B. Klitgaard.  
 Talk: **Advances in legume systematics: insights from the Dalbergiod clade (from rosewoods to fodder plants and peanuts)**  
 
 Ozan Şentürk, Zeki Aytaç, and Gregory J. Kenicer  

@@ -62,7 +62,7 @@ Rajput KS, Moya R, Gondaliya AD (2023) Ontogeny of multiple variants in the stem
 
 Rather SA, Adit A, Jing Z, Saina JK, Liu H, Chang Z, Schneider H (2023) Floral development in *Biancaea decapetala* and *Albizia julibrissin* (Fabaceae: Caesalpinioideae), and its systematic significance. *Taiwania* 68, 281–293. <https://doi.org/10.6165/tai.2023.68.281>  
 
-Saisorn W, Suddee S (2023) Seed micromorphology of tribe Desmodieae (subfamily Papilionoideae, family Leguminosae) from Thailand with its taxonomic implications. *Biodiversitas* 24, 5572–5585. <doi:10.13057/biodiv/d241039>  
+Saisorn W, Suddee S (2023) Seed micromorphology of tribe Desmodieae (subfamily Papilionoideae, family Leguminosae) from Thailand with its taxonomic implications. *Biodiversitas* 24, 5572–5585. <https://doi.org/10.13057/biodiv/d241039>  
 
 Sato K, Yamazaki T, Iwatsubo Y (2022) Chromosome numbers of 44 taxa of Leguminosae in Japan. *Chromosome Science* 25, 61–87. <https://doi.org/10.11352/scr.25.61>  
 
@@ -208,7 +208,7 @@ Li J, Shen J, Wang R, Chen Y, Zhang T, Wang H, Guo C, Qi J (2023) The nearly com
 
 Mangaravite É, Silveira TC da, Vinson CC, Bueno ML, Silva R dos S, Carniello MA, Veldman JW, Garcia MG, Oliveira LO de (2023) Unlocking the secret diversity of *Anadenanthera*: Insights from molecular genetics of four evolving species. *Botanical Journal of the Linnean Society* boad037. <https://doi.org/10.1093/botlinnean/boad037>  
 
-Massaro I, Poethig RS, Sinha NR, Leichty AR (2023) Genome Report: Chromosome-level genome of the transformable northern wattle, *Acacia crassicarpa*. *G3 Genes|Genomes|Genetics* Early View, jkad284. <https://doi.org/10.1093/g3journal/jkad284>  
+Massaro I, Poethig RS, Sinha NR, Leichty AR (2023) Genome Report: Chromosome-level genome of the transformable northern wattle, *Acacia crassicarpa*. *G3 Genes, Genomes, Genetics* Early View, jkad284. <https://doi.org/10.1093/g3journal/jkad284>  
 
 Moghaddam M, Wojciechowski MF, Kazempour-Osaloo S (2023) Characterization and comparative analysis of the complete plastid genomes of four *Astragalus* species. *PLOS ONE* 18, e0286083. <https://doi.org/10.1371/journal.pone.0286083>  
 
@@ -254,7 +254,7 @@ Carvalho CS, Lima HC, de Moraes PL, Cardoso DB (2023) Assessing the nomenclatura
 
 Conti F, Bartolucci F, Bogdanović S, Stinca A (2023) *Onobrychis alba* subsp. *calcarea* (Fabaceae): Typification of the name and first record for the Croatian flora. *Plant Biosystems* 157, 493–496. <https://doi.org/10.1080/11263504.2023.2166621>  
 
-da Silva Santos F, Snak C, Ribeiro CL, Silva C, de Queiroz LP (2023) Phylogenetic analyses of Phaseolinae (Leguminosae) reveal a new genus endemic to limestone outcrops in Seasonally Dry Forests of Bahia, Brazil *Taxon*, *72*(1), pp64-77. https://doi.org/10.1002/tax.12819>  
+da Silva Santos F, Snak C, Ribeiro CL, Silva C, de Queiroz LP (2023) Phylogenetic analyses of Phaseolinae (Leguminosae) reveal a new genus endemic to limestone outcrops in Seasonally Dry Forests of Bahia, Brazil *Taxon*, *72*(1), pp64-77. <https://doi.org/10.1002/tax.12819>  
 
 De Menezes HF, De Queiroz LP, Remor D, Pastore JFB (2023) Review of *Eriosema* (Leguminosae) of Florae Fluminensis from São Paulo state, Brazil. *Phytotaxa* 583, 27–38. <https://doi.org/10.11646/phytotaxa.583.1.3>  
 

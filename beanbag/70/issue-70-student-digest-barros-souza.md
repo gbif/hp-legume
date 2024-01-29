@@ -12,7 +12,6 @@ sideNavigation: sidenav.beanbag70
 ## Different modes of trait evolution weave a rich tapestry of functional diversity in the Neotropics
 
 **Yago Barros-Souza**, PhD candidate  
-
 Universidade de São Paulo, Ribeirão Preto, Brazil Universidade Federal de São Carlos, São Carlos, Brazil  
 
 The astonishing functional diversity of neotropical ecosystems has been largely attributed to the dynamics of major geological and climatic events. The uplift of the Andes, Pleistocene climatic oscillations,decline in atmospheric CO<sub>2</sub>, and Miocene marine flooding, all resulted in new ecosystems and biomes and also drove trait evolution. For example, the increasing dominance of flammable grasses, attributed ultimately to drops in atmospheric CO<sub>2</sub> levels (Jaramillo, 2023): triggered the assembly of the young South American savannas, resulting in *in situ* adaptations to fire in numerous independent plant lineages (Simon *et al.*, 2009). On the other hand, pre-existing traits may also have enabled lineages to colonise new environments, provided those traits conferred fitness advantages in those environments (i.e., pre-adaptation, or 'exaptation' *sensu* Gould & Vrba, 1982). Aerial roots in mangrove species, for example, probably arose as the result of selection for oxygen transport and nutrient uptake in non-mangrove saline habitats, and were only later co-opted as support structures in mangroves (Sahu *et al.*, 2016). Therefore, both adaptation and pre-adaptation can lead to optimal ecological performance through trait-environment matching.  

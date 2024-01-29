@@ -13,7 +13,7 @@ sideNavigation: sidenav.beanbag70
 **Carole Sinou** (Université de Montréal, Canada)  
 **Joe Miller** (Global Biodiversity Information Facility (GBIF), Denmark)  
 
-The Legume Data Portal (<https://www.legumedata.org>) continues to actively publish news from the legume systematics community and to host updated versions of the legume species checklist ([[https://www.legumedata.org/taxonomy/species-list/]{.underline}](https://www.legumedata.org/taxonomy/species-list/)) (see Taxonomy Working Group report).  
+The Legume Data Portal (<https://www.legumedata.org>) continues to actively publish news from the legume systematics community and to host updated versions of the legume species checklist (<https://www.legumedata.org/taxonomy/species-list/)>) (see Taxonomy Working Group report).  
 
 ![](/assets/images/70/Phylogeny_explorer.png)
 
