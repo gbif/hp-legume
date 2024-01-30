@@ -4,7 +4,7 @@ lang-ref: /beanbag/70content
 title: Issue 70, Year 2023
 background: /assets/images/70/Androcalymma_fls_photo_Marcus-JosédeAzevedoFalcão_sq.jpg
 background-position: center
-ratio: 70
+#ratio: 70
 description: Content of the issue 70 (2023)
 #height: 70vh
 ---
