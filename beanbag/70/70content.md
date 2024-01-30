@@ -3,6 +3,7 @@ layout: post
 lang-ref: /beanbag/70content
 title: Issue 70, Year 2023
 background: /assets/images/70/Androcalymma_fls_photo_Marcus-JosédeAzevedoFalcão_sq.jpg
+background-position: center
 ratio: 70
 description: Content of the issue 70 (2023)
 #height: 70vh
@@ -69,13 +70,13 @@ João Iganci
 
 ### Galery of Leguminologists
 
-**[Janet Sprent](/beanbag/70/issue-70-gallery-leguminologists#1.1)**
+**[Janet Sprent](/beanbag/70/issue-70-gallery-leguminologists#1.1)**  
 Compiled by Euan James, Julie Ardley, Colin Hughes and Peter Young  
 
-**[Josephine (Jo) Kenrick](/beanbag/70/issue-70-gallery-leguminologists#1.2)**
+**[Josephine (Jo) Kenrick](/beanbag/70/issue-70-gallery-leguminologists#1.2)**  
 Compiled by Peter Bernhardt and Helen C.F. Hopkins  
 
-**[Suzanne Koptur](/beanbag/70/issue-70-gallery-leguminologists#1.3)**
+**[Suzanne Koptur](/beanbag/70/issue-70-gallery-leguminologists#1.3)**  
 Compiled by Helen C.F. Hopkins  
 
 **[8<sup>th</sup> International Legume Conference Report](/beanbag/70/issue-70-8ILC)**  
