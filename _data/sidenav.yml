@@ -208,22 +208,32 @@ beanbag70:
     path: /beanbag/70/issue-70-international_legume_genomics
 - grouptitle: Articles
   content:
-    - title: 'Artist Spotlight: Bobbi Angell'
-      path: /beanbag/70/issue-70-artist-spotlight-bobbi-angell
-    - title: 'Artist Spotlight: João Augusto Castor Silva'
-      path: /beanbag/70/issue-70-artist-spotlight-joao-augusto-castor-silva
-    - title: Gallery of Leguminologists
-      path: /beanbag/70/issue-70-gallery-leguminologists
-    - title: 8th International Legume Conference Report
-      path: /beanbag/70/issue-70-8ILC
-    - title: 'Student Digest: Oceans and rain dictate Mimosoid species distributions'
-      path: /beanbag/70/issue-70-student-digest-becklund
-    - title: 'Student Digest: Comparative anatomy of Mimosoid sympetaly'
-      path: /beanbag/70/issue-70-student-digest-maianne
-    - title: 'Student Digest: Trait Evolution in the Neotropics'
-      path: /beanbag/70/issue-70-student-digest-barros-souza
-    - title: Legume Discoveries and New Species Highlights 2023
-      path: /beanbag/70/issue-70-new-species-highlights
+  - grouptitle: Artist Spotlight
+    content:
+      - title: 'Artist Spotlight: Bobbi Angell'
+        path: /beanbag/70/issue-70-artist-spotlight-bobbi-angell
+      - title: 'Artist Spotlight: João Augusto Castor Silva'
+        path: /beanbag/70/issue-70-artist-spotlight-joao-augusto-castor-silva
+  - grouptitle: Gallery of Leguminologists
+    content:
+      - title: Janet Sprent
+        path: /beanbag/70/issue-70-gallery-leguminologists#1.1
+      - title: Josephine (Jo) Kenrick
+        path: /beanbag/70/issue-70-gallery-leguminologists#1.2
+      - title: Suzanne Koptur
+        path: /beanbag/70/issue-70-gallery-leguminologists#1.3
+      - title: 8th International Legume Conference Report
+        path: /beanbag/70/issue-70-8ILC
+  - grouptitle: Student Digest  
+    content:
+      - title: 'Student Digest: Oceans and rain dictate Mimosoid species distributions'
+        path: /beanbag/70/issue-70-student-digest-becklund
+      - title: 'Student Digest: Comparative anatomy of Mimosoid sympetaly'
+        path: /beanbag/70/issue-70-student-digest-maianne
+      - title: 'Student Digest: Trait Evolution in the Neotropics'
+        path: /beanbag/70/issue-70-student-digest-barros-souza
+      - title: Legume Discoveries and New Species Highlights 2023
+        path: /beanbag/70/issue-70-new-species-highlights
 - grouptitle: Bibliography
   content:
     - title: Legume Bibliography
