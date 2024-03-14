@@ -13,7 +13,7 @@ Estamos entusiasmadas em anunciar outro check-a-thon de nomes que ocorrerá de m
 
 ## Contexto
 
-O Grupo de Trabalho de Filogenia de Leguminosas (LPWG) criou um Grupo de Trabalho de Taxonomia com a tarefa de criar uma lista de nomes global das leguminosas, endossada pela comunidade, para apoiar todas as áreas de pesquisa de leguminosas. Até agora, cerca de 49% de todos os gêneros de leguminosas foram verificados, mas ainda temos algum trabalho a fazer! Com o próximo Congresso Internacional de Botânica em Madri, Espanha, em julho de 2024, estamos ambiciosas e pretendemos concluir todas as verificações em preparação para a conferência. Através deste esforço, seremos capazes de identificar áreas que requerem mais atenção para serem desenvolvidas.
+O Grupo de Trabalho de Filogenia de Leguminosas (LPWG) criou um Grupo de Trabalho de Taxonomia com a tarefa de criar uma lista global de nomes das leguminosas, endossada pela comunidade, para apoiar todas as áreas de pesquisa de leguminosas. Até agora, cerca de 49% de todos os gêneros de leguminosas foram verificados, mas ainda temos algum trabalho a fazer! Com o próximo Congresso Internacional de Botânica em Madri, Espanha, em julho de 2024, estamos ambiciosas e pretendemos concluir todas as verificações em preparação para a conferência. Através deste esforço, seremos capazes de identificar áreas que requerem mais atenção para serem desenvolvidas.
 
 ## Como funcionará?
 
