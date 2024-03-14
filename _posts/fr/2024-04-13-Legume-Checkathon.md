@@ -1,6 +1,6 @@
 ---
 title:  "Legume Check-a-thon - avril 2024"
-date:   2024-04-13 08:20:00 +0100
+date:   2024-03-13 08:20:00 +0100
 categories: ["Checkathon"]
 lang-ref: Checkathon
 lang: fr
