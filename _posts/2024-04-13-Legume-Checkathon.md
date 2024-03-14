@@ -7,6 +7,7 @@ lang: en
 background: /assets/images/Chamaecrista_ericifolia.jpg
 preTitle: 13 March 2024
 thumbnail: /assets/images/Chamaecrista_ericifolia.jpg
+ratio: 70
 ---
 
 We are excited to announce another name check-a-thon taking place within your personal workspace from 8-12 April 2024.

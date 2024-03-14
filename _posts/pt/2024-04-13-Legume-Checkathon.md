@@ -7,6 +7,7 @@ lang: pt
 background: /assets/images/Chamaecrista_ericifolia.jpg
 preTitle: 13 de março de 2024
 thumbnail: /assets/images/Chamaecrista_ericifolia.jpg
+ratio: 70
 ---
 
 Estamos entusiasmadas em anunciar outro check-a-thon de nomes que ocorrerá de maneira remota de 8 a 12 de abril de 2024.
