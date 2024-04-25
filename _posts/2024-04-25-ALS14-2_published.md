@@ -2,7 +2,7 @@
 title: "New classification for Caesalpinioideae"
 date:   2024-04-26 08:20:00 +0100
 categories: ["publication"]
-lang-ref: ALS14-2
+lang-ref: publication
 lang: en
 background: /assets/images/Senna_pendula_LPQ10637.jpg
 preTitle: 26 April 2024
