@@ -4,9 +4,9 @@ date:   2024-04-26 08:20:00 +0100
 categories: ["publication"]
 lang-ref: ALS14-2
 lang: en
-background: /assets/images/Chamaecrista_ericifolia.jpg
+background: /assets/images/Senna_pendula_LPQ10637.jpg
 preTitle: 26 April 2024
-thumbnail: /assets/images/Chamaecrista_ericifolia.jpg
+thumbnail: /assets/images/Senna_pendula_LPQ10637.jpg
 ratio: 70
 ---
 
