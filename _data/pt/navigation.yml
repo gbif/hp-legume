@@ -1,7 +1,7 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: About
-  href: /about
+  href: /pt/about
 - text: Occurrences
   href: /data?view=MAP
 - text: Taxonomy
@@ -61,4 +61,4 @@
 #   - text: YAML tutorial
 #     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
 - text: News
-  href: /news/
+  href: /pt/news/
