@@ -7,7 +7,7 @@ lang: fr
 background: /assets/images/Senna_pendula_LPQ10637.jpg
 preTitle: 26 April 2024
 thumbnail: /assets/images/Senna_pendula_LPQ10637.jpg
-|
+imageLicense: |
   *Senna pendula* (Humb. & Bonpl. ex Willd.) H.S.Irwin & Barneby. Photo by Luciano P. de Queiroz
 ratio: 70
 ---
