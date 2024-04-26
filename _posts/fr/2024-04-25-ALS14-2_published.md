@@ -5,6 +5,8 @@ categories: ["Publication"]
 lang-ref: Publication
 lang: fr
 background: /assets/images/Senna_pendula_LPQ10637.jpg
+|
+  *Senna pendula* (Humb. & Bonpl. ex Willd.) H.S.Irwin & Barneby. Photo by Luciano P. de Queiroz
 preTitle: 26 April 2024
 thumbnail: /assets/images/Senna_pendula_LPQ10637.jpg
 ratio: 70
