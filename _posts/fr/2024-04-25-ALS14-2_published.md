@@ -1,5 +1,5 @@
 ---
-title:  "New classification for Caesalpinioideae"
+title:  "Nouvelle classification de la sous-famille Caesalpinioideae"
 date:   2024-04-26 08:20:00 +0100
 categories: ["Publication"]
 lang-ref: Publication
