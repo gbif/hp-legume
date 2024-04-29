@@ -14,7 +14,7 @@ issues:
       - text: Ler
         href: /beanbag/69/69content
         isPrimary: true
-    - preTitle: Ano 2021  # optional
+    - preTitle: Ano 2021 # optional
       title: Issue 68 # required
       background: /assets/images/bb-68-cover-img.png
       href: /beanbag/68/68content

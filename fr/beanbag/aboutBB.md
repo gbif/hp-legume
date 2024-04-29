@@ -19,6 +19,6 @@ Les envois électronique via le Groupe Google et le site Wordpress du Bean Bag p
 
 [Dr. Colin Hughes](mailto:colin.hughes@systbot.uzh.ch) (University of Zurich, Suisse)  
 
-Dr. Warren Cardinal-McTeague](mailto:warren.cardinal-mcteague@ubc.ca) (University of British Columbia, Canada)  
+[Dr. Warren Cardinal-McTeague](mailto:warren.cardinal-mcteague@ubc.ca) (University of British Columbia, Canada)  
 
 [Dr. Leonardo Borges](mailto:quitemcaqui@gmail.com) (Universidade Federal de São Carlos, Brazil)  

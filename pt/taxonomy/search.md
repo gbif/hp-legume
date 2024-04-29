@@ -6,7 +6,6 @@ permalink: /pt/taxonomy/search
 description: Search the checklist of Fabaceae
 klass: fullwidth
 lang-ref: species-search
-lang: pt
 ---
 
 <!--react and gbif component-->

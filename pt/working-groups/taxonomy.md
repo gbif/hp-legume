@@ -1,7 +1,6 @@
 ---
 layout: heroImage
 lang-ref: taxonomy
-lang: pt
 title: Legume Taxonomy Working Group
 background: /assets/images/taxonomy.png
 description: Develop one universally accepted list of legume species names!

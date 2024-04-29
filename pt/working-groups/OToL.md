@@ -1,7 +1,6 @@
 ---
 layout: heroImage
 lang-ref: OToL
-lang: pt
 title: OToL Phylogeny  Working Group
 background: /assets/images/circle_phylo.jpg
 description: Curating a community consensus phylogeny of the legumes

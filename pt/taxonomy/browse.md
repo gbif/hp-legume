@@ -2,7 +2,7 @@
 layout: documentation
 sideNavigation: pt.sidenav.taxonomy
 title: Browse
-permalink: /taxonomy/browse
+permalink: /pt/taxonomy/browse
 description: Browse the checklist of Fabaceae
 klass: fullwidth
 lang-ref: species-browse

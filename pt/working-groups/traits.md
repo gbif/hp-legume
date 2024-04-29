@@ -1,7 +1,6 @@
 ---
 layout: heroImage
 lang-ref: traits
-lang: pt
 title: Legume Traits Working Group
 background: /assets/images/traits.png
 description: Unravelling legume morphological diversity
