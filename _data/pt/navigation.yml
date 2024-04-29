@@ -3,51 +3,51 @@
 - text: About
   href: /pt/about
 - text: Occurrences
-  href: /data?view=MAP
+  href: /pt/data?view=MAP
 - text: Taxonomy
-  href: /taxonomy
+  href: /pt/taxonomy
   menu: #Dropdown menu
   - text: Accepted Species List and Synonyms
-    href: /taxonomy/species-list 
+    href: /pt/taxonomy/species-list 
   - text: Browse
-    href: /taxonomy/browse
+    href: /pt/taxonomy/browse
   - text: Advanced search
-    href: /taxonomy/search
+    href: /pt/taxonomy/search
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: Cercidoideae
-    href: /taxonomy/cercidoideae
+    href: /pt/taxonomy/cercidoideae
   - text: Detarioideae
-    href: /taxonomy/detarioideae
+    href: /pt/taxonomy/detarioideae
   - text: Duparquetioideae
-    href: /taxonomy/duparquetioideae
+    href: /pt/taxonomy/duparquetioideae
   - text: Dialioideae
-    href: /taxonomy/dialioideae
+    href: /pt/taxonomy/dialioideae
   - text: Caesalpinioideae
-    href: /taxonomy/caesalpinioideae
+    href: /pt/taxonomy/caesalpinioideae
   - text: Papilionoideae
-    href: /taxonomy/papilionoideae
+    href: /pt/taxonomy/papilionoideae
 - text: Phylogeny
-  href: /phylogeny/explore
+  href: /pt/phylogeny/explore
 - text: Working Groups
-  href: /Working Groups
+  href: /pt/Working Groups
   menu: #Dropdown menu
   - text: Occurrences
-    href: /working-groups/occurrences
+    href: /pt/working-groups/occurrences
   - text: Traits
-    href: /working-groups/traits
+    href: /pt/working-groups/traits
   - text: Taxonomy
-    href: /working-groups/taxonomy
+    href: /pt/working-groups/taxonomy
   - text: Phylogenomics & phylogenetics
-    href: /working-groups/phylogenetics
+    href: /pt/working-groups/phylogenetics
   - text: OToL phylogeny
-    href: /working-groups/OToL
+    href: /pt/working-groups/OToL
 - text: "The Bean Bag"
-  href: /beanbag
+  href: /pt/beanbag
   menu: #Dropdown Menu
   - text: Issues
-    href: /beanbag/issues
+    href: /pt/beanbag/issues
   - text: About the Bean Bag
-    href: /beanbag/aboutBB
+    href: /pt/beanbag/aboutBB
 # - text: Literature
 #   menu: # Dropdown menu (one level deep only)
 #   - text: Base theme demo

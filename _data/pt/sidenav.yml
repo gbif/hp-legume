@@ -1,25 +1,25 @@
 taxonomy:
 - content:
   - title: Liste acceptée d'espèces et synonymes
-    path: /fr/taxonomy/species-list
+    path: /pt/taxonomy/species-list
   - title: Parcourir
-    path: /fr/taxonomy/browse
+    path: /pt/taxonomy/browse
   - title: Recherche avancée
-    path: /fr/taxonomy/search
+    path: /pt/taxonomy/search
 - grouptitle: Subfamilies
   content:
   - title: Cercidoideae
-    path: /fr/taxonomy/cercidoideae
+    path: /pt/taxonomy/cercidoideae
   - title: Detarioideae
-    path: /fr/taxonomy/detarioideae
+    path: /pt/taxonomy/detarioideae
   - title: Duparquetioideae
-    path: /fr/taxonomy/duparquetioideae
+    path: /pt/taxonomy/duparquetioideae
   - title: Dialioideae
-    path: /fr/taxonomy/dialioideae
+    path: /pt/taxonomy/dialioideae
   - title: Caesalpinioideae
-    path: /fr/taxonomy/caesalpinioideae
+    path: /pt/taxonomy/caesalpinioideae
   - title: Papilionoideae
-    path: /fr/taxonomy/papilionoideae
+    path: /pt/taxonomy/papilionoideae
 beanbag67:
 - content:
   - title: Table of contents

@@ -1,23 +1,31 @@
 relatedPosts:
   en: "Related Posts"
   fr: "Articles connexes"
+  pt: "Artigos relacionados"
 differentLanguage:
   en: "This page is available in following languages"
   fr: "Cette page est disponible dans les langues suivantes"
+  pt: "Esta página está disponível nos seguintes idiomas"
 searchOccurrences:
   en: Search occurrences
-  fr: Recherche d'occurrences
+  fr: Pesquisar ocorrências
+  pt: 
 tocTitle:
   en: "On this page"
   fr: "Sur cette page"
+  pt: "Nesta página"
 terms:
   en: |
     We use cookies on our website. Some are technically necessary, while others help us improve your user experience. You can decline non-essential cookies by selecting “Reject”. Please see our [Privacy Policy](/privacy) for further information about our privacy practices and use of cookies.
   fr: |
     Nous utilisons des cookies sur notre site Web. Certains sont techniquement nécessaires, tandis que d'autres nous aident à améliorer votre expérience utilisateur. Vous pouvez refuser les cookies non essentiels en sélectionnant « Rejeter ». Veuillez consulter notre [Politique de confidentialité](/privacy) pour plus d'informations sur nos pratiques de confidentialité et l'utilisation des cookies.
+  pt: |
+    Usamos cookies em nosso site. Alguns são tecnicamente necessários, enquanto outros nos ajudam a melhorar a sua experiência de usuário. Você pode recusar cookies não essenciais selecionando “Rejeitar”. Consulte nossa [Política de Privacidade](/privacy) para obter mais informações sobre nossas práticas de privacidade e uso de cookies.  
 acceptTerms:
   en: 'Accept'
   fr: 'J''accepte'
+  pt: 'aceito'
 rejectTerms:
   en: 'Reject'
   fr: 'Rejeter'
+  pt: 'Rejeitar'

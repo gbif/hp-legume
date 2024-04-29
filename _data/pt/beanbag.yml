@@ -3,7 +3,7 @@ issues:
   description: |
     For previous issues please visit the [Kew Research Repository](https://kew.iro.bl.uk/collections/b50e6210-e231-4392-9301-c07bdce223cc) or the [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/search?searchTerm=bean+bag#/titles).
   features:
-    - preTitle: Year 2022  # optional
+    - preTitle: Ano 2022  # optional
       title: Issue 69 # rerquired
       background: /assets/images/69/welcome_mimosa.jpg
       href: /beanbag/69/69content
@@ -11,10 +11,10 @@ issues:
       - text: Download
         href: /media/The_BB_Newsletter_Issue69_2022.pdf
         isPrimary: true
-      - text: Read
+      - text: Ler
         href: /beanbag/69/69content
         isPrimary: true
-    - preTitle: Year 2021  # optional
+    - preTitle: Ano 2021  # optional
       title: Issue 68 # required
       background: /assets/images/bb-68-cover-img.png
       href: /beanbag/68/68content
@@ -22,7 +22,7 @@ issues:
       - text: Download
         href: /media/The_BB_Newsletter_Issue68_2021.pdf
         isPrimary: true
-      - text: Read
+      - text: Ler
         href: /beanbag/68/68content
         isPrimary: true
     - preTitle: Year 2020  # optional
