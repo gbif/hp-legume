@@ -1,6 +1,7 @@
 ---
 title:  "Uma nova classificação da subfamília Caesalpinioideae"
 date:   2024-04-26 08:20:00 +0100
+preTitle: 26 abril 2024
 categories: ["Publication"]
 lang-ref: Publication
 lang: pt
