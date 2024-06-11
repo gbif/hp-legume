@@ -17,7 +17,6 @@ The Legume Taxonomy Working Group has the central goal of coordinating a communi
 
 ## Strategy
 
-In collaboration with Rafaël Govaerts at Royal Botanic Gardens, Kew, the Taxonomy Working Group initiated the process using Kew’s core checklist data, available for download on Kew’s [World Checklist of Vascular Plants (WCVP)](https://powo.science.kew.org/about-wcvp). This core checklist links to the [International Plant Name Index (IPNI)](https://www.ipni.org/) and also underlies the [Plants of the World Online](http://www.plantsoftheworldonline.org/) website. The WCVP list includes all the Darwin Core fields that the legume community considers important for downstream analyses. To revise the list of legume species names, a network of 38 coordinators for the subfamilies (and tribes for Papilionoideae) were assigned the task of approaching and coordinating interested legume taxonomic experts for assistance in checking and editing the list of legume names. The revised lists are forwarded to Rafaël Govaerts who checks the proposed modifications and integrates the information in an updated legume species list. The Taxonomy Working Group has also established a committee whose role is to evaluate and arrive at a decision about conflicting taxonomies (often, whether or not to recognise certain genera), and which met for the first time in December 2020. The revised species list acknowledges the input of contributors to the ratification of the legume taxonomy. The most recent list of accepted names is visible on [Checklist Bank](https://www.checklistbank.org/dataset/2304/about), on the [Legume Data Portal](https://hp-legume.gbif-staging.org/taxonomy/browse), and on [Zenodo](https://zenodo.org/records/8300299).  
 In collaboration with Rafaël Govaerts at Royal Botanic Gardens, Kew, the Taxonomy Working Group initiated the process using Kew’s core checklist data, available for download on Kew’s [World Checklist of Vascular Plants (WCVP)](https://powo.science.kew.org/about-wcvp). This core checklist links to the [International Plant Name Index (IPNI)](https://www.ipni.org/) and also underlies the [Plants of the World Online](http://www.plantsoftheworldonline.org/) website. The WCVP list includes all the Darwin Core fields that the legume community considers important for downstream analyses. To revise the list of legume species names, a network of 38 coordinators for the subfamilies (and tribes for Papilionoideae) were assigned the task of approaching and coordinating interested legume taxonomic experts for assistance in checking and editing the list of legume names. The revised data are forwarded to Rafaël Govaerts who checks the proposed modifications and integrates the information in an updated legume species list. The revised species list acknowledges the input of contributors to the ratification of the legume taxonomy.
 
 ## Governance
@@ -37,13 +36,13 @@ The list of genera that must still be verified is available [here](https://docs.
 ## The checklist
 
 The most recent list of accepted names is visible on:
-[Catalogue of Life](https://www.catalogueoflife.org/data/taxon/623QT)  
-[Checklist Bank](https://www.checklistbank.org/dataset/2304/about)  
-[Global Biodiversity Information Facility](https://www.gbif.org/species/5386) 
-[Legume Data Portal](https://www.legumedata.org/taxonomy/species-list/) 
-[Plants of the World Online](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000147-2) 
-[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-7000000323)  
-[Zenodo](https://zenodo.org/records/8300299) (an archive of all published checklist versions)
+*[Catalogue of Life](https://www.catalogueoflife.org/data/taxon/623QT)  
+*[Checklist Bank](https://www.checklistbank.org/dataset/2304/about)  
+*[Global Biodiversity Information Facility](https://www.gbif.org/species/5386) 
+*[Legume Data Portal](https://www.legumedata.org/taxonomy/species-list/) 
+*[Plants of the World Online](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000147-2) 
+*[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-7000000323)  
+*[Zenodo](https://zenodo.org/records/8300299) (an archive of all published checklist versions)
 
 
 Further reading: 
