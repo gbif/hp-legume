@@ -35,13 +35,13 @@ The list of genera that must still be verified is available [here](https://docs.
 
 ## The checklist
 
-The most recent list of accepted names is visible on:
+The most recent list of accepted names is visible on: 
 -[Catalogue of Life](https://www.catalogueoflife.org/data/taxon/623QT)  
 -[Checklist Bank](https://www.checklistbank.org/dataset/2304/about)  
 -[Global Biodiversity Information Facility](https://www.gbif.org/species/5386) 
 -[Legume Data Portal](https://www.legumedata.org/taxonomy/species-list/) 
 -[Plants of the World Online](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000147-2) 
--[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-7000000323)  
+-[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-7000000323) 
 -[Zenodo](https://zenodo.org/doi/10.5281/zenodo.6451530) (an archive of all published checklist versions)
 
 
