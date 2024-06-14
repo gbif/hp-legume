@@ -9,15 +9,15 @@ height: 70vh
 toc: true
 ---
 
-Coordinators : [Marianne le Roux](mailto:M.LeRoux@sanbi.org.za) [(South African National Biodiversity Institute, SANBI, South Africa)](https://www.dffe.gov.za/south-african-national-biodiversity-institute-sanbi), [Anne Bruneau](mailto:anne.bruneau@umontreal.ca) (Université de Montréal, Canada) and [Juliana Rando](mailto:juliana.rando@ufob.edu.br) (University of Western Bahia, Brazil).
+Coordinators : [Marianne le Roux](mailto:M.LeRoux@sanbi.org.za) (South African National Biodiversity Institute, SANBI, South Africa), [Anne Bruneau](mailto:anne.bruneau@umontreal.ca) (Université de Montréal, Canada) and [Juliana Rando](mailto:juliana.rando@ufob.edu.br) (University of Western Bahia, Brazil).
 
 ## Introduction
 
-The Legume Taxonomy Working Group has the central goal of coordinating a community-endorsed consensus list of legume species names and their synonyms. Our aim is to provide an accurate and up-to-date family classification that can be used for downstream analyses of all kinds for applied and fundamental research questions, including conservation, agronomic and green infrastructure purposes. This up-to-date species list provides the critical backbone for other LPWG working groups focusing on assembling occurrence and functional trait data from public databases, literature and collections, for example. The LPWG-verified and endorsed species list has been adopted and is now used as the taxonomic backbone for Leguminosae for large international initiatives such as the Global Biodiversity Information Facility (GBIF), Plants of the World Online, Catalogue of Life, World Flora Online, and several ongoing phylogenomic projects. The legume Taxonomic Working Group is now recognised as the [Taxonomic Expert Network](https://about.worldfloraonline.org/tens/fabaceae) for Leguminosae for World Flora Online. These collaborations are important to avoid duplication of efforts by a small pool of taxonomic experts.
+The Legume Taxonomy Working Group (LPWG) has the central goal of coordinating a community-endorsed consensus list of legume species names and their synonyms. Our aim is to provide an accurate and up-to-date family classification that can be used for downstream analyses of all kinds for applied and fundamental research questions, including conservation, agronomic and green infrastructure purposes. This up-to-date species list provides the critical backbone for other LPWG working groups focusing on assembling occurrence and functional trait data from public databases, literature and collections, for example. The LPWG-verified and endorsed species list has been adopted and is now used as the taxonomic backbone for Leguminosae for large international initiatives such as the Global Biodiversity Information Facility (GBIF), Plants of the World Online, Catalogue of Life, World Flora Online, and several ongoing phylogenomic projects. The legume Taxonomic Working Group is now recognised as the [Taxonomic Expert Network](https://about.worldfloraonline.org/tens/fabaceae) for Leguminosae for World Flora Online. These collaborations are important to avoid duplication of efforts by a small pool of taxonomic experts.
 
 ## Strategy
 
-In collaboration with Rafaël Govaerts at Royal Botanic Gardens, Kew, the Taxonomy Working Group initiated the process using Kew’s core checklist data, available for download on Kew’s [World Checklist of Vascular Plants (WCVP)](https://powo.science.kew.org/about-wcvp). This core checklist links to the [International Plant Name Index (IPNI)](https://www.ipni.org/) and also underlies the [Plants of the World Online](http://www.plantsoftheworldonline.org/) website. The WCVP list includes all the Darwin Core fields that the legume community considers important for downstream analyses. To revise the list of legume species names, a network of 38 coordinators for the subfamilies (and tribes for Papilionoideae) were assigned the task of approaching and coordinating interested legume taxonomic experts for assistance in checking and editing the list of legume names. The revised data are forwarded to Rafaël Govaerts who checks the proposed modifications and integrates the information in an updated legume species list. The revised species list acknowledges the input of contributors to the ratification of the legume taxonomy.
+In collaboration with Rafaël Govaerts at the Royal Botanic Gardens, Kew, the Taxonomy Working Group initiated the process using Kew’s core checklist data, available for download on Kew’s [World Checklist of Vascular Plants (WCVP)](https://powo.science.kew.org/about-wcvp). This core checklist links to the [International Plant Name Index (IPNI)](https://www.ipni.org/) and also underlies the [Plants of the World Online](http://www.plantsoftheworldonline.org/) website. The WCVP list includes all the Darwin Core fields that the legume community considers important for downstream analyses. To revise the list of legume species names, a network of 38 coordinators for the subfamilies (and tribes for Papilionoideae) were assigned the task of approaching and coordinating interested legume taxonomic experts for assistance in checking and editing the list of legume names. The revised data are forwarded to Rafaël Govaerts who checks the proposed modifications and integrates the information in an updated legume species list. The revised species list acknowledges the input of contributors to the ratification of the legume taxonomy.
 
 ## Governance
 
@@ -36,13 +36,13 @@ The list of genera that must still be verified is available [here](https://docs.
 ## The checklist
 
 The most recent list of accepted names is visible on:
-*[Catalogue of Life](https://www.catalogueoflife.org/data/taxon/623QT)  
-*[Checklist Bank](https://www.checklistbank.org/dataset/2304/about)  
-*[Global Biodiversity Information Facility](https://www.gbif.org/species/5386) 
-*[Legume Data Portal](https://www.legumedata.org/taxonomy/species-list/) 
-*[Plants of the World Online](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000147-2) 
-*[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-7000000323)  
-*[Zenodo](https://zenodo.org/records/8300299) (an archive of all published checklist versions)
+-[Catalogue of Life](https://www.catalogueoflife.org/data/taxon/623QT)  
+-[Checklist Bank](https://www.checklistbank.org/dataset/2304/about)  
+-[Global Biodiversity Information Facility](https://www.gbif.org/species/5386) 
+-[Legume Data Portal](https://www.legumedata.org/taxonomy/species-list/) 
+-[Plants of the World Online](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000147-2) 
+-[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-7000000323)  
+-[Zenodo](https://zenodo.org/doi/10.5281/zenodo.6451530) (an archive of all published checklist versions)
 
 
 Further reading: 
