@@ -25,7 +25,7 @@ En collaboration avec Rafaël Govaerts des Royal Botanic Gardens de Kew, le grou
 
 ## Gouvernance
 
-La liste des légumineuses ne comprend que les taxons existants et est strictement élaborée grâce à la collaboration entre experts en taxonomie et nomenclature des légumineuses. Le travail de vérification de la liste comme tel n’est pas financé mais des études sur des composantes spécifiques de sous-groupes peuvent bénéficier de financement provenant des employeurs ou de bailleurs de fonds externes. La liste des espèces est basée et maintenue selon la publication de recherches scientifiques et l’apport de d’expertise taxonomique régionale et mondiale des légumineuses. L’objectif est d’arriver à une liste de noms consensuelle. L’application des noms est régie par le [International Code of Nomenclature for algae, fungi, and plants] (https://www.iapt-taxon.org/nomen/main.php#:~:text=The%20International%20Code%20of%20Nomenclature,chytrids%2C%20oomycetes%2C%20slime%20moulds%2C). La liste d’espèces est disponible en accès libre, sous une licence CC0, par le biais de différents portails (voir ci-bas). 
+La liste des légumineuses ne comprend que les taxons existants et est strictement élaborée grâce à la collaboration entre experts en taxonomie et nomenclature des légumineuses. Le travail de vérification de la liste comme tel n’est pas financé mais des études sur des composantes spécifiques de sous-groupes peuvent bénéficier de financement provenant des employeurs ou de bailleurs de fonds externes. La liste des espèces est basée et maintenue selon la publication de recherches scientifiques et l’apport de d’expertise taxonomique régionale et mondiale des légumineuses. L’objectif est d’arriver à une liste de noms consensuelle. L’application des noms est régie par le [International Code of Nomenclature for algae, fungi, and plants](https://www.iapt-taxon.org/nomen/main.php#:~:text=The%20International%20Code%20of%20Nomenclature,chytrids%2C%20oomycetes%2C%20slime%20moulds%2C). La liste d’espèces est disponible en accès libre, sous une licence CC0, par le biais de différents portails (voir ci-bas). 
 
 Si des taxonomies contradictoires surviennent, le problème sera traité par un comité d’arbitrage. Un tel comité sera rétabli lorsque nécessaire et sera formé d’experts représentant chaque sous-famille et continent. Dans un premier temps, la résolution du conflit sera tentée par consultations des deux parties et plus largement, avec la volonté d’arriver à un consensus. Si aucun consensus ne peut être atteint, le conflit sera résolu par vote. Les erreurs dans la liste peuvent être signalées en contactant les coordinatrices.
 
@@ -45,8 +45,8 @@ La plus récente liste de noms acceptés est visible sur les portails suivants :
 - [Legume Data Portal](https://www.legumedata.org/taxonomy/species-list/) 
 - [Plants of the World Online](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000147-2) 
 - [World Flora Online](https://www.worldfloraonline.org/taxon/wfo-7000000323)  
-- [Zenodo](https://zenodo.org/doi/10.5281/zenodo.6451530) (archive de toutes les version publiées de la liste)
+- [Zenodo](https://zenodo.org/doi/10.5281/zenodo.6451530) (archive de toutes les versions publiées de la liste)
 
 Lecture complémentaire : 
 
-Le Roux, M.M. Miller, J.T., Waller, J., Döring, M. & Bruneau, A. 2022. An expert curated global legume checklist improves the accuracy of occurrence, biodiversity and taxonomic data. Scientific Data 9:708. [Link](https://doi.org/10.1038/s41597-022-01812-6)  
+Le Roux, M.M. Miller, J.T., Waller, J., Döring, M. & Bruneau, A. 2022. An expert curated global legume checklist improves the accuracy of occurrence, biodiversity and taxonomic data. Scientific Data 9:708. [Lien](https://doi.org/10.1038/s41597-022-01812-6)  
