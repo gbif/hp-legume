@@ -1,5 +1,5 @@
 ---
-title:  "How to curate legume names: Read more to use Rhakhis, a Google Speadsheet or the Traditional Checklist"
+title:  "General information for the curation of the legume checklist"
 date:   2024-07-03 09:00:00 +0100
 categories: ["How to"]
 lang-ref: Checklist Procedures
@@ -13,15 +13,13 @@ ratio: 50
 thumbnail: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/original.jpg
 ---
 
-## General information for the curation of the legume checklist
 
-
-### Introduction
+## Introduction
 
 As legume researchers, we all need access to an accurate species list for gathering occurrence and trait data in a consistent manner and for curating all other types of data on legumes (phylogenomics, images, etc.). For this reason, in 2020 we initiated a project to update the legume list of names through an ongoing process with the aim to establish an up-to-date, consensus legume checklist with accepted names. The information that we gather will inform our own research as well as that of others, e.g. online projects such as the Global Biodiversity Information Facility (GBIF), Catalogue of Life (CoL) and World Flora Online (WFO). The corrections we provide are fully integrated in Kew’s Plants of the World Online (POWO) portal via their World Checklist of Vascular Plants (WCVP) database by collaborating with Rafaël Govaerts, and are synchronised with the International Plant Name Index (IPNI). This document serves to provide a set of instructions that will guide taxonomists to enlist and become part of this global initiative.
 
 
-### Workflow
+## Workflow
 **1. Register**
 
 Tell us you want to help by sending the following details to the relevant coordinator(s) as listed in [Table 1]:
@@ -77,6 +75,7 @@ If you notice that a paper with new synonymy has been missed, then it is suffici
   -  (ii-v treated as synonyms)
  9. Submit the updated checklist to the relevant coordinator (Table 1) according to their instructions, with a copy of the email to Marianne le Roux, Anne Bruneau or Juliana Rando. Rafaël Govaerts will incorporate corrections into the WCVP database and will contact taxonomists directly if certain corrections require clarification.
 
+
 **3.2 Data maintenance**
 
 After a particular component of a checklist has been verified (flagged accordingly in the “checked” column), data will require additional verification as unplaced names are discovered and included in the WCVP Fabaceae checklist and on Rhakhis, an online names editing tool that will slowly be integrated into our workflows.
@@ -85,7 +84,7 @@ For unplaced names in the Excel spreadsheets, data corrections should be made as
 
 For unplaced names in Rhakhis, log into the [Rhakhis](https://list.worldfloraonline.org/rhakhis/ui/index.html) platform using your [ORCID](https://orcid.org/register). Written and video instructions on how to use Rhakhis is available [here](https://plant-list-docs.rbge.info/rhakhis/) and a [sandbox](https://rhakhis.rbge.info/rhakhis/ui/), if you want to play around and familiarise yourself with the system. If there are unplaced names, they are listed on each taxon page towards the bottom.
 
-### Benefits of contributing to the consensus legume checklist
+## Benefits of contributing to the consensus legume checklist
 
 It will be beneficial to participate in this initiative for the following reasons:
 - Become an active member of the global legume team
@@ -96,7 +95,7 @@ It will be beneficial to participate in this initiative for the following reason
 - Become part of the global legume community (TEN) that will serve international initiatives such as WFO, CoL and GBIF
 
 
-### Checklist publication
+## Checklist publication
 
 The WCVP Fabaceae legume checklist is integrated or is a stand-alone dataset on the following platforms:
 - Catalogue of Life
@@ -108,6 +107,6 @@ The WCVP Fabaceae legume checklist is integrated or is a stand-alone dataset on 
 - Zenodo (archive of all checklist versions published to date)
 
 
-### Contact
+**Contact**
 
 If you have questions, do not hesitate to contact [Marianne le Roux](mailto:M.LeRoux@sanbi.org.za), [Anne Bruneau](mailto:anne.bruneau@umontreal.ca) and [Juliana Rando](mailto:juliana.rando@ufob.edu.br)
