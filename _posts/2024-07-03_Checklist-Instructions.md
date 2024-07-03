@@ -57,9 +57,9 @@ Use published data and follow the International Code of Nomenclature for algae, 
 
 **3.1 First time checks**
 
- - a. Check all data and record any correction in the ‘comment’ column only.
- - b. For every record checked or checked and corrected, add your full name in the column “verified by” and the date on which the record was checked and verified on in the column “verified on (date)”.
- - c. When a name does not appear in the checklist, visit the [IPNI](https://ipni.org/) website, search for the name and if it is not in the IPNI database, register the name.
+ 1. Check all data and record any correction in the ‘comment’ column only.
+ 2. For every record checked or checked and corrected, add your full name in the column “verified by” and the date on which the record was checked and verified on in the column “verified on (date)”.
+ 3. When a name does not appear in the checklist, visit the [IPNI](https://ipni.org/) website, search for the name and if it is not in the IPNI database, register the name.
  - d. It is important to highlight where new combinations are needed in the checklist. Unpublished names cannot be included in the final checklist. Therefore please comment if/when you intend to publish these or know who will publish these names.
  - e. If you know of an additional publication justifying the taxonomic arrangement you propose, then please cite in the ‘comment’ column.
 If you notice that a paper with new synonymy has been missed, then it is sufficient to mention the paper once and there is no further need to make detailed changes. All the changes from that paper will then be added by the editors.
