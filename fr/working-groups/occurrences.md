@@ -19,6 +19,7 @@ Si vous avez des questions ou commentaires, ou si vous voulez contribuer aux obj
 ## Jeux de données d’occurrences disponibles
 Nous visons à maintenir cette liste à jour. Merci de nous contacter si des jeux de données sont manquants. 
 
+- [Caesalpinioideae: (Bruneau et al. 2024)](https://doi.org/10.3897/phytokeys.240.101716)
 -	[*Swartzia* (Papilionoideae): Velásquez-Puentes et al. 2023](https://doi.org/10.1111/geb.13730)
 -	[Mimoseae (Caesalpinioideae): Ringelberg et al. 2023](https://doi.org/10.1126/sciadv.ade4954)
 -	[*Mimosa* et *Calliandra* on Brazilian campos rupestres (Caesalpinioideae): Barros-Souza & Borges 2022](https://doi.org/10.1111/jbi.14527)
