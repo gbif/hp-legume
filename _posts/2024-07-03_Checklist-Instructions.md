@@ -1,6 +1,6 @@
 ---
 title:  "General information for the curation of the legume checklist"
-date:   2024-07-03 09:00:00 +0100
+date:   2024-07-03 06:00:00 +0100
 categories: ["How to"]
 lang-ref: Checklist Procedures
 lang: en
