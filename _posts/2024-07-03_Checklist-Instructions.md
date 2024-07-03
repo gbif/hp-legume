@@ -23,6 +23,7 @@ As legume researchers, we all need access to an accurate species list for gather
 
 #### Workflow
 **1. Register**
+
 Tell us you want to help by sending the following details to the relevant coordinator(s) as listed in [Table 1]:
 - Name
 - Surname
@@ -56,25 +57,25 @@ Use published data and follow the International Code of Nomenclature for algae, 
 
 **3.1 First time checks**
 
- a. Check all data and record any correction in the ‘comment’ column only.
- b. For every record checked or checked and corrected, add your full name in the column “verified by” and the date on which the record was checked and verified on in the column “verified on (date)”.
- c. When a name does not appear in the checklist, visit the [IPNI](https://ipni.org/) website, search for the name and if it is not in the IPNI database, register the name.
- d. It is important to highlight where new combinations are needed in the checklist. Unpublished names cannot be included in the final checklist. Therefore please comment if/when you intend to publish these or know who will publish these names.
- e. If you know of an additional publication justifying the taxonomic arrangement you propose, then please cite in the ‘comment’ column.
+ - a. Check all data and record any correction in the ‘comment’ column only.
+ - b. For every record checked or checked and corrected, add your full name in the column “verified by” and the date on which the record was checked and verified on in the column “verified on (date)”.
+ - c. When a name does not appear in the checklist, visit the [IPNI](https://ipni.org/) website, search for the name and if it is not in the IPNI database, register the name.
+ - d. It is important to highlight where new combinations are needed in the checklist. Unpublished names cannot be included in the final checklist. Therefore please comment if/when you intend to publish these or know who will publish these names.
+ - e. If you know of an additional publication justifying the taxonomic arrangement you propose, then please cite in the ‘comment’ column.
 If you notice that a paper with new synonymy has been missed, then it is sufficient to mention the paper once and there is no further need to make detailed changes. All the changes from that paper will then be added by the editors.
- f. If you question synonymy, you can check details on [POWO](https://powo.science.kew.org/)  where references are usually provided under the section “Publications” and/or [IPNI](https://ipni.org/).
- g. Name status categories that can be used include:
-  i. Accepted
-  ii. Synonym
-  iii. Unplaced
- h. More detailed categories that can be used if you know include:
-  i. Artificial Hybrid (treated the same as accepted)
-  ii. Illegitimate (please indicate if homonym or superfluous)
-  iii. Invalid
-  iv. Misapplied (sensu auct.)
-  v. Orthographic variation
-  (ii-v treated as synonyms)
- i. Submit the updated checklist to the relevant coordinator (Table 1) according to their instructions, with a copy of the email to Marianne le Roux, Anne Bruneau or Juliana Rando. Rafaël Govaerts will incorporate corrections into the WCVP database and will contact taxonomists directly if certain corrections require clarification.
+ -  f. If you question synonymy, you can check details on [POWO](https://powo.science.kew.org/)  where references are usually provided under the section “Publications” and/or [IPNI](https://ipni.org/).
+ - g. Name status categories that can be used include:
+  -  i. Accepted
+  -  ii. Synonym
+  -  iii. Unplaced
+ - h. More detailed categories that can be used if you know include:
+  -  i. Artificial Hybrid (treated the same as accepted)
+  -  ii. Illegitimate (please indicate if homonym or superfluous)
+  -  iii. Invalid
+  -  iv. Misapplied (sensu auct.)
+  -  v. Orthographic variation
+  -  (ii-v treated as synonyms)
+ - i. Submit the updated checklist to the relevant coordinator (Table 1) according to their instructions, with a copy of the email to Marianne le Roux, Anne Bruneau or Juliana Rando. Rafaël Govaerts will incorporate corrections into the WCVP database and will contact taxonomists directly if certain corrections require clarification.
 
 **3.2 Data maintenance**
 
