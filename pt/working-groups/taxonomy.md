@@ -24,11 +24,11 @@ A lista de espécies inclui apenas táxons existentes e é desenvolvida estritam
 
 Se conflitos taxonômicos surgirem, o problema será avaliado por um comitê. Esse comitê será estabelecido quando necessário, com representação de especialistas de todas as subfamílias e todos os continentes. Com o objetivo de alcançar um consenso, a resolução será inicialmente abordada por meio da consulta com ambas as partes envolvidas e, se necessário, posteriormente de forma mais ampla. Se não for possível alcançar um consenso, o conflito será resolvido por votação como último recurso. Erros na lista de espécies podem ser apontados entrando em contato com as coordenadoras.
 
-## Ajude a verificar os nomes das espècies
+## Ajude a verificar os nomes das espécies
 
 Se você tem interesse em participar desta iniciativa e compartilhar sua experiência taxonômica, por favor entre em contato com [Marianne le Roux](mailto:M.LeRoux@sanbi.org.za), [Juliana Rando](mailto:juliana.rando@ufob.edu.br) e [Anne Bruneau](mailto:anne.bruneau@umontreal.ca). 
 
-Para saber mais sobre como verificar nomes, por favor visite este post no blog spot (à venir). 
+Para saber mais sobre como verificar nomes, por favor visite este post no blog spot (em breve). 
 
 A lista de gêneros que ainda precisam ser verificados está disponível [aqui](https://docs.google.com/spreadsheets/d/1lkWVr8OUFbIVirX6hbr4ISszxTJpuhTw/edit#gid=463185985). Estamos especialmente interessadas em sua experiência para ajudar a checar os nomes de Papilionoideae e Caesalpinioideae.
 
