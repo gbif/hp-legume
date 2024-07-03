@@ -52,7 +52,7 @@ Download the relevant checklist per subfamily and unplaced taxa from the Legume 
 As certain components of the checklist have been verified, one of two processes should be followed going forward: a) check data for the first time or b) maintain data. Herewith are detailed guidelines for both processes and a flow diagram (Figure 1) to illustrate the steps.
 
 <br />
-<img src="/assets/images/Workflow_TaxoWG.pdf" alt="Figure 1. Flow diagram illustrating the steps that should be followed in checklist curation.">
+<img src="/assets/images/Workflow_TaxoWG.png" alt="Figure 1. Flow diagram illustrating the steps that should be followed in checklist curation.">
 <br />
 
 
