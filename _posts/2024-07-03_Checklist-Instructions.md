@@ -116,5 +116,5 @@ The WCVP Fabaceae legume checklist is integrated or is a stand-alone dataset on 
 If you have questions, do not hesitate to contact [Marianne le Roux](mailto:M.LeRoux@sanbi.org.za), [Anne Bruneau](mailto:anne.bruneau@umontreal.ca) and [Juliana Rando](mailto:juliana.rando@ufob.edu.br)
 
 
-**[Table 1**. Contact details of coordinators for subfamilies, tribes, clades, or groups](https://docs.google.com/spreadsheets/d/1Z_f6fJkmd5ZecJK4UF7B32YwpwlcpNQ9MZtICjxudUk/edit?gid=0#gid=0).
+[**Table 1**. Contact details of coordinators for subfamilies, tribes, clades, or groups](https://docs.google.com/spreadsheets/d/1Z_f6fJkmd5ZecJK4UF7B32YwpwlcpNQ9MZtICjxudUk/edit?gid=0#gid=0).
 
