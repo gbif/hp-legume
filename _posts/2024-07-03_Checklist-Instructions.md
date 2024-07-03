@@ -22,7 +22,7 @@ As legume researchers, we all need access to an accurate species list for gather
 ## Workflow
 **1. Register**
 
-Tell us you want to help by sending the following details to the relevant coordinator(s) as listed in [Table 1]:
+Tell us you want to help by sending the following details to the relevant coordinator(s) as listed in [Table 1](https://docs.google.com/spreadsheets/d/1Z_f6fJkmd5ZecJK4UF7B32YwpwlcpNQ9MZtICjxudUk/edit?gid=0#gid=0):
 - Name
 - Surname
 - Department/Faculty
@@ -113,5 +113,8 @@ The WCVP Fabaceae legume checklist is integrated or is a stand-alone dataset on 
 
 
 **Contact**
-
 If you have questions, do not hesitate to contact [Marianne le Roux](mailto:M.LeRoux@sanbi.org.za), [Anne Bruneau](mailto:anne.bruneau@umontreal.ca) and [Juliana Rando](mailto:juliana.rando@ufob.edu.br)
+
+
+**Table 1**. Contact details of coordinators for subfamilies, tribes, clades, or groups.
+
