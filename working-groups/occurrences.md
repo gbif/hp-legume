@@ -20,6 +20,7 @@ If you have any questions, comments, or would like to help run the working group
 
 We aim to keep this list up to date, but please let us know if any occurrence datasets are missing.
 
+- [Caesalpinioideae: (Bruneau et al. 2024)](https://doi.org/10.3897/phytokeys.240.101716)
 -	[*Swartzia* (Papilionoideae): Velásquez-Puentes et al. 2023](https://doi.org/10.1111/geb.13730)
 -	[Mimoseae (Caesalpinioideae): Ringelberg et al. 2023](https://doi.org/10.1126/sciadv.ade4954)
 -	[*Mimosa* and *Calliandra* on Brazilian campos rupestres (Caesalpinioideae): Barros-Souza & Borges 2022](https://doi.org/10.1111/jbi.14527)
