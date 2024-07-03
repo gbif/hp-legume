@@ -49,7 +49,12 @@ Download the relevant checklist per subfamily and unplaced taxa from the Legume 
 
 **3. Edit the checklist**
 
-As certain components of the checklist have been verified, one of two processes should be followed going forward: a) check data for the first time or b) maintain data. Herewith are detailed guidelines for both processes and a flow diagram ([Figure 1]) to illustrate the steps:
+As certain components of the checklist have been verified, one of two processes should be followed going forward: a) check data for the first time or b) maintain data. Herewith are detailed guidelines for both processes and a flow diagram (Figure 1) to illustrate the steps.
+
+<br />
+<img src="/assets/images/Workflow_TaxoWG.pdf" alt="Figure 1. Flow diagram illustrating the steps that should be followed in checklist curation.">
+<br />
+
 
 Use published data and follow the International Code of Nomenclature for algae, fungi, and plants when verifying data.
 
