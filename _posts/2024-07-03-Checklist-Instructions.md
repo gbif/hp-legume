@@ -13,6 +13,7 @@ ratio: 50
 thumbnail: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/original.jpg
 ---
 
+## Guidelines for checking legume names - please contribute !
 
 ## Introduction
 
