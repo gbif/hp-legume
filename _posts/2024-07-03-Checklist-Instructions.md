@@ -69,15 +69,15 @@ Use published data and follow the International Code of Nomenclature for algae, 
 If you notice that a paper with new synonymy has been missed, then it is sufficient to mention the paper once and there is no further need to make detailed changes. All the changes from that paper will then be added by the editors.
  6. If you question synonymy, you can check details on [POWO](https://powo.science.kew.org/)  where references are usually provided under the section “Publications” and/or [IPNI](https://ipni.org/).
  7. Name status categories that can be used include:
-  -  Accepted
-  -  Synonym
-  -  Unplaced
+   -  Accepted
+   -  Synonym
+   -  Unplaced
  8. More detailed categories that can be used, if you know, include:
-  -  Artificial Hybrid (treated the same as accepted)
-  -  Illegitimate (please indicate if homonym or superfluous) (treated as synonyms)
-  -  Invalid (treated as synonyms)
-  -  Misapplied (sensu auct.) (treated as synonyms)
-  -  Orthographic variation (treated as synonyms)
+   -  Artificial Hybrid (treated the same as accepted)
+   -  Illegitimate (please indicate if homonym or superfluous) (treated as synonyms)
+   -  Invalid (treated as synonyms)
+   -  Misapplied (sensu auct.) (treated as synonyms)
+   -  Orthographic variation (treated as synonyms)
  9. Submit the updated checklist to the relevant coordinator (Table 1) according to their instructions, with a copy of the email to Marianne le Roux, Anne Bruneau or Juliana Rando. Rafaël Govaerts will incorporate corrections into the WCVP database and will contact taxonomists directly if certain corrections require clarification.
 
 
