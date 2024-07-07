@@ -50,7 +50,7 @@ Download the relevant checklist per subfamily and unplaced taxa from the Legume 
 
 **3. Edit the checklist**
 
-As certain components of the checklist have been verified, one of two processes should be followed going forward: a) check data for the first time or b) maintain data. Herewith are detailed guidelines for both processes and a flow diagram (Figure 1) to illustrate the steps.
+As certain components of the checklist have been verified, one of two processes should be followed going forward: a) check data for the first time or b) maintain data. Herewith are detailed guidelines for both processes and a flow diagram to illustrate the steps.
 
 <br />
 <img src="/assets/images/Workflow_TaxoWG.png" alt="Figure 1. Flow diagram illustrating the steps that should be followed in checklist curation.">
@@ -63,16 +63,16 @@ Use published data and follow the International Code of Nomenclature for algae, 
 
  1. Check all data and record any correction in the ‘comment’ column only.
  2. For every record checked or checked and corrected, add your full name in the column “verified by” and the date on which the record was checked and verified on in the column “verified on (date)”.
- 3. When a name does not appear in the checklist, visit the [IPNI](https://ipni.org/) website, search for the name and if it is not in the IPNI database, register the name.
+ 3. When a name does not appear in the checklist, visit the [IPNI](https://ipni.org/) website, search for the name and if it is not in the IPNI database, [register](https://ipni.org/registration/) the name.
  4. It is important to highlight where new combinations are needed in the checklist. Unpublished names cannot be included in the final checklist. Therefore please comment if/when you intend to publish these or know who will publish these names.
  5. If you know of an additional publication justifying the taxonomic arrangement you propose, then please cite in the ‘comment’ column.
 If you notice that a paper with new synonymy has been missed, then it is sufficient to mention the paper once and there is no further need to make detailed changes. All the changes from that paper will then be added by the editors.
  6. If you question synonymy, you can check details on [POWO](https://powo.science.kew.org/)  where references are usually provided under the section “Publications” and/or [IPNI](https://ipni.org/).
  7. Name status categories that can be used include:
-  -  i. Accepted
-  -  ii. Synonym
-  -  iii. Unplaced
- 8. More detailed categories that can be used if you know include:
+    i. Accepted
+    ii. Synonym
+    iii. Unplaced
+ 8. More detailed categories that can be used, if you know, include:
   -  i. Artificial Hybrid (treated the same as accepted)
   -  ii. Illegitimate (please indicate if homonym or superfluous)
   -  iii. Invalid
