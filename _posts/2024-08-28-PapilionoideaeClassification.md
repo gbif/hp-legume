@@ -69,7 +69,7 @@ Note, the phylogeny group is encouraged to consult outside expertise as they go 
 
 - A note of caution was raised to take care when suggesting clade names that can easily be latinised by groups working outside the legumes without the expertise, who may publish names opportunistically
 
-## Stage 2:
+#### Stage 2:
 - Based on the Legume Tribes Phylogeny Working Group’s proposed tribal reclassification, together with feedback from the wider legume taxonomic community and other interested parties present a new tribal framework that emphasises stability, broad utility beyond plant systematics, and aims to be conservative where possible
 
 - This will require a separate working subgroup of specialist taxonomists (the Legume Tribes Taxonomic Working Group) to coordinate and ratify the proposal. If you are interested in being involved, please email as above
