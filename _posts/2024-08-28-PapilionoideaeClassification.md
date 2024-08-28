@@ -5,7 +5,7 @@ categories: ["Announcement"]
 lang-ref: Papilionoideae classification
 lang: en
 preTitle: 28 August 2024
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/original.jpg
+background: assets/images/Eriosema_salignum_3044896818.jpeg
 imageLicense: |
   <em>Entada rheedei</em> Spreng. Image by dineshvalke via [iNaturalist](https://www.inaturalist.org/observations/81342675)
 #background-size: cover
