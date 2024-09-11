@@ -6,10 +6,10 @@ lang-ref: Papilionoideae classification
 lang: en
 preTitle: 28 August 2024
 background: assets/images/Lathyrus_multiceps_A.jpg
-imageLicense: 
-#background-size: cover
-ratio: 50
-thumbnail: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/original.jpg
+imageLicense: |
+  *Lathyrus multicepts* Clos. Photo by Greg Kenicer
+thumbnail: /assets/images/Lathyrus_multiceps_A.jpg
+ratio: 70
 ---
 
 ## Summary of meeting held at IBC Madrid, 27 July 2024
