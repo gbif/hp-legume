@@ -1,5 +1,5 @@
 ---
-title:  "Towards a new tribal classification for Papilionoideae"
+title:  "Rumo a uma nova classificação para Papilionoideae"
 date:   2024-08-28 06:00:00 +0100
 categories: ["Announcement"]
 lang-ref: Papilionoideae classification
