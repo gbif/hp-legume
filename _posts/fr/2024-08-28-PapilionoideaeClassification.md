@@ -3,7 +3,7 @@ title:  "Vers une nouvelle classification des Papilionoideae"
 date:   2024-08-28 06:00:00 +0100
 categories: ["Announcement"]
 lang-ref: Papilionoideae classification
-lang: en
+lang: fr
 preTitle: 28 August 2024
 background: assets/images/Lathyrus_multiceps_A.jpg
 imageLicense: |
