@@ -50,7 +50,8 @@ Current phylogenies or ones appearing soon that should be considered include:
 - NITFIX (Folk et al.)
 - Angiosperm 353 (Trad et al.)
 -	Egan et al. 
-- Bob Jansen and Marty Wojciechowski
+- Bob Jansen and Marty Wojciechowski  
+
 Who else is out there?
 
 If you are interested in joining the **Legume Tribes Phylogeny Working Group**, please contact [Greg Kenicer](mailto:gkenicer@rbge.org.uk) and [Rafaela Trad](mailto:rtrad@rbge.org.uk).

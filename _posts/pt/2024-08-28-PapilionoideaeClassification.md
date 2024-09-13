@@ -4,7 +4,7 @@ date:   2024-08-28 06:00:00 +0100
 categories: ["Announcement"]
 lang-ref: Papilionoideae classification
 lang: pt
-preTitle: 28 August 2024
+preTitle: 28 de agosto de 2024
 background: assets/images/Lathyrus_multiceps_A.jpg
 imageLicense: |
   *Lathyrus multicepts* Clos. Photo by Greg Kenicer
@@ -50,7 +50,8 @@ Current phylogenies or ones appearing soon that should be considered include:
 - NITFIX (Folk et al.)
 - Angiosperm 353 (Trad et al.)
 -	Egan et al. 
-- Bob Jansen and Marty Wojciechowski
+- Bob Jansen and Marty Wojciechowski  
+
 Who else is out there?
 
 If you are interested in joining the **Legume Tribes Phylogeny Working Group**, please contact [Greg Kenicer](mailto:gkenicer@rbge.org.uk) and [Rafaela Trad](mailto:rtrad@rbge.org.uk).
