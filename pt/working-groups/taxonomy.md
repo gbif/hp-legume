@@ -28,7 +28,7 @@ Se conflitos taxonômicos surgirem, o problema será avaliado por um comitê. Es
 
 Se você tem interesse em participar desta iniciativa e compartilhar sua experiência taxonômica, por favor entre em contato com [Marianne le Roux](mailto:M.LeRoux@sanbi.org.za), [Juliana Rando](mailto:juliana.rando@ufob.edu.br) e [Anne Bruneau](mailto:anne.bruneau@umontreal.ca). 
 
-Para saber mais sobre como verificar nomes, por favor visite este post no blog spot (em breve). 
+Para saber mais sobre como verificar nomes, por favor visite este post no [blog spot](https://hp-legume.gbif.org/pt/post/2024/taxonomychecklistprodedure/). 
 
 A lista de gêneros que ainda precisam ser verificados está disponível [aqui](https://docs.google.com/spreadsheets/d/1lkWVr8OUFbIVirX6hbr4ISszxTJpuhTw/edit#gid=463185985). Estamos especialmente interessadas em sua experiência para ajudar a checar os nomes de Papilionoideae e Caesalpinioideae.
 
