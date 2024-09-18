@@ -3,7 +3,7 @@ title:  "Informações gerais para a curadoria do checklist de leguminosas"
 date:   2024-07-03 06:00:00 +0100
 categories: ["How to"]
 lang-ref: Checklist Procedures
-lang: en
+lang: pt
 preTitle: 3 July 2024
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/original.jpg
 imageLicense: |
