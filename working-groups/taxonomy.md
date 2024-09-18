@@ -29,7 +29,7 @@ If conflicting taxonomies arise, the problem will be dealt with by an arbitratio
 
 If you would like to participate in this endeavour and share your taxonomic expertise, please contact Marianne le Roux, Juliana Rando or Anne Bruneau. 
 
-To learn more about how to check names, please visit this [blog post](xxxxx): link to come.
+To learn more about how to check names, please visit this [blog post](https://www.legumedata.org/post/2024/taxonomychecklistprocedures/).
 
 The list of genera that must still be verified is available [here](https://docs.google.com/spreadsheets/d/1lkWVr8OUFbIVirX6hbr4ISszxTJpuhTw/edit#gid=463185985). We are especially interested in your expertise to help check Papilionoideae and Caesalpinioideae names. 
 
