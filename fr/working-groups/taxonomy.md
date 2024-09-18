@@ -33,7 +33,7 @@ Si des taxonomies contradictoires surviennent, le problème sera traité par un 
 
 Si vous souhaitez participer à cet effort communautaire et partager votre expertise taxonomique, contactez [Marianne le Roux](mailto:M.LeRoux@sanbi.org.za ), [Juliana Rando](mailto:juliana.rando@ufob.edu.br) ou [Anne Bruneau](mailto:anne.bruneau@umontreal.ca). 
 
-Pour en apprendre plus sur comment vérifier les noms, consultez le blogue suivant, [lien à venir](xxxxx): xxxxx.
+Pour en apprendre plus sur comment vérifier les noms, consultez le [blogue suivant](https://hp-legume.gbif.org/pt/post/2024/taxonomychecklistprodedure/).
 
 La liste des genres qui doivent toujours être vérifiés est disponible [ici](https://docs.google.com/spreadsheets/d/1lkWVr8OUFbIVirX6hbr4ISszxTJpuhTw/edit#gid=463185985).
 
