@@ -2,9 +2,9 @@
 title:  "Information générale pour la vérification de la liste d’espèces des légumineuses"
 date:   2024-07-03 06:00:00 +0100
 categories: ["How to"]
-lang-ref: Procédures de la checklist
+lang-ref: Checklist Procedures
 lang: fr
-preTitle: 3 July 2024
+preTitle: 3 Juillet 2024
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/original.jpg
 imageLicense: |
   <em>Entada rheedei</em> Spreng. Image by dineshvalke via [iNaturalist](https://www.inaturalist.org/observations/81342675)
@@ -16,13 +16,14 @@ thumbnail: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/origi
 ## Procédurier pour vérifier les noms des légumineuse – merci de contribuer !
 
 ## Introduction
+
 En tant que chercheurs travaillant sur la famille des légumineuses, nous avons tous besoin d’une liste précise d'espèces pour rassembler des données d'occurrence, des caractères et des traits de manière cohérente et pour valider tout autres types de données sur les légumineuses (phylogénomique, images, etc.). Pour cette raison, en 2020, nous avons lancé un projet visant à mettre à jour la liste des noms de légumineuses par un processus graduel dans le but d'établir une liste validée, à jour et consensuelle, des noms acceptés pour la famille des légumineuses. Les informations que nous recueillons éclaireront nos propres recherches ainsi que celles des autres, par ex. des projets en ligne tels que le Global Biodiversity Information Facility (GBIF), le Catalogue of Life (CoL) et World Flora Online (WFO). Les corrections que nous apportons sont intégrées au portail Plants of the World Online (POWO) de Kew via leur base de données World Checklist of Vascular Plants (WCVP) en collaboration avec Rafaël Govaerts, et sont synchronisées avec l'International Plant Name Index (IPNI). Le présent document sert à fournir un ensemble d'instructions qui guideront les taxonomistes à contribuer et à faire partie de cette initiative internationale.
 
 
 ## Workflow
 **1. Inscription**
 
-Pour vous inscrire, veuillez faire parvenir les informations suivantes au coordonnateur approprié. Voir [Tableau 1](https://docs.google.com/spreadsheets/d/1Z_f6fJkmd5ZecJK4UF7B32YwpwlcpNQ9MZtICjxudUk/edit?gid=0#gid=0):
+Pour vous inscrire, veuillez faire parvenir les informations suivantes au coordonnateur approprié. Voir [Tableau 1](https://docs.google.com/spreadsheets/d/1Z_f6fJkmd5ZecJK4UF7B32YwpwlcpNQ9MZtICjxudUk/edit?gid=0#gid=0) :
 - Nom et prénom
 - Département/Faculté
 - Poste occupé
@@ -31,7 +32,7 @@ Pour vous inscrire, veuillez faire parvenir les informations suivantes au coordo
 - Adresse courriel
 - Groupe(s) de légumineuses d’intérêt 
 
-Si plus d’une personne souhaite vérifier les noms pour un groupe particulier, le coordonnateur ou la coordonnatrice facilitera la mise en place d’une équipe de travail.
+Si plusieurs personnes souhaitent vérifier les noms pour un groupe particulier, le coordonnateur ou la coordonnatrice facilitera la mise en place d’une équipe de travail.
 
 **2. Télécharger les données**
 
@@ -48,7 +49,8 @@ Télécharger la liste appropriée pour chaque sous-famille, ainsi que les noms 
 
 **3. Vérifier la liste des noms**
 
-Puisque certaines composantes de la liste des noms ont déjà été vérifiées, deux processus sont possibles pour les prochaines étapes : a) vérifier les données pour une première fois ou b) mettre à jour les données. Voici le procédurier pour les deux options et un diagramme illustrant les étapes à suivre. 
+Puisque certaines composantes de la liste des noms ont déjà été vérifiées, deux processus sont possibles pour les prochaines étapes : a) vérifier les données pour une première fois ou b) mettre à jour les données.  
+Voici le procédurier pour les deux options et un diagramme illustrant les étapes à suivre. 
 
 <br />
 <img src="/assets/images/Workflow_TaxoWG.png" alt="Figure 1. Diagramme illustrant les étapes à suivre pour vérifier les noms d’espèces.">
@@ -58,18 +60,18 @@ Lorsque que vous vérifiez les noms, il est important d’utiliser que des donn�
 
 **3.1 Vérification initiale**
 
- 1. Vérifiez toutes les données et notez les corrections dans la colonne ‘comment’. Ne modifiez pas les autres colonnes.
+ 1. Vérifiez toutes les données et notez les corrections dans la colonne "comment". Ne modifiez pas les autres colonnes.
  2. Pour chaque entrée vérifiée, avec ou sans corrections, ajoutez votre nom complet dans la colonne “verified by” ainsi que la date de vérification dans la colonne “verified on (date)”.
  3. Si un nom n’apparaît pas dans la liste, visitez le portail [IPNI](https://ipni.org/), cherchez pour le nom et si le nom n’est pas dans la base de données de IPNI, inscrivez le nom en suivant le lien [register](https://ipni.org/registration/).
  4. Il est important de souligner quand de nouvelles combinaisons sont nécessaires dans la liste. Les noms non validement publiés ne peuvent être inclus dans la liste finale. Dans ce cas, il serait important d’indiquer si vous ou une autre personne a l’intention de publier les nouveaux noms.  
- 5. Si vous connaissez une publication additionnelle qui justifierait les modifications taxonomiques proposées, il est important de l’indiquer dans la colonne ‘comment’.
+ 5. Si vous connaissez une publication additionnelle qui justifierait les modifications taxonomiques proposées, il est important de l’indiquer dans la colonne "comment".  
 Si vous notez qu’une publication proposant une nouvelle synonymie a été omis, il est suffisant d’indiquer qu’une seule fois la référence à l’article. Il n’est pas nécessaire d’effectuer tous les changements proposés. Les modifications seront ajoutées pas les éditeurs. 
  6. Si vous doutez d’un synonyme, vous pouvez vérifier les détails sur [POWO](https://powo.science.kew.org/) pour accéder aux références bibliographiques qui sont généralement dans la section “Publications” ou sur [IPNI](https://ipni.org/).
- 7. Statuts de catégories de noms pouvant être considérés:
+ 7. Statuts de catégories de noms pouvant être considérés :
    -  Accepté
    -  Synonyme
    -  Aucun placement
- 8. Un plus grand nombre de categories peut être utilisé, si vous avez les informations, incluant:
+ 8. Un plus grand nombre de catégories peut être utilisé, si vous avez les informations, incluant :
    -  Hybride artificiel (traité comme nom accepté)
    -  Illégitime (SVP, indiquez s’il s’agit d’un homonyme ou superflus) (traité comme synonyme)
    -  Invalide (traité comme synonyme)
@@ -80,8 +82,9 @@ Si vous notez qu’une publication proposant une nouvelle synonymie a été omis
 
 **3.2 Mise à jour des données**
 
-Après qu’une composante particulière de liste ait été vérifiée (indiquée ainsi dans la colonne “checked”), les données nécessiteront des vérifications additionnelles des noms sans placement taxonomique découverts et inclus dans la liste des Fabaceae de la WCVP et sur Rhakhis. Ce dernier est un éditeur en ligne pour la vérification des noms que nous avons intégré comme outil dans notre processus de validation des noms.
-Pour les noms sans placement taxonomique qui se trouvent dans le fichier Excel, les corrections devraient être apportées tel qu’indiqué plus haut et soumis au coordonnateur ou à la coordonnatrice responsable. La mise à jour inclut aussi la notification d’une nouvelle synonymie ou de noms ressuscités. Dans ce cas, il est important d’indiquer la référence à la publication.
+Après qu’une composante particulière de liste ait été vérifiée (indiquée ainsi dans la colonne “checked”), les données nécessiteront des vérifications additionnelles des noms sans placement taxonomique découverts et inclus dans la liste des Fabaceae de la WCVP et sur Rhakhis. Ce dernier est un éditeur en ligne pour la vérification des noms que nous avons intégré comme outil dans notre processus de validation des noms.  
+
+Pour les noms sans placement taxonomique qui se trouvent dans le fichier Excel, les corrections devraient être apportées tel qu’indiqué plus haut et soumis au coordonnateur ou à la coordonnatrice responsable. La mise à jour inclut aussi la notification d’une nouvelle synonymie ou de noms ressuscités. Dans ce cas, il est important d’indiquer la référence à la publication.  
 
 Pour les noms sans placement taxonomique dans Rhakhis, inscrivez-vous dans la plateforme [Rhakhis](https://list.worldfloraonline.org/rhakhis/ui/index.html) en utilisant votre identifiant [ORCID](https://orcid.org/register). Des instructions écrites et des vidéos décrivant comment utiliser Rhakhis sont disponibles [ici](https://plant-list-docs.rbge.info/rhakhis/). Un [sandbox](https://rhakhis.rbge.info/rhakhis/ui/) est à votre disposition si vous souhaitez pratiquer et vous familiariser avec le système. Les noms sans placement taxonomique, s'il y a lieu, sont répertoriés vers la fin de la page du taxon.
 
