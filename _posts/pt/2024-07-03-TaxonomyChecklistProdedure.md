@@ -60,7 +60,6 @@ A seguir, apresentamos orientações detalhadas para ambos os processos e um flu
 
 Use dados publicados e siga o Código Internacional de Nomenclatura para algas, fungos e plantas ao checar os dados.
 
-**3.1 First time checks**
 
 **3.1. Primeira checagem**
 1. Verifique todos os dados e registre qualquer correção somente na coluna “comentário”.
