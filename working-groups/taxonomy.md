@@ -45,6 +45,6 @@ The most recent list of accepted names is visible on:
 - [Zenodo](https://zenodo.org/doi/10.5281/zenodo.6451530) (an archive of all published checklist versions)
 
 
-Further reading: 
+## Further reading: 
 
 Le Roux, M.M. Miller, J.T., Waller, J., Döring, M. & Bruneau, A. 2022. An expert curated global legume checklist improves the accuracy of occurrence, biodiversity and taxonomic data. Scientific Data 9:708. [Link](https://doi.org/10.1038/s41597-022-01812-6)  

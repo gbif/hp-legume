@@ -18,7 +18,8 @@ Legume researchers focusing on Caesalpinioideae (including the mimosoids) have r
 1.	ALS14 part 1: A series of papers, mainly resolving genus non-monophyly highlighted by the studies of Koenen et al. and Ringelberg et al., which cleared up many of the taxonomic and nomenclatural issues in the Caesalpinioideae, with a focus on the mimosoids [Hughes C. et al. (2022) Phytokeys 205: 1-470](https://phytokeys.pensoft.net/issue/3247/).
 2.	ALS 14 part 2: A new classification of the Caesalpinioideae, including new or reinstated tribe names, and informal clade names. [Bruneau A. et al. (2024) Phytokeys 240: 1-552](https://phytokeys.pensoft.net/article/101716/).
 
-Agreement of those present at the end of the meeting:
+Agreement of those present at the end of the meeting:  
+
 •	Each major research group working on higher level legume systematics should go ahead and publish their phylogenies and the taxonomic and nomenclatural implications of their studies.
 
 •	Their published studies could/should suggest clades that could be considered for formal tribal recognition but should not formalise tribal names; those to be agreed by collaborative international legume decision. An important aim would be to avoid nomenclatural instability. 

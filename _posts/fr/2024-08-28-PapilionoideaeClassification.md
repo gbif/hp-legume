@@ -18,7 +18,8 @@ Les chercheurs sur les légumineuses qui se concentrent sur les Caesalpinioideae
 1.	ALS14 partie 1 : Une série d'articles, résolvant principalement les problèmes de non-monophylie de genre mis en évidence par les études de Koenen et al. et Ringelberg et al., qui ont clarifié de nombreux problèmes taxonomiques et nomenclaturaux chez les Caesalpinioideae, en mettant l'accent sur les mimosoïdes [Hughes C. et al. (2022) Phytokeys 205: 1-470](https://phytokeys.pensoft.net/issue/3247/).
 2.	ALS 14 partie 2 : Une nouvelle classification des Caesalpinioideae, incluant des noms de tribus nouveaux ou rétablis et des noms de clades informels. [Bruneau A. et al. (2024) Phytokeys 240: 1-552](https://phytokeys.pensoft.net/article/101716/).
 
-Accord des personnes présentes à l'issue de la réunion :
+Accord des personnes présentes à l'issue de la réunion :  
+
 •	Chaque grand groupe de recherche travaillant sur la systématique de niveau supérieur des légumineuses devrait aller de l’avant et publier leurs phylogénies et les implications taxonomiques et nomenclaturales de leurs études.  
 
 •	Leurs études publiées pourraient/devraient suggérer des clades qui pourraient être considérés pour une reconnaissance tribale formelle, mais ne devraient pas formaliser les noms tribaux ; ceux-ci devraient être convenus par décision collaborative internationale de la communauté des légumineuses. Un objectif important serait d'éviter l'instabilité nomenclaturale. 

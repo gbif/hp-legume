@@ -1,27 +1,27 @@
 ---
 layout: heroImage
 lang-ref: phylogenetics
-title: Legume Phylogenomics & Phylogenetics Working Group
+title: Groupe de travail sur la Phylogénomique et la Phylogénétique des Légumineuses
 background: /assets/images/phylos.jpg
-description: Information about the Legume Phylogenomics & Phylogenetics Working group
+description: Information sur le groupe de travail sur la Phylogénomique et la Phylogénétique des Légumineuses
 height: 70vh
 toc: true
 ---
 
-Coordinateurs : [Felix Forest](mailto:F.Forest@kew.org) ([Royal Botanic Gardens, Kew, U.K.](https://www.kew.org/)) et [Erik Koenen](mailto:erik.koenen@systbot.uzh.ch) (University of Zurich, Switzerland).
+Coordinateurs : [Felix Forest](mailto:F.Forest@kew.org) ([Royal Botanic Gardens, Kew, U.K.](https://www.kew.org/)) et [Erik Koenen](mailto:erik.koenen@systbot.uzh.ch) (University of Zurich, Suisse).
 
 ## Introduction
 
-The Phylogenomic Working Group brings together teams from across the legume research community that have been investigating phylogenetic relationships within the family at different taxonomic levels using genomic-scale data sets. The principal aim of the group is to compile a well-sampled robust generic-level phylogenetic tree for the family, to serve as the basis for the progressive reconstruction of a complete species-level phylogenetic tree for the entire family. This generic-level phylogenetic framework is crucial to improve the subfamilial classification of the family (i.e. delimitation of tribes) and test the monophyly of genera to help with re-delimitation of genera suspected to be non-monophyletic. 
+Le groupe de travail phylogénomique rassemble des équipes de toute la communauté de recherche sur les légumineuses qui ont étudié les relations phylogénétiques au sein de la famille à différents niveaux taxonomiques en utilisant des ensembles de données à l'échelle génomique. L'objectif principal du groupe est de compiler un arbre phylogénétique robuste et bien échantillonné de la famille au niveau générique, afin de servir de base à la reconstruction progressive d'un arbre phylogénétique complet de la famille au niveau de l'espèce. Ce cadre phylogénétique au niveau générique est essentiel pour améliorer la classification sous-familiale de la famille (c'est-à-dire la délimitation des tribus) et tester la monophylie des genres pour aider à la redélimitation des genres suspectés d'être non monophylétiques.  
 
 ## Stratégie
 
-The group also aims to find ways to harmonize the different target enrichment (hybrid capture) gene sets and approaches that have been developed for the family. At least five different target enrichment probe sets have been developed for specific legume clades, including Detarioideae, Caesalpinioideae (incl. the mimosoid clade), Cercidoideae and Papilionoideae. In addition, the hybrid capture approach developed for the Nitfix project led by Pam and Doug Soltis (University of Florida) is being applied to a large sample of more than 9000 species across legumes. The Angiosperms353 universal bait set developed for the Plant and Fungal Trees of Life project at Royal Botanic Gardens, Kew is currently being used to sequence these genes for a sample of genera covering all major legume groups, with particular focus on subfamily Papilionoideae and its early-diverging lineages. The Working Group maintains an overview of the various legume gene sets that are being sequenced and has assessed overlap amongst them. Because the overlap in genes targeted by these various approaches is minimal, there are limited possibilities of directly combining the different data sets. 
+Le groupe cherche également à trouver des moyens d'harmoniser les différents ensembles de gènes et approches d'enrichissement de cibles (capture hybride) qui ont été développés pour la famille. Au moins cinq ensembles de sondes d'enrichissement de cibles différents ont été développés pour des clades de légumineuses spécifiques, notamment les Detarioideae, Caesalpinioideae (y compris les mimosoïdes), Cercidoideae et Papilionoideae. En outre, l'approche de capture hybride développée pour le projet Nitfix dirigé par Pam et Doug Soltis (Université de Floride) est appliquée à un large échantillon de plus de 9 000 espèces de légumineuses. L'ensemble d'appâts universels Angiosperms353 développé pour le projet Plant and Fungal Trees of Life, du Royal Botanic Gardens de Kew, est actuellement utilisé pour séquencer ces gènes pour un échantillon de genres couvrant tous les principaux groupes de légumineuses, avec un effort particulier sur la sous-famille Papilionoideae et ses lignées à divergence précoce. Le groupe de travail conserve une vue d'ensemble des différents ensembles de gènes de légumineuses en cours de séquençage et a évalué les chevauchements entre eux. Étant donné que le chevauchement des gènes ciblés par ces différentes approches est minime, les possibilités de combiner directement les différents ensembles de données sont limitées.  
 
 ## Plans futurs
 
-Given the advanced state of the work undertaken by several groups who have designed the probe sets enumerated above, phylogenomics within legumes is advancing rapidly on several fronts, with well sampled studies emerging for all subfamilies. Given that the monophyly of each subfamily is well established, these parallel efforts will each provide valuable information on phylogenetic relationships within the family. 
+Étant donné l’état avancé des travaux entrepris par plusieurs groupes qui ont conçu les ensembles de sondes énumérés ci-dessus, la phylogénomique des légumineuses progresse rapidement sur plusieurs fronts, avec des études bien échantillonnées émergeant pour toutes les sous-familles. Étant donné que la monophylie de chaque sous-famille est bien établie, ces efforts parallèles fourniront chacun des informations précieuses sur les relations phylogénétiques au sein de la famille.  
 
 ## Rejoignez le Groupe de Travail
 
-If you would like to discuss and share information about legume phylogenomics initiatives, please contact [Felix Forest](mailto:F.Forest@kew.org) or [Erik Koenen](mailto:erik.koenen@systbot.uzh.ch)
+Si vous souhaitez discuter et partager des informations sur les initiatives de phylogénomique des légumineuses, veuillez contacter [Felix Forest](mailto:F.Forest@kew.org) ou [Erik Koenen](mailto:erik.koenen@systbot.uzh.ch)

@@ -13,7 +13,6 @@ height: 70vh
 
 The aim of the annual newsletter has been to keep legume researchers informed and updated about new publications, events and projects on the family Leguminosae.
 
-Electronic mailing through the BB Google Group and the BB WordPress makes communication and distribution of the Bean Bag more efficient and economic.
 
 ## Editors:
 

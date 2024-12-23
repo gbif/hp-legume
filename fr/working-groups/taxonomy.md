@@ -33,7 +33,7 @@ Si des taxonomies contradictoires surviennent, le problème sera traité par un 
 
 Si vous souhaitez participer à cet effort communautaire et partager votre expertise taxonomique, contactez [Marianne le Roux](mailto:M.LeRoux@sanbi.org.za ), [Juliana Rando](mailto:juliana.rando@ufob.edu.br) ou [Anne Bruneau](mailto:anne.bruneau@umontreal.ca). 
 
-Pour en apprendre plus sur comment vérifier les noms, consultez le [blogue suivant](https://hp-legume.gbif.org/pt/post/2024/taxonomychecklistprodedure/).
+Pour en apprendre plus sur comment vérifier les noms, consultez le [blogue suivant](https://hp-legume.gbif.org/fr/post/2024/taxonomychecklistprodedure/).
 
 La liste des genres qui doivent toujours être vérifiés est disponible [ici](https://docs.google.com/spreadsheets/d/1lkWVr8OUFbIVirX6hbr4ISszxTJpuhTw/edit#gid=463185985).
 
@@ -47,6 +47,6 @@ La plus récente liste de noms acceptés est visible sur les portails suivants :
 - [World Flora Online](https://www.worldfloraonline.org/taxon/wfo-7000000323)  
 - [Zenodo](https://zenodo.org/doi/10.5281/zenodo.6451530) (archive de toutes les versions publiées de la liste)
 
-Lecture complémentaire : 
+## Lecture complémentaire : 
 
 Le Roux, M.M. Miller, J.T., Waller, J., Döring, M. & Bruneau, A. 2022. An expert curated global legume checklist improves the accuracy of occurrence, biodiversity and taxonomic data. Scientific Data 9:708. [Lien](https://doi.org/10.1038/s41597-022-01812-6)  
