@@ -17,5 +17,5 @@ In the last five years, two volumes have been published (ALS 13 in 2019, ALS 14 
 
 Given its diverse set of topics, ALS 15 will be valuable not only to the legume community but also to botanists broadly interested in legume biology and systematics.
 
-![](./images/copaifera.jpg)  
+![](/assets/images/copaifera.jpg)  
 *Copaifera langsdorfii*, a legume form the Brazilian Cerrado. Photo: Marcelo Kuhlmann.

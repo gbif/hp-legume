@@ -37,5 +37,5 @@ To read more recent BB issues, visit the [Legume Data Portal](https://www.legume
 To receive new volume notifications and eventual information of interest to the legume community, join the [BB email group](https://groups.google.com/forum/?hl=en#!forum/thebeanbag).
 
 
-![](./images/wiborgiella-sessilifolia.jpg)
+![](/assets/images/wiborgiella-sessilifolia.jpg)
 *Wiborgiella sessilifolia* (Crotalarieae, Papilionoideae) from South Africa

@@ -28,7 +28,7 @@ Exudate composition is influenced by both environmental factors (Vansell, 1941) 
 
 The origin of floral nectaries in Leguminosae is still debated. Some researchers suggest they derive from stamens (Moore, 1936), while others propose multiple independent origins (Waddle and Lersten, 1973; Sinjushin, 2021). Their presence is considered ancestral in the order Fabales (Bernardello, 2007), and their absence in various groups is interpreted as independent losses (Schneider, 2007). However, the morphological variability of floral nectaries, combined with the challenges of studying them (Stirton, 1981; Sirichamorn et al., 2014), has resulted in these organs being rarely used in legume systematics.  
 
-![](./images/nectariferous_flowers.jpg)
+![](/assets/images/nectariferous_flowers.jpg)
 Examples of legumes species with floral nectaries. Top left: ; top right: ; bottom: .
 <br>
 
@@ -108,13 +108,13 @@ Tropical forests are characterized by a rich diversity of tree species, includin
 
 In a recent study, Marcellus *et al.* (2024), investigated a range of traits related to root morphology, physiology, and symbiosis of 22 species of Fabaceae trees from in tropical and subtropical regions. Specifically, they aimed to understand the phylogenetic distribution of nutrient-acquisition traits, compare nitrogen-fixing species with non-fixing ones, and explore potential trade-offs and relationships between these traits. To achieve this, they conducted a thorough analysis of various traits, including specific root length, root tissue density, nitrogen content in roots, respiration rates, phosphatase activity, mycorrhizal colonization, nitrogen-fixation rates, and nodule biomass. They also looked at aboveground traits like photosynthetic assimilation rates and specific leaf area.
 
-![](./images/acacia-saligna.jpg)
+![](/assets/images/acacia-saligna.jpg)
 *Acacia saligna*, a nitrogen-fixing legume. Top left: Habit. Top right: Blooms. Bottom: Root system highlighting nodules formed through symbiotic nitrogen-fixing bacteria. Photos by tgregor (top left), lamprisdimitris (top right) and Hongtao (bottom).
 <br>
 
 The study uncovered significant variation in fine root traits among the species, supporting the idea that there is considerable diversity within this group. Interestingly, the researchers found evidence of phylogenetic conservatism in some nutrient-acquisition traits, suggesting that evolutionary history influences these characteristics. They also noted clear differences between nitrogen-fixing and non-fixing species, with nitrogen-fixers exhibiting higher phosphatase activity, which aligns with the nutrient-trading hypothesis (Houlton *et al.*, 2008). However, it's important to mention that the connection between nitrogen fixation and phosphatase activity was not mechanistic; instead, it appeared to be an evolutionarily conserved trait.
 
-![](./images/adenanthera-pavonina.jpg)
+![](/assets/images/adenanthera-pavonina.jpg)
 *Adenanthera pavonina*, a non-nitrogen-fixing legume. Top left: Habit. Bottom left: Fruit. Right: Seedling without nodules, indicating the absence of symbiotic nitrogen-fixing bacteria.
 <br>
 

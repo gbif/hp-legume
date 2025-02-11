@@ -21,11 +21,11 @@ Rosemary was awarded the prestigious annual international Jill Smythies Award fo
 
 To know more about her work, visit [Oxford: Rosemary Wise Botanical Illustration](https://herbaria.plants.ox.ac.uk/bol/oxford/rosemarywise) and [Rosemary Wise | Department of Biology](https://www.biology.ox.ac.uk/people/rosemary-wise).
 
-![](./images/Lupinus_mutabilis.jpg)
+![](/assets/images/Lupinus_mutabilis.jpg)
 *Lupinus mutabilis*, the Andean crop lupin, illustrating the mutability of flower color. Copyright: Rosemary Wise. Published in 2018 in *Curtis's Botanical Magazine* 35 (2): pp. 134–148.  
 
-![](./images/Mimosa_suberosa.jpg)  
+![](/assets/images/Mimosa_suberosa.jpg)  
 *Mimosa suberosa*, a Bolivian endemic. Copyright: Rosemary Wise. Published in Atahuachi & Hughes 2006. Two new species of *Mimosa* (Fabaceae) endemic to Bolivia. *Brittonia* 58(1): 59–65.  
 
-![](./images/Andira_taurotesticulata.jpg)
+![](/assets/images/Andira_taurotesticulata.jpg)
 *Andira taurotesticulata* from NW South America. Copyright: Rosemary Wise. Published in: Pennington R.T. 2003. Monograph of *Andira* (Leguminosae-Papilionoideae). *Systematic Botany Monographs* 64: 1–143.  
