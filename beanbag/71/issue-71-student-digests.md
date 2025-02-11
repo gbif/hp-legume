@@ -28,8 +28,8 @@ Exudate composition is influenced by both environmental factors (Vansell, 1941) 
 
 The origin of floral nectaries in Leguminosae is still debated. Some researchers suggest they derive from stamens (Moore, 1936), while others propose multiple independent origins (Waddle and Lersten, 1973; Sinjushin, 2021). Their presence is considered ancestral in the order Fabales (Bernardello, 2007), and their absence in various groups is interpreted as independent losses (Schneider, 2007). However, the morphological variability of floral nectaries, combined with the challenges of studying them (Stirton, 1981; Sirichamorn et al., 2014), has resulted in these organs being rarely used in legume systematics.  
 
-![](/assets/images/nectariferous_flowers.jpg)
-Examples of legumes species with floral nectaries. Top left: ; top right: ; bottom: .
+![](/assets/images/71/nectariferous_flowers.jpg)
+Examples of legume species with floral nectaries. Top left: Bauhinia galpinii; top right: Bauhinia uruguayensis; bottom: Bauhinia variegata.
 <br>
 
 While Leguminosae floral nectaries exhibit notable evolutionary stability, the reasons for their absence in certain lineages remain unresolved. A comprehensive understanding of the diversity, function, and genetic and physiological mechanisms underlying the development of floral nectaries is crucial to addressing these questions. Sinjushin's (2024) exploration of previously overlooked aspects of floral nectary morphology and evolution highlights potential pathways for clarifying the diversity and significance of this ecologically important organ in the context of the Leguminosae.
@@ -108,13 +108,13 @@ Tropical forests are characterized by a rich diversity of tree species, includin
 
 In a recent study, Marcellus *et al.* (2024), investigated a range of traits related to root morphology, physiology, and symbiosis of 22 species of Fabaceae trees from in tropical and subtropical regions. Specifically, they aimed to understand the phylogenetic distribution of nutrient-acquisition traits, compare nitrogen-fixing species with non-fixing ones, and explore potential trade-offs and relationships between these traits. To achieve this, they conducted a thorough analysis of various traits, including specific root length, root tissue density, nitrogen content in roots, respiration rates, phosphatase activity, mycorrhizal colonization, nitrogen-fixation rates, and nodule biomass. They also looked at aboveground traits like photosynthetic assimilation rates and specific leaf area.
 
-![](/assets/images/acacia-saligna.jpg)
+![](/assets/71/images/acacia-saligna.jpg)
 *Acacia saligna*, a nitrogen-fixing legume. Top left: Habit. Top right: Blooms. Bottom: Root system highlighting nodules formed through symbiotic nitrogen-fixing bacteria. Photos by tgregor (top left), lamprisdimitris (top right) and Hongtao (bottom).
 <br>
 
 The study uncovered significant variation in fine root traits among the species, supporting the idea that there is considerable diversity within this group. Interestingly, the researchers found evidence of phylogenetic conservatism in some nutrient-acquisition traits, suggesting that evolutionary history influences these characteristics. They also noted clear differences between nitrogen-fixing and non-fixing species, with nitrogen-fixers exhibiting higher phosphatase activity, which aligns with the nutrient-trading hypothesis (Houlton *et al.*, 2008). However, it's important to mention that the connection between nitrogen fixation and phosphatase activity was not mechanistic; instead, it appeared to be an evolutionarily conserved trait.
 
-![](/assets/images/adenanthera-pavonina.jpg)
+![](/assets/images/71/71/adenanthera-pavonina.jpg)
 *Adenanthera pavonina*, a non-nitrogen-fixing legume. Top left: Habit. Bottom left: Fruit. Right: Seedling without nodules, indicating the absence of symbiotic nitrogen-fixing bacteria.
 <br>
 

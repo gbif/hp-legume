@@ -22,7 +22,7 @@ Colin became Editor of the Bean Bag in 2020 (volume 67), when he took
 over from Dr Brigitte Marazzi, and subsequently led the editing of [four
 concurrent volumes](https://www.legumedata.org/beanbag/issues/).
 
-![](/assets/images/colin.jpg)
+![](/assets/71/images/colin.jpg)
 Colin hicking in Switzerland (left) and Scotland (right), most likely happy for the publication of a new volume of the Bean Bag. Photos: Anne Bruneau.
 
 Colin was responsible for introducing two new elements into the Bean

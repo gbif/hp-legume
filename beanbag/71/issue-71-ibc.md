@@ -42,5 +42,5 @@ and description of the flora right up to the present day.
 Please visit the website (<https://ibccapetown2029.co.za/>) for more
 information, and to join the mailing list.
 
-![](/assets/images/ibc_logo.jpg)
+![](/assets/images/71/ibc_logo.jpg)
 

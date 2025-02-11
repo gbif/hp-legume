@@ -15,7 +15,7 @@ sideNavigation: sidenav.beanbag71
 
 **Sanjappa, M., P.K. Pulsalkar, A.A. Mao (Eds.). 2024.** Flora of India – Volume 6, Part I. Botanical Survey of India, Culcutta.
 
-![](/assets/images/flora-india.webp)
+![](/assets/images/71/flora-india.webp)
 
 It is well known that India is a region of spectacular biodiversity, boasting in excess of 45 000 plant species and hosting two global biodiversity hotspots within its borders. The Flora of India (1993–present) is the culmination of a long history of botanical exploration and dissemination in the region. Detailed information on the region and its flora is available in the introductory volumes published in 1996 and 2000:
 

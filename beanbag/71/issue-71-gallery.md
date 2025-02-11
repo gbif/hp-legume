@@ -17,14 +17,14 @@ If you would like to have your photos included in the next volume, please reply 
 
 
 
-![](/assets/images/KC1782.jpg)   
+![](/assets/images/71/KC1782.jpg)   
 *Phanera bohniana* (H. Y. Chen) K. W. Jiang, S. R. Gu & T. Y. Tu, photographed by Kai-Wen JIANG from K. Chiang & Z. M. Li KC1782 (NPH), collected from Yunnan Province, China.
 <br>
 
-![](/assets/images/KC1803.jpg)   
+![](/assets/images/71/KC1803.jpg)   
 *Sunhangia elegans* (DC.) H. Ohashi & K. Ohashi var. *handelii* (Schindl.) H. Ohashi & K. Ohashi, photographed by Kai-Wen JIANG from K. Chiang & Z. M. Li KC1803 (NPH), collected from Yunnan Province, China.
 <br>
 
-![](/assets/images/KC1984.jpg)  
+![](/assets/images/71/KC1984.jpg)  
 *Weizhia pentaphylla* G. Y. Li, Z. H. Chen, K. W. Jiang & B. Pan bis, photographed by Kai-Wen JIANG from K. Chiang & K. N. Ngae KC1984 (NPH), collected from Zhejiang Province, China.
 <br>

@@ -22,7 +22,7 @@ A significant milestone was achieved in May 2024 with the release of the fifth v
 
 The legume checklist featured prominently at the International Botanical Congress held in Madrid, Spain, in July 2024. A symposium titled "*Legume Systematics: From Collaborative Networks to Genome Sequencing*" showcased the checklist in a presentation that highlighted how collaborative tools are advancing our understanding of legume taxonomy, biogeography, and evolution. Notably, discussions during the congress led to a new initiative aimed at revising the higher-level classification of the [Papilionoideae subfamily](https://www.legumedata.org/post/2024/papilionoideaeclassification/)—a critical step, as this group represents the largest gap in name verification within the checklist.  
 
-![](/assets/images/taxonomy-figure-1.jpg)  
+![](/assets/images/71/taxonomy-figure-1.jpg)  
 Slide presented at the International Congress in Madrid, featuring the talk's title and its collaborators.  
 
 If you're interested in contributing to the Taxonomy Working Group, we encourage you to explore the [July 2024 news item](https://www.legumedata.org/post/2024/taxonomychecklistprocedures/) on the Legume Data Portal. It offers detailed guidance on how to participate, with data organized by subfamily for easier access. Checks can be conducted via subfamily-level spreadsheets (which are listed in this same Legume Data Portal news item) or directly online through [*Rhakhis*](https://list.worldfloraonline.org/rhakhis/ui/index.html). Looking ahead, data maintenance will become a central focus, including the routine review of unplaced names within *Rhakhis*.  
@@ -33,5 +33,5 @@ For inquiries or to join the group, please contact [Marianne le Roux](mailto:m.l
 
 We look forward to working with you!  
 
-![](/assets/images/taxonomy-figure-2.jpg)  
+![](/assets/images/71/taxonomy-figure-2.jpg)  
 *Gastrolobium spinosum* (Papilionoideae), a species in the Papilionoideae, the subfamily still in need of specialist input for accurate name verification. Photo: Cal Wood (iNaturalist).
