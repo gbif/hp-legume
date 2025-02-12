@@ -2,7 +2,7 @@
 layout: documentation
 lang-ref: beanbag/71/issue-71-new-book-names-american-acacia
 permalink: /beanbag/71/issue-71-new-book-names-american-acacia
-title: New Book: Names For American *Acacia* (Fabaceae, Mimosoideae)
+title: "New Book: Names For American *Acacia* (Fabaceae, Mimosoideae)"
 description: Issue 71 - New Book: Names For American *Acacia* (Fabaceae, Mimosoideae)
 sideNavigation: sidenav.beanbag71
 ---
