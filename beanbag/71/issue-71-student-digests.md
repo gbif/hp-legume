@@ -9,7 +9,7 @@ sideNavigation: sidenav.beanbag71
 
 # STUDENT DIGESTS 
 
-## MORPHOLOGY AND EVOLUTION OF FLORAL NECTARIES IN LEGUMES  
+## MORPHOLOGY AND EVOLUTION OF FLORAL NECTARIES IN LEGUMES <a name="1.1"></a>
 
 **Andrews Vinicius Silva** (PhD candidate, Escola Nacional de Botânica Tropical, Instituto de Pesquisas Jardim Botânico do Rio de Janeiro, Brazil)  
 <br>
@@ -36,13 +36,13 @@ While Leguminosae floral nectaries exhibit notable evolutionary stability, the r
 
 #### References
 
-**Agostini, K.; Sazima, M.; Galetto, L. 2011.** Nectar production dynamics andsugar composition in two Mucuna species (Leguminosae, Faboideae) withdifferent specialized pollinators. *Naturwissenschaften*, v. 98, p. 933--942.
+**Agostini, K.; Sazima, M.; Galetto, L. 2011.** Nectar production dynamics andsugar composition in two Mucuna species (Leguminosae, Faboideae) withdifferent specialized pollinators. *Naturwissenschaften*, v. 98, p. 933--942.
 
-**Bernardello, G. 2007.** A systematic survey of floral nectaries. In: Nicolson,S. W.; Nepi, M.; Pacini, E. (eds.). *Nectaries and nectar*. Dordrecht:Springer, p. 19--128.
+**Bernardello, G. 2007.** A systematic survey of floral nectaries. In: Nicolson,S. W.; Nepi, M.; Pacini, E. (eds.). *Nectaries and nectar*. Dordrecht:Springer, p. 19--128.
 
-**Caspary, R. 1848.** *De nectariis*. Bonn: Schellhoff.
+**Caspary, R. 1848.** *De nectariis*. Bonn: Schellhoff.
 
-**Cocucci, A. A.; Galetto, L.; Sersic, A. 1992.** El síndrome floralde *Caesalpinia gilliesii* (Fabaceae-Caesalpinioideae). *Darwiniana*, v.31, p. 111--135.
+**Cocucci, A. A.; Galetto, L.; Sersic, A. 1992.** El síndrome floralde *Caesalpinia gilliesii* (Fabaceae-Caesalpinioideae). *Darwiniana*, v.31, p. 111--135.
 
 **Davis, A. R.; Gunning, B. E. S. 1992.** The modified stomata of the floral nectary of Vicia faba L. 1. Development, anatomy and ultrastructure. Protoplasma, v. 166, p. 134–152.
 
@@ -100,7 +100,7 @@ While Leguminosae floral nectaries exhibit notable evolutionary stability, the r
 <br>
 <br>
 
-## EVOLUTIONARY HISTORY AND ROOT TRAIT COORDINATION PREDICT NUTRIENT STRATEGY IN TROPICAL LEGUME TREES
+## EVOLUTIONARY HISTORY AND ROOT TRAIT COORDINATION PREDICT NUTRIENT STRATEGY IN TROPICAL LEGUME TREES <a name="1.2"></a>
 
 **Lydia K. Madika** (PhD Student, University of Cape Town, South Africa)
 

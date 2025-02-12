@@ -27,7 +27,7 @@ Joseph T. Miller, Ph.D. (Centre for Australian Biodiversity Research and Global 
 
 Victoria C. Hollowell, Ph.D., is an American biological researcher and editor.
 
-To purchase your copy of the "Names for American *Acacia* (Fabaceae, Mimosoideae)", visit <shopbritpress.org> or call 817-332-4441 ext. 264. The price is $85.00, plus shipping. This is print on demand, please allow 3-5 weeks for delivery.
+To purchase your copy of the "Names for American *Acacia* (Fabaceae, Mimosoideae)", visit <https://shopbritpress.org/> or call 817-332-4441 ext. 264. The price is $85.00, plus shipping. This is print on demand, please allow 3-5 weeks for delivery.
 
 ISBN-13: 978-1-889878-78-2
 Publication Date: 19 Aug 2024 (SBM 65)

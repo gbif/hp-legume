@@ -9,7 +9,7 @@ sideNavigation: sidenav.beanbag71
 
 # ADVANCES IN LEGUME SYSTEMATICS 15
 
-**Leonardo Borges** (Universidade Federal de São Carlos), **Marianne le Roux** (South African National Biodiversity Institute, SANBI, South Africa) & **Luciano Queiroz** (Universidade Estadual de Feira de Santana, Brazil
+**Leonardo Borges** (Universidade Federal de São Carlos), **Marianne le Roux** (South African National Biodiversity Institute, SANBI, South Africa) & **Luciano Queiroz** (Universidade Estadual de Feira de Santana, Brazil)
 
 The "Advances in Legume Systematics" series (ALS) stands as a testament to the dedication of the legume community towards advancing our knowledge on legume diversity and evolution. In recent years we have been particularly commited to filling gaps in our knowledge and to strengthen the solid basis layed out in seminal papers published in previous ALS volumes.
 

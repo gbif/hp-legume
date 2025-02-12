@@ -20,7 +20,7 @@ with contributions by **Brian du Preez** (University of Cape Town, South Africa)
 
 This new issue celebrates the **50th anniversary of the Bean Bag!** 
 
-The origing of the newsletter goes back to an informal meeting betwen legume systematists attending the [First International Congress of Systematics and Evolutionary Biology (ICSEB)](https://onlinelibrary.wiley.com/doi/10.2307/1218639), held in 1973 at the University of Colorado, US. Two years later, in May 1975, the first printed issue, edited by Charles (Bob) Gunn and Richard Cowan, and distributed around the world. 
+The origine of the newsletter goes back to an informal meeting betwen legume systematists attending the [First International Congress of Systematics and Evolutionary Biology (ICSEB)](https://onlinelibrary.wiley.com/doi/10.2307/1218639), held in 1973 at the University of Colorado, US. Two years later, in May 1975, the first printed issue, edited by Charles (Bob) Gunn and Richard Cowan, and distributed around the world. 
 
 As the first pages of that volume show (see below), the aim of the annual newsletter is to share news on publications, events, projects, opportunities, requests  and other information of intereste to "legume-lovers of the world". 
 

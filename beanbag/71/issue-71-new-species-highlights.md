@@ -19,7 +19,7 @@ This year's cohort of new legume species includes several examples of species be
 <br>
 <br>
 
-### *Alexa duckeana*: A New Species from the Brazilian Amazon
+### ***Alexa duckeana***: A New Species from the Brazilian Amazon
 
 The large actinomorphic or near-actinomorphic flowers of species of the genus *Alexa* would not, at first sight, suggest a Papilionoid legume, which mostly have zygomorphic keel flowers. However, radially symmetric flowers occur in a set of phylogenetically scattered lineages across subfamily Papilionoideae, including the genus *Alexa*. With nine species, the genus *Alexa* is distributed mainly in 'terra firme' forests across the Amazon basin in South America. This new species, *Alexa duckeana*, is endemic to the State of Pará in Brazil. It has all the characteristics of the genus *Alexa*—tree habit, large, actinomorphic, probably bat-pollinated flowers, an enlarged coriaceous campanulate brown calyx, white petals, and large woody pods.
 
@@ -43,7 +43,7 @@ Xishuangbanna Prefecture, in SW Yunnan Province of China, bordering Myanmar and 
 <br>
 <br>
 
-### A New *Mimosa* Endemic to Central Madagascar
+### A New ***Mimosa*** Endemic to Central Madagascar
 
 Almost every year, new species of the species-rich genus *Mimosa* are described, and this year is no exception. A large majority of these novelties are from the Americas, where most *Mimosa* species (>570) are distributed. In contrast, *Mimosa ibityensis*, described this year by Erik Koenen, is narrowly endemic to the Massif d'Ibity and surrounds in central Madagascar. This brings the tally of Madagascan *Mimosa* species to 36, of which 34 are endemic or near-endemic. *Mimosa ibityensis* is found in the understory of the distinctive sclerophyllous *Tapia* forests of upland Madagascar on quartzite rock.
 
@@ -51,11 +51,11 @@ Almost every year, new species of the species-rich genus *Mimosa* are described,
 *Mimosa ibityensis* inflorescences and fruits; photos by E.J.M. Koenen.
 <br>
 
-**Koenen E.J.M. 2024.** A new species of *Mimosa* (Leguminosae) endemic to Central Madagascar. *Candollea* *79*: 229–234. doi: <http://dx.doi.org/10.15553/c2024v792a2>
+**Koenen E.J.M. 2024.** A new species of ***Mimosa*** (Leguminosae) endemic to Central Madagascar. *Candollea* *79*: 229–234. doi: <http://dx.doi.org/10.15553/c2024v792a2>
 <br>
 <br>
 
-### A New Broom, *Gonocytisus graecus*, from Greece
+### A New Broom, ***Gonocytisus graecus***, from Greece
 
 It is relatively rare that new legume species are described from Europe these days, especially when they are conspicuous roadside shrubs with showy flowers. Nevertheless, new field and taxonomic work on the diverse and complex genera of tribe Genisteae, which are distributed in large part across the Mediterranean basin, has revealed the hitherto unknown narrowly endemic species, *Gonocytisus graecus*, named as such as it is endemic to Greece.
 
@@ -67,7 +67,7 @@ It is relatively rare that new legume species are described from Europe these da
 <br>
 <br>
 
-### *Senegalia ajaya* from West Bengal, India
+### ***Senegalia ajaya*** from West Bengal, India
 
 *Senegalia ajaya*, newly described from India, is a formidably armed lianescent shrub with up to six lines of prickles on the stem, plus branchlets modified into tendrils with prickles and prickles on the underside of the leaf rachis. One of the unusual distinguishing features of this species is the two types of paraphyllidia (modified, reduced leaflets) found at the base of the pinnae.
 
@@ -79,7 +79,7 @@ It is relatively rare that new legume species are described from Europe these da
 <br>
 <br>
 
-### 18 Species from One Species of *Pultenaea*, Including 14 New Species from SE Australia
+### 18 Species from One Species of ***Pultenaea***, Including 14 New Species from SE Australia
 
 This study presents a landmark example of how detailed morphological and geographical data are providing evidence for the delimitation of sets of morphologically distinct, narrowly endemic species across physiographically and geologically diverse and complex landscapes from previously widespread polymorphic species complexes. Here, detailed morphological analysis of the *Pultenaea setulosa* species complex, sampling more densely than previously across the Great Dividing Range and the Blue Mountains of SE Australia, has shown that geographically discrete populations are morphologically distinct and uniform, exhibiting fixed character states, suggesting strong geographical/ecological isolation over short distances. Alongside preliminary genetic data indicating non-monophyly of the elements of the *P. setulosa* complex, this study provided the basis for delimiting 18 species, 14 of which are described as new. These include several species illustrated below, which are named for legume specialists: *P. westonii*, named for Peter Weston, *P. corrickiae*, named for Margaret Corrick, and *P. woolcockiorum*, named for Dorothy and Collin Woolcock, who authored a popular book on native peas in SE Australia.
 
@@ -103,7 +103,7 @@ Clockwise from top left: *Grievea craigiana*; photo by Gillian Craig, *Jennata e
 <br>
 <br>
 
-### Upranking Infraspecific Varieties of *Libidibia ferrea* as Species
+### Upranking Infraspecific Varieties of ***Libidibia ferrea*** as Species
 
 Detailed morphometric and ecogeographical studies of widespread polymorphic species can often provide evidence for upranking infraspecific taxa as distinct species. Recognition as species, as well as reflecting morphological distinctiveness, also means that important diversity is properly recognized in conservation, given that infraspecific taxa are rarely accounted for or are down-weighted in conservation assessment. Morphometric analysis and ecological niche modeling across the widespread South American species *Libidibia ferrea* (Caesalpinioideae), the iconic Brazilian 'pau ferro', or iron tree, so-called because of its hard, dense wood, revealed four distinct morphotypes with distinctive ecogeographic distributions. These results provided the basis for the recognition of four distinct species: *Libidibia ferrea*, *L. juca*, *L. leiostachya*, and *L. parvifolia*.
 
@@ -115,7 +115,7 @@ Clockwise from top left: Flowers of *Libidibia juca*; photos by R. Queiroz, tree
 <br>
 <br>
 
-### Two New Species of *Brachypterum* in Australia
+### Two New Species of ***Brachypterum*** in Australia
 
 Molecular phylogenies and a revision of the Millettioid genera *Derris* and *Brachypterum* in Australia have demonstrated robust support for these two genera, and for two new species of *Brachypterum*, both endemic to northern Queensland, Australia. These new species are slender twining vines or lianas in various tropical forest types.
 
@@ -126,7 +126,7 @@ Top left: *Brachypterum nitidum*. Bottom left and Right: *B. opacum*. Photos: Ri
 **Cooper W.E., Zich F.A., Nauheimer L., Harrison M.J. & Crayn D.M. 2024.** A revision of *Derris* and *Brachypterum* (Leguminosae subfamily Papilionoideae) in Australia. *Australian Systematic Botany* 37: SB23030. <https://doi.org/10.1071/SB23030>
 <br>
 
-### Further Additions to the Hyper-Diverse Greater Cape Flora—Five New Species of *Aspalathus*
+### Further Additions to the Hyper-Diverse Greater Cape Flora—Five New Species of ***Aspalathus***
 
 The description of five new species of *Aspalathus* emphasizes the importance and value of fieldwork. This is true even in areas like the Greater Cape Floristic Region of southern Africa, where the flora is generally already reasonably well-documented. As the authors note, new fieldwork is especially important to discover cryptic and short-lived, post-fire species and narrowly restricted endemics, which have frequently been overlooked. All five of these new species have highly restricted distributions; several of them are threatened. On the plus side, fieldwork can also rediscover populations of species thought to be extinct. Three such recently rediscovered species of *Aspalathus* are documented here alongside the five novelties.
 
@@ -140,7 +140,7 @@ Top: *Aspalathus albicephala*, Bottom: *A. jardinii*. All photos by Brian du Pre
 <br>
 <br>
 
-### A New Cliff-Dwelling *Hedysarum* from the Remote Qilianshan Mountains
+### A New Cliff-Dwelling ***Hedysarum*** from the Remote Qilianshan Mountains
 
 There are more than 160 species of *Hedysarum* across north temperate Asia, Europe, northern Africa, and North America. The Qinghai-Tibetan Plateau is one of the centers of diversity for the genus, with 24 species, 22 of which are endemic there. The newly described *Hedysarum qilianshanense* is narrowly endemic to a remote valley in the magnificent Qilianshan Mountains on the northern border of the Qinghai-Tibetan Plateau. It grows on stony slopes and rock cliffs at elevations of 2000–3000 m.
 
@@ -152,7 +152,7 @@ There are more than 160 species of *Hedysarum* across north temperate Asia, Euro
 <br>
 <br>
 
-### The genus *Astragalus* just keeps on growing
+### The genus ***Astragalus*** just keeps on growing
 
 With more than 3,000 species, the genus *Astragalus* is the most species-rich legume genus, indeed the most species-rich genus of flowering plants. Every year, in recent years, a clutch of new *Astragalus* species is added, reflecting the fact that the majority of newly described species belong in species-rich genera. Illustrated here are two of the 2024 *Astragalus* additions from Turkey and Pakistan.
 
@@ -185,7 +185,7 @@ Dense sampling of species and intraspecific diversity in molecular phylogenies o
 <br>
 <br>
 
-### Eleven new species of *Indigofera*
+### Eleven new species of ***Indigofera***
 
 Following close on the heels of the 18 new species of *Indigofera* described from the Cape Floristic Region of southern Africa in 2023, this year saw an additional 11 species described from that same region, spearheaded by Brian du Preez and Brian Schrire.
 
@@ -197,7 +197,7 @@ Top: *Indigofera rhodantha* flowers and fruits; bottom: *I. vlokii* habit and fl
 <br>
 <br>
 
-### A sky-blue flowered *Collaea* (Papilionoideae) from South Brazil
+### A sky-blue flowered ***Collaea*** (Papilionoideae) from South Brazil
 
 Species of *Collaea* (tribe Diocleae) have spectacular showy flowers suggesting potential as ornamental plants, and a new species, *C. caerulea*, described this year from southern Brazil is no exception. This new *Collaea* has beautiful, brightly coloured, bluish-lilac flowers which are the basis for the species epithet *caerulea* (from the Latin *caeruleus* = coloured sky-blue). Like many newly described species of the modern era, *C. caerulea* is a highly restricted endemic found at just two nearby localities in mixed *Araucaria* forest at mid-elevations in Santa Catarina State in southern Brazil; an IUCN threat category of *Critically Endangered* was proposed by the authors.
 

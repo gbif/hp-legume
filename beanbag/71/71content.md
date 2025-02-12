@@ -53,10 +53,8 @@ Barney Lipscomb
 **[New Book: Illustrated Genera of Rust Fungi of Brazil](/beanbag/71/issue-71-new-book-illustrated-genera-rust-fungi-brazil.md)**   
 Barney Lipscomb
 
-**[XXI International Botanical Congress
-](/beanbag/71/issue-71-ibc.md)**  
+**[XXI International Botanical Congress](/beanbag/71/issue-71-ibc.md)**  
 Stephen Boatwright
-
 
 
 ## Articles

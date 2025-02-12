@@ -12,10 +12,6 @@ sideNavigation: sidenav.beanbag71
 This gallery aims to showcase shots of legume species taken by members of the legume community. This year we have three beautiful images of Chinese legumes taken by Kai-Wen Jiang.
 
 If you would like to have your photos included in the next volume, please reply to the next call for submissions with a set of files and captions.
-<br>
-<br>
-
-
 
 ![](/assets/images/71/KC1782.jpg)   
 *Phanera bohniana* (H. Y. Chen) K. W. Jiang, S. R. Gu & T. Y. Tu, photographed by Kai-Wen JIANG from K. Chiang & Z. M. Li KC1782 (NPH), collected from Yunnan Province, China.

@@ -9,7 +9,7 @@ sideNavigation: sidenav.beanbag71
 
 # PHYLOGENOMICS WORKING GROUP
 
-Coordinators: **Rafaela Trad** (Royal Botanic Gardens, Edinburgh, UK) & **Félix Forest** (Royal Botanic Gardens, Kew, UK)
+Coordinators: **Rafaela Trad** (Royal Botanic Gardens, Edinburgh, UK) & **Félix Forest** (Royal Botanic Gardens, Kew, UK)
 <br>
 <br>
 
