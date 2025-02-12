@@ -9,7 +9,7 @@ toc: true
 ---
 
 
-Coordinators: [Joe Miller](mailto:jmiller@gbif.org) [(Global Biodiversity Information Facility) Copenhagen Denmark](https://www.gbif.org) and [Vanessa Terra](mailto:vanessaterrab@gmail.com) [Universidade Federal de Uberlândia - UFU](https://ufu.br/)
+Coordinators: [Joe Miller](mailto:jmiller@gbif.org) [(Global Biodiversity Information Facility), Copenhagen Denmark](https://www.gbif.org) and [Vanessa Terra](mailto:vanessaterrab@gmail.com), [Universidade Federal de Uberlândia - UFU](https://ufu.br/)
 
 ## Introduction
 

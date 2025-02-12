@@ -9,7 +9,7 @@ toc: true
 ---
 
 
-Coordinateurs : [Joe Miller](mailto:jmiller@gbif.org) [(Global Biodiversity Information Facility) Copenhagen Denmark](https://www.gbif.org) et [Vanessa Terra](mailto:vanessaterrab@gmail.com) [Universidade Federal de Uberlândia - UFU](https://ufu.br/)
+Coordinateurs : [Joe Miller](mailto:jmiller@gbif.org) [(Global Biodiversity Information Facility), Copenhagen Denmark](https://www.gbif.org) et [Vanessa Terra](mailto:vanessaterrab@gmail.com), [Universidade Federal de Uberlândia - UFU](https://ufu.br/)
 
 ## Introduction
 [Open Tree of Life](https://tree.opentreeoflife.org/about/open-tree-of-life) a pour objectif de construire un arbre de la vie complet, dynamique et disponible dans un format digital, en synthétisant les arbres phylogénétiques publiés ainsi que des données taxonomiques. Ce projet peut-être considéré comme la version phylogénétique de [GBIF](https://www.gbif.org/fr/what-is-gbif) qui est une entité combinant les données provenant de milliers de jeux de données de biodiversité dans un système permettant à tout un chacun d'accéder à ces données, que ce soit avec un intérêt géographique ou taxonomique donné. OToL utilise les données en accès ouvert de la même manière, puisque nous n'avons pas d'arbre phylogénétique incluant toutes les formes de vies. Les utilisateurs de OToL peuvent télécharger une sous-partie de l'arbre, par exemple un arbre de toutes les Légumineuses (Fabaceae) ou d'une liste d'espèces. Tout comme pour GBIF, plus les données entrantes sont de bonne qualité, plus celles sortantes le seront. Les arbres OToL peuvent être utilisés pour de multiples utilisations, incluant la recherche et la visualisation.
