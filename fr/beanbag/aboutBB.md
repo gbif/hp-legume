@@ -14,10 +14,8 @@ height: 70vh
 L'objectif de l'infolettre est d'informer et de mettre à jour les chercheurs travaillant sur les Légumineuses à propos des nouvelles publications, événements et projets sur la famille des Légumineuses.
 
 
-## Éditeurs:
-
-[Dr. Colin Hughes](mailto:colin.hughes@systbot.uzh.ch) (University of Zurich, Suisse)  
-
-[Dr. Warren Cardinal-McTeague](mailto:warren.cardinal-mcteague@ubc.ca) (University of British Columbia, Canada)  
+## Éditeurs actuels :
 
 [Dr. Leonardo Borges](mailto:quitemcaqui@gmail.com) (Universidade Federal de São Carlos, Brazil)  
+
+[Dr. Stephen Boatwright](mailto:jboatwright@uwc.ac.za) (University of the Western Cape, South Africa)

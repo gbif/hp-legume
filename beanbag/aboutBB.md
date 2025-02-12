@@ -14,10 +14,8 @@ height: 70vh
 The aim of the annual newsletter has been to keep legume researchers informed and updated about new publications, events and projects on the family Leguminosae.
 
 
-## Editors:
-
-[Dr. Colin Hughes](mailto:colin.hughes@systbot.uzh.ch) (University of Zurich, Switzerland)  
-
-[Dr. Warren Cardinal-McTeague](mailto:warren.cardinal-mcteague@ubc.ca) (University of British Columbia, Canada)  
+## Current editors: 
 
 [Dr. Leonardo Borges](mailto:quitemcaqui@gmail.com) (Universidade Federal de São Carlos, Brazil)  
+
+[Dr. Stephen Boatwright](mailto:jboatwright@uwc.ac.za) (University of the Western Cape, South Africa)
