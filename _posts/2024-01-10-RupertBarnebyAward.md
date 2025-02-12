@@ -23,4 +23,4 @@ The proposal should address specifically the activities to be performed at NYBG 
 
 Please email your application to Dr. Benjamin M. Torke (<btorke@nybg.org>) no later than **April 1, 2024** for consideration for the upcoming Award.
 
-Announcement of the recipient will be made by May 1, 2023. Travel to NYBG should be planned for some period after July 1, 2024 and before June 30, 2025. Recipients are asked to give a presentation about their research.
+Announcement of the recipient will be made by May 1, 2024. Travel to NYBG should be planned for some period after July 1, 2024 and before June 30, 2026. Recipients are asked to give a presentation about their research.
