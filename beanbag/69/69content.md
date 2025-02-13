@@ -76,4 +76,4 @@ Warren Cardinal-McTeague, Colin Hughes, Leonardo Borges & Gwilym P. Lewis
 *Parkia bahiae* H.C.Hopkins, Caesalpinioideae, photo by Colin Hughes
 
 
-<button name="button" onclick="https://doi.org/10.34885/0dqs-8q02">DOI: 10.34885/0dqs-8q02</button>
+<form action="https://doi.org/10.34885/0dqs-8q02" method="get" target="_blank"><button type="submit">DOI: 10.34885/0dqs-8q02</button></form>

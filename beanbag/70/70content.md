@@ -102,5 +102,7 @@ Colin Hughes
 Warren Cardinal-McTeague, with contributions by Colin Hughes, Leonardo Borges   
 
 
-<button name="button" onclick="https://doi.org/10.34885/vqna-jm94">DOI: 10.34885/vqna-jm94</button>
+<form action="https://doi.org/10.34885/vqna-jm94" method="get" target="_blank"><button type="submit">DOI: 10.34885/vqna-jm94</button></form>
+
+
 
