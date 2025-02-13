@@ -68,4 +68,6 @@ Toby Pennington, Colin Hughes
 Sandip Gavade
 
 **[Legume bibliography 2020](/beanbag/67/issue-67-legume-bibliography-2020/)**  
-Compiled by Warren Cardinal-McTeague
+Compiled by Warren Cardinal-McTeague  
+
+<form action="https://doi.org/10.34885/ew5q-x422" method="get" target="_blank"><button type="submit">DOI: 10.34885/ew5q-x422</button></form>
