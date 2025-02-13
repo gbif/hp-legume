@@ -25,6 +25,6 @@ Joe F. Hennen received his B.S. at Southern Methodist University. He holds an M.
 
 To purchase your copy of the "Illustrated Genera of Rust Fungi of Brazil", visit <https://shopbritpress.org/> or call 817-332-4441 ext. 264. The price is $40.00, plus shipping. This is print on demand, please allow 3-5 weeks for delivery.
 
-ISBN-13: 978-1-889878-78-2
-Publication Date: 1 May 2023 (SBM 63)
+ISBN-13: 978-1-889878-78-2  
+Publication Date: 1 May 2023 (SBM 63)  
 Specifications: 7"×10" (HBK), 148 pp, 71 b/w figs, distribution maps, references, index

@@ -16,8 +16,8 @@ sideNavigation: sidenav.beanbag71
 This is the fifth year that a selection of the new legume species published during the year has been highlighted in the *Bean Bag*. Over that period (2020–2024), between 50 and 100 new legume species and 30 and 200 new name combinations have been published each year. Thus, significant numbers of new legume species continue to be described across the world every year with no indication of any decline, and 2024 is no exception. Indeed, with more than 100 new legume species described during 2024, this is a bumper year for legume novelties.
 
 This year's cohort of new legume species includes several examples of species being described based on splitting previously morphologically variable species complexes into multiple segregate species and/or upranking infraspecific taxa as distinct species. This is a trend that is likely to expand in the future as more detailed species-level phylogenies densely sampling all species and intraspecific diversity are assembled and will likely power the ongoing growth in legume species numbers for some time to come.
-<br>
-<br>
+
+---
 
 ### ***Alexa duckeana***: A New Species from the Brazilian Amazon
 
@@ -205,7 +205,7 @@ Top: *Indigofera rhodantha* flowers and fruits; bottom: *I. vlokii* habit and fl
 Species of *Collaea* (tribe Diocleae) have spectacular showy flowers suggesting potential as ornamental plants, and a new species, *C. caerulea*, described this year from southern Brazil is no exception. This new *Collaea* has beautiful, brightly coloured, bluish-lilac flowers which are the basis for the species epithet *caerulea* (from the Latin *caeruleus* = coloured sky-blue). Like many newly described species of the modern era, *C. caerulea* is a highly restricted endemic found at just two nearby localities in mixed *Araucaria* forest at mid-elevations in Santa Catarina State in southern Brazil; an IUCN threat category of *Critically Endangered* was proposed by the authors.
 
 ![](/assets/images/71/collaea.jpg)
-##### *Collaea caerulea* habit and flowers; photos Paulo Schwirkowski.
+*Collaea caerulea* habit and flowers; photos Paulo Schwirkowski.
 <br>
 
 **da Silva Oliveira A.C., Snak C., Schwirkowski P. & de Queiroz L.P. 2024.** A new species of *Collaea* (Leguminosae, Papilionoideae) from South Brazil. *Brittonia* 1-7. <https://doi.org/10.1007/s12228-023-09772-w>

@@ -15,6 +15,7 @@ The editors of Bean Bag would welcome photos and reminiscences about researchers
 
 Synopses need not be complete biographies but a few images would bring them to life.
 
+---
 
 ## David S. Seigler & John E. Ebinger <a name="1.1"></a>
 
@@ -41,7 +42,9 @@ Dave and John have the same sense of humor, and there is a great synergy between
 
 The following reminiscences from Bruce Maslin refer principally to two field trips to Mexico with Dave:
 
->I first met Dave in 1985 when we were both visiting Eric Conn's laboratory at Davis. The following year we met again, this time in the company of John, at the Second International Legume Conference in St. Louis. After this conference, DSS and I started out on our first trip to Mexico, traveling in his pickup to the border at Laredo. We did a little general mimosoid collecting in Oklahoma on the way, and in Texas, Dave introduced me to my first American acacias, now species of *Vachellia* and *Senegalia*. From Laredo, we took a bus to Monterrey, where we picked up a hired VW beetle. To my horror, Dave said I could drive—I had never driven on the "wrong side" of the road before, and what an experience that was, especially on Mexican roads! I won't detail the very many wonderful experiences from our journey to Oaxaca in the south, but suffice it to say that Dave's congenial personality, sense of humor, broad knowledge of plants, Mexican geography and history, and of course his familiarity with mimosoids, all contributed to making this a truly memorable trip. All up, we were on the road for almost two weeks. Two decades later, we returned to Mexico, this time reaching the northern tip of the Yucatan Peninsula. Many of the photos that were taken on these trips are now on the WorldWideWattle website as species of *Acaciella*, *Mariosousa*, *Senegalia*, and *Vachellia*. If I had to choose a Mexican species that amazed me the most, then it would have to be one of the remarkable Ant Acacias, *Vachellia cornigera*, with its incredible stipular spines inhabited by ants (until disturbed!), large petiole glands, which provide ants with a source of carbohydrate, and leaflet tips that possess specialized protein "sausages" called Beltian Bodies, which the ants also harvest. In return, the ants are aggressive defenders of the plants that they call home.
+>I first met Dave in 1985 when we were both visiting Eric Conn's laboratory at Davis. The following year we met again, this time in the company of John, at the Second International Legume Conference in St. Louis. After this conference, DSS and I started out on our first trip to Mexico, traveling in his pickup to the border at Laredo. We did a little general mimosoid collecting in Oklahoma on the way, and in Texas, Dave introduced me to my first American acacias, now species of *Vachellia* and *Senegalia*.  
+From Laredo, we took a bus to Monterrey, where we picked up a hired VW beetle. To my horror, Dave said I could drive — I had never driven on the "wrong side" of the road before, and what an experience that was, especially on Mexican roads! I won't detail the very many wonderful experiences from our journey to Oaxaca in the south, but suffice it to say that Dave's congenial personality, sense of humor, broad knowledge of plants, Mexican geography and history, and of course his familiarity with mimosoids, all contributed to making this a truly memorable trip.  
+All up, we were on the road for almost two weeks. Two decades later, we returned to Mexico, this time reaching the northern tip of the Yucatan Peninsula. Many of the photos that were taken on these trips are now on the WorldWideWattle website as species of *Acaciella*, *Mariosousa*, *Senegalia*, and *Vachellia*. If I had to choose a Mexican species that amazed me the most, then it would have to be one of the remarkable Ant Acacias, *Vachellia cornigera*, with its incredible stipular spines inhabited by ants (until disturbed!), large petiole glands, which provide ants with a source of carbohydrate, and leaflet tips that possess specialized protein "sausages" called Beltian Bodies, which the ants also harvest. In return, the ants are aggressive defenders of the plants that they call home.
 
 #### Selected references
 
@@ -52,12 +55,14 @@ The following reminiscences from Bruce Maslin refer principally to two field tri
 **Seigler, D. S. & Conn, E. E. (1982).** Cyanogenesis and systematics of the genus *Acacia*. *Bulletin of the International Group for the Study of Mimosoideae* 10: 32--43.  
 
 **Seigler, D. S. & Ebinger, J. E. (1987).** Cyanogenic glycosides in ant-acacias of Mexico and Central America. *The Southwestern Naturalist* 32(4): 499--503.  
-Seigler, D. S., Ebinger, J. E., Hollowell, V. C. & Riggins, C. W. (2023). Revision of the genus *Mariosousa* (Fabaceae, Mimosoideae) in the New World. *Phytologia* 105(2): 29--67.
 
-**Seigler, D. S. (1998).** *Plant Secondary Metabolism*. Kluwer Academic, Boston & London.  
+**Seigler, D. S., Ebinger, J. E., Hollowell, V. C. & Riggins, C. W. (2023).** Revision of the genus *Mariosousa* (Fabaceae, Mimosoideae) in the New World. *Phytologia* 105(2): 29--67.  
+
+**Seigler, D. S. (1998).** *Plant Secondary Metabolism*. Kluwer Academic, Boston & London.   
 
 **Seigler, D. S., Ebinger, J. E., Miller, J. T. & Hollowell, V. C. (2024).** Names for American *Acacia* (*Fabaceae, Mimosoideae*). -- *Sida, Bot. Misc*. 65. Fort Worth Bot. Gard., Texas: BRIT Press. <https://shopbritpress.org/products/names-for-american-acacia-fabaceae-mimosoideae>.
 
+---
 
 ## Ivan Christian Nielsen (1946–2007) <a name="1.2"></a>
 
@@ -89,6 +94,7 @@ Ivan lived with his wife on a farmstead in a beautiful spot in central Jutland, 
 
 **Øllgaard B. 2008.** [Nekrologer. Ivan Christian Nielsen. Aarhus University, Universitetshistorie](https://auhist.au.dk/fileadmin/www.auhist.au.dk/filer/Nielsen__Ivan_Christian_-_nekrolog.pdf).
 
+---
 
 ## Velva E. Rudd (1910–1999) <a name="1.3"></a>
 
