@@ -19,3 +19,7 @@ L'objectif de l'infolettre est d'informer et de mettre à jour les chercheurs tr
 [Dr. Leonardo Borges](mailto:quitemcaqui@gmail.com) (Universidade Federal de São Carlos, Brazil)  
 
 [Dr. Stephen Boatwright](mailto:jboatwright@uwc.ac.za) (University of the Western Cape, South Africa)
+
+incluant des contributions de :  
+
+**Brian du Preez** (University of Cape Town, South Africa) & **Marcus Falcão** (Jardim Botânico do Rio de Janeiro, Brazil)

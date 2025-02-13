@@ -16,6 +16,10 @@ The aim of the annual newsletter has been to keep legume researchers informed an
 
 ## Current editors: 
 
-[Dr. Leonardo Borges](mailto:quitemcaqui@gmail.com) (Universidade Federal de São Carlos, Brazil)  
+**[Dr. Leonardo Borges](mailto:quitemcaqui@gmail.com)** (Universidade Federal de São Carlos, Brazil)  
 
-[Dr. Stephen Boatwright](mailto:jboatwright@uwc.ac.za) (University of the Western Cape, South Africa)
+**[Dr. Stephen Boatwright](mailto:jboatwright@uwc.ac.za)** (University of the Western Cape, South Africa)  
+
+with contributions by:  
+
+**Brian du Preez** (University of Cape Town, South Africa) & **Marcus Falcão** (Jardim Botânico do Rio de Janeiro, Brazil)
