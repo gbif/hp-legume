@@ -67,7 +67,7 @@ Colin Hughes
 
 ### Galery of Leguminologists
 
-**[David S. Seigler and John E. Ebinger](/beanbag/71/issue-71-gallery-leguminologists)** 
+**[David S. Seigler and John E. Ebinger](/beanbag/71/issue-71-gallery-leguminologists)**  
 Helen C.F. Hopkins & Bruce R. Maslin
 
 **[Ivan C. Nielsen](/beanbag/71/issue-71-gallery-leguminologists)**   
