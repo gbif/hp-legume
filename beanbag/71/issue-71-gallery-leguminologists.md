@@ -33,7 +33,7 @@ After a BA in botany from Miami University, Oxford, Ohio, and a spell in the US 
 
 ![](/assets/images/71/JEbinger.jpg)
 
-John Ebinger,  bursts into song in a pasture full of *Vachellia farnesiana* in Mexico. Photo: Dave Seigler.
+John Ebinger, bursts into song in a pasture full of *Vachellia farnesiana* in Mexico. Photo: Dave Seigler.
 
 The pair first met in the early 1970s through the Illinois State Academy of Science, and by the early 1980s, they had started collaborating on acacias, becoming increasingly interested in their taxonomy. They undertook several field trips, especially to Mexico and Texas, with John also visiting Curacao and Florida. Although they have frequently worked with other people (e.g., Céspedes *et al.* 2013; Ebinger *et al.* 2010), most of their taxonomic publications on mimosoids have been written together, including accounts in ALS 14-2.
 
@@ -41,7 +41,7 @@ Dave and John have the same sense of humor, and there is a great synergy between
 
 The following reminiscences from Bruce Maslin refer principally to two field trips to Mexico with Dave:
 
-I first met Dave in 1985 when we were both visiting Eric Conn's laboratory at Davis. The following year we met again, this time in the company of John, at the Second International Legume Conference in St. Louis. After this conference, DSS and I started out on our first trip to Mexico, traveling in his pickup to the border at Laredo. We did a little general mimosoid collecting in Oklahoma on the way, and in Texas, Dave introduced me to my first American acacias, now species of *Vachellia* and *Senegalia*. From Laredo, we took a bus to Monterrey, where we picked up a hired VW beetle. To my horror, Dave said I could drive—I had never driven on the "wrong side" of the road before, and what an experience that was, especially on Mexican roads! I won't detail the very many wonderful experiences from our journey to Oaxaca in the south, but suffice it to say that Dave's congenial personality, sense of humor, broad knowledge of plants, Mexican geography and history, and of course his familiarity with mimosoids, all contributed to making this a truly memorable trip. All up, we were on the road for almost two weeks. Two decades later, we returned to Mexico, this time reaching the northern tip of the Yucatan Peninsula. Many of the photos that were taken on these trips are now on the WorldWideWattle website as species of *Acaciella*, *Mariosousa*, *Senegalia*, and *Vachellia*. If I had to choose a Mexican species that amazed me the most, then it would have to be one of the remarkable Ant Acacias, *Vachellia cornigera*, with its incredible stipular spines inhabited by ants (until disturbed!), large petiole glands, which provide ants with a source of carbohydrate, and leaflet tips that possess specialized protein "sausages" called Beltian Bodies, which the ants also harvest. In return, the ants are aggressive defenders of the plants that they call home.
+>I first met Dave in 1985 when we were both visiting Eric Conn's laboratory at Davis. The following year we met again, this time in the company of John, at the Second International Legume Conference in St. Louis. After this conference, DSS and I started out on our first trip to Mexico, traveling in his pickup to the border at Laredo. We did a little general mimosoid collecting in Oklahoma on the way, and in Texas, Dave introduced me to my first American acacias, now species of *Vachellia* and *Senegalia*. From Laredo, we took a bus to Monterrey, where we picked up a hired VW beetle. To my horror, Dave said I could drive—I had never driven on the "wrong side" of the road before, and what an experience that was, especially on Mexican roads! I won't detail the very many wonderful experiences from our journey to Oaxaca in the south, but suffice it to say that Dave's congenial personality, sense of humor, broad knowledge of plants, Mexican geography and history, and of course his familiarity with mimosoids, all contributed to making this a truly memorable trip. All up, we were on the road for almost two weeks. Two decades later, we returned to Mexico, this time reaching the northern tip of the Yucatan Peninsula. Many of the photos that were taken on these trips are now on the WorldWideWattle website as species of *Acaciella*, *Mariosousa*, *Senegalia*, and *Vachellia*. If I had to choose a Mexican species that amazed me the most, then it would have to be one of the remarkable Ant Acacias, *Vachellia cornigera*, with its incredible stipular spines inhabited by ants (until disturbed!), large petiole glands, which provide ants with a source of carbohydrate, and leaflet tips that possess specialized protein "sausages" called Beltian Bodies, which the ants also harvest. In return, the ants are aggressive defenders of the plants that they call home.
 
 #### Selected references
 
@@ -66,7 +66,7 @@ Seigler, D. S., Ebinger, J. E., Hollowell, V. C. & Riggins, C. W. (2023). Revisi
 The Danish botanist Ivan Nielsen was an expert on mimosoid legumes of S.E. Asia. Between 1976 and 1992, Ivan produced an impressive series of publications on the taxonomy of Asian mimosoids. These included numerous national and regional flora treatments of mimosoids (Cambodia, Laos & Vietnam; New Caledonia; Thailand; Malesiana), revisions of the ingoid genera *Archidendropsis*, *Wallaceodendron*, *Paraserianthes*, *Pararchidendron*, and *Serianthes* in the Malesian, Australian, and Pacific region (together with P. Guinet and T. Baretta-Kuipers; 1983-1984 in *Adansonia*), revisions of the large, complex, and species-rich genus *Archidendron* (*Opera Botanica*, 1985), and the Malesian species of *Acacia* and *Albizia* (*Opera Botanica*, 1985). All of this culminated in his comprehensive regional treatment of mimosoid legumes for *Flora Malesiana* in 1992. Underpinning all this, Ivan carried out extensive fieldwork in S.E. Asia, making invaluable collections of poorly-known mimosoids.
 
 
-![](/assets/images/71/ivan_nielsen_1.tif)  
+![](/assets/images/71/ivan_nielsen_1.jpg)  
 Ivan Nielsen in 1978 at the first meeting of the International Group for Study of Mimosoideae, IGSM, Kew, London. Photo: Bruce Maslin.<br>
 
 In many ways, Ivan Nielsen was to S.E. Asian mimosoid legumes what Rupert Barneby was to Neotropical mimosoids. They both provided important advances in the generic classification of the pantropical, species-rich ingoid clade (former tribe Ingeae plus *Acacia*), as well as substantial species-level taxonomic accounts of ingoid legume genera in their respective geographical regions. At the same time, they were both acutely aware that generic delimitation across tribe Ingeae would require further pantropical synthesis, as well as improved phylogenies that would come from the goldmine of new DNA sequence data starting to emerge in the early 2000s. To advance this, Ivan invited one of us (DM) to work on molecular phylogenetics of Ingeae with him in Aarhus, but unfortunately, the full results of this collaboration did not come to fruition before Ivan became ill. Nevertheless, the critical foundations established by Ivan and Rupert Barneby paved the way for the more integrated world view of the ingoid clade that has recently been achieved through molecular phylogenies sampling pantropically.
@@ -86,6 +86,7 @@ Ivan lived with his wife on a farmstead in a beautiful spot in central Jutland, 
 #### References
 
 **Friis I. 2008.** *In Memoriam: Editor-in-Chief of Nordic Journal of Botany Ivan Nielsen, 18 February 1946 - 1 December 2007.* *Nordic Journal of Botany* 25: 381-382.  
+
 **Øllgaard B. 2008.** [Nekrologer. Ivan Christian Nielsen. Aarhus University, Universitetshistorie](https://auhist.au.dk/fileadmin/www.auhist.au.dk/filer/Nielsen__Ivan_Christian_-_nekrolog.pdf).
 
 
@@ -95,10 +96,12 @@ Ivan lived with his wife on a farmstead in a beautiful spot in central Jutland, 
 
 Like so many botanists, Velva Rudd developed a lifelong interest in a particular plant group—in her case, the legumes—during her PhD, which focused on the American species of *Aeschynomene* (Papilionoideae). Velva worked primarily on tropical American papilionoid legumes, publishing more than 70 taxonomic papers. These included a six-part monograph in *Contributions from the United States National Herbarium*, published over a thirteen-year period (1955–1968), comprising species-level taxonomic accounts of seven genera (*Aeschynomene*, *Ateleia*, *Chaetocalyx*, *Cyathostegia*, *Dussia*, *Nissolia*, and *Ormosia*) in the Americas.  
 
+
 ![](/assets/images/71/velva-elaine-rudd.jpg)  
 Velva Rudd in 1973, Directory of Scientists in the National Museum of Natural History, photo courtesy of Smithsonian Department of Botany
 
 Working before the advent of molecular phylogenetics, Velva relied on morphology, leaving her with several generic delimitation and classificatory dilemmas that she puzzled over. Based on her accounts, many of these questions have now been resolved (e.g., the non-monophyly of *Aeschynomene*), but it is striking how many of the groups she recognized correspond to clades. Though she worked with limited numbers of herbarium specimens in her revisions of neotropical groups, more recent work that has benefited from much more extensive collections made through the 1970s–2000s has often shown Velva's species boundaries to be sound (e.g., in *Centrolobium* and *Dussia*). This accuracy of species delimitation speaks to an excellent taxonomic eye and the ability to be pragmatic and productive in the face of incomplete data.  
+
 
 ![](/assets/images/71/velva-rudd.webp)	
 Portrait of Velva Rudd, from Torres, A. 2019. Get to Know the Leading Ladies of Science at the Smithsonian. Smithsonian Voices. National Museum of Natural History.<br>
@@ -111,6 +114,7 @@ She published 156 names across legumes, including in the genera *Acacia* (now in
 Having wrapped up an illustrious career at the Smithsonian, Velva moved to California and, in semi-retirement, continued to be active in botany, associated with a tiny herbarium at California State University, Northridge (SFV). Velva was a seasoned traveler, did fieldwork in Brazil, Costa Rica, Mexico, Sri Lanka, and Venezuela, and was still traveling well into her 80s, touring Costa Rica.  
 
 A suite of legumes are named in her honor, including the genus *Ruddia* Yakovlev (1971) (now a synonym in *Ormosia*), subgenus *Ruddia* of *Ateleia*, *Ormosia ruddiana*, *Acacia ruddiae* (now *Vachellia*), *Dioclea ruddiae* (now *Macropsychanthus*), and *Nissolia ruddiae*.  
+
 
 ![](/assets/images/71/Ormosia_fordiana.jpg)
 *Ormosia fordiana*, formerly *Ruddia fordiana* (Oliv.) Yakovlev © luotuo

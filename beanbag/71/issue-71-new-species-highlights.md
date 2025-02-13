@@ -28,8 +28,8 @@ Flowers and foliage of *Alexa duckeana*; photos by Guilherme Silva.
 <br>
 
 **Da Silva G.S., Torke B.M. & Mansano V.D.F. 2023.** *Alexa duckeana* (Leguminosae-Papilionoideae): a new species from the Brazilian Amazon. *Phytotaxa* *629*: 255-265. <https://doi.org/10.11646/phytotaxa.629.3.7>
-<br>
-<br>
+
+---
 
 ### A New and Critically Endangered Rattlepod (*Crotalaria*) from Tropical China
 
@@ -40,8 +40,8 @@ Xishuangbanna Prefecture, in SW Yunnan Province of China, bordering Myanmar and 
 <br>
 
 **Rather S.A., Radbouchoom S., Wang K., Xiao Y., Liu H. & Schneider H. 2024.** Molecular, morphological, and morphometric evidence reveal a new, critically endangered rattlepod (*Crotalaria*, Fabaceae/Leguminosae, Papilionoideae) from tropical China. *PhytoKeys* *242*: 333-348. <https://doi.org/10.3897/phytokeys.242.122407>
-<br>
-<br>
+
+---
 
 ### A New ***Mimosa*** Endemic to Central Madagascar
 
@@ -52,8 +52,8 @@ Almost every year, new species of the species-rich genus *Mimosa* are described,
 <br>
 
 **Koenen E.J.M. 2024.** A new species of ***Mimosa*** (Leguminosae) endemic to Central Madagascar. *Candollea* *79*: 229–234. doi: <http://dx.doi.org/10.15553/c2024v792a2>
-<br>
-<br>
+
+---
 
 ### A New Broom, ***Gonocytisus graecus***, from Greece
 
@@ -64,8 +64,8 @@ It is relatively rare that new legume species are described from Europe these da
 <br>
 
 **Şentürk O., Kenicer G.J. & Yildirim H. 2024.** A new broom *Gonocytisus graecus* (Genisteae, Leguminosae/Fabaceae), from Greece. *Phytotaxa* *666*: 277-290. <https://doi.org/10.11646/phytotaxa.666.4.3>
-<br>
-<br>
+
+---
 
 ### ***Senegalia ajaya*** from West Bengal, India
 
@@ -76,8 +76,8 @@ It is relatively rare that new legume species are described from Europe these da
 *Senegalia ajaya*; photos by S. Alam.
 
 **Alam S. & Lokho A. 2024.** *Senegalia ajaya* (Mimosoid clade, Caesalpinioideae, Fabaceae), a new species from Birbhum District, West Bengal, India. *Phytotaxa* *668*(2): 186-194. <https://doi.org/10.11646/phytotaxa.668.2.7>
-<br>
-<br>
+
+---
 
 ### 18 Species from One Species of ***Pultenaea***, Including 14 New Species from SE Australia
 
@@ -91,6 +91,8 @@ Top from the left: *Pultenaea corrickiae*, photo by Andrew Orme; *P. rubescens*,
 
 **Barrett R.L., Clugston J.A., Jobson P.C. & Rossington P. 2024.** *Pultenaea rubescens* (Fabaceae: Mirbelieae), a new species from north-eastern New South Wales. *Telopea* *27*: 203-209. <https://doi.org/10.7751/telopea19689>
 
+---
+
 ### Three New Genera in the Mirbelia Clade
 
 Alongside the ongoing inventory of species in the species-rich genus *Pultenaea* of the Mirbelia clade of subfamily Papilionoideae, new phylogenomic work has shown that the genus is non-monophyletic, prompting generic re-delimitation, with the reinstatement of the genus *Euchilus* and the circumscription of three new genera: *Grievea*, *Jennata*, and *Loricobbia*. As with several of the new species of *Pultenaea* named this year, two of these new genera are named for legume workers: *Jennata* for the late Jennifer (Jenny) Chappill and *Loricobbia* for Lorraine Cobb, who illustrated many legumes for Jenny Chappill and her students.
@@ -100,8 +102,8 @@ Clockwise from top left: *Grievea craigiana*; photo by Gillian Craig, *Jennata e
 <br>
 
 **Barrett R.L., Clugston J.A., Orthia L.A., Cook L.G., Crisp M.D., Lepschi B.J., Macfarlane T.D., Weston P.H. & Wilkins C.F. 2024.** East rarely meets West: a revised delimitation for *Pultenaea* (Fabaceae: Mirbelieae) with reinstatement of *Euchilus* and three new genera from south-west Western Australia. *Australian Systematic Botany* *37*(5), SB23029. <https://doi.org/10.1071/SB23029>
-<br>
-<br>
+
+---
 
 ### Upranking Infraspecific Varieties of ***Libidibia ferrea*** as Species
 
@@ -112,8 +114,8 @@ Clockwise from top left: Flowers of *Libidibia juca*; photos by R. Queiroz, tree
 <br>
 
 **Oliveira F.G., Santos F.D.S., Lewis G.P., de Oliveira R.P. & de Queiroz L.P. 2024**. Reassessing the taxonomy of the *Libidibia ferrea* complex, the iconic Brazilian tree "pau-ferro" using morphometrics and ecological niche modeling. *Brazilian Journal of Botany*: 1-17. <https://link.springer.com/article/10.1007/s40415-024-01011-0>
-<br>
-<br>
+
+---
 
 ### Two New Species of ***Brachypterum*** in Australia
 
@@ -124,7 +126,8 @@ Top left: *Brachypterum nitidum*. Bottom left and Right: *B. opacum*. Photos: Ri
 <br>
 
 **Cooper W.E., Zich F.A., Nauheimer L., Harrison M.J. & Crayn D.M. 2024.** A revision of *Derris* and *Brachypterum* (Leguminosae subfamily Papilionoideae) in Australia. *Australian Systematic Botany* 37: SB23030. <https://doi.org/10.1071/SB23030>
-<br>
+
+---
 
 ### Further Additions to the Hyper-Diverse Greater Cape Flora—Five New Species of ***Aspalathus***
 
@@ -137,8 +140,8 @@ Top: *Aspalathus albicephala*, Bottom: *A. jardinii*. All photos by Brian du Pre
 **Du Preez B. & Stirton C.H. 2024.** Four new species of *Aspalathus* (Fabaceae, Crotalarieae) and notes on three rediscovered species from the Greater Cape Floristic Region. *South African Journal of Botany* 166: 169-180. <https://doi.org/10.1016/j.sajb.2024.01.010>
 
 **Stirton C.H., Du Preez B., Helme N. & Musaya M. 2024.** A new species of *Aspalathus* (Fabaceae, Crotalarieae) from the Cape Floristic Region, South Africa. *Phytotaxa* 665: 69-74. <https://doi.org/10.11646/phytotaxa.665.1.8>
-<br>
-<br>
+
+---
 
 ### A New Cliff-Dwelling ***Hedysarum*** from the Remote Qilianshan Mountains
 
@@ -149,8 +152,8 @@ There are more than 160 species of *Hedysarum* across north temperate Asia, Euro
 <br>
 
 **Pei-Liang Liu et al., 2024.** *Hedysarum qilianshanense* sp. nov. (Fabaceae, Hedysareae), a new species from the Qilianshan Mountains in Gansu, China. *PhytoKeys* 237: 103-106. [DOI: 10.3897/phytokeys.237.116236](https://doi.org/10.3897/phytokeys.237.116236)
-<br>
-<br>
+
+---
 
 ### The genus ***Astragalus*** just keeps on growing
 
@@ -168,8 +171,8 @@ With more than 3,000 species, the genus *Astragalus* is the most species-rich le
 **Pourebrahim S., Kazempour-Osaloo S. & Maassoumi A.A. 2024.** Contributions to *Astragalus* sect. *Dissitiflori* in the light of morphological and molecular evidence: a new species and a new resurrect. *Phytotaxa* *668*: 239-251. <https://doi.org/10.11646/phytotaxa.668.3.3>
 
 **Yang Z.Z., Liu Q.R., Liu Z., Xiang J.S. & Li X.L. 2024.** ﻿ *Astragalus liuaiminii*, a new species of *Astragalus* (Fabaceae) from Xinjiang, China. *PhytoKeys* *243*: 209-214. <https://doi.org/10.3897/phytokeys.243.119707>
-<br>
-<br>
+
+---
 
 ### Three new unifoliolate-leaved lupin species from Florida, U.S.A.
 
@@ -182,8 +185,8 @@ Dense sampling of species and intraspecific diversity in molecular phylogenies o
 **Bridges E.L. & S.L. Orzell. 2024.** Systematics of the unifoliolate Floridian *Lupinus* clade (Leguminosae: Papilionoideae). *Phytoneuron* 2024-04: 1--61. ISSN 2153 733X.
 
 **Nevado B., Atchison G.W., Bridges E.L., Orzell S., Filatov D. & Hughes C.E. 2024.** Pleistocene diversification of unifoliolate‐leaved *Lupinus* (Leguminosae: Papilionoideae) in Florida. *Molecular Ecology* *33*: p.e17232.
-<br>
-<br>
+
+---
 
 ### Eleven new species of ***Indigofera***
 
@@ -194,20 +197,20 @@ Top: *Indigofera rhodantha* flowers and fruits; bottom: *I. vlokii* habit and fl
 <br>
 
 **du Preez B., Schrire B.D., Dreyer L.D., Stirton C.H. & Muasya A.M. 2024.** Revision of *Indigofera* L. sect. *Brachypodae* subsect. *Brachypodae* (Fabaceae: Indigofereae) from the Greater Cape Floristic Region. *South African Journal of Botany* *166*: 226-258. <https://doi.org/10.1016/j.sajb.2024.01.025>
-<br>
-<br>
+
+---
 
 ### A sky-blue flowered ***Collaea*** (Papilionoideae) from South Brazil
 
 Species of *Collaea* (tribe Diocleae) have spectacular showy flowers suggesting potential as ornamental plants, and a new species, *C. caerulea*, described this year from southern Brazil is no exception. This new *Collaea* has beautiful, brightly coloured, bluish-lilac flowers which are the basis for the species epithet *caerulea* (from the Latin *caeruleus* = coloured sky-blue). Like many newly described species of the modern era, *C. caerulea* is a highly restricted endemic found at just two nearby localities in mixed *Araucaria* forest at mid-elevations in Santa Catarina State in southern Brazil; an IUCN threat category of *Critically Endangered* was proposed by the authors.
 
 ![](/assets/images/71/collaea.jpg)
-*Collaea caerulea* habit and flowers; photos Paulo Schwirkowski.
+##### *Collaea caerulea* habit and flowers; photos Paulo Schwirkowski.
 <br>
 
 **da Silva Oliveira A.C., Snak C., Schwirkowski P. & de Queiroz L.P. 2024.** A new species of *Collaea* (Leguminosae, Papilionoideae) from South Brazil. *Brittonia* 1-7. <https://doi.org/10.1007/s12228-023-09772-w>
-<br>
-<br>
+
+---
 
 ### Ten new species of South African fountainbush
 
