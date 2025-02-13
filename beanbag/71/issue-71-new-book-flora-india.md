@@ -3,7 +3,7 @@ layout: documentation
 lang-ref: beanbag/71/issue-71-new-book-flora-india
 permalink: /beanbag/71/issue-71-new-book-flora-india
 title: 'New Book: Flora Of India Volume 6: Fabaceae (Leguminosae), Part 1'
-description: Issue 71 - New Book: Flora Of India Volume 6: Fabaceae (Leguminosae), Part 1
+description: 'Issue 71 - New Book: Flora Of India Volume 6: Fabaceae (Leguminosae), Part 1'
 sideNavigation: sidenav.beanbag71
 ---
 

@@ -3,7 +3,7 @@ layout: documentation
 lang-ref: beanbag/71/issue-71-new-book-illustrated-genera-rust-fungi-brazil
 permalink: /beanbag/71/issue-71-new-book-illustrated-genera-rust-fungi-brazil
 title: "New Book: Illustrated Genera Of Rust Fungi Of Brazil"
-description: Issue 71 - New Book: Illustrated Genera Of Rust Fungi Of Brazil
+description: 'Issue 71 - New Book: Illustrated Genera Of Rust Fungi Of Brazil'
 sideNavigation: sidenav.beanbag71
 ---
 
