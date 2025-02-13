@@ -7,7 +7,7 @@ description: Issue 71 - Advances In Legume Systematics 15
 sideNavigation: sidenav.beanbag71
 ---
 
-# ADVANCES IN LEGUME SYSTEMATICS 15
+# Advances in Legume Systematics 15
 
 **Leonardo Borges** (Universidade Federal de São Carlos), **Marianne le Roux** (South African National Biodiversity Institute, SANBI, South Africa) & **Luciano Queiroz** (Universidade Estadual de Feira de Santana, Brazil)
 
@@ -18,4 +18,4 @@ In the last five years, two volumes have been published (ALS 13 in 2019, ALS 14 
 Given its diverse set of topics, ALS 15 will be valuable not only to the legume community but also to botanists broadly interested in legume biology and systematics.
 
 ![](/assets/images/71/copaifera.jpg)  
-*Copaifera langsdorfii*, a legume form the Brazilian Cerrado. Photo: Marcelo Kuhlmann.
+<small>*Copaifera langsdorfii*, a legume form the Brazilian Cerrado. Photo: Marcelo Kuhlmann.</small>

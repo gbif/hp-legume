@@ -19,13 +19,16 @@ Rosemary's work spans plants as well as insects, including both black-and-white 
 
 Rosemary was awarded the prestigious annual international Jill Smythies Award for published botanical illustration by the Linnean Society of London. Ten years ago, to celebrate her 50 years at Plant Sciences in Oxford, she was awarded the Sibthorp Medal for "lifetime services to botany" by the University of Oxford.  
 
-To know more about her work, visit [Oxford: Rosemary Wise Botanical Illustration](https://herbaria.plants.ox.ac.uk/bol/oxford/rosemarywise) and [Rosemary Wise \| Department of Biology](https://www.biology.ox.ac.uk/people/rosemary-wise).
+To know more about her work, visit [Oxford: Rosemary Wise Botanical Illustration](https://herbaria.plants.ox.ac.uk/bol/oxford/rosemarywise) and [Rosemary Wise \| Department of Biology](https://www.biology.ox.ac.uk/people/rosemary-wise).  
+
 
 ![](/assets/images/71/Lupinus_mutabilis.jpg)
 *Lupinus mutabilis*, the Andean crop lupin, illustrating the mutability of flower color. Copyright: Rosemary Wise. Published in 2018 in *Curtis's Botanical Magazine* 35 (2): pp. 134–148.  
+<br>
 
 ![](/assets/images/71/Mimosa_suberosa.jpg)  
 *Mimosa suberosa*, a Bolivian endemic. Copyright: Rosemary Wise. Published in Atahuachi & Hughes 2006. Two new species of *Mimosa* (Fabaceae) endemic to Bolivia. *Brittonia* 58(1): 59–65.  
+<br>
 
 ![](/assets/images/71/Andira_taurotesticulata.jpg)
 *Andira taurotesticulata* from NW South America. Copyright: Rosemary Wise. Published in: Pennington R.T. 2003. Monograph of *Andira* (Leguminosae-Papilionoideae). *Systematic Botany Monographs* 64: 1–143.  
