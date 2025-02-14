@@ -63,7 +63,7 @@ Meena, V.K., & Datta, S. (2024). Study about seedling morphology of selected *Ac
 
 Monteiro, T.R., Gonçalves, R.V., Telles, F.J., Barônio, G.J., Nogueira, A., & Brito, V.L. (2024). A modified petal and stamen dimorphism interact to enhance pollen placement by a buzz-pollinated flower. Annals of Botany, mcae210. <https://doi.org/10.1093/aob/mcae210>
 
-Nascimento, C.S., Varejão, M. de J.C., de Araújo, R.D., Costa, J.E.E., da Silva, C.E., Abreu, R.L.S. de, ... Higuchi, N. (2024). Technological characterization of tropical woods from the genus *Eperua* (Fabaceae). Wood Material Science & Engineering, 1-10. <https://doi.org/10.1080/17480272.2024.2413388>
+Nascimento, C.S., Varejão, M. de J.C., de Araújo, R.D., Costa, J.E.E., da Silva, C.E., Abreu, R.L.S. de, Lima, A. J. N., Dos Santos, J., Higuchi, N. (2024). Technological characterization of tropical woods from the genus *Eperua* (Fabaceae). Wood Material Science & Engineering, 1-10. <https://doi.org/10.1080/17480272.2024.2413388>
 
 Ninkaew, S., Pimpijan, J., Chantaranothai, P., Pornpongrungrueng, P., & Thammarong, W. (2024). Leaf epidermal anatomy of some *Crotalaria* L. (Fabaceae) species in Thailand. Tropical Natural History, 24, 1-7. <https://doi.org/10.58837/tnh.24.1.258597>
 
@@ -99,7 +99,7 @@ Tong, L., & Wang, J. (2024). Morphological study on the differentiation of flowe
 
 ## Ethnobotany, Biochemistry, Metabolomics & Agriculture <a name="1.2"></a>
 
-Abdelwahab, S.I., Taha, M.M.E., Al-Zubairi, A.S., Syahida, A., Ka Heng, L., Narrima, P., \... & Alzahrani, A.H. (2024). Anti-inflammatory and antioxidant properties of bark and fruit extracts of *Faidherbia albida* (Delile) A. Chev: A perspective from bio-prospecting assays to scientometric approach. AIMS Molecular Science, 11(3), 262-276. <https://doi.org/10.3934/molsci.2024016>
+Abdelwahab, S.I., Taha, M.M.E., Al-Zubairi, A.S., Syahida, A., Ka Heng, L., Narrima, P., Othman, R., Alfaifi, H. A. & Alzahrani, A.H. (2024). Anti-inflammatory and antioxidant properties of bark and fruit extracts of *Faidherbia albida* (Delile) A. Chev: A perspective from bio-prospecting assays to scientometric approach. AIMS Molecular Science, 11(3), 262-276. <https://doi.org/10.3934/molsci.2024016>
 
 Abubakar, A., Abubakar, S., & Kwaji, A. (2024). Phytochemical screening, antibacterial activity, and isolation of bioactive compounds from methanol extract of *Indigofera nummulariifolia* (Livera) Ex. Alston (Fabaceae). Dutse Journal of Pure and Applied Sciences, 10(3b), 46-52. <https://doi.org/10.4314/dujopas.v10i3b.6>
 
@@ -113,7 +113,7 @@ Ambore, A.D., Honshette, S.M., Wankhade, D.J., Shaikh, U.S., Chavan, R.L., & Hin
 
 Anagued Haman, E., Moumbon, V.P., Fadimatou, S.A., Momeni, J. & Ngameni, B. (2024). A new sphingoid derivative from *Acacia hockii* De Wild (Fabaceae) with antimicrobial and insecticidal properties. Physical Sciences Reviews, 9(3), 1641-1654. <https://doi.org/10.1515/psr-2022-0267>
 
-Arcanjo, A.H.M., Araújo, S.A.D.C., Soares, N.A., Rocha, N.S., Neto Bellan, J.D.S.L., Ortêncio, M.O., \... & Evangelista, A.R. (2024). Dehydration and nutrient loss during the haymaking process of tropical forage legumes. New Zealand Journal of Agricultural Research, 1-12. <https://doi.org/10.1080/00288233.2024.2430465>
+Arcanjo, A.H.M., Araújo, S.A.D.C., Soares, N.A., Rocha, N.S., Neto Bellan, J.D.S.L., Ortêncio, M.O., de Kássia Gomes, F., Homen, B.G.C., Silva, E.A. da, & Evangelista, A.R. (2024). Dehydration and nutrient loss during the haymaking process of tropical forage legumes. New Zealand Journal of Agricultural Research, 1-12. <https://doi.org/10.1080/00288233.2024.2430465>
 
 Barros, J.R.A., dos Santos, T.C., Silva, E.G.F., da Silva, W.O., Guimarães, M.J.M., & Angelotti, F. (2024). Pollen viability, and the photosynthetic and enzymatic responses of Cowpea (*Vigna unguiculata* (L.) Walp., Fabaceae) in the face of rising air temperature: A problem for food safety. Agronomy, 14(3), 463. <https://doi.org/10.3390/agronomy14030463>
 
@@ -225,7 +225,7 @@ Lebeloane, M.M., Famuyide, I.M., Elgorashi, E.E., McGaw, L.J., & Kgosana, K.G. (
 
 Liu, Q., Zhao, Y., Yang, J., Xiao, F., & Wang, X. (2024). Study on the physiological mechanism and transcriptional regulatory network of early fruit development in *Gleditsia sinensis* Lam.(Fabaceae). BMC Plant Biology, 24(1), 1-23. <https://doi.org/10.1186/s12870-024-05895-8>
 
-Louafi, B., Touijer, H., Benjelloun, M., & Bousta, D. (2024). Exploring ethnobotanical knowledge and traditional uses of *Ceratonia siliqua* L. in the Taounate Region, Morocco. Ethnobotany Research and Applications, 29, 1-14. http://dx.doi.org/10.32859/era.29.71.1-14>
+Louafi, B., Touijer, H., Benjelloun, M., & Bousta, D. (2024). Exploring ethnobotanical knowledge and traditional uses of *Ceratonia siliqua* L. in the Taounate Region, Morocco. Ethnobotany Research and Applications, 29, 1-14. <http://dx.doi.org/10.32859/era.29.71.1-14>
 
 Lu, B., Lin, Y., He, C., Wang, Z., Li, X., & He, X. (2024). Effects of dark septate endophyte on root growth, physiology and transcriptome of *Ammopiptanthus mongolicus* seedlings under drought stress. Plant Physiology and Biochemistry, 219, 109367. <https://doi.org/10.1016/j.plaphy.2024.109367>
 
@@ -269,7 +269,7 @@ Okwute, S.K., & Adeniyi, B.M. (2024). Phytochemical and volatile components eval
 
 Onoja, J.O., Olawuni, J.I., & Umeokoli, M.C. (2024). GC-MS analysis, cholinesterase inhibitory and antioxidant potentials of *Zapoteca portoricensis* (Jacq.) HM Hern (Fabaceae) root extracts. African Journal of Pharmaceutical Research and Development, 16(1), 69-80. <https://doi.org/10.59493/ajopred/2024.1.8>
 
-Oumar, Y.S., Seraphin, K.N.D., Traoré, M., Kalamourou, S., Idrissa, D., Joseph, D.A., & Adama, C. (2024). Evaluation of the antioxidant activity of aqueous and methanolic extracts of *Tetrapleura tetraptera* leaves (Schum. & Thonn.) Taub. (Fabaceae). International Journal of Pharmaceutical Sciences Reviews and Research, 73(2), 27-32. http://dx.doi.org/10.47583/ijpsrr.2022.v73i02.008>
+Oumar, Y.S., Seraphin, K.N.D., Traoré, M., Kalamourou, S., Idrissa, D., Joseph, D.A., & Adama, C. (2024). Evaluation of the antioxidant activity of aqueous and methanolic extracts of *Tetrapleura tetraptera* leaves (Schum. & Thonn.) Taub. (Fabaceae). International Journal of Pharmaceutical Sciences Reviews and Research, 73(2), 27-32. <http://dx.doi.org/10.47583/ijpsrr.2022.v73i02.008>
 
 Owona, P.E., Ngadena, Y.S.M., Bilanda, D.C., Ngoungouré, M.C., Nguegan, L.M., Goufani, R.B.A., Tadah, R.B.K., Noubom, M., Ella, A.F., Tcheutchoua, Y.C., Akamba, B.D.A., Bouguem Yandja, P.C., Keumedjio Teko, P., Dzeufiet Djomeni, P.D. & Kamtchouing, P. (2024). *Pterocarpus soyauxii* (Fabaceae) aqueous extract to prevent neuropsychiatric disorders associated with menopause by triggering ROS-dependent oxidative damage and inhibiting acetylcholinesterase, GABA-transaminase, and monoamine oxidase A: In vitro, in vivo, and in silico approaches. Heliyon, 10(13). <https://doi.org/10.1016/j.heliyon.2024.e33843>
 
@@ -787,7 +787,7 @@ Saleem, F., Singh, L. J., & Pandey, A. K. (2024). *Crotalaria andamanica* (Fabac
 
 Santos, F. D. S., Ribeiro, C. L., Oliveira, J. F. C., Soares, K. D. A., & de Queiroz, L. P. (2024). A new species of *Sigmoidotropis* (Papilionoideae, Leguminosae) from Atlantic Forest, Eastern Brazil. Phytotaxa, 666(2), 146-154. <https://doi.org/10.11646/phytotaxa.666.2.5>  
 
-Seijo, J. G., Burgos, M. A., García, A. V., & Krapovickas, A. (2024). *Arachis woodii* (Leguminosae): a new species from the Bolivian Pantanal. Bonplandia 34(1), 1-7. Doi:https://doi.org/10.30972/bon.3417880>  
+Seijo, J. G., Burgos, M. A., García, A. V., & Krapovickas, A. (2024). *Arachis woodii* (Leguminosae): a new species from the Bolivian Pantanal. Bonplandia 34(1), 1-7. Doi: <https://doi.org/10.30972/bon.3417880>  
 
 Şentürk, O., Kenicer, G. J., & Yildirim, H. (2024). A new broom *Gonocytisus graecus* (Genisteae, Leguminosae/Fabaceae), from Greece. Phytotaxa, 666(4), 277-290. <https://doi.org/10.11646/phytotaxa.666.4.3>  
 

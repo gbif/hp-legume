@@ -40,11 +40,15 @@ A complete list of issues of the BB (since 1975 are available via the [Kew Resea
 To receive new volume notifications and eventual information of interest to the legume community, join the [BB email group](https://groups.google.com/forum/?hl=en#!forum/thebeanbag) and don't forget to keep an eye on the [Legume Data Portal](https://www.legumedata.org/), which also posts news items of interest to the legume community.
 
 ![](/assets/images/71/wiborgiella-sessilifolia.jpg)
-*Wiborgiella sessilifolia* (Crotalarieae) from South Africa
+<small>*Wiborgiella sessilifolia* (Crotalarieae) from South Africa</small>
+<br>
+<br>
 
 **Cover image**: *Paloue speciosa* (Ducke) Redden (Detarioideae), a rare amazonian species of small trees with dark red bracteoles, sepals and petals, three developed stamens and small staminodes. Photo: Marcus J. A. Falcão.
+<br>
+<br>
 
 
 ![](/assets/images/71/bean-bag-1-1.jpg)
 ![](/assets/images/71/bean-bag-1-2.jpg)
-Introductory pages of the first issue of the Bean Bag. Read the [full issue](https://kew.iro.bl.uk/concern/generic_works/2e9b86b2-0cb8-462d-8183-f54963813b35?locale=en) at the Kew Research Repository
+<small>Introductory pages of the first issue of the Bean Bag. Read the [full issue](https://kew.iro.bl.uk/concern/generic_works/2e9b86b2-0cb8-462d-8183-f54963813b35?locale=en) at the Kew Research Repository</small>

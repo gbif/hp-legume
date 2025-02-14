@@ -12,6 +12,8 @@ sideNavigation: sidenav.beanbag71
 ## ROSEMARY WISE
 
 **Colin Hughes** (University of Zurich, Switzerland)
+<br>
+<br>
 
 Rosemary Wise started work as a botanical illustrator in the Department of Plant Sciences at the University of Oxford, U.K., in 1965. She is still drawing and painting plants almost 60 years later.  
 
@@ -23,12 +25,12 @@ To know more about her work, visit [Oxford: Rosemary Wise Botanical Illustration
 
 
 ![](/assets/images/71/Lupinus_mutabilis.jpg)
-*Lupinus mutabilis*, the Andean crop lupin, illustrating the mutability of flower color. Copyright: Rosemary Wise. Published in 2018 in *Curtis's Botanical Magazine* 35 (2): pp. 134–148.  
+<small>*Lupinus mutabilis*, the Andean crop lupin, illustrating the mutability of flower color. Copyright: Rosemary Wise. Published in 2018 in *Curtis's Botanical Magazine* 35 (2): pp. 134–148.</small>
 <br>
 
 ![](/assets/images/71/Mimosa_suberosa.jpg)  
-*Mimosa suberosa*, a Bolivian endemic. Copyright: Rosemary Wise. Published in Atahuachi & Hughes 2006. Two new species of *Mimosa* (Fabaceae) endemic to Bolivia. *Brittonia* 58(1): 59–65.  
+<small>*Mimosa suberosa*, a Bolivian endemic. Copyright: Rosemary Wise. Published in Atahuachi & Hughes 2006. Two new species of *Mimosa* (Fabaceae) endemic to Bolivia. *Brittonia* 58(1): 59–65.</small>
 <br>
 
 ![](/assets/images/71/Andira_taurotesticulata.jpg)
-*Andira taurotesticulata* from NW South America. Copyright: Rosemary Wise. Published in: Pennington R.T. 2003. Monograph of *Andira* (Leguminosae-Papilionoideae). *Systematic Botany Monographs* 64: 1–143.  
+<small>*Andira taurotesticulata* from NW South America. Copyright: Rosemary Wise. Published in: Pennington R.T. 2003. Monograph of *Andira* (Leguminosae-Papilionoideae). *Systematic Botany Monographs* 64: 1–143.</small> 
