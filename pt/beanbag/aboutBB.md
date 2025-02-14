@@ -13,12 +13,13 @@ height: 70vh
 
 The aim of the annual newsletter has been to keep legume researchers informed and updated about new publications, events and projects on the family Leguminosae.
 
-Electronic mailing through the BB Google Group and the BB WordPress makes communication and distribution of the Bean Bag more efficient and economic.
 
 ## Editors:
 
-[Dr. Colin Hughes](mailto:colin.hughes@systbot.uzh.ch) (University of Zurich, Switzerland)  
+**[Dr. Leonardo Borges](mailto:quitemcaqui@gmail.com)** (Universidade Federal de São Carlos, Brazil)  
 
-[Dr. Warren Cardinal-McTeague](mailto:warren.cardinal-mcteague@ubc.ca) (University of British Columbia, Canada)  
+**[Dr. Stephen Boatwright](mailto:jboatwright@uwc.ac.za)** (University of the Western Cape, South Africa)  
 
-[Dr. Leonardo Borges](mailto:quitemcaqui@gmail.com) (Universidade Federal de São Carlos, Brazil)  
+with contributions by:  
+
+**Brian du Preez** (University of Cape Town, South Africa) & **Marcus Falcão** (Jardim Botânico do Rio de Janeiro, Brazil)

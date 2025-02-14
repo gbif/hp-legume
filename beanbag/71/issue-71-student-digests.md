@@ -9,11 +9,9 @@ sideNavigation: sidenav.beanbag71
 
 # STUDENT DIGESTS 
 
-## MORPHOLOGY AND EVOLUTION OF FLORAL NECTARIES IN LEGUMES  
+## MORPHOLOGY AND EVOLUTION OF FLORAL NECTARIES IN LEGUMES <a name="1.1"></a>
 
 **Andrews Vinicius Silva** (PhD candidate, Escola Nacional de Botânica Tropical, Instituto de Pesquisas Jardim Botânico do Rio de Janeiro, Brazil)  
-<br>
-<br>
 
 
 Despite the importance of nectar for plant reproduction and the long history of research on floral nectaries, there are still gaps in understanding their development and evolutionary origins. These gaps may be addressed through comparative morphological and evolutionary analyses based on precise hypotheses of homology. However, the terminology used to describe floral nectaries is often confusing and inconsistent. There is also controversy regarding the presence of nectaries in the flowers of certain species. To tackle these issues, Sinjushin (2024) set out to review the current state of knowledge on floral nectaries in legumes.  
@@ -27,22 +25,23 @@ The loss of floral nectaries has occurred repeatedly in legumes, often accompani
 Exudate composition is influenced by both environmental factors (Vansell, 1941) and genetics (Walker et al., 1974; Cocucci et al., 1992). Phylogeny (van Wyk, 1993; Koptur, 1994) and pollination strategies (Mitchell, 2004; Agostini et al., 2011) also play potential roles in determining its composition.  
 
 The origin of floral nectaries in Leguminosae is still debated. Some researchers suggest they derive from stamens (Moore, 1936), while others propose multiple independent origins (Waddle and Lersten, 1973; Sinjushin, 2021). Their presence is considered ancestral in the order Fabales (Bernardello, 2007), and their absence in various groups is interpreted as independent losses (Schneider, 2007). However, the morphological variability of floral nectaries, combined with the challenges of studying them (Stirton, 1981; Sirichamorn et al., 2014), has resulted in these organs being rarely used in legume systematics.  
+<br>
 
 ![](/assets/images/71/nectariferous_flowers.jpg)
-Examples of legume species with floral nectaries. Top left: Bauhinia galpinii; top right: Bauhinia uruguayensis; bottom: Bauhinia variegata.
+<small>Examples of legume species with floral nectaries. Top left: Bauhinia galpinii; top right: Bauhinia uruguayensis; bottom: Bauhinia variegata.</small>
 <br>
 
 While Leguminosae floral nectaries exhibit notable evolutionary stability, the reasons for their absence in certain lineages remain unresolved. A comprehensive understanding of the diversity, function, and genetic and physiological mechanisms underlying the development of floral nectaries is crucial to addressing these questions. Sinjushin's (2024) exploration of previously overlooked aspects of floral nectary morphology and evolution highlights potential pathways for clarifying the diversity and significance of this ecologically important organ in the context of the Leguminosae.
 
 #### References
 
-**Agostini, K.; Sazima, M.; Galetto, L. 2011.** Nectar production dynamics andsugar composition in two Mucuna species (Leguminosae, Faboideae) withdifferent specialized pollinators. *Naturwissenschaften*, v. 98, p. 933--942.
+**Agostini, K.; Sazima, M.; Galetto, L. 2011.** Nectar production dynamics andsugar composition in two Mucuna species (Leguminosae, Faboideae) withdifferent specialized pollinators. *Naturwissenschaften*, v. 98, p. 933--942.
 
-**Bernardello, G. 2007.** A systematic survey of floral nectaries. In: Nicolson,S. W.; Nepi, M.; Pacini, E. (eds.). *Nectaries and nectar*. Dordrecht:Springer, p. 19--128.
+**Bernardello, G. 2007.** A systematic survey of floral nectaries. In: Nicolson,S. W.; Nepi, M.; Pacini, E. (eds.). *Nectaries and nectar*. Dordrecht:Springer, p. 19--128.
 
-**Caspary, R. 1848.** *De nectariis*. Bonn: Schellhoff.
+**Caspary, R. 1848.** *De nectariis*. Bonn: Schellhoff.
 
-**Cocucci, A. A.; Galetto, L.; Sersic, A. 1992.** El síndrome floralde *Caesalpinia gilliesii* (Fabaceae-Caesalpinioideae). *Darwiniana*, v.31, p. 111--135.
+**Cocucci, A. A.; Galetto, L.; Sersic, A. 1992.** El síndrome floralde *Caesalpinia gilliesii* (Fabaceae-Caesalpinioideae). *Darwiniana*, v.31, p. 111--135.
 
 **Davis, A. R.; Gunning, B. E. S. 1992.** The modified stomata of the floral nectary of Vicia faba L. 1. Development, anatomy and ultrastructure. Protoplasma, v. 166, p. 134–152.
 
@@ -97,25 +96,27 @@ While Leguminosae floral nectaries exhibit notable evolutionary stability, the r
 **Waddle, R. M.; Lersten, N. R. 1973.** Morphology of discoid floral nectaries in Leguminosae, especially tribe Phaseoleae (Papilionoideae). Phytomorphology, v. 23, p. 152–161.
 
 **Walker, A. K.; Barnes, D. K.; Furgala, B. 1974.** Genetic and environmental effects on quantity and quality of alfalfa nectar. Crop Science, v. 14, p. 235–238.
-<br>
-<br>
 
-## EVOLUTIONARY HISTORY AND ROOT TRAIT COORDINATION PREDICT NUTRIENT STRATEGY IN TROPICAL LEGUME TREES
+---
+
+## EVOLUTIONARY HISTORY AND ROOT TRAIT COORDINATION PREDICT NUTRIENT STRATEGY IN TROPICAL LEGUME TREES <a name="1.2"></a>
 
 **Lydia K. Madika** (PhD Student, University of Cape Town, South Africa)
 
 Tropical forests are characterized by a rich diversity of tree species, including legumes, which are key players in nutrient cycling because of their unique ability to convert atmospheric nitrogen into forms usable by plants (Brookshire *et al.*, 2019). However, these trees face challenges in acquiring both nitrogen and phosphorus, with phosphorus often being limited in availability (Townsend *et al.*, 2008). To overcome these challenges, tropical trees have evolved distinct root traits and diverse symbiotic relationships (e.g., Fig.1). In this context, root diversity varies along two primary axes: collaboration with mycorrhizal fungi and a trade-off between nutrient acquisition and conservation (Weemstra *et al.*, 2016; McCormack & Iversen, 2019; Bergmann *et al.*, 2020; Weigelt *et al.*, 2021). Despite this understanding, there remains a notable gap in data regarding physiological root traits that influence plant functions, highlighting the necessity for evolutionary and functional approaches, particularly among closely related species. The legume family serves as an excellent model to fill these gaps, as its species have diverse strategies for nutrient acquisition (Ardley & Sprent, 2021). Moreover, recent phylogenetic analyses suggest that ecological niche may be a more reliable predictor of traits than genetic relatedness, and the exploration of phosphorus acquisition in tropical Fabaceae adds further complexity, underscoring the need for larger species samples to conduct comprehensive analyses.
 
 In a recent study, Marcellus *et al.* (2024), investigated a range of traits related to root morphology, physiology, and symbiosis of 22 species of Fabaceae trees from in tropical and subtropical regions. Specifically, they aimed to understand the phylogenetic distribution of nutrient-acquisition traits, compare nitrogen-fixing species with non-fixing ones, and explore potential trade-offs and relationships between these traits. To achieve this, they conducted a thorough analysis of various traits, including specific root length, root tissue density, nitrogen content in roots, respiration rates, phosphatase activity, mycorrhizal colonization, nitrogen-fixation rates, and nodule biomass. They also looked at aboveground traits like photosynthetic assimilation rates and specific leaf area.
+<br>
 
-![](/assets/71/images/acacia-saligna.jpg)
-*Acacia saligna*, a nitrogen-fixing legume. Top left: Habit. Top right: Blooms. Bottom: Root system highlighting nodules formed through symbiotic nitrogen-fixing bacteria. Photos by tgregor (top left), lamprisdimitris (top right) and Hongtao (bottom).
+![](/assets/images/71/acacia-saligna.jpg)
+<small>*Acacia saligna*, a nitrogen-fixing legume. Top left: Habit. Top right: Blooms. Bottom: Root system highlighting nodules formed through symbiotic nitrogen-fixing bacteria. Photos by tgregor (top left), lamprisdimitris (top right) and Hongtao (bottom).</small>
 <br>
 
 The study uncovered significant variation in fine root traits among the species, supporting the idea that there is considerable diversity within this group. Interestingly, the researchers found evidence of phylogenetic conservatism in some nutrient-acquisition traits, suggesting that evolutionary history influences these characteristics. They also noted clear differences between nitrogen-fixing and non-fixing species, with nitrogen-fixers exhibiting higher phosphatase activity, which aligns with the nutrient-trading hypothesis (Houlton *et al.*, 2008). However, it's important to mention that the connection between nitrogen fixation and phosphatase activity was not mechanistic; instead, it appeared to be an evolutionarily conserved trait.
+<br>
 
-![](/assets/images/71/71/adenanthera-pavonina.jpg)
-*Adenanthera pavonina*, a non-nitrogen-fixing legume. Top left: Habit. Bottom left: Fruit. Right: Seedling without nodules, indicating the absence of symbiotic nitrogen-fixing bacteria.
+![](/assets/images/71/adenanthera-pavonina.jpg)
+<small>*Adenanthera pavonina*, a non-nitrogen-fixing legume. Top left: Habit. Bottom left: Fruit. Right: Seedling without nodules, indicating the absence of symbiotic nitrogen-fixing bacteria.</small>
 <br>
 
 Connecting the detailed exploration of root traits and evolutionary history, the study by Marcellus *et al.* enriches our comprehension of nutrient strategies in tropical legume trees. This comprehensive approach highlights the importance of root traits, which are often underutilized in evolutionary studies, and demonstrates how both evolutionary history and functional traits collectively shape plant nutrient strategies in diverse ecosystems. These integrated insights provide a foundation for refining nutrient cycling and plant adaptation models, broadening our understanding of the complex dynamics within tropical forest ecosystems.

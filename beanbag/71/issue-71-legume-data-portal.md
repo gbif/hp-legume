@@ -10,8 +10,6 @@ sideNavigation: sidenav.beanbag71
 # LEGUME DATA PORTAL
 
 Coordinators: **Anne Bruneau** (Université de Montréal, Canada), **Carole Sinou** (Université de Montréal, Canada), **Flávia Pezzini** (Royal Botanic Garden Edinburgh, UK), **Joe Miller** (Global Biodiversity Information Facility (GBIF), Denmark)
-<br>
-<br>
 
 The [Legume Data Portal](https://www.legumedata.org/) continues to actively publish news from the legume systematics community and to host updated versions of the [legume species checklist](https://www.legumedata.org/taxonomy/species-list/) (see Taxonomy Working Group report).
 

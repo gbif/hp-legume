@@ -181,7 +181,7 @@ beanbag70:
   - title: The Legume Phylogeny Working Group
     path: /beanbag/70/issue-70-legume-phylogeny-working-group-reports
   - title: Taxonomy Working Group
-    path: /beanbag/70//issue-70-taxonomy-working-group
+    path: /beanbag/70/issue-70-taxonomy-working-group
   - title: Phylogenomics Working Group
     path: /beanbag/70/issue-70-phylogenomics-working-group
   - title: Occurrence Data Working Group
@@ -232,3 +232,61 @@ beanbag70:
   content:
     - title: Legume Bibliography
       path: /beanbag/70/issue-70-legume-bibliography_2023
+beanbag71:
+- content:
+  - title: Table of contents
+    path: /beanbag/71/71content
+  - title: Welcome note
+    path: /beanbag/71/issue-71-welcome-note
+  - title: A word of thanks to Professor Colin Hughes
+    path: /beanbag/71/issue-71-thanks-colin
+- grouptitle: Legume Phylogeny Working Group Reports
+  content:
+  - title: Taxonomy Working Group
+    path: /beanbag/71/issue-71-taxonomy-working-group
+  - title: Phylogenomics Working Group
+    path: /beanbag/71/issue-71-phylogenomics-working-group
+  - title: Occurrence Data Working Group
+    path: /beanbag/71/issue-71-occurrence-working-group
+  - title: Traits Working Group
+    path: /beanbag/71/issue-71-traits-working-group
+  - title: Legume Data Portal
+    path: /beanbag/71/issue-71-legume-data-portal
+- grouptitle: Announcements
+  content: 
+  - title: Barneby Award 2025
+    path: /beanbag/71/issue-71-barneby-award-2025
+  - title: Advances in Legume Systematics 15
+    path: /beanbag/71/issue-71-advances-15
+  - title: "New Book: Flora of India - Fabaceae"
+    path: /beanbag/71/issue-71-new-book-flora-india
+  - title: 'New Book: Names for American Acacia'
+    path: /beanbag/71/issue-71-new-book-names-american-acacia
+  - title: "New Book: Illustrated Genera of Rust Fungi of Brazil"
+    path: /beanbag/71/issue-71-new-book-illustrated-genera-rust-fungi-brazil
+  - title: XXI International Botanical Congress
+    path: /beanbag/71/issue-71-ibc
+- grouptitle: Articles
+  content:
+  - title: 'Artist Spotlight: Rosemary Wise'
+    path: /beanbag/71/issue-71-artist-spotlight-rosemary-wise
+  - title: Gallery of Leguminologists - David S. Seigler and John E. Ebinger
+    path: /beanbag/71/issue-71-gallery-leguminologists#1.1
+  - title: Gallery of Leguminologists - Ivan C. Nielsen
+    path: /beanbag/71/issue-71-gallery-leguminologists#1.2
+  - title: Gallery of Leguminologists - Velva Rudd
+    path: /beanbag/71/issue-71-gallery-leguminologists#1.3
+  - title: 'Student Digest: Morphology and Evolution of Floral Nectaries in Legumes'
+    path: /beanbag/71/issue-71-student-digests#1.1
+  - title: 'Student Digest: Evolutionary history and root trait coordination predict nutrient strategy in tropical legume trees'
+    path: /beanbag/71/issue-71-student-digests#1.2
+  - title: Legume Discoveries and New Species Highlights 2024
+    path: /beanbag/71/issue-71-new-species-highlights
+- grouptitle: Photo gallery
+  content:
+  - title: Gallery of Legume Photos
+    path: /beanbag/71/issue-71-gallery
+- grouptitle: Bibliography
+  content:
+    - title: 2024 Legume Bibliography
+      path: /beanbag/71/issue-71-legume-bibliography-2024

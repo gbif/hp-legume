@@ -2,8 +2,8 @@
 layout: documentation
 lang-ref: beanbag/71/issue-71-new-book-flora-india
 permalink: /beanbag/71/issue-71-new-book-flora-india
-title: New Book: Flora Of India Volume 6: Fabaceae (Leguminosae), Part 1
-description: Issue 71 - New Book: Flora Of India Volume 6: Fabaceae (Leguminosae), Part 1
+title: 'New Book: Flora Of India Volume 6: Fabaceae (Leguminosae), Part 1'
+description: 'Issue 71 - New Book: Flora Of India Volume 6: Fabaceae (Leguminosae), Part 1'
 sideNavigation: sidenav.beanbag71
 ---
 
@@ -12,6 +12,7 @@ sideNavigation: sidenav.beanbag71
 **Stephen Boatwright** (University of the Western Cape, South Africa)
 <br>
 <br>
+
 
 **Sanjappa, M., P.K. Pulsalkar, A.A. Mao (Eds.). 2024.** Flora of India – Volume 6, Part I. Botanical Survey of India, Culcutta.
 

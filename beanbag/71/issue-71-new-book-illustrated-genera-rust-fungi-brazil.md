@@ -2,8 +2,8 @@
 layout: documentation
 lang-ref: beanbag/71/issue-71-new-book-illustrated-genera-rust-fungi-brazil
 permalink: /beanbag/71/issue-71-new-book-illustrated-genera-rust-fungi-brazil
-title: New Book: Illustrated Genera Of Rust Fungi Of Brazil
-description: Issue 71 - New Book: Illustrated Genera Of Rust Fungi Of Brazil
+title: "New Book: Illustrated Genera Of Rust Fungi Of Brazil"
+description: 'Issue 71 - New Book: Illustrated Genera Of Rust Fungi Of Brazil'
 sideNavigation: sidenav.beanbag71
 ---
 
@@ -23,8 +23,8 @@ Anibal de Carvalho Junior holds an undergraduate degree in biology from Universi
 
 Joe F. Hennen received his B.S. at Southern Methodist University. He holds an M.S. (1952) and Ph.D. (1954) from Purdue University. From 1954 to 1958 he was plant pathologist of cereal crops at South Dakota State University. From 1958 to 1968, he taught undergraduate botany courses at Indiana State University before returning to Purdue University as Professor of Botany and Plant Pathology and Curator in 1968. Three years later in 1971, he became Director of the PUR Herbarium. He has explored and collected from several regions of the United States, Central America, and specially Mexico and Brazil, focusing on the taxonomy of Neotropical rust fungi. In 1995, Hennen retired from Purdue University and move to Texas, were he became a Resident Research Associate at Botanical Research Institute of Texas, Fort Worth. He has authored and co-authored many scientific articles and books on rust fungi, always in partnership with students and collaborators.
 
-To purchase your copy of the "Illustrated Genera of Rust Fungi of Brazil", visit shopbritpress.org or call 817-332-4441 ext. 264. The price is $40.00, plus shipping. This is print on demand, please allow 3-5 weeks for delivery.
+To purchase your copy of the "Illustrated Genera of Rust Fungi of Brazil", visit <https://shopbritpress.org/> or call 817-332-4441 ext. 264. The price is $40.00, plus shipping. This is print on demand, please allow 3-5 weeks for delivery.
 
-ISBN-13: 978-1-889878-78-2
-Publication Date: 1 May 2023 (SBM 63)
+ISBN-13: 978-1-889878-78-2  
+Publication Date: 1 May 2023 (SBM 63)  
 Specifications: 7"×10" (HBK), 148 pp, 71 b/w figs, distribution maps, references, index

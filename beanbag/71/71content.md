@@ -14,81 +14,80 @@ description: Content of the issue 71 (2024)
 
 ## From the Editors
 
-**[Welcome Note](/beanbag/71/issue-71-welcome-note.md)**  
+**[Welcome Note](/beanbag/71/issue-71-welcome-note)**  
 
-**[A word of thanks to Professor Colin Hughes](/beanbag/71/issue-71-thanks-colin.md)**
+**[A word of thanks to Professor Colin Hughes](/beanbag/71/issue-71-thanks-colin)**
 
 ## Legume Phylogeny Working Group Updates
 
-**[Taxonomy Working Group](/beanbag/71/issue-71-taxonomy-working-group.md)**  
+**[Taxonomy Working Group](/beanbag/71/issue-71-taxonomy-working-group)**  
 Marianne le Roux, Anne Bruneau & Juliana Gastaldello Rando  
 
-**[Phylogenomics Working Group](/beanbag/71/issue-71-phylogenomics-working-group.md)**  
+**[Phylogenomics Working Group](/beanbag/71/issue-71-phylogenomics-working-group)**  
 Rafaela Trad & Felix Forest  
 
-**[Occurrence Data Working Group](/beanbag/71/issue-71-occurrence-working-group.md)**  
+**[Occurrence Data Working Group](/beanbag/71/issue-71-occurrence-working-group)**  
 Edeline Gagnon, Joe Miller & Jens Ringelberg  
 
-**[Traits Working Group](/beanbag/71/issue-71-traits-working-group.md)**  
+**[Traits Working Group](/beanbag/71/issue-71-traits-working-group)**  
 Leonardo Borges & Renske Onstein
 
-**[Legume Data Portal](/beanbag/71/issue-71-legume-data-portal.md)**  
+**[Legume Data Portal](/beanbag/71/issue-71-legume-data-portal)**  
 Anne Bruneau, Carole Sinou, Flávia Pezzini & Joe Miller
   
 
 ## Announcements
 
-**[Barneby Award 2025](/beanbag/71/issue-71-barneby-award-2025.md)**  
+**[Barneby Award 2025](/beanbag/71/issue-71-barneby-award-2025)**  
 Ben Torke  
 
-**[Advances in Legume Systematics 15](/beanbag/71/issue-71-ALS15.md)**  
+**[Advances in Legume Systematics 15](/beanbag/71/issue-71-ALS15)**  
 Leonardo Borges, Marianne le Roux & Luciano Queiroz  
 
-**[New Book: Flora of India - Fabaceae](/beanbag/71/issue-71-new-book-flora-india.md)**  
+**[New Book: Flora of India - Fabaceae](/beanbag/71/issue-71-new-book-flora-india)**  
 Stephen Boatwright
  
-**[New Book: Names for American *Acacia*](/beanbag/71/issue-71-new-book-names-american-acacia.md)**  
+**[New Book: Names for American *Acacia*](/beanbag/71/issue-71-new-book-names-american-acacia)**  
 Barney Lipscomb
 
-**[New Book: Illustrated Genera of Rust Fungi of Brazil](/beanbag/71/issue-71-new-book-illustrated-genera-rust-fungi-brazil.md)**   
+**[New Book: Illustrated Genera of Rust Fungi of Brazil](/beanbag/71/issue-71-new-book-illustrated-genera-rust-fungi-brazil)**   
 Barney Lipscomb
 
-**[XXI International Botanical Congress](/beanbag/71/issue-71-ibc.md)**  
+**[XXI International Botanical Congress](/beanbag/71/issue-71-ibc)**  
 Stephen Boatwright
-
 
 
 ## Articles
 
 ### Artist spotlight
 
-**[Rosemary Wise](/beanbag/71/issue-71-artist-spotlight-rosemary-wise.md)**  
+**[Rosemary Wise](/beanbag/71/issue-71-artist-spotlight-rosemary-wise)**  
 Colin Hughes  
 
 
 ### Galery of Leguminologists
 
-**[David S. Seigler and John E. Ebinger](/beanbag/71/issue-71-gallery-leguminologists.md)** 
+**[David S. Seigler and John E. Ebinger](/beanbag/71/issue-71-gallery-leguminologists)**  
 Helen C.F. Hopkins & Bruce R. Maslin
 
-**[Ivan C. Nielsen](/beanbag/71/issue-71-gallery-leguminologists.md)**   
+**[Ivan C. Nielsen](/beanbag/71/issue-71-gallery-leguminologists)**   
 Colin Hughes, Daniel Murphy & Bente Klitgaard  
 
-**[Velva Rudd](/beanbag/71/issue-71-gallery-leguminologists.md)**   
+**[Velva Rudd](/beanbag/71/issue-71-gallery-leguminologists)**   
 Colin Hughes & Toby Pennington  
 
 
 ### Student Digests
 
-**[Morphology and Evolution of Floral Nectaries in Legumes](/beanbag/71/issue-71-students-digests.md)**   
+**[Morphology and Evolution of Floral Nectaries in Legumes](/beanbag/71/issue-71-students-digests)**   
 Andrews Vinicius Silva 
 
-**[Evolutionary history and root trait coordination predict nutrient strategy in tropical legume trees](/beanbag/71/issue-71-students-digests.md)**  
+**[Evolutionary history and root trait coordination predict nutrient strategy in tropical legume trees](/beanbag/71/issue-71-students-digests)**  
 Lydia K. Madika
 
 ### Legume Discoveries
 
-**[Legume Discoveries and New Species Highlights 2024](/beanbag/71/issue-71-new-species-highlights.md)**  
+**[Legume Discoveries and New Species Highlights 2024](/beanbag/71/issue-71-new-species-highlights)**  
 Colin Hughes  
 
 ## Photo gallery
@@ -97,5 +96,5 @@ Colin Hughes
 
 ## Bibliography
 
-**[2024 Legume Bibliography](/beanbag/71/issue-71-legume-bibliography-2024.md)**  
+**[2024 Legume Bibliography](/beanbag/71/issue-71-legume-bibliography-2024)**  
 Brian du Preez & Marcus Falcão

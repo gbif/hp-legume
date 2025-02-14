@@ -25,7 +25,7 @@ A total of **388** new publications are presented in the Legume Bibliography 202
 * [Taxonomy & Systematics](#1.8)
 * [New Species](#1.9)
 
-## Anatomy, Karyology, Morphology & Development <a name="1.1"></a>
+## Anatomy, Karyology, Morphology & Development <a name="1.1">  </a>  
 
 Almeida, N.M., Cotarelli, V.M., Bezerra, T.T., Leite, A.V., Novo, R.R., Castro, C.C., & Machado, I.C. (2024). Resupinate floral dimorphy in *Chamaecrista nictitans* (L.) Moench (Fabaceae-Caesalpinioideae). Australian Journal of Botany, 72(7). <https://doi.org/10.1071/BT23051>
 
@@ -499,7 +499,8 @@ Sennikov, A.N., & Tikhomirov, V.N. (2024). Atlas Florae Europaeae notes, 35. Fur
 
 Wallace, L.E., & Norwood, P. (2024). Genetic divergence of *Chamaecrista fasciculata* (Fabaceae) variants and conservation implications for the rare tidal marsh form. International Journal of Plant Sciences, 185(3), 249-257. <https://doi.org/10.1086/729405>
 
-## Paleobotany <a name="1.5"></a>
+
+## Paleobotany <a name="1.5">  </a>  
 
 Cao, R., Song, Z.H., Wang, Z.E., Wang, Z.S., Li, H.S., Wu, J.Y., & Ding, S.T. (2024). Late Pliocene *Bauhinia s.l.* (Cercidoideae, Fabaceae) fossils from Tengchong, Yunnan, southwestern China. Review of Palaeobotany and Palynology, 105131. <https://doi.org/10.1016/j.revpalbo.2024.105131>
 
@@ -513,7 +514,8 @@ Zhao, Y.S., Wang, T.X., Jia, L.B., Song, A., Huang, J., & Su, T. (2024). First f
 
 Zhao, Y., Wappler, T., Labandeira, C., Huang, J., Song, A., Xie, S., Jia, L., Deng, W. & Su, T. (2024). Cenozoic *Dalbergia* (Fabaceae) plant fossils from Southwest China: Biogeographic implications and plant-insect interactions. Palaeogeography, Palaeoclimatology, Palaeoecology, 647, 112260. <https://doi.org/10.1016/j.palaeo.2024.112260>
 
-## Palynology <a name="1.6"></a>
+
+## Palynology <a name="1.6">  </a>  
 
 Antonio-Domingues, H., Fortuna-Perez, A.P., Rossi, M.L., Almeida, R.F. de, Martinelli, A.P., Lewis, G.P., & Luz, C.F.P. da. (2024). The phylogenetic relevance of pollen grain size in legumes: a study case with *Adesmia* DC. and relatives (Leguminosae -- Papilionoideae -- Dalbergieae -- Adesmia Informal Clade). Grana, 1--24. <https://doi.org/10.1080/00173134.2024.2410278>
 

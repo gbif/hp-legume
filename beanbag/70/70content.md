@@ -101,3 +101,8 @@ Colin Hughes
 **[Legume Bibliography](/beanbag/70/issue-70-legume-bibliography_2023)**  
 Warren Cardinal-McTeague, with contributions by Colin Hughes, Leonardo Borges   
 
+
+<form action="https://doi.org/10.34885/vqna-jm94" method="get" target="_blank"><button type="submit">DOI: 10.34885/vqna-jm94</button></form>
+
+
+

@@ -2,7 +2,7 @@
 title:  "Como fazer a curadoria dos nomes de legumes: Leia mais sobre como usar o Rhakhis, Google Speadsheet ou o tradicional Checklist"
 date:   2024-01-05 09:00:00 +0100
 categories: ["How to"]
-lang-ref: Checklist Procedures
+lang-ref: Checklist Procedures Archive
 lang: pt
 preTitle: 5 January 2024
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/original.jpg

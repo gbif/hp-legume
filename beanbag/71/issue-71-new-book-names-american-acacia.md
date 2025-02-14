@@ -2,8 +2,8 @@
 layout: documentation
 lang-ref: beanbag/71/issue-71-new-book-names-american-acacia
 permalink: /beanbag/71/issue-71-new-book-names-american-acacia
-title: New Book: Names For American *Acacia* (Fabaceae, Mimosoideae)
-description: Issue 71 - New Book: Names For American *Acacia* (Fabaceae, Mimosoideae)
+title: "New Book: Names For American *Acacia* (Fabaceae, Mimosoideae)"
+description: 'Issue 71 - New Book: Names For American *Acacia* (Fabaceae, Mimosoideae)'
 sideNavigation: sidenav.beanbag71
 ---
 
@@ -19,16 +19,16 @@ sideNavigation: sidenav.beanbag71
 
 ![](/assets/images/71/names-for-acacia.jpg)
 
-David S. Seigler, Ph.D. is an Emeritus Professor of Plant Biology and an academic researcher from University of Illinois at Urbana-Champaign, Illinois.
+**David S. Seigler**, Ph.D. is an Emeritus Professor of Plant Biology and an academic researcher from University of Illinois at Urbana-Champaign, Illinois.
 
-John E. Ebinger, Ph.D. is Emeritus Professor of Botany, Eastern Illinois University, Charleston, Illinois.
+**John E. Ebinger**, Ph.D. is Emeritus Professor of Botany, Eastern Illinois University, Charleston, Illinois.
 
-Joseph T. Miller, Ph.D. (Centre for Australian Biodiversity Research and Global Biodiversity Information Facility, Copenhagen, Denmark) focuses on ecology, biodiversity, phylogenetic tree, phylogenetics and species richness.
+**Joseph T. Miller**, Ph.D. (Centre for Australian Biodiversity Research and Global Biodiversity Information Facility, Copenhagen, Denmark) focuses on ecology, biodiversity, phylogenetic tree, phylogenetics and species richness.
 
-Victoria C. Hollowell, Ph.D., is an American biological researcher and editor.
+**Victoria C. Hollowell**, Ph.D., is an American biological researcher and editor.
 
-To purchase your copy of the "Names for American *Acacia* (Fabaceae, Mimosoideae)", visit <shopbritpress.org> or call 817-332-4441 ext. 264. The price is $85.00, plus shipping. This is print on demand, please allow 3-5 weeks for delivery.
+To purchase your copy of the "Names for American *Acacia* (Fabaceae, Mimosoideae)", visit <https://shopbritpress.org/> or call 817-332-4441 ext. 264.  The price is $85.00, plus shipping. This is print on demand, please allow 3-5 weeks for delivery.
 
-ISBN-13: 978-1-889878-78-2
-Publication Date: 19 Aug 2024 (SBM 65)
-Specifications: 7"×10" (HBK), 328 pp, 2 b/w figs, 1 table
+ISBN-13: 978-1-889878-78-2  
+Publication Date: 19 Aug 2024 (SBM 65)  
+Specifications: 7"×10" (HBK), 328 pp, 2 b/w figs, 1 table  
