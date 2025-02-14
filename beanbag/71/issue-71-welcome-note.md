@@ -41,6 +41,8 @@ To receive new volume notifications and eventual information of interest to the 
 ![](/assets/images/71/wiborgiella-sessilifolia.jpg)
 *Wiborgiella sessilifolia* (Crotalarieae) from South Africa
 
+**Cover image**: *Paloue speciosa* (Ducke) Redden (Detarioideae), a rare amazonian species of small trees with dark red bracteoles, sepals and petals, three developed stamens and small staminodes. Photo: Marcus J. A. Falcão.
+
 
 ![](/assets/images/71/bean-bag-1-1.jpg)
 ![](/assets/images/71/bean-bag-1-2.jpg)

@@ -94,7 +94,7 @@ Colin Hughes
 
 ## Photo gallery
 
-**[Gallery of Legume Photos](/beanbag/71/issue-71-legume-p.md)**
+**[Gallery of Legume Photos](/beanbag/71/issue-71-gallery)**
 
 ## Bibliography
 

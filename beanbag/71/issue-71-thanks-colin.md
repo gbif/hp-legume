@@ -1,7 +1,7 @@
 ---
 layout: documentation
-lang-ref: beanbag/71/issue-71-colin
-permalink: /beanbag/71/issue-71-colin
+lang-ref: beanbag/71/issue-71-thanks-colin
+permalink: /beanbag/71/issue-71-thanks-colin
 title: A Word Of Thanks To Professor Colin Hughes
 description: Issue 71 - A Word Of Thanks To Professor Colin Hughes
 sideNavigation: sidenav.beanbag71
