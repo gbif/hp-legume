@@ -30,7 +30,7 @@ The origin of floral nectaries in Leguminosae is still debated. Some researchers
 <br>
 
 ![](/assets/images/71/nectariferous_flowers.jpg)
-<small>Examples of legume species with floral nectaries. Top left: Bauhinia galpinii; top right: Bauhinia uruguayensis; bottom: Bauhinia variegata.</small>
+<small>Examples of legume species with floral nectaries. Top left: *Bauhinia galpinii*; top right: *Bauhinia uruguayensis*; bottom: *Bauhinia variegata*.</small>
 <br>
 
 While Leguminosae floral nectaries exhibit notable evolutionary stability, the reasons for their absence in certain lineages remain unresolved. A comprehensive understanding of the diversity, function, and genetic and physiological mechanisms underlying the development of floral nectaries is crucial to addressing these questions. Sinjushin's (2024) exploration of previously overlooked aspects of floral nectary morphology and evolution highlights potential pathways for clarifying the diversity and significance of this ecologically important organ in the context of the Leguminosae.
