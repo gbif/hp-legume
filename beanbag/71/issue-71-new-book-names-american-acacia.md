@@ -31,5 +31,4 @@ To purchase your copy of the "Names for American *Acacia* (Fabaceae, Mimosoideae
 
 ISBN-13: 978-1-889878-78-2  
 Publication Date: 19 Aug 2024 (SBM 65)  
-Specifications: 7"×10" (HBK), 328 pp, 2 b/w figs, 1 table
-
+Specifications: 7"×10" (HBK), 328 pp, 2 b/w figs, 1 table  
