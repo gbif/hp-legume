@@ -39,7 +39,7 @@ Since then, and following the establishment of a port for seafarers in
 the late 1600s, there has been a fascinating history of documentation
 and description of the flora right up to the present day.
 
-Please visit the website (<https://ibccapetown2029.co.za/>) for more
+Please visit the [IBC website](https://ibccapetown2029.co.za/) for more
 information, and to join the mailing list.
 
 ![](/assets/images/71/ibc_logo.jpg)
