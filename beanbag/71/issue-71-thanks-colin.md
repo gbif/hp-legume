@@ -23,7 +23,7 @@ over from Dr Brigitte Marazzi, and subsequently led the editing of [four
 concurrent volumes](https://www.legumedata.org/beanbag/issues/).
 
 ![](/assets/71/images/colin.jpg)
-Colin hicking in Switzerland (left) and Scotland (right), most likely happy for the publication of a new volume of the Bean Bag. Photos: Anne Bruneau.
+Colin hicking in Switzerland (left) and Scotland (right), most likely happy for the publication of a new issue of the Bean Bag. Photos: Anne Bruneau.
 
 Colin was responsible for introducing two new elements into the Bean
 Bag, namely the "New legume species highlights", compiled since volume
