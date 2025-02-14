@@ -17,9 +17,10 @@ The legume community would like to extend a word of thanks to the outgoing Edito
 
 Colin became Editor of the Bean Bag in 2020 (volume 67), when he took over from Dr Brigitte Marazzi, and subsequently led the editing of [four concurrent volumes](https://www.legumedata.org/beanbag/issues/).
 
-![](/assets/images/71/colin.jpg)
-<small>Colin hiking in Switzerland (left) and Scotland (right), most likely happy for the publication of a new volume of the Bean Bag. Photos: Anne Bruneau.</small>
-
 Colin was responsible for introducing two new elements into the Bean Bag, namely the "New legume species highlights", compiled since volume 67, and the "Gallery of Leguminologists", compiled since volume 69. These added elements introduced stunning images and interesting information on the many new taxa described in legumes from all regions of the world, and also allow us to pay tribute to the many dedicated scientists that study them, often over the span of many decades.
 
 We are immensely grateful to Colin for his leadership and unfailing dedication to legume science. His enthusiasm and attention to detail have been a winning combination to the benefit of the Bean Bag.
+
+![](/assets/images/71/colin.jpg)
+<small>Colin hiking in Switzerland (top) and Scotland (bottom), most likely happy for the publication of a new issue of the Bean Bag. Photos: Anne Bruneau.</small>
+
