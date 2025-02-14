@@ -65,7 +65,7 @@ Monteiro, T.R., Gonçalves, R.V., Telles, F.J., Barônio, G.J., Nogueira, A., & 
 
 Nascimento, C.S., Varejão, M. de J.C., de Araújo, R.D., Costa, J.E.E., da Silva, C.E., Abreu, R.L.S. de, ... Higuchi, N. (2024). Technological characterization of tropical woods from the genus *Eperua* (Fabaceae). Wood Material Science & Engineering, 1-10. <https://doi.org/10.1080/17480272.2024.2413388>
 
-Ninkaew, S., Pimpijan, J., Chantaranothai, P., Pornpongrungrueng, P., & Thammarong, W. (2024). Leaf epidermal anatomy of some *Crotalaria* L. (Fabaceae) species in Thailand. Tropical Natural History, 24, 1-7. PDF Online.
+Ninkaew, S., Pimpijan, J., Chantaranothai, P., Pornpongrungrueng, P., & Thammarong, W. (2024). Leaf epidermal anatomy of some *Crotalaria* L. (Fabaceae) species in Thailand. Tropical Natural History, 24, 1-7. <https://doi.org/10.58837/tnh.24.1.258597>
 
 Páez, V.D.L.A., Andrada, A.R., & Caro, M.S. (2024). Análisis comparativo del cariotipo y de la meiosis de dos especies de *Adesmia* (Fabaceae, Muricatae). Boletín de la Sociedad Argentina de Botánica, 59(4), 1-10. <https://doi.org/10.31055/1851.2372.v59.n4.44914>
 
@@ -157,7 +157,7 @@ Di Ciaccio, L.S., Catalano, A.V., López, P.G., Fortunato, R.H., & Salvat, A.E. 
 
 Dinçman, G.E., Aytaç, Z., & Çalış, İ. (2024). Turkish *Astragalus* Species: Botanical Aspects, Secondary Metabolites, and Biotransformation. Planta Medica. <https://doi.org/10.1055/a-2444-3252>
 
-Dholakia, P., Sakshi, & Sabharwal, P. K. Total Phenol, Flavonoid content and Antioxidant Activity of aqueous extract of Kachnar (*Bauhinia variegate*) leaves. International Journal of Innovation and Multidisciplinary Research (IJIAMR), 4(3), 42-45. PDF Online>
+Dholakia, P., Sakshi, & Sabharwal, P. K. Total Phenol, Flavonoid content and Antioxidant Activity of aqueous extract of Kachnar (*Bauhinia variegate*) leaves. International Journal of Innovation and Multidisciplinary Research (IJIAMR), 4(3), 42-45. [PDF Online](https://ijiamr.cmrie.org/docs/total-phenol-flavonoid-content-and-antioxidant-activity-of-aqueous-extract-of-kachnar-bauhinia-variegate-leaves-UNEXHNEKEPDS.pdf)
 
 Domokos‑Szabolcsy, É., Soós, Á., Kovács, B., Kovács, Z., & Dernovics, M. (2024). Water-soluble organic selenometabolites of alfalfa (*Medicago sativa* L.) green biomass-derived fractions. Journal of Trace Elements in Medicine and Biology, 86, 127545. <https://doi.org/10.1016/j.jtemb.2024.127545>
 
@@ -301,7 +301,7 @@ Saito, T., Kurosu, Y., Sato, H., Katoh, E., & Hosoya, T. (2024). Analysis of the
 
 Salihu, A.S., & Salleh, W.M.N.H.W. (2024). Essential Oil Composition and Acetylcholinesterase Inhibitory Activity of *Sindora coriacea*. Chemistry of Natural Compounds, 1-2. <https://doi.org/10.1007/s10600-024-04553-7>
 
-Salim, K. S., Harun, A., Aziz, N. A., Daud, S., & So'ad, S. Z. M. (2024). Bioactive Phytochemicals and Pharmacological Facets of *Entada* Species in Asia: A Review. Malaysian Journal of Analytical Sciences, 28(5), 1210-1230. PDF Online>
+Salim, K. S., Harun, A., Aziz, N. A., Daud, S., & So'ad, S. Z. M. (2024). Bioactive Phytochemicals and Pharmacological Facets of *Entada* Species in Asia: A Review. Malaysian Journal of Analytical Sciences, 28(5), 1210-1230. [PDF Online](https://mjas.analis.com.my/mjas/v28_n5/pdf/Salim_28_5_17.pdf)
 
 Sangkanu, S., Nuankaew, W., Pitakbut, T., & Dej-Adisai, S. (2024). Phytochemical Investigation and Biological Activities of *Desmodium heterocarpon* Extract as Anti-Tyrosinase: Isolation of Natural Compounds, In Vitro and In Silico Study. Life, 14(11), 1400. <https://doi.org/10.3390/life14111400>
 
