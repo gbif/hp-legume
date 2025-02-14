@@ -58,8 +58,7 @@ I first met Dave in 1985 when we were both visiting Eric Conn's laboratory at Da
 **Seigler, D. S. & Ebinger, J. E. (1987).** Cyanogenic glycosides in ant-acacias of Mexico and Central America. *The Southwestern Naturalist* 32(4): 499--503.  
 Seigler, D. S., Ebinger, J. E., Hollowell, V. C. & Riggins, C. W. (2023). Revision of the genus *Mariosousa* (Fabaceae, Mimosoideae) in the New World. *Phytologia* 105(2): 29--67.
 
-<br>
-<br> *Plant Secondary Metabolism*. Kluwer Academic, Boston & London.  
+**Seigler, D. S. (c.1998).** *Plant Secondary Metabolism*. Kluwer Academic, Boston & London.   
 
 **Seigler, D. S., Ebinger, J. E., Miller, J. T. & Hollowell, V. C. (2024).** Names for American *Acacia* (*Fabaceae, Mimosoideae*). -- *Sida, Bot. Misc*. 65. Fort Worth Bot. Gard., Texas: BRIT Press. <https://shopbritpress.org/products/names-for-american-acacia-fabaceae-mimosoideae>.
 <br>
