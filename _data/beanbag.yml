@@ -5,7 +5,7 @@ issues:
   features:
     - preTitle: Year 2024
       title: Issue 71
-      background: 
+      background: /assets/images/71/cover-issue-71.jpg
       href: /beanbag/71/71content
       cta:
       - text: Download
