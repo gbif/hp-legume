@@ -3,6 +3,28 @@ issues:
   description: |
     For previous issues please visit the [Kew Research Repository](https://kew.iro.bl.uk/collections/b50e6210-e231-4392-9301-c07bdce223cc) or the [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/search?searchTerm=bean+bag#/titles).
   features:
+    - preTitle: Ano 2024
+      title: Issue 71
+      background: /assets/images/71/cover-issue-71.jpg
+      href: /beanbag/71/71content
+      cta:
+      - text: Download
+        href: /media/The_BB_Newsletter_Issue71_2024.pdf
+        isPrimary: true
+      - text: Read
+        href: /beanbag/71/71content
+        isPrimary: true
+    - preTitle: Year 2023  # optional
+      title: Issue 70 # rerquired
+      background: /assets/images/70/Androcalymma_fls_photo_Marcus-JosédeAzevedoFalcão_sq.jpg
+      href: /beanbag/70/70content
+      cta:
+      - text: Download
+        href: /media/The_BB_Newsletter_Issue70_2023.pdf
+        isPrimary: true
+      - text: Read
+        href: /beanbag/70/70content
+        isPrimary: true
     - preTitle: Ano 2022  # optional
       title: Issue 69 # rerquired
       background: /assets/images/69/welcome_mimosa.jpg
