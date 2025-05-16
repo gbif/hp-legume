@@ -21,6 +21,6 @@ var siteConfig = {
       ]
     },
     highlightedFilters: ['taxonKey', 'recordedBy', 'country', 'stateProvince', 'gadmGid', 'datasetKey', 'basisOfRecord', 'isInCluster', 'occurrenceIssue'],
-    occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY', 'DATASETS', 'CLUSTERS']
+    occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY', 'DATASETS', 'CLUSTERS', 'DASHBOARD']
   }
 };
