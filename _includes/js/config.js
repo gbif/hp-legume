@@ -19,7 +19,6 @@ var siteConfig = {
         { "type": "equals", "key": "taxonKey", "value": "5386" },
         { "type": "equals", "key": "hasGeospatialIssue", "value": "false" }
       ]
-    charts: ['datasetKey', 'month', 'taxa', 'year']
     },
     highlightedFilters: ['taxonKey', 'recordedBy', 'country', 'stateProvince', 'gadmGid', 'datasetKey', 'basisOfRecord', 'isInCluster', 'occurrenceIssue'],
     occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY', 'DATASETS', 'CLUSTERS', 'DASHBOARD']
