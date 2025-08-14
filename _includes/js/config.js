@@ -49,11 +49,11 @@ var siteConfig = {
      occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS', "CLUSTERS", "DASHBOARD"] // what tabs should be shown
   },
 
-  species: {
-    rootFilter: {
-      predicate: {type: 'in', key: 'taxonKey',values: '5386'}
-    }
-  }
+  //species: {
+  //  rootFilter: {
+  //    predicate: {type: 'in', key: 'taxonKey',values: '5386'}
+  //  }
+  //}
 
   literature: {
     rootFilter: {
