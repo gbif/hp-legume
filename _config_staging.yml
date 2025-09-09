@@ -1,4 +1,4 @@
-url: "https://hp-legume.gbif-staging.org"
+url: "https://legume.hp.gbif-staging.org"
 
 siteMeasurements:
   enable: true # When enabled there will be a popup asking the user for their consent. If they accept then the function "attachMeasurements" will be called. You can overwrite this function by adding a file `/_includes/js/measure.js` and replace the function.
