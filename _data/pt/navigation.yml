@@ -2,8 +2,12 @@
 
 - text: About
   href: /pt/about
-- text: Occurrences
-  href: /pt/data?view=MAP
+- text: Données
+  menu:
+    - text: Ocorrência
+      href: /pt/ocorrencia/search
+    - text: Literatura
+      href: /pt/literatura/search
 - text: Taxonomy
   href: /pt/taxonomy
   menu: #Dropdown menu

@@ -5,9 +5,9 @@
 - text: Données
   menu:
     - text: Occurrences
-      href: /occurrence/search
+      href: /fr/occurrence/search
     - text: Littérature
-      href: /literature/search
+      href: /fr/litterature/search
 - text: Taxonomie
   href: /fr/taxonomy
   menu: #Dropdown menu
