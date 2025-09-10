@@ -2,8 +2,12 @@
 
 - text: About
   href: /about
-- text: Occurrences
-  href: /data?view=MAP
+- text: Data
+  menu:
+    - text: Occurrences
+      href: /occurrence/search
+    - text: Literature
+      href: /literature/search
 - text: Taxonomy
   href: /taxonomy
   menu: #Dropdown menu

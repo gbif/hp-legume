@@ -3,7 +3,11 @@
 - text: À Propos
   href: /fr/about
 - text: Données
-  href: /fr/data?view=MAP
+  menu:
+    - text: Occurrences
+      href: /occurrence/search
+    - text: Littérature
+      href: /literature/search
 - text: Taxonomie
   href: /fr/taxonomy
   menu: #Dropdown menu
