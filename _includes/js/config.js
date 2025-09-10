@@ -59,7 +59,7 @@ var siteConfig = {
     rootFilter: {
       predicate: {
         type: 'equals', 
-        key: 'taxonKey', 
+        key: 'gbifTaxonKey', 
         value: '5386'
       }
     },
