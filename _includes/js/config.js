@@ -57,7 +57,11 @@ var siteConfig = {
 
   literature: {
     rootFilter: {
-      predicate: {type: 'in', key: 'taxonKey', value: '5386'}
+      predicate: {
+        type: 'equals', 
+        key: 'taxonKey', 
+        value: '5386'
+      }
     },
     highlightedFilters: ['q', 'scientificName', 'year']
   },
