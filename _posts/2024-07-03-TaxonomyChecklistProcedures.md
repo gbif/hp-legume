@@ -14,6 +14,7 @@ thumbnail: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/origi
 ---
 
 ## Guidelines for checking legume names - please contribute !
+(updated 23 September 2025)
 
 ## Introduction
 
@@ -35,17 +36,19 @@ Tell us you want to help by sending the following details to the relevant coordi
 
 If more than one person is willing to check names for the same group, the coordinator will liaise with all involved to establish a team.
 
+Please also register in [Rhakhis](https://list.worldfloraonline.org/rhakhis/ui/index.html) (see instructions below), even if you do not actively use the system. This is important to ensure your ORCID is linked to your contributions. This allows us to properly recognize co-authors on the WFO Plant List via the Web. 
+
 **2. Download data**
 
 Download the relevant checklist per subfamily and unplaced taxa from the Legume Data Portal.  Once you have clicked on the relevant link below you will be directed to the Legume Data Portal GitHub, where you can click on the three little dots to the right of the file name to download.
 
-- [Caesalpinioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Caesalpinioideae.xlsx) (102 genera still to check) 
-- [Cercidoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Cercidoideae.xlsx) (already verified; see unplaced names)
-- [Detarioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Detarioideae.xlsx) (3 genera still to check: Brachystegia, Copaifera, Tessmannia)
-- [Dialioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Dialioideae.xlsx) (already verified; see unplaced names)
-- [Duparquetioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Duparquetioideae.xlsx) (already verified)
-- [Papilionoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Papilionoideae.xlsx) (273 genera still to check)
-- [Unplaced names checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Unplaced%20taxa.xlsx) (names not assigned to a subfamily that need checking)
+- [Caesalpinioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Caesalpinioideae) (59 genera still to check) 
+- [Cercidoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Cercidoideae.xlsx) (already verified; see unplaced names)
+- [Detarioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Detarioideae.xlsx) (3 genera still to check: Brachystegia, Copaifera, Tessmannia)
+- [Dialioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Dialioideae.xlsx) (already verified; see unplaced names)
+- [Duparquetioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Duparquetioideae.xlsx) (already verified)
+- [Papilionoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Papilionoideae.xlsx) (MANY genera still to check)
+- [Unplaced names checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Unknown_Subfamily.xlsx) (names not assigned to a subfamily that need checking)
 
 
 **3. Edit the checklist**
@@ -78,7 +81,7 @@ If you notice that a paper with new synonymy has been missed, then it is suffici
    -  Invalid (treated as synonyms)
    -  Misapplied (sensu auct.) (treated as synonyms)
    -  Orthographic variation (treated as synonyms)
- 9. Submit the updated checklist to the relevant coordinator (Table 1) according to their instructions, with a copy of the email to Marianne le Roux, Anne Bruneau or Juliana Rando. Rafaël Govaerts will incorporate corrections into the WCVP database and will contact taxonomists directly if certain corrections require clarification.
+ 9. Submit the updated checklist to the relevant coordinator (Table 1) according to their instructions, with a copy of the email to Marianne le Roux, Anne Bruneau or Juliana Rando. Alternatively, and if at all possible, please record the modifications directly in Rhakhis. As of September 2025, all changes will be recorded directly into the WFO database via Rhakhis rather than via the WCVP database. We will contact taxonomists directly if certain corrections require clarification.
 
 
 **3.2 Data maintenance**
