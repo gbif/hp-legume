@@ -35,19 +35,19 @@ Pour vous inscrire, veuillez faire parvenir les informations suivantes au coordo
 
 Si plusieurs personnes souhaitent vérifier les noms pour un groupe particulier, le coordonnateur ou la coordonnatrice facilitera la mise en place d’une équipe de travail.
 
-Nous vous demandons aussi de vous inscrire sur Rhakhis (voir instructions plus bas), même si vous n'utilisez pas activement cette plateforme. Ceci nous permet de lier votre identifieur ORCID à vos contributions. This allows us to properly recognize co-authors on the WFO Plant List via the Web.
+Nous vous demandons SVP de vous inscrire sur Rhakhis (voir instructions plus bas), même si vous n'utilisez pas activement cette plateforme. Ceci nous permet de lier votre identifieur ORCID à vos contributions, ce qui est important pour la reconnaissance des co-auteurs sur le WFO Plant List via le Web.
 
 **2. Télécharger les données**
 
 Télécharger la liste appropriée pour chaque sous-famille, ainsi que les noms sans placement taxonomique, depuis le portail des légumineuses. Lorsque vous aurez cliqué sur le lien ci-bas, vous serez dirigez vers le GitHub du Portail des légumineuses où vous pourrez cliquer sur les trois petits points à droite du nom de fichier pour le télécharger.
 
-- [Caesalpinioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Caesalpinioideae.xlsx) (102 genres toujours à vérifier) 
-- [Cercidoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Cercidoideae.xlsx) (déjà vérifié; mais voir les noms sans placement taxonomique)
-- [Detarioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Detarioideae.xlsx) (3 genres toujours à vérifier: Brachystegia, Copaifera, Tessmannia)
-- [Dialioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Dialioideae.xlsx) (déjà vérifié; mais voir les noms sans placement taxonomique)
-- [Duparquetioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Duparquetioideae.xlsx) (déjà vérifié)
-- [Papilionoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Papilionoideae.xlsx) (273 genres toujours à vérifier)
-- [Liste des noms sans placement taxonomique](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Unplaced%20taxa.xlsx) (noms pas encore assigné à une sous-famille et nécessitant vérification)
+- [Caesalpinioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Caesalpinioideae.xlsx) (59 genres toujours à vérifier) 
+- [Cercidoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Cercidoideae.xlsx) (déjà vérifié; mais voir les noms sans placement taxonomique)
+- [Detarioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Detarioideae.xlsx) (3 genres toujours à vérifier: Brachystegia, Copaifera, Tessmannia)
+- [Dialioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Dialioideae.xlsx) (déjà vérifié; mais voir les noms sans placement taxonomique)
+- [Duparquetioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Duparquetioideae.xlsx) (déjà vérifié)
+- [Papilionoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Papilionoideae.xlsx) (nombreux genres toujours à vérifier)
+- [Liste des noms sans placement taxonomique](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Unplaced.xlsx) (noms pas encore assigné à une sous-famille et nécessitant vérification)
 
 
 **3. Vérifier la liste des noms**
@@ -80,7 +80,7 @@ Si vous notez qu’une publication proposant une nouvelle synonymie a été omis
    -  Invalide (traité comme synonyme)
    -  Mésappliqué (sensu auct.) (traité comme synonyme)
    -  Variante orthographique (traité comme synonyme)
- 9. Soumettez votre liste corrigée au coordonnateur ou à la coordonnatrice (Tableau 1), en metttant en copie à votre courriel Marianne le Roux, Anne Bruneau ou Juliana Rando. Rafaël Govaerts incorporera les modifications dans la base de données de WCVP et contactera les taxonomistes directement si certaines modifications requièrent des clarifications.
+ 9. Soumettez votre liste corrigée au coordonnateur ou à la coordonnatrice (Tableau 1), en metttant en copie à votre courriel Marianne le Roux, Anne Bruneau ou Juliana Rando. Par contre, nous vous encourageons à enregistrer vous-même les corrections directement dans Rhakhis. À compter de septembre 2025, les modifications sont inscrites directement dans la base de données du WFO par le biais de la plateforme Rhakhis plutôt que par la base de données du WCVP. Nous contactererons les taxonomistes directement si certaines modifications requièrent des clarifications.
 
 
 **3.2 Mise à jour des données**
