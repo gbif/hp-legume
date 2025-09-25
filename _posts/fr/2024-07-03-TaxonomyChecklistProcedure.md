@@ -4,7 +4,7 @@ date:   2024-07-03 06:00:00 +0100
 categories: ["How to"]
 lang-ref: Checklist Procedures
 lang: fr
-preTitle: 3 Juillet 2024
+preTitle: 25 septembre 2025
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/original.jpg
 imageLicense: |
   <em>Entada rheedei</em> Spreng. Image by dineshvalke via [iNaturalist](https://www.inaturalist.org/observations/81342675)
@@ -14,6 +14,7 @@ thumbnail: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/origi
 ---
 
 ## Procédurier pour vérifier les noms des légumineuse – merci de contribuer !
+(mise à jour 25 septembre 2025)
 
 ## Introduction
 
@@ -33,6 +34,8 @@ Pour vous inscrire, veuillez faire parvenir les informations suivantes au coordo
 - Groupe(s) de légumineuses d’intérêt 
 
 Si plusieurs personnes souhaitent vérifier les noms pour un groupe particulier, le coordonnateur ou la coordonnatrice facilitera la mise en place d’une équipe de travail.
+
+Nous vous demandons aussi de vous inscrire sur Rhakhis (voir instructions plus bas), même si vous n'utilisez pas activement cette plateforme. Ceci nous permet de lier votre identifieur ORCID à vos contributions. This allows us to properly recognize co-authors on the WFO Plant List via the Web.
 
 **2. Télécharger les données**
 
