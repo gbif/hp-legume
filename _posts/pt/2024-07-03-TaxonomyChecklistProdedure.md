@@ -4,7 +4,7 @@ date:   2024-07-03 06:00:00 +0100
 categories: ["How to"]
 lang-ref: Checklist Procedures
 lang: pt
-preTitle: 3 de julho de 2024
+preTitle: 3 setembro 2025
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/original.jpg
 imageLicense: |
   <em>Entada rheedei</em> Spreng. Image by dineshvalke via [iNaturalist](https://www.inaturalist.org/observations/81342675)
@@ -14,6 +14,7 @@ thumbnail: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/origi
 ---
 
 ## Orientações para verificação de nomes de leguminosas - contribua!
+(atualizado 25 setembro 2025)
 
 ## Introdução
 
@@ -35,17 +36,19 @@ Diga-nos que deseja ajudar enviando os seguintes detalhes ao(s) coordenador(es),
 
 Se mais de uma pessoa estiver disposta a verificar nomes para o mesmo grupo, o coordenador entrará em contato com todos os envolvidos para formar uma equipe.
 
+Please also register in [Rhakhis](https://list.worldfloraonline.org/rhakhis/ui/index.html) (see instructions below), even if you do not actively use the system. This is important to ensure your ORCID is linked to your contributions. This allows us to properly recognize co-authors on the WFO Plant List via the Web.
+
 **2. Dados para download**
 
 Faça o download da lista de verificação por subfamília e táxons não avaliados no Legume Data Portal.  Depois de clicar no link de interesse (abaixo listado), você será direcionado para o GitHub do Legume Data Portal, onde poderá clicar nos três pontinhos à direita do nome do arquivo para fazer o download.
 
-- [Caesalpinioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Caesalpinioideae.xlsx) (102 genera still to check) 
-- [Cercidoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Cercidoideae.xlsx) (already verified; see unplaced names)
-- [Detarioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Detarioideae.xlsx) (3 genera still to check: Brachystegia, Copaifera, Tessmannia)
-- [Dialioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Dialioideae.xlsx) (already verified; see unplaced names)
-- [Duparquetioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Duparquetioideae.xlsx) (already verified)
-- [Papilionoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Papilionoideae.xlsx) (273 genera still to check)
-- [Unplaced names checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2024v5_Unplaced%20taxa.xlsx) (names not assigned to a subfamily that need checking)
+- [Caesalpinioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Caesalpinioideae.xlsx) (59 genera still to check) 
+- [Cercidoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Cercidoideae.xlsx) (already verified; see unplaced names)
+- [Detarioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Detarioideae.xlsx) (3 genera still to check: Brachystegia, Copaifera, Tessmannia)
+- [Dialioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Dialioideae.xlsx) (already verified; see unplaced names)
+- [Duparquetioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Duparquetioideae.xlsx) (already verified)
+- [Papilionoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Papilionoideae.xlsx) (many genera still to check)
+- [Unplaced names checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Unplaced.xlsx) (names not assigned to a subfamily that need checking)
 
 
 **3. Realizando a checagem**
@@ -79,7 +82,7 @@ Se você perceber que um artigo com nova sinonímia foi esquecido, basta mencion
    - Inválido (tratado como sinônimo)
    - Mal aplicado (sensu auct.) (tratado como sinônimo)
    - Variação ortográfica (tratados como sinônimos)
- 9. Envie a lista checada atualizada ao coordenador (Tabela 1) de acordo com instruções fornecidas por ele, com uma cópia do e-mail para Marianne le Roux, Anne Bruneau ou Juliana Rando. Rafaël Govaerts incorporará as correções ao banco de dados do WCVP e entrará em contato diretamente com os taxonomistas se determinadas correções exigirem esclarecimentos.
+ 9. Envie a lista checada atualizada ao coordenador (Tabela 1) de acordo com instruções fornecidas por ele, com uma cópia do e-mail para Marianne le Roux, Anne Bruneau ou Juliana Rando. Alternatively, and if at all possible, please record the modifications directly in Rhakhis. As of September 2025, all changes will be recorded directly into the WFO database via Rhakhis rather than via the WCVP database. We will contact taxonomists directly if certain corrections require clarification.
 
 
 
