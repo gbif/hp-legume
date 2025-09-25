@@ -13,7 +13,7 @@ ratio: 50
 thumbnail: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/original.jpg
 ---
 
-## Procédurier pour vérifier les noms des légumineuse – merci de contribuer !
+## Procédurier pour vérifier les noms des légumineuses – merci de contribuer !
 (mise à jour 25 septembre 2025)
 
 ## Introduction
@@ -35,7 +35,7 @@ Pour vous inscrire, veuillez faire parvenir les informations suivantes au coordo
 
 Si plusieurs personnes souhaitent vérifier les noms pour un groupe particulier, le coordonnateur ou la coordonnatrice facilitera la mise en place d’une équipe de travail.
 
-Nous vous demandons SVP de vous inscrire sur Rhakhis (voir instructions plus bas), même si vous n'utilisez pas activement cette plateforme. Ceci nous permet de lier votre identifieur ORCID à vos contributions, ce qui est important pour la reconnaissance des co-auteurs sur le WFO Plant List via le Web.
+Nous vous demandons SVP de vous inscrire sur Rhakhis (voir instructions ci-bas) même si vous n'utilisez pas activement cette plateforme. Ceci nous permet de lier votre identifieur ORCID à vos contributions, ce qui est important pour la reconnaissance des co-auteurs sur le WFO Plant List via le Web.
 
 **2. Télécharger les données**
 
@@ -80,7 +80,7 @@ Si vous notez qu’une publication proposant une nouvelle synonymie a été omis
    -  Invalide (traité comme synonyme)
    -  Mésappliqué (sensu auct.) (traité comme synonyme)
    -  Variante orthographique (traité comme synonyme)
- 9. Soumettez votre liste corrigée au coordonnateur ou à la coordonnatrice (Tableau 1), en metttant en copie à votre courriel Marianne le Roux, Anne Bruneau ou Juliana Rando. Par contre, nous vous encourageons à enregistrer vous-même les corrections directement dans Rhakhis. À compter de septembre 2025, les modifications sont inscrites directement dans la base de données du WFO par le biais de la plateforme Rhakhis plutôt que par la base de données du WCVP. Nous contactererons les taxonomistes directement si certaines modifications requièrent des clarifications.
+ 9. Soumettez votre liste corrigée au coordonnateur ou à la coordonnatrice (Tableau 1), en metttant en copie à votre courriel Marianne le Roux, Anne Bruneau ou Juliana Rando. Par contre, nous vous encourageons à enregistrer vous-même les corrections directement dans Rhakhis. À compter de septembre 2025, les modifications sont inscrites directement dans la base de données du WFO par le biais de la plateforme Rhakhis plutôt que par la base de données du WCVP. Nous contacterons directement les taxonomistes si certaines modifications requièrent des clarifications.
 
 
 **3.2 Mise à jour des données**
