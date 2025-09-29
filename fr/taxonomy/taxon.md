@@ -51,7 +51,7 @@ ReactDOM.render(e(Taxon), domContainer);
         if (jsonResponse.results[0] && jsonResponse.results[0].nubKey) {
           var el = document.getElementById('gbifTaxonLinks');
           var filter = `{"must":{"taxonKey":[${jsonResponse.results[0].nubKey}]}}`;
-          var link = `../../data?filter=${encodeURIComponent(btoa(filter))}`;
+          var link = `../../occurrence/search?filter=${encodeURIComponent(btoa(filter))}`;
           el.innerHTML = `<a class="button is-primary" href="${link}">{{site.data.translations.searchOccurrences.fr}}</a>`;
         }
       })

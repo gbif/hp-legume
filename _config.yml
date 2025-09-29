@@ -149,4 +149,4 @@ defaults:
 phylo:
   tool: https://phylogeny-tool.gbif.org
   treePath: /assets/phylotree/legume.json
-  template: /data?view=MAP&{query}
+  template: /occurrence/search?view=MAP&{query}

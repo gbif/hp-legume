@@ -4,7 +4,7 @@ stats:
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?taxonKey=5386&limit=0">20.000.000</span>
       description: Occurrences
       #background: /assets/images/landing_page/iconos_cifras/registros_biologicos.png
-      href: /data?view=MAP
+      href: /occurrence/search?view=MAP
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
     - title: <span data-ajax-path="total" data-ajax-url="https://api.catalogueoflife.org/dataset/2304/nameusage/search?limit=0&offset=0&status=accepted&rank=species">22.360</span>
       description: Espèces

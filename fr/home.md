@@ -9,7 +9,7 @@ imageLicense: |
 height: 80vh
 cta:
   - text: Données d'occurrences
-    href: /fr/data?view=MAP
+    href: /fr/occurrence/search?view=MAP
   - text: Taxonomie
     href: /fr/taxonomy/species-list
   - text: Phylogénie

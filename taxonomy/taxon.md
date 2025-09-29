@@ -50,7 +50,7 @@ ReactDOM.render(e(Taxon), domContainer);
         console.log(jsonResponse);
         if (jsonResponse.results[0] && jsonResponse.results[0].nubKey) {
           var el = document.getElementById('gbifTaxonLinks');
-          var link = `../../data?taxonKey=${jsonResponse.results[0].nubKey}`;
+          var link = `../../occurrence/search?taxonKey=${jsonResponse.results[0].nubKey}`;
           el.innerHTML = `<a class="button is-primary" href="${link}">{{site.data.translations.searchOccurrences.en}}</a>`;
         }
       })

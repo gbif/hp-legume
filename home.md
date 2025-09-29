@@ -9,7 +9,7 @@ imageLicense: |
 height: 80vh
 cta:
   - text: Occurrence Data
-    href: /data?view=MAP
+    href: /occurrence/search?view=MAP
     #isPrimary: true
   - text: Taxonomy
     href: /taxonomy/species-list
