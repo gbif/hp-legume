@@ -38,7 +38,8 @@ To receive new volume notifications and eventual information of interest to the 
 <br>
 <br>
 <br>
-![](/assets/images/mimosa-bombycina-praying-mantis.jpg)
+
+![](/assets/images/72/mimosa-bombycina-praying-mantis.jpg)
 A praying mantis embushes a bee visiting the inflorescence of *Mimosa bombycina* Barneby in Serra do Cipó, Minas Gerais, Brazil. Photo by Monique Maianne.
 
 

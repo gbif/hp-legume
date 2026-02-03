@@ -47,6 +47,6 @@ The longevity of the *Bean Bag* is testament to the continued buoyancy and vibra
 
 2024--present, Issues 71--72, Leonardo Borges, Universidade Federal de São Carlos, Brazil & Stephen Boatwright, University of the Western Cape, South Africa.
 
-<br>
-![](/assets/images/bean-bag-issues.jpg)
+
+![](/assets/images/72/bean-bag-issues.jpg)
 Bean Bag covers across the years.

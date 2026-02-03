@@ -28,14 +28,14 @@ Gillian was a founding member of the Botanical Artists Association of Southern A
 Since retiring at the end of 2017, she was invited to join the '*Artist in Residence'* programme at the Tswalu Kalahari Reserve painting plants and a few mammals over a calendar year. She is also currently involved with a project '*Butterflies and their host plants'*, and illustrations for a book on the genus *Barleria* (Acanthaceae). She continues illustrating for *Flowering Plants of Africa* and is preparing artworks for the RHS botanical art exhibition.
 
 
-![](/assets/images/Erythrina_zeyheri.jpg) 
+![](/assets/images/72/Erythrina_zeyheri.jpg) 
 Watercolor of *Erythrina zeyheri* Harv.
 
 
-![](/assets/images/Lablab_purpureus.jpeg)
+![](/assets/images/72/Lablab_purpureus.jpeg)
 Watercolor of  *Lablab purpureus* (L.) Sweet.
 
 
-![](/assets/images/Caesalpinia_gilliesii.jpg) 
+![](/assets/images/72/Caesalpinia_gilliesii.jpg) 
 Line drawing of *Caesalpinia gilliesii* (Hook.) D.Dietr.
 

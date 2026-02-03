@@ -25,6 +25,6 @@ In 2026 GBIF will be investigating methods of displaying multiple phylogenies in
 
 Send us your news items and announcements (outstanding publications, new projects, positions available in your legume research group, meetings, activities, etc.) to post on the Legume Data Portal. News items get published regularly on the Portal alongside the annual Bean Bag Newsletter. The entire community appreciates your contributions.
 
-![](/assets/images/dashboard.png)
+![](/assets/images/72/dashboard.png)
 Screenshot of the new dashboard including user-defined tiles for different types of data on the genus *Bauhinia*.
 <br>

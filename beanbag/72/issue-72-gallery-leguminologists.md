@@ -27,18 +27,18 @@ David Neill was an American botanist who spent most of his career in Ecuador, li
 David's botanical collecting started during his time as a Peace Corps volunteer in Nicaragua. He went on to do his PhD at Washington University, defending his thesis entitled *Experimental and Ecological Studies on Species Relationships in Erythrina (Leguminosae, Papilionoideae)*, in 1984, under the supervision of Peter Raven. David's doctoral research focused especially on experimental studies including crossability, hybridization and pollination among species of *Erythrina* and resulted in two landmark papers on these topics. Even today, 40 years later, there are very few woody plant genera for which interspecific crossability studies have been undertaken. As part of his PhD, he also spent many months collecting and observing the hummingbird pollinators of *Erythrina* species in Central America, again a remarkable contribution to our understanding of the pollination biology of tropical arborescent species. *Erythrina* x *neillii* Mabb. & Lorence was named for David in recognition of this work. 
 
 
-![](/assets/images/david-neill-2019.jpg) David Neill, 2019. Photo: John Clark. 
+![](/assets/images/72/david-neill-2019.jpg) David Neill, 2019. Photo: John Clark. 
 <br> 
 
 From 1985 to 2010 David worked as Curator and resident botanist in Ecuador for the Missouri Botanical Garden and was Honorary Administrative Director at the National Herbarium of Ecuador (QCNE). Latterly he was Professor at the Universidad Estatal Amazónica, in Puyo, Pastaza and the Universidad Regional Amazónica IKIAM, at Tena in the Ecuadorian Amazon. A passionate advocate for both botanical science and conservation, David was co-founder and President and Executive Director of Fundación Jatun Sacha in Ecuador and, with Ecuadorian colleagues, in 1986, he established the Jatun Sacha Biological Station in Napo Province. David is widely known and respected for mentoring numerous generations of Ecuadorian and other Latin American botanists through his teaching. A considerable number of his collections were made with students, and his specimen labels are notable for their detailed and precise information, useful for understanding the ecological context in which the specimen was collected. Those of us who knew David and had the privilege of collaborating with him, always appreciated his calm, diligent, and gentle demeanour. Whilst always soft-spoken, he effortlessly commanded respect through his quiet, profound and unassuming presence. 
 
-![](/assets/images/david-neill-2.jpg) 
+![](/assets/images/72/david-neill-2.jpg) 
 Clock-wise from top left: David at the Jatun Sacha Reserve in 2023. Pressing plants at the field station of Reserva Canandé, Ecuadorian Chocó in 2018, photo Bente Klitgaard. Pressing plants, Cordillera del Cóndor, 2014. David in the Cordillera del Cóndor, 2016. Except when mentioned, all photos by John Clark.
 <br>
 
 Although David's botanical interests and knowledge were broad and his taxonomic work spanned various plant families, including especially Araliaceae and Magnoliaceae, throughout his career he worked on legumes and made diverse contributions to our knowledge of the family. He was lead author of the legume family for the *Catalogue of the Vascular Plants of Ecuador* (1999):the *Libro Rojo de las Plantas Endémicas del Ecuador* (2000 & 2011) and the *Catálogo de las Plantas Vasculares de Bolivia* (2014). That broad legume-wide taxonomic span was reflected in the new legume taxa which he discovered and described in Caesalpinioideae (*Stryphnodendron porcatum* & *Parkia nana*) and Detarioideae (*Browneopsis puyensis* & the new genus *Ecuadendron*). The genus *Ecuadendron* (named from *Ecuador* = equator in Spanish and *dendron* = tree in Greek) described by David in 1998 epitomises his interests in Ecuadorian trees and legumes. 
 
-![](/assets/images/ecuadendron-acosta-solisianum.jpg)
+![](/assets/images/72/ecuadendron-acosta-solisianum.jpg)
 The monospecific legume genus *Ecuadendron*, described by David Neill in 1998, is a 30 m tall canopy tree, endemic to the Chocó rain forests of Ecuador, with long pendulous inflorescences of resupinate flowers with a rose to brick-red-coloured calyx and cream corolla, traits likely connected to bat pollination. Photos taken in the Reserva Canandé by Francisco Sornoza, Fundación Jocotoco; see also Lozano, P., Klitgaard, B., Neill, D. and Roa, L. 2022. Endemic Plants of Canandé Reserve. *Field Museum field guides* 1453. Drawing: John Myers. 
 <br>
 
@@ -88,7 +88,7 @@ Her pursuit of botany led her to the University of California, Davis, where she 
 At LSU in Baton Rouge, Louisiana, where Dr. Tucker spent the majority of her professional life, she built a highly productive career as a professor of botany. She authored over 140 seminal papers on floral morphology and plant systematics, many focused on characterizing the complex floral development of legumes of all subfamilies and from all parts of the world. Her work, often as the sole author, was characterized by meticulous observation, frequently utilizing scanning electron microscopy to describe in detail organogenesis and organ development in diverse legumes.
 
 
-![](/assets/images/shirley-tucker-peter-raven.jpg)
+![](/assets/images/72/shirley-tucker-peter-raven.jpg)
 Shirley Tucker accepting the BSA’s Centennial Award in 2006 from Dr. Peter Raven. The award acknowledged and honored outstanding service to the plant sciences and the Society. Photo by Bill Dahl, Botanical Society of America.
 <br>
 
@@ -106,7 +106,7 @@ World-renowned morphologist and a generous benefactor, her journey has been one 
 
 Shirley Tucker's work has helped many taxonomists and phylogeneticists to find important morphological synapomorphies for different groups of Leguminosae. Among her contributions, noteworthy ontogenetic findings corroborate the segregation of *Cassia, Senna,* and *Chamaecrista*; distichous inflorescence arrangement in Dialioideae; the pentamerous base of the tetralobed calyx in many Detarioideae; and the base of dioecy in *Ceratonia*, among others. A selection from Shirley Tucker's numerous important articles follows below.
 
-![](/assets/images/shirley-and-vidal.png)
+![](/assets/images/72/shirley-and-vidal.png)
 Shirley between Ken, to the left, and me (Vidal Mansano), to the right, at the Santa Barbara Museum of Natural History with a flowering Cercis tree behind us. "In 2001 during my PhD I went to Santa Barbara for two months to work with Shirley Tucker and study the floral development of some atypical Papilionoideae flowers. My first experience overseas. It was one of the most significant scientific happenings of my entire career!"
 <br>
 
@@ -132,7 +132,7 @@ Shirley between Ken, to the left, and me (Vidal Mansano), to the right, at the S
 
 **Tucker, S.C. 2003.** Floral development in legumes. *Plant Physiology*, *131*(3):911-926. 
 
-![](/assets/images/cassia-ajb-1996.png)
+![](/assets/images/72/cassia-ajb-1996.png)
 <br>
 <br>
 ![](/assets/images/ceratonia-ajb-1992.png)

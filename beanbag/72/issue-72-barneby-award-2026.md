@@ -13,7 +13,7 @@ sideNavigation: sidenav.beanbag71
 <br>
 <br>
 
-![](/assets/images/barneby-081.jpg)
+![](/assets/images/72/barneby-081.jpg)
 Barneby in office at the New York Botanical Garden (1989). Photo from The Barneby Legume Catalogue, by the NYBG.
 <br>
 

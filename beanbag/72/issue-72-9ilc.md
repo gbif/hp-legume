@@ -19,5 +19,5 @@ Following the success of the 8th International Legume Conference (8ILC) in Brazi
 	The conference is provisionally scheduled for **July 2027**. We cordially invite legume botanists worldwide to support the 9ILC and participate in planning discussions. Further details will be announced in the coming months. We are thrilled by the prospect of welcoming you to Kunming to continue the tradition of excellence and collaboration embodied by the International Legume Conferences.
 
 
-![](/assets/images/kib.jpg)
+![](/assets/images/72/kib.jpg)
 The Germplasm Bank of Wild Species (GBWS), Kunming Institute of Botany (KIB), Chinese Academy of Sciences (CAS), Kunming, Yunnan, in southwestern of China

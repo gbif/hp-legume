@@ -25,7 +25,7 @@ This year's new species highlights come from Argentina, Brazil, Chile, China, Ec
 
 **Rosende, B., Lavandero, N., Araneda, D. and Pérez, M.F. 2025.** ﻿ *Adesmia ephedroides* (Fabaceae, Faboideae), a new species from the Mediterranean-type ecosystem of Valparaíso Region, Chile. *PhytoKeys* *259*: 301-317. <https://doi.org/10.3897/phytokeys.259.156135>
 
-![](/assets/images/adesmia-ephedroides.jpg)
+![](/assets/images/72/adesmia-ephedroides.jpg)
 *Ephedra*-like habit growing in rocky crevices, flowers and fruit with plumose trichomes of *Adesmia ephedroides*. Photos: habit and fruit Benito Rosende; flowers Nicolás Lavandero.
 <br>
 <br>
@@ -34,7 +34,7 @@ This year's new species highlights come from Argentina, Brazil, Chile, China, Ec
 
 *Ancistrotropis pulchra* (Papilionoideae) is a micro-endemic, known only from the Parque Nacional do Caparaó, on the border between the states of Espírito Santo and Minas Gerais, in Brazil. Because of its global rarity it has been categorized as Critically Endangered. It occurs in high-altitude grasslands near cliff edges, at around 1,900 metres elevation, within the Atlantic Forest domain. The genus *Ancistrotropis* belongs in subtribe Phaseolinae of tribe Phaseoleae and, along with *Delgadoana* and *Sigmoidotropis*, is placed in the Sigmoid-keel clade characterized by a hooded standard petal, sigmoid-shaped keel petals with a hooked distal tubular region joined by interlacing marginal trichomes, and wings that are laterally parallel and perpendicular to the standard.
 
-![](/assets/images/ancistrotropis-pulchra.jpg)
+![](/assets/images/72/ancistrotropis-pulchra.jpg)
 Flowers and leaves of *Ancistrotropis pulchra*. Photos: Felipe Santos.
 <br>
 
@@ -46,15 +46,15 @@ Flowers and leaves of *Ancistrotropis pulchra*. Photos: Felipe Santos.
 
 With just six species previously recognized in the genus, these three new species of *Apios* (Papilionoideae), expand the number of species by 50% and break the general rule that most newly described species belong in large species-rich genera. All three new species of *Apios* are endemic to different provinces of China: *A. brevis* in bamboo forests of Anhui Province, *A. calcicola* in karst forests of Guangxi and Guizhou Provinces, and *A. chindiana* in humid secondary forests in Zhejiang and Fujian Provinces. All are twining perennial climbers with white latex and have a hooded standard petal and coiled or curved wing petals and style typical of the genus *Apios*, and two of the species have tubers.
 
-![](/assets/images/apios-calcicola.jpg)
+![](/assets/images/72/apios-calcicola.jpg)
 Inflorescence, trifoliolate leaves, flowers and tubers of *Apios calcicola*. Photos: Zhao-Cen Lu.
 <br>
 
-![](/assets/images/apios-chindiana.jpg)
+![](/assets/images/72/apios-chindiana.jpg)
 Habit, flowers, fruits and tubers of *Apios chindiana*. Photos: Jian-Sheng Wang & Jun-Feng Wang.
 <br>
 
-![](/assets/images/apios-brevis.jpg)
+![](/assets/images/72/apios-brevis.jpg)
 Trifoliolate leaf, inflorescence, flowers, pods and seeds of *Apios brevis*. Photos: Xin-Xin Zhu.
 <br>
 
@@ -70,11 +70,11 @@ Trifoliolate leaf, inflorescence, flowers, pods and seeds of *Apios brevis*. Pho
 
 Every year several new species of *Astragalus* (Papilionoideae), the largest genus of legumes (and indeed of flowering plants as a whole) with \> 3100 species, are described. This year was no exception with \> 10 new species published in 2025. Here we highlight three new species endemic to the stony, arid steppes of Mongolia and one narrowly endemic to northern Balochistan along the Pakistan--Afghanistan border. These add to the incredible diversity of the genus in central and south-west Asia.
 
-![](/assets/images/astragalus-mongolia.jpg)
+![](/assets/images/72/astragalus-mongolia.jpg)
 *Astragalus uvsicus*, *A. oyunicus* and *A. teshigicus* from Mongolia. Photos: D. Munkhtulga.
 <br>
 
-![](/assets/images/astragalus-zhobensis.jpg)
+![](/assets/images/72/astragalus-zhobensis.jpg)
 *Astragalus zhobensis* from Pakistan. Photos: Tahir Khan.
 <br>
 
@@ -88,7 +88,7 @@ Every year several new species of *Astragalus* (Papilionoideae), the largest gen
 	
 *Bauhinia angelae* (Cercidoideae) is endemic to the Caatinga -- the seasonally dry tropical forests -- of NE Brazil where 15 species of *Bauhinia* are found, three of them endemic. The specific epithet honours Dr. Angela Maria Studart da Fonseca Vaz, former researcher at the Rio de Janeiro Botanical Garden, for her contribution to the knowledge of the Brazilian legumes, and especially for her research on *Bauhinia* and related genera in Brazil. This new species is a split from *B. catingae* and underscores the importance of careful analysis of seemingly "common collected species", which often contain cryptic taxa hidden within their original circumscription, leading to problematic identification.
 
-![](/assets/images/bauhinia_angelae.jpg)
+![](/assets/images/72/bauhinia_angelae.jpg)
 *Bauhinia angelae* flowers and leaf. Photos: Rubens Queiroz and Andrés Fonseca-Cortes.
 <br>
 
@@ -100,7 +100,7 @@ Every year several new species of *Astragalus* (Papilionoideae), the largest gen
 
 Species delimitation in the large pantropical genus *Copaifera* continues to be taxonomically challenging due to a high degree of morphological plasticity and overlapping morphologies. These challenges demand careful evaluation of multiple characters, as pursued here, in order to discern robust species diagnoses. *Copaifera ferrazii* is a large tree narrowly endemic to Amazonas State, Brazil and grows in tropical rain forest. The species description is magnificently illustrated with an elegant botanical line drawing and a beautifully produced composite photo-based colour plate that comprehensively encapsulates the morphology of the species.
 
-![](/assets/images/copaifera-ferrazii.jpg)
+![](/assets/images/72/copaifera-ferrazii.jpg)
 Tree form, foliage and inflorescence, flower and fruit of *Copaifera ferrazii*. Photos: Elzineide Moreira do Carmo.
 <br>
 
@@ -111,7 +111,7 @@ Tree form, foliage and inflorescence, flower and fruit of *Copaifera ferrazii*. 
 
 *Crotalaria luteopurpurea* (Papilionoideae), newly described from the drylands of Karnataka State in India, is a procumbent, ruderal, annual herb growing in loose sandy soils in and around cultivated fields. It has dimorphic leaves and individual stems usually bear a solitary flower. The elegant photo plate in the paper shows off the striking contrast between the bright yellow banner petal juxtaposed against the deep purple wing petals of the flowers of *C. luteopurpurea*, which owes its name to this dramatic flower colour contrast.
 
-![](/assets/images/crotalaria-luteopurpurea.jpg)
+![](/assets/images/72/crotalaria-luteopurpurea.jpg)
 Annual herbaceous habit and solitary flowers of *Crotalaria luteopurpurea*. Photos: Jagdish Dalavi.
 <br>
 
@@ -123,7 +123,7 @@ Annual herbaceous habit and solitary flowers of *Crotalaria luteopurpurea*. Phot
 
 Combined morphological, anatomical, and molecular evidence are presented to support the recognition of *Derris longiracemosa* (Papilionoideae) as a distinct species. A detailed description, distribution map, line drawing, photographs, and preliminary IUCN conservation status are presented. The species epithet, *longiracemosa*, refers to the unusually long inflorescences of the species which can reach \> 150 cm, the longest recorded for any species of *Derris*. *Derris longiracemosa* is a liana, narrowly endemic to southwestern Thailand and restricted largely to karst limestone hilltops with wind-dispersed winged fruits. The authors suggest edaphic specialization to karst substrates has likely contributed to ecological segregation, setting the stage for divergence and eventual speciation within this complex landscape.
 
-![](/assets/images/derris-longiracemosa.jpg)
+![](/assets/images/72/derris-longiracemosa.jpg)
 *Derris longiracemosa*: habit and inflorescences; close-up of inflorescence showing cluster of flowers on brachyblasts; flowers; unripe pods; leaves and long inflorescences. Photos: Yotsawate Sirichamorn.
 <br>
 
@@ -135,7 +135,7 @@ Combined morphological, anatomical, and molecular evidence are presented to supp
 
 *Erythrostemon guatemalensis* (Caesalpinioideae) is an Endangered micro-endemic to Dept. Sacatepéquez, at mid elevations in seasonally dry tropical forests and in the transition to montane forests of the Pacific slope of Guatemala. In common with many dry tropical forest tree species, *E. guatemalensis* is locally abundant, but globally extremely rare, with a total extent of occurrence of \< 50km^2. The description of this species is lavishly illustrated with five photoplates and two line drawings. As noted by the authors, in their phylogeny, *E. guatemalensis* is nested among accessions of *E. exostemma*, highlighting the need for a more densely sampled phylogenetic study of the *E. exostemma* species alliance.
 
-![](/assets/images/erythrostemon-guatemalensis.jpg)
+![](/assets/images/72/erythrostemon-guatemalensis.jpg)
 Bark and flowers of *Erythrostemon guatemalensis* and bee pollinator, *Xylocopa frontalis* on flowers. Photos: Knut Eisermann.
 <br>
 
@@ -147,7 +147,7 @@ Bark and flowers of *Erythrostemon guatemalensis* and bee pollinator, *Xylocopa 
 
 *Indigofera stolonifera* (Papilionoideae) is a micro-endemic, known from just the type locality in Misiones Province, northeastern Argentina. The stoloniferous herbaceous habit with elongated prostrate branches which give rise to new individuals, for which the species is named, is unique among South American *Indigofera*.
 
-![](/assets/images/indigofera-stolonifera.jpg)
+![](/assets/images/72/indigofera-stolonifera.jpg)
 *Indigofera stolonifera* habit and flowers. Photos: Héctor Alexander Keller.
 <br>
 
@@ -161,7 +161,7 @@ Bark and flowers of *Erythrostemon guatemalensis* and bee pollinator, *Xylocopa 
 
 The species is named in honour of the Tukano people who inhabit the forests of the Upper Rio Negro basin and are the largest ethnic group within the Balaio Indigenous Territory. It grows in low-stature forests on rocky and sandy soils in the Serra de Tunuí, as well as on iron-rich *canga* in the Morro dos Seis Lagos, an area which appears to harbour a poorly-known flora with high levels of endemism of species adapted to iron-rich soils.
 
-![](/assets/images/macrolobium-tukanorum.jpg)
+![](/assets/images/72/macrolobium-tukanorum.jpg)
 Flowers, fruits, leaves and seed of *Macrolobium tukanorum*. Photos: Mário Terra-Araújo.
 
 Farroñay, F., Cardoso, D.B.O.S., Pilco, M.V., Terra-Araújo, M.H. and Vicentini, A. 2025. *Macrolobium tukanorum* (Leguminosae, Detarioideae), a new species from the Upper Rio Negro basin. *Brittonia* 77: 40-50. <https://doi.org/10.1007/s12228-025-09827-0> <br> <br>
@@ -172,7 +172,7 @@ Farroñay, F., Cardoso, D.B.O.S., Pilco, M.V., Terra-Araújo, M.H. and Vicentini
 
 The species is named in honour of David Neill (1953--2025), an American botanist who dedicated over three decades to the study of Ecuadorian flora and who worked extensively on legumes (see Gallery of Leguminologists, this BB Issue).
 
-![](/assets/images/ormosia-neillii.jpg)
+![](/assets/images/72/ormosia-neillii.jpg)
 Trunk with bark slash, leaflet, flower and fruits of *Ormosia neillii*; photos Juan E. Guevara and John L. Clark.
 <br>
 
@@ -190,7 +190,7 @@ The idea that there are still giant, canopy-emergent rainforest legume tree spec
 
 Tragically, in October 2025, Aloyce Mwakisoma, a renowned plant expert from Tanzania's Udzungwa Mountains, who co-discovered and co-authored *T. princeps*, and who appears in the photo below with the buttressed tree bole, [was struck and killed by a bus near the village of Sanje in Tanzania](https://news.mongabay.com/2025/10/tanzanian-conservationists-mourn-death-of-plant-expert-aloyce-mwakisoma/).
 
-![](/assets/images/tessmannia-princeps.jpg)
+![](/assets/images/72/tessmannia-princeps.jpg)
 Aloyce Mwakisoma beside buttressed bole, canopy-emergent tree crown, leaves and flowers of *Tessmannia princeps*. Photos: Andrea Bianchi.
 <br>
 

@@ -1,7 +1,7 @@
 ---
 layout: documentation
-lang-ref: beanbag/72/issue-72-student-digest
-permalink: /beanbag/72/issue-72-student-digest
+lang-ref: beanbag/72/issue-72-student-digests
+permalink: /beanbag/72/issue-72-student-digests
 title: Student Digests
 description: Issue 72 - Student Digest
 sideNavigation: sidenav.beanbag72
@@ -23,7 +23,7 @@ One potential key morphological innovation is the keel flower, a pollination syn
 
 In an exciting study published this year, Cai et al. tested whether the evolution of keel flowers is the main driver behind bursts of diversification in Fabales. They generated a robust phylogenomic framework using 1,456 low-copy nuclear genes from 287 legume species and dated the tree with eleven fossils. This backbone phylogeny was used to constrain uncertain nodes in a larger matK phylogeny including 3,326 Fabales species. They then estimated diversification-rate shifts with Bayesian Analysis of Macroevolutionary Mixtures (BAMM). After coding species by flower type (keel vs. non-keel), they inferred diversification rates under state-dependent and state-independent speciation and extinction (SSE) models (e.g. models accounting for the correlation between keel flower evolution and bursts of diversification and models where these two variables are independent) for both their entire dataset (Fabales) and Papilionoideae only. They also conducted a phylogenetic ANOVA to compare tip rates between keel and non-keel species and inferred keel flowers evolution with ancestral state estimation.
 
-![](/assets/images/keel-flowers.jpg)
+![](/assets/images/72/keel-flowers.jpg)
 Diversity of shapes and colors in Papilionoideae keel flowers. Clockwise from top left. *Luetzelburgia andrade-limae* H.C.Lima. *Eriosema defoliatum* Benth.. *Lupinus paraguariensis* Chodat & Hassl. *Hymenolobium heterocarpum* Ducke. Photos by Thiago Cobra e Monteiro.
 <br>
 

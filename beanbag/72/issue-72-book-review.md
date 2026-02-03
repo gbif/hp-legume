@@ -1,7 +1,7 @@
 ---
 layout: documentation
 lang-ref: beanbag/72/issue-72-book-review
-permalink: /beanbag/72/issue-72-5book-review
+permalink: /beanbag/72/issue-72-book-review
 title: Book Revies
 description: Issue 72 - Book Review
 sideNavigation: sidenav.beanbag72
@@ -23,7 +23,7 @@ Volume 3 published in 2013, followed by Volume 4 in 2016 and Volume 2 in 2020, a
 
 For each species, the description is accompanied by photos to highlight its characteristic morphological features for ease of identification. A nomenclatural history, the protologue, a detailed morphological description, as well as the conservation status, etymology, ecology and a distribution map are presented. In addition, for each taxonomic group, the authors have included an identification key to the species, tables of comparative characters, an exhaustive list of species, a recent literature review and a history of the taxonomy. An index to synonyms is included to facilitate searching for names. Notably, Volume 1 presents an identification key to all legumes of France, in itself an impressive feat to be commended.
 
-![](/assets/images/monographie-france.jpg)
+![](/assets/images/72/monographie-france.jpg)
 Cover and some pages of Tome 1 of the Monographie des Leguminosae de France.
 <br>
 
