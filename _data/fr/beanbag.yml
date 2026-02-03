@@ -3,6 +3,17 @@ issues:
   description: |
     Les volumes précédents sont disponibles sur le [Kew Research Repository](https://kew.iro.bl.uk/collections/b50e6210-e231-4392-9301-c07bdce223cc) et la [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/search?searchTerm=bean+bag#/titles).
   features:
+    - preTitle: Année 2025  # optional
+      title: Volume 72 # rerquired
+      background: /assets/images/72/cover-issue-72.jpg
+      href: /beanbag/72/72content
+      cta:
+      - text: Téléchargement
+        href: /media/The_BB_Newsletter_Issue72_2025.pdf
+        isPrimary: true
+      - text: Lecture
+        href: /beanbag/72/72content
+        isPrimary: true
     - preTitle: Année 2024  # optional
       title: Volume 71 # rerquired
       background: /assets/images/71/cover-issue-71.jpg

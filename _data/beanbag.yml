@@ -14,7 +14,7 @@ issues:
       - text: Read
         href: /beanbag/72/72content
         isPrimary: true    
-      - preTitle: Year 2024
+    - preTitle: Year 2024
       title: Issue 71
       background: /assets/images/71/cover-issue-71.jpg
       href: /beanbag/71/71content

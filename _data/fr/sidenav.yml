@@ -286,3 +286,51 @@ beanbag71:
   content:
     - title: 2024 Legume Bibliography
       path: /beanbag/71/issue-71-legume-bibliography-2024
+beanbag72:
+- content:
+  - title: Table of contents
+    path: /beanbag/72/72content
+  - title: Welcome note
+    path: /beanbag/72/issue-72-welcome-note
+- grouptitle: Legume Phylogeny Working Group Updates
+  content:
+  - title: Taxonomy Working Group
+    path: /beanbag/72/issue-72-taxonomy-working-group
+  - title: Phylogenomics Working Group
+    path: /beanbag/72/issue-72-phylogenomics-working-group
+  - title: Occurrence Data Working Group
+    path: /beanbag/72/issue-72-occurrence-wg
+  - title: Traits Working Group
+    path: /beanbag/72/issue-72-traits-working-group
+  - title: Legume Data Portal
+    path: /beanbag/72/issue-72-legume-data-portal
+- grouptitle: Announcements
+  content: 
+  - title: Barneby Award 2026
+    path: /beanbag/72/issue-72-barneby-award-2026
+  - title: News on the 9th International Legume Conference (9ILC)
+    path: /beanbag/72/issue-72-9ilc
+- grouptitle: Articles
+  content:
+  - title: 50 Years Of Bean Bags
+    path: /beanbag/72/issue-72-50-years-bean-bag
+  - title: 'Artist spotlight: Gillian Condy'
+    path: /beanbag/72/issue-72-artist-spotlight-gillian-condy
+  - title: Book Review
+    path: /beanbag/72/issue-72-book-review
+  - title: Student Digest
+    path: /beanbag/72/issue-72-student-digests
+  - title: Galery of Leguminologists
+    path: /beanbag/72/issue-72-gallery-leguminologists
+  - title: New Legume Species Highlights 2025
+    path: /beanbag/72/issue-72-new-legume-species-highlights
+- grouptitle: Gallery
+  content:
+  - title: Legume Shots of the Year
+    path: /beanbag/72/issue-72-legume-shots
+  - title: Legume Artwork
+    path: /beanbag/72/issue-72-legume-artwork
+- grouptitle: Bibliography
+  content:
+    - title: Legume Bibliography 2025
+      path: /beanbag/72/issue-72-legume-bibliography-2025
