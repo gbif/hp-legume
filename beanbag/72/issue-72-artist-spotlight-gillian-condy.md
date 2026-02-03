@@ -3,7 +3,7 @@ layout: documentation
 lang-ref: beanbag/72/issue-72-artist-spotlight-gillian-condy
 permalink: /beanbag/72/issue-72-artist-spotlight-gillian-condy
 title: Artist Spotlight
-description: Artisti Spotlight: Gillian Condy
+description: 'Artisti Spotlight: Gillian Condy'
 sideNavigation: sidenav.beanbag72
 ---
 
