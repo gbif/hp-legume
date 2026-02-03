@@ -6,14 +6,15 @@ issues:
     - preTitle: Year 2025
       title: Issue 72
       background: /assets/images/72/cover-issue-72.jpg
-      href: /beanbag/72/BeanBag72
+      href: /beanbag/72/72content
       cta:
       - text: Download
         href: /media/The_BB_Newsletter_Issue72_2025.pdf
         isPrimary: true
       - text: Read
-        href: /beanbag/71/71content
-        isPrimary: true    - preTitle: Year 2024
+        href: /beanbag/72/72content
+        isPrimary: true    
+      - preTitle: Year 2024
       title: Issue 71
       background: /assets/images/71/cover-issue-71.jpg
       href: /beanbag/71/71content
