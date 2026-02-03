@@ -14,33 +14,33 @@ description: Content of the issue 72 (2025)
 
 ## From the Editors
 
-[**Welcome Note**](/beanbag/72/issue-72-welcome-note.md)  
+[**Welcome Note**](/beanbag/72/issue-72-welcome-note)  
 Leonardo Borges & J. Stephen Boatwright
 
 ## Legume Phylogeny Working Group Updates
 
-[**Taxonomy Working Group**](/beanbag/72/issue-72-taxonomy-working-group.md)  
+[**Taxonomy Working Group**](/beanbag/72/issue-72-taxonomy-working-group)  
 Marianne le Roux, Anne Bruneau & Juliana Gastaldello Rando  
 
-[**Phylogenomics Working Group**](/beanbag/72/issue-72-phylogenomics-working-group.md)  
+[**Phylogenomics Working Group**](/beanbag/72/issue-72-phylogenomics-working-group)  
 Felix Forest  
 
-[**Occurrence Data Working Group**](/beanbag/72/issue-72-occurrence-working-group.md)  
+[**Occurrence Data Working Group**](/beanbag/72/issue-72-occurrence-working-group)  
 Edeline Gagnon, Joe Miller & Jens Ringelberg  
 
-[**Traits Working Group**](/beanbag/72/issue-72-traits-working-group.md)  
+[**Traits Working Group**](/beanbag/72/issue-72-traits-working-group)  
 Leonardo Borges & Renske Onstein
 
-[**Legume Data Portal**](/beanbag/72/issue-72-legume-data-portal.md/72)  
+[**Legume Data Portal**](/beanbag/72/issue-72-legume-data-portal)  
 Anne Bruneau, Carole Sinou, Flávia Pezzini & Joe Miller
   
 
 ## Announcements
 
-[**Barneby Award 2026**](/beanbag/72/issue-72-barneby-award-2025.md)  
+[**Barneby Award 2026**](/beanbag/72/issue-72-barneby-award-2025)  
 Ben Torke  
 
-[**News on the 9th International Legume Conference (9ILC)**](/beanbag/72/issue-72-9ilc.md)    
+[**News on the 9th International Legume Conference (9ILC)**](/beanbag/72/issue-72-9ilc)    
 Tingshuang Yi  
 
 <div style="page-break-after: always;"></div> 
@@ -48,32 +48,32 @@ Tingshuang Yi
 
 ## Articles
 
-[**50 Years Of Bean Bags**](/beanbag/72/issue-72-50-years-bean-bag.md)  
+[**50 Years Of Bean Bags**](/beanbag/72/issue-72-50-years-bean-bag)  
 Colin Hughes
 
-[**Artist spotlight: Gillian Condy**](/beanbag/72/issue-72-artist-spotlight-gillian-condy.md)  
+[**Artist spotlight: Gillian Condy**](/beanbag/72/issue-72-artist-spotlight-gillian-condy)  
 J. Stephen Boatwright
 
-[**Book Review**](/beanbag/72/issue-72-book-review.md)  
+[**Book Review**](/beanbag/72/issue-72-book-review)  
 Anne Bruneau
 
-[**Student Digest**](/beanbag/72/issue-72-student-digests.md)  
+[**Student Digest**](/beanbag/72/issue-72-student-digests)  
 Thiago Cobra e Monteiro 
 
-[**Galery of Leguminologists**](/beanbag/72/issue-72-gallery-leguminologists.md)  
+[**Galery of Leguminologists**](/beanbag/72/issue-72-gallery-leguminologists)  
 Colin Hughes, Bente Klitgaard, Anne Bruneau & Vidal Mansano
 
-[**New Legume Species Highlights 2025**](/beanbag/72/issue-72-new-legume-species-highlights.md)  
+[**New Legume Species Highlights 2025**](/beanbag/72/issue-72-new-legume-species-highlights)  
 Colin Hughes  
 
 ## Gallery
 
-[**Legume Shots of the Year**](/beanbag/72/issue-72-legume-shots.md)
+[**Legume Shots of the Year**](/beanbag/72/issue-72-legume-shots)
 
-[**Legume Artwork**](/beanbag/72/issue-72-legume-artwork.md)
+[**Legume Artwork**](/beanbag/72/issue-72-legume-artwork)
 
 ## Bibliography
 
-[**Legume Bibliography 2025**](/beanbag/72/issue-72-legume-bibliography-2025.md)  
+[**Legume Bibliography 2025**](/beanbag/72/issue-72-legume-bibliography-2025)  
 Brian du Preez & Marcus Falcão
 
