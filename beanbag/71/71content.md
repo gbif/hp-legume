@@ -79,10 +79,10 @@ Colin Hughes & Toby Pennington
 
 ### Student Digests
 
-**[Morphology and Evolution of Floral Nectaries in Legumes](/beanbag/71/issue-71-students-digests)**   
+**[Morphology and Evolution of Floral Nectaries in Legumes](/beanbag/71/issue-71-student-digests)**   
 Andrews Vinicius Silva 
 
-**[Evolutionary history and root trait coordination predict nutrient strategy in tropical legume trees](/beanbag/71/issue-71-students-digests)**  
+**[Evolutionary history and root trait coordination predict nutrient strategy in tropical legume trees](/beanbag/71/issue-71-student-digests)**  
 Lydia K. Madika
 
 ### Legume Discoveries
