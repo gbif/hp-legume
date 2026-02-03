@@ -37,7 +37,7 @@ Anne Bruneau, Carole Sinou, Flávia Pezzini & Joe Miller
 
 ## Announcements
 
-[**Barneby Award 2026**](/beanbag/72/issue-72-barneby-award-2025)  
+[**Barneby Award 2026**](/beanbag/72/issue-72-barneby-award-2026)  
 Ben Torke  
 
 [**News on the 9th International Legume Conference (9ILC)**](/beanbag/72/issue-72-9ilc)    
