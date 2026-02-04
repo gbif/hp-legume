@@ -4,7 +4,7 @@ lang-ref: beanbag/72/issue-72-barneby-award-2026
 permalink: /beanbag/72/issue-72-barneby-award-2026
 title: The Rupert Barneby Award of The New York Botanical Garden
 description: Issue 72 - The Rupert Barneby Award of The New York Botanical Garden
-sideNavigation: sidenav.beanbag71
+sideNavigation: sidenav.beanbag72
 ---
 
 # THE RUPERT BARNEBY AWARD OF THE NEW YORK BOTANICAL GARDEN
