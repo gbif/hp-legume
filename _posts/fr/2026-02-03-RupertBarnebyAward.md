@@ -8,7 +8,7 @@ background: /assets/images/RupertBarneby.jpg
 preTitle: 4 février 2026
 ---
 
-Le prix Rupert Barneby, nommé en l'honneur de l'ancien chercheur scientifique du NYBG et expert renommé sur les légumineuses, 
+Le prix Rupert Barneby, nommé en l'honneur du regretté chercheur scientifique du NYBG et expert renommé sur les légumineuses, 
 consiste en une bourse annuelle de 2000 $ US afin de faciliter la visite de chercheurs au New York Botanical Garden 
 pour étudier la riche collection de légumineuses conservée à l'herbier. 
 Les étudiants aux cycles supérieurs et les chercheurs en début de carrière travaillant sur la systématique et/ou la 
