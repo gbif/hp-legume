@@ -2,7 +2,7 @@
 title:  "Rupert Barneby Award, New York Botanical Garden - Funding Opportunity"
 date:   2026-02-03 10:00:00 +0100
 categories: ["Call"]
-lang-ref: Call2025
+lang-ref: Call2026
 lang: en
 background: /assets/images/RupertBarneby.jpg
 preTitle: 4 February 2026
