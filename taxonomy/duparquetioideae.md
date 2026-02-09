@@ -42,15 +42,7 @@ Below is an alphabetical list of all genera accepted by the LPWG with links out 
 
 Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume Taxonomy Working Group](/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessible by [Browse](/taxonomy/browse) or  [Advanced Search](/taxonomy/search).
 
-
-|Genus                  |     Data Source                     | 
-| --------------------- |------------------------------|-----------------------|
-|	Duparquetia Baill.	|	[Legume Data Portal](/taxonomy/taxon/2779361) | [GBIF](https://www.gbif.org/species/2968139)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17014-1)	|
-
-
-
-
-|Species                  |     Data Source                     |
-| --------------------- |------------------------------|-----------------------|
-|	Duparquetia orchidacea Baill.	|	[Legume Data Portal](/taxonomy/taxon/2779362) | [GBIF](https://www.gbif.org/species/2968140)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:380758-1)	|
+|  Genus  |  Data Source  |
+|----------------------|------------------------|---------------------------|------------------------|------------------------|
+|Duparquetia Baill.|[Legume Data Portal](/taxonomy/taxon/2779361)|[GBIF](https://www.gbif.org/species/2968139)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17014-1)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000012750)
 
