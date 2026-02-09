@@ -88,7 +88,8 @@ Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume T
 
 Genera indicated with an asterisk (\*\) are members of tribe Mimoseae (formerly subfamily Mimosoideae).
 
-Genus|Subfamily|Data Source|||
+|  Genus  |  Subfamily  |  Data Source  |
+|----------------------|------------------------|---------------------------|------------------------|------------------------|
 Abarema Pittier|[Caesalpinioideae](/taxonomy/caesalpinioideae)|[Legume Data Portal](/taxonomy/taxon/2609286)|[GBIF](https://www.gbif.org/species/2977807)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30032383-2)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000000013)
 Acacia Mill.|[Caesalpinioideae](/taxonomy/caesalpinioideae)|[Legume Data Portal](/taxonomy/taxon/2611079)|[GBIF](https://www.gbif.org/species/2978223)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:325783-2)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000000074)
 Acaciella Britton & Rose|[Caesalpinioideae](/taxonomy/caesalpinioideae)|[Legume Data Portal](/taxonomy/taxon/2614366)|[GBIF](https://www.gbif.org/species/6627713)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296613-2)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000000075)
