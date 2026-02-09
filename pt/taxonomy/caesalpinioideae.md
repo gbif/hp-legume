@@ -16,7 +16,7 @@ toc: true
 ---
 
 ## Introduction
-Caesalpinioideae, which includes the nested mimosoid clade (former subfamily Mimosoideae), comprises 163 genera and c. 4680 species, with c. 75% of the species in the mimosoid clade. Recent phylogenomic work provides a robust phylogenomic backbone for a new tribal classification of Caesalpinioideae, which is forthcoming soon. 
+Caesalpinioideae, which includes the nested mimosoid clade (former subfamily Mimosoideae), comprises 163 genera and c. 4680 species, with c. 75% of the species in the mimosoid clade. Recent phylogenomic work provides a robust phylogenomic backbone for the new tribal classification of Caesalpinioideae. 
 
 Caesalpinioideae date to the late Paleocene when the subfamily is known from fossil bipinnate leaves from Colombia. These fossils indicate that Caesalpinioideae were already an abundant element in the earliest Neotropical rain forests in the Paleocene and started to diversify around 58 million years ago. Caesalpinioideae have thus diversified throughout the Cenozoic and now comprise diverse, abundant, and sometimes dominant elements across all major lowland tropical biomes, including tropical rain forests, savannas and seasonally dry tropical forests. 
 
