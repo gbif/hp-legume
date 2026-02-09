@@ -51,26 +51,23 @@ Below is an alphabetical list of all genera accepted by the LPWG with links out 
 
 Please see the [Species List and Synonyms](/taxonomy/species-list) and [Legume Taxonomy Working Group](/working-groups/taxonomy) pages for more taxonomic information. The current taxonomy is accessible by [Browse](/taxonomy/browse) or  [Advanced Search](/taxonomy/search).
 
-
-
-|Genus  | Data Source|
-| --------------------- |------------------------------|------------------------------|
-| Androcalymma Dwyer  |[Legume Data Portal](/taxonomy/taxon/2637022)|  [GBIF](https://www.gbif.org/species/2947111)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296592-2)  |
-| Apuleia Mart. |[Legume Data Portal](/taxonomy/taxon/2644498)|  [GBIF](https://www.gbif.org/species/2955914)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:331358-2)  |
-| Baudouinia Baill. |[Legume Data Portal](/taxonomy/taxon/2671237)|  [GBIF](https://www.gbif.org/species/2963752)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21792-1) |
-| Dialium L.  |[Legume Data Portal](/taxonomy/taxon/2763452)|  [GBIF](https://www.gbif.org/species/2970932)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22238-1) |
-| Dicorynia Benth.  |[Legume Data Portal](/taxonomy/taxon/2766794)|  [GBIF](https://www.gbif.org/species/2944649)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22251-1) |
-| Distemonanthus Benth. |[Legume Data Portal](/taxonomy/taxon/2773184)|  [GBIF](https://www.gbif.org/species/2964856)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22286-1) |
-| Eligmocarpus Capuron  |[Legume Data Portal](/taxonomy/taxon/2787570)|  [GBIF](https://www.gbif.org/species/2960218)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22353-1) |
-| Kalappia Kosterm. |[Legume Data Portal](/taxonomy/taxon/2336144)|  [GBIF](https://www.gbif.org/species/2939855)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22688-1) |
-| Koompassia Maingay ex Benth.  |[Legume Data Portal](/taxonomy/taxon/2336264)|  [GBIF](https://www.gbif.org/species/2952890)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22706-1) |
-| Labichea Gaudich. ex DC.  |[Legume Data Portal](/taxonomy/taxon/2350870)|  [GBIF](https://www.gbif.org/species/2975908)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22721-1) |
-| Martiodendron Gleason |[Legume Data Portal](/taxonomy/taxon/2368514)|  [GBIF](https://www.gbif.org/species/2948702)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326830-2)|
-| Mendoravia Capuron  |[Legume Data Portal](/taxonomy/taxon/2368027)|  [GBIF](https://www.gbif.org/species/2960417)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22926-1) |
-| Petalostylis R.Br.  |[Legume Data Portal](/taxonomy/taxon/2538854)|  [GBIF](https://www.gbif.org/species/8293499)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23198-1) |
-| Poeppigia C.Presl |[Legume Data Portal](/taxonomy/taxon/2535922)|  [GBIF](https://www.gbif.org/species/5938931)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30241950-2)  |
-| Storckiella Seem. |[Legume Data Portal](/taxonomy/taxon/2478158)|  [GBIF](https://www.gbif.org/species/2949438)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23621-1) |
-| Uittienia Steenis |[Legume Data Portal](/taxonomy/taxon/2446612)|  [GBIF](https://www.gbif.org/species/8351407)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23744-1) |
-| Zenia Chun  |[Legume Data Portal](/taxonomy/taxon/2470192)|  [GBIF](https://www.gbif.org/species/2963590)  |[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23839-1) |
-
+|  Genus  |  Subfamily  |  Data Source  |
+|----------------------|------------------------|---------------------------|------------------------|------------------------|
+|Androcalymma Dwyer|[Dialioideae](/taxonomy/dialioideae)|[Legume Data Portal](/taxonomy/taxon/2637022)|[GBIF](https://www.gbif.org/species/2947111)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296592-2)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000001984)
+|Apuleia Mart.|[Dialioideae](/taxonomy/dialioideae)|[Legume Data Portal](/taxonomy/taxon/2644498)|[GBIF](https://www.gbif.org/species/2955914)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:331358-2)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000002800)
+|Baudouinia Baill.|[Dialioideae](/taxonomy/dialioideae)|[Legume Data Portal](/taxonomy/taxon/2671237)|[GBIF](https://www.gbif.org/species/2963752)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21792-1)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000004237)
+|Dialium L.|[Dialioideae](/taxonomy/dialioideae)|[Legume Data Portal](/taxonomy/taxon/2763452)|[GBIF](https://www.gbif.org/species/2970932)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22238-1)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000011286)
+|Dicorynia Benth.|[Dialioideae](/taxonomy/dialioideae)|[Legume Data Portal](/taxonomy/taxon/2766794)|[GBIF](https://www.gbif.org/species/2944649)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22251-1)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000011502)
+|Distemonanthus Benth.|[Dialioideae](/taxonomy/dialioideae)|[Legume Data Portal](/taxonomy/taxon/2773184)|[GBIF](https://www.gbif.org/species/2964856)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22286-1)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000012217)
+|Eligmocarpus Capuron|[Dialioideae](/taxonomy/dialioideae)|[Legume Data Portal](/taxonomy/taxon/2787570)|[GBIF](https://www.gbif.org/species/2960218)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22353-1)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000013208)
+|Kalappia Kosterm.|[Dialioideae](/taxonomy/dialioideae)|[Legume Data Portal](/taxonomy/taxon/2336144)|[GBIF](https://www.gbif.org/species/2939855)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22688-1)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000019784)
+|Koompassia Maingay ex Benth.|[Dialioideae](/taxonomy/dialioideae)|[Legume Data Portal](/taxonomy/taxon/2336264)|[GBIF](https://www.gbif.org/species/2952890)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22706-1)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000020165)
+|Labichea Gaudich. ex DC.|[Dialioideae](/taxonomy/dialioideae)|[Legume Data Portal](/taxonomy/taxon/2350870)|[GBIF](https://www.gbif.org/species/2975908)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22721-1)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000020324)
+|Martiodendron Gleason|[Dialioideae](/taxonomy/dialioideae)|[Legume Data Portal](/taxonomy/taxon/2368514)|[GBIF](https://www.gbif.org/species/2948702)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326830-2)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000023240)
+|Mendoravia Capuron|[Dialioideae](/taxonomy/dialioideae)|[Legume Data Portal](/taxonomy/taxon/2368027)|[GBIF](https://www.gbif.org/species/2960417)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:22926-1)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000023715)
+|Petalostylis R.Br.|[Dialioideae](/taxonomy/dialioideae)|[Legume Data Portal](/taxonomy/taxon/2538854)|[GBIF](https://www.gbif.org/species/8293499)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23198-1)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000028915)
+|Poeppigia C.Presl|[Dialioideae](/taxonomy/dialioideae)|[Legume Data Portal](/taxonomy/taxon/2535922)|[GBIF](https://www.gbif.org/species/5938931)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30241950-2)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000030549)
+|Storckiella Seem.|[Dialioideae](/taxonomy/dialioideae)|[Legume Data Portal](/taxonomy/taxon/2478158)|[GBIF](https://www.gbif.org/species/2949438)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23621-1)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000036790)
+|Uittienia Steenis|[Dialioideae](/taxonomy/dialioideae)|[Legume Data Portal](/taxonomy/taxon/2446612)|[GBIF](https://www.gbif.org/species/8351407)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23744-1)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000039708)
+|Zenia Chun|[Dialioideae](/taxonomy/dialioideae)|[Legume Data Portal](/taxonomy/taxon/2470192)|[GBIF](https://www.gbif.org/species/2963590)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:23839-1)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000041184)
 
