@@ -21,7 +21,7 @@ Two news shared with us this year may be of interest to the wide legume communit
 
 Looking ahead to 2026, we plan to have an online meeting with all coleagues interested in legume traits. The main goal of the meeting is to share updates on current research projects, understand the aims of different researchers, and, as always, to promote collaboration.  
 
-The meeting will happen between May and June. The exact date will be annouced soon to all those interested in attending. If you would like to participate, [please fill this form](https://forms.gle/tNnSKr4Rm1huCzVR7). We hope to meet you there!
+The meeting will happen between May and June. The exact date will be announced soon to all those interested in attending. If you would like to participate, [please fill this form](https://forms.gle/tNnSKr4Rm1huCzVR7). We hope to meet you there!
 
 
 ### References 
