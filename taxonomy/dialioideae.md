@@ -42,6 +42,8 @@ Falcão MJA, Mansano VF, Pinto RB. 2016. A taxonomic revision of the genus *Dial
 
 Falcão MJA, JV Paulino, FJ Kochanovski, RC Figueiredo, JP Basso-Alves, VF Mansano. 2020. Development of inflorescences and flowers in Fabaceae subfamily Dialioideae: an evolutionary overview and complete ontogenetic series for *Apuleia* and *Martiodendron*. Botanical Journal of the Linnean Society 193: 19–46. https://doi.org/10.1093/botlinnean/boz098
 
+Falcão MJDA, Sousa Da Silva G, Cardoso Pederneiras L & de Freitas Mansano V. 2023. Unraveling the enigma of *Androcalymma* (Fabaceae: Dialioideae): The rediscovery of a critically endangered legume genus in the heart of the Amazon. Phytotaxa 601 (2): 137–156. https://doi.org/10.11646/phytotaxa.601.2.2
+
 Zimmerman E., Herendeen PS, Lewis GP, Bruneau A. 2017. Floral evolution and phylogeny of the Dialioideae, a diverse subfamily of tropical legumes. American Journal of Botany 104: 1019–1041.
 
 Zimmerman, E., G. Prenner & A. Bruneau. 2013. Floral ontogeny in Dialiinae (Caesalpinioideae: Cassieae), a study in organ loss and instability. South African Journal of Botany 89: 188–209.
