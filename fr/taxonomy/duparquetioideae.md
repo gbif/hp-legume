@@ -41,14 +41,6 @@ Le tableau suivant est la liste alphabétique de tous les genres acceptés par l
 
 Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](/fr/taxonomy/species-list) et à celle du [Groupe de travail sur la taxonomie](/fr/working-groups/taxonomy) pour obtenir plus d'informations. La taxonomie actuelle est accessible via la page [Parcourir](/fr/taxonomy/browse) ou la [Recherche avancée](/fr/taxonomy/search).
 
-
-|Genre                  |     Source de Données                     | 
-| --------------------- |------------------------------|-----------------------|
-|	Duparquetia Baill.	|	[Legume Data Portal](/fr/taxonomy/taxon/2779361) | [GBIF](https://www.gbif.org/species/2968139)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17014-1)	|
-
-
-
-
-|Espèce                  |     Source de Données                     |
-| --------------------- |------------------------------|-----------------------|
-|	Duparquetia orchidacea Baill.	|	[Legume Data Portal](/fr/taxonomy/taxon/2779362) | [GBIF](https://www.gbif.org/species/2968140)	|	[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:380758-1)	|
+|  Genre  |  Source de données  |
+|----------------------|------------------------|---------------------------|------------------------|------------------------|
+|Duparquetia Baill.|[Legume Data Portal](/taxonomy/taxon/2779361)|[GBIF](https://www.gbif.org/species/2968139)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17014-1)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000012750)
