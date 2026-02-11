@@ -66,7 +66,7 @@ Trifoliolate leaf, inflorescence, flowers, pods and seeds of *Apios brevis*. Pho
 <br> 
 <br>
 
-###The relentless enlargement of the genus *Astragalus*
+### The relentless enlargement of the genus *Astragalus*
 
 Every year several new species of *Astragalus* (Papilionoideae), the largest genus of legumes (and indeed of flowering plants as a whole) with \> 3100 species, are described. This year was no exception with \> 10 new species published in 2025. Here we highlight three new species endemic to the stony, arid steppes of Mongolia and one narrowly endemic to northern Balochistan along the Pakistan--Afghanistan border. These add to the incredible diversity of the genus in central and south-west Asia.
 
@@ -133,7 +133,7 @@ Combined morphological, anatomical, and molecular evidence are presented to supp
 
 ### *Erythrostemon guatemalensis*: an endangered micro-endemic from Guatemala
 
-*Erythrostemon guatemalensis* (Caesalpinioideae) is an Endangered micro-endemic to Dept. Sacatepéquez, at mid elevations in seasonally dry tropical forests and in the transition to montane forests of the Pacific slope of Guatemala. In common with many dry tropical forest tree species, *E. guatemalensis* is locally abundant, but globally extremely rare, with a total extent of occurrence of \< 50km^2. The description of this species is lavishly illustrated with five photoplates and two line drawings. As noted by the authors, in their phylogeny, *E. guatemalensis* is nested among accessions of *E. exostemma*, highlighting the need for a more densely sampled phylogenetic study of the *E. exostemma* species alliance.
+*Erythrostemon guatemalensis* (Caesalpinioideae) is an Endangered micro-endemic to Dept. Sacatepéquez, at mid elevations in seasonally dry tropical forests and in the transition to montane forests of the Pacific slope of Guatemala. In common with many dry tropical forest tree species, *E. guatemalensis* is locally abundant, but globally extremely rare, with a total extent of occurrence of \< 50km2. The description of this species is lavishly illustrated with five photoplates and two line drawings. As noted by the authors, in their phylogeny, *E. guatemalensis* is nested among accessions of *E. exostemma*, highlighting the need for a more densely sampled phylogenetic study of the *E. exostemma* species alliance.
 
 ![](/assets/images/72/erythrostemon-guatemalensis.jpg)
 Bark and flowers of *Erythrostemon guatemalensis* and bee pollinator, *Xylocopa frontalis* on flowers. Photos: Knut Eisermann.
