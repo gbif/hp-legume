@@ -10,8 +10,8 @@ sideNavigation: sidenav.beanbag72
 # News on the 9th International Legume Conference (9ILC)
 
 **Tingshuang Yi** (Kunming Institute of Botany, China)
-</br>
-</br>
+
+
 
 Following the success of the 8th International Legume Conference (8ILC) in Brazil, the legume community looks forward to its next meeting. We are delighted to announce that China will host the 9th International Legume Conference (9ILC). 
 	**The 9ILC will take place at the Kunming Institute of Botany (KIB), Chinese Academy of Sciences (CAS)**, located in Yunnan province—a renowned plant kingdom harboring 19,333 land plant species, representing approximately 50.1% of China’s total plant diversity. KIB is dedicated to research in the fields of Botany and Phytochemistry, with botanical work focusing primarily on plant taxonomy, diversity, evolution, and systematics. 
