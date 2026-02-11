@@ -61,7 +61,7 @@ Le tableau suivant est la liste alphabétique de tous les genres acceptés par l
 
 Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](/fr/taxonomy/species-list) et à celle du [Groupe de travail sur la toxonomie](/fr/working-groups/taxonomy) pour obtenir plus d'informations. La taxonomie actuelle est accessible via la page [Parcourir](/fr/taxonomy/browse) ou la [Recherche avancée](/fr/taxonomy/search).
 
-|  Genus  |  Subfamily  |  Data Source  |
+|  Genre  |  Sous-famille  |  Source de données  |
 |----------------------|------------------------|---------------------------|------------------------|------------------------|
 |Afzelia Sm.|[Detarioideae](/taxonomy/detarioideae)|[Legume Data Portal](/taxonomy/taxon/2624953)|[GBIF](https://www.gbif.org/species/1470349)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:331326-2)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000000874)
 |Amherstia Wall.|[Detarioideae](/taxonomy/detarioideae)|[Legume Data Portal](/taxonomy/taxon/2633618)|[GBIF](https://www.gbif.org/species/2968145)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21630-1)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000001594)
