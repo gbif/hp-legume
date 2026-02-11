@@ -110,7 +110,7 @@ Shirley Tucker's work has helped many taxonomists and phylogeneticists to find i
 Shirley between Ken, to the left, and me (Vidal Mansano), to the right, at the Santa Barbara Museum of Natural History with a flowering Cercis tree behind us. "In 2001 during my PhD I went to Santa Barbara for two months to work with Shirley Tucker and study the floral development of some atypical Papilionoideae flowers. My first experience overseas. It was one of the most significant scientific happenings of my entire career!"
 <br>
 
-### Examples of Shirley C. Tucker's landmark contributions on legumes**
+### Examples of Shirley C. Tucker's landmark contributions on legumes
 
 **Tucker, S.C. 1984.** Unidirectional organ initiation in leguminous flowers. *American Journal of Botany*, *71*(8):1139-1148.
 
