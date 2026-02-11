@@ -1,7 +1,7 @@
 ---
 layout: documentation
-lang-ref: beanbag/72/issue-72-data-occurrence-working-group
-permalink: /beanbag/72/issue-72-data-occurrence-working-group
+lang-ref: beanbag/72/issue-72-occurrence-data-working-group
+permalink: /beanbag/72/issue-72-occurrence-data-working-group
 title: Occurrence Data Working Group
 description: Issue 72 - Occurrence Data Working Group
 sideNavigation: sidenav.beanbag72
