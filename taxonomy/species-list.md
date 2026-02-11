@@ -22,7 +22,7 @@ The most recent version of this taxonomy can be accessed through the [menu on th
 
 ## List of genera accepted by the LPWG
 
-Below is an alphabetical list of all genera, with the subfamily designation, as currently accepted by the LPWG. This list is updated periodically to reflect the evolving taxonomy (e.g., [LPWG 2017](https://doi.org/10.12705/661.3), [Hughes et al. 2022](https://doi.org/10.3897/phytokeys.205.89634), [Bruneau et al. 2024](https://phytokeys.pensoft.net/article/101716/)). We provide links to the taxonomic pages in our verified taxonomic list, on GBIF, on the Plants of the World Online and on World Flora Online. 
+Below is an alphabetical list of all genera, with the subfamily designation, as currently accepted by the LPWG. This list is updated periodically to reflect the evolving taxonomy. We provide links to the taxonomic pages in our verified taxonomic list, on GBIF, on the Plants of the World Online and on World Flora Online. 
 
 The current taxonomy is accessible by [Browse](/taxonomy/browse) or [Advanced Search](/taxonomy/search).
 
