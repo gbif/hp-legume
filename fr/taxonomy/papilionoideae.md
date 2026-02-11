@@ -60,7 +60,7 @@ Le tableau suivant est la liste alphabétique de tous les genres acceptés par l
 
 Veuillez vous référer à la page [Liste acceptée des espèces et synonymes](/fr/taxonomy/species-list) et à celle du [Groupe de travail sur la taxonomie](/fr/working-groups/taxonomy) pour obtenir plus d'informations. La taxonomie actuelle est accessible via la page [Parcourir](/fr/taxonomy/browse) ou la [Recherche avancée](/fr/taxonomy/search).
 
-|  Genus  |  Subfamily  |  Data Source  |
+|  Genre  |  Sous-famille  |  Source de données |
 |----------------------|------------------------|---------------------------|------------------------|------------------------|
 |Abrus Adans.|[Papilionoideae](/taxonomy/papilionoideae)|[Legume Data Portal](/taxonomy/taxon/2610294)|[GBIF](https://www.gbif.org/species/2943776)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:21549-1)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000000060)
 |Acmispon Raf.|[Papilionoideae](/taxonomy/papilionoideae)|[Legume Data Portal](/taxonomy/taxon/2618179)|[GBIF](https://www.gbif.org/species/2975784)|[POWO](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30005790-2)|[World Flora Online](https://www.worldfloraonline.org/taxon/wfo-4000000315)
