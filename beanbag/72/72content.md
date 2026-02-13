@@ -25,7 +25,7 @@ Marianne le Roux, Anne Bruneau & Juliana Gastaldello Rando
 [**Phylogenomics Working Group**](/beanbag/72/issue-72-phylogenomics-working-group)  
 Felix Forest  
 
-[**Occurrence Data Working Group**](/beanbag/72/issue-72-occurrence-working-group)  
+[**Occurrence Data Working Group**](/beanbag/72/issue-72-occurrence-data-working-group)  
 Edeline Gagnon, Joe Miller & Jens Ringelberg  
 
 [**Traits Working Group**](/beanbag/72/issue-72-traits-working-group)  

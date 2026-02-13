@@ -18,7 +18,7 @@ If you would like to portray the life of researchers from other areas of legume 
 
 ## David Neill (1953–2025) 
 
-**Colin Hughes** (University of Zurich, Switzerland):**Bente Klitgaard** (Royal Botanic Gardens Kew, UK) and **Anne Bruneau** (Université de Montréal, Canada)
+**Colin Hughes** (University of Zurich, Switzerland); **Bente Klitgaard** (Royal Botanic Gardens Kew, UK) and **Anne Bruneau** (Université de Montréal, Canada)
 <br> 
 <br> 
 
