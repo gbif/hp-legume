@@ -708,7 +708,7 @@ Seijo, J. G., Atahuachi B, M., García, A. V., & Krapovickas, A. (2025). **_Arac
 
 Silva Santos, F., Lima Ribeiro, C., Snak, C., Delgado-Salinas, A., & Paganucci de Queiroz, L. (2025). **A new species of *Ancistrotropis* (leguminosae) from Parque Nacional do Caparaó (Brazil).** Phytotaxa, 726(4), 272-280. <https://doi.org/10.11646/phytotaxa.726.4.4>
 
-Snak, C., Ribeiro, C. L., Rocha, L., & Queiroz, L. P. D. (2025). **A new species of *Indigofera* (Leguminosae, Papilionoideae) from Misiones with a key to species from Argentina.** Phytotaxa, 690(2), 293-300. <https://doi.org/10.11646/phytotaxa.690.2.10>
+São Paulo, R.D.C.A.M., Snak, C., Ribeiro, C. L., Rocha, L., & Queiroz, L. P. D. (2025). **A new species of *Indigofera* (Leguminosae, Papilionoideae) from Misiones with a key to species from Argentina.** Phytotaxa, 690(2), 293-300. <https://doi.org/10.11646/phytotaxa.690.2.10>
 
 Souto, F. S., Queiroz, R. T. D., & Agra, M. D. F. (2025). **_Senna hatschbachii_ (Leguminosae, Caesalpinioideae): a newly discovered endangered species from the Brazilian Atlantic Forest.** Phytotaxa, 702(1), 61-71. <https://doi.org/10.11646/phytotaxa.702.1.4>
 

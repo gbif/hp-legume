@@ -151,7 +151,7 @@ Bark and flowers of *Erythrostemon guatemalensis* and bee pollinator, *Xylocopa 
 *Indigofera stolonifera* habit and flowers. Photos: Héctor Alexander Keller.
 <br>
 
-**Snak, C., Ribeiro, C.L., Rocha, L. and Queiroz, L.P.D. 2025.** A new species of *Indigofera* (Leguminosae, Papilionoideae) from Misiones with a key to species from Argentina. *Phytotaxa* *690*: 293-300. <https://doi.org/10.11646/phytotaxa.690.2.10> 
+**São Paulo, R.D.C.A.M., Snak, C., Ribeiro, C.L., Rocha, L. and Queiroz, L.P.D. 2025.** A new species of *Indigofera* (Leguminosae, Papilionoideae) from Misiones with a key to species from Argentina. *Phytotaxa* *690*: 293-300. <https://doi.org/10.11646/phytotaxa.690.2.10> 
 <br> 
 <br>
 
