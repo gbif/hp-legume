@@ -41,13 +41,13 @@ Nous vous demandons SVP de vous inscrire sur Rhakhis (voir instructions ci-bas) 
 
 Télécharger la liste appropriée pour chaque sous-famille, ainsi que les noms sans placement taxonomique, depuis le portail des légumineuses. Lorsque vous aurez cliqué sur le lien ci-bas, vous serez dirigez vers le GitHub du Portail des légumineuses où vous pourrez cliquer sur les trois petits points à droite du nom de fichier pour le télécharger.
 
-- [Caesalpinioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/wcvpFabaceae_2026v.7_Caesalpinioideae.xlsx) (59 genres toujours à vérifier) 
+- [Caesalpinioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/wcvpFabaceae_2026v.7_Caesalpinioideae.xlsx) (62 genres toujours à vérifier) 
 - [Cercidoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/wcvpFabaceae_2026v.7_Cercidoideae.xlsx) (déjà vérifié; mais voir les noms sans placement taxonomique)
 - [Detarioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/wcvpFabaceae_2026v.7_Detarioideae.xlsx) (3 genres toujours à vérifier: Brachystegia, Copaifera, Tessmannia)
 - [Dialioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/wcvpFabaceae_2026v.7_Dialioideae.xlsx) (déjà vérifié; mais voir les noms sans placement taxonomique)
 - [Duparquetioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Duparquetioideae.xlsx) (déjà vérifié)
-- [Papilionoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/wcvpFabaceae_2026v.7_Papilionoideae.xlsx) (nombreux genres toujours à vérifier)
-- [Liste des noms sans placement taxonomique](https://github.com/gbif/hp-legume/blob/master/assets/checklists/wcvpFabaceae_2026v.7_unplaced.xlsx) (noms pas encore assigné à une sous-famille et nécessitant vérification)
+- [Papilionoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/wcvpFabaceae_2026v.7_Papilionoideae.xlsx) (264 genres toujours à vérifier)
+- [Liste des noms sans placement taxonomique](https://github.com/gbif/hp-legume/blob/master/assets/checklists/wcvpFabaceae_2026v.7_unplaced.xlsx) (6 noms pas encore assigné à une sous-famille et nécessitant vérification)
 
 
 **3. Vérifier la liste des noms**
