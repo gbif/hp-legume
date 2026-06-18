@@ -14,7 +14,7 @@ thumbnail: https://inaturalist-open-data.s3.amazonaws.com/photos/133409879/origi
 ---
 
 ## Guidelines for checking legume names - please contribute !
-(updated 23 September 2025)
+(updated 18 June 2026)
 
 ## Introduction
 
@@ -42,13 +42,13 @@ Please also register in [Rhakhis](https://list.worldfloraonline.org/rhakhis/ui/i
 
 Download the relevant checklist per subfamily and unplaced taxa from the Legume Data Portal.  Once you have clicked on the relevant link below you will be directed to the Legume Data Portal GitHub, where you can click on the three little dots to the right of the file name to download.
 
-- [Caesalpinioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Caesalpinioideae.xlsx) (59 genera still to check) 
-- [Cercidoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Cercidoideae.xlsx) (already verified; see unplaced names)
-- [Detarioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Detarioideae.xlsx) (3 genera still to check: Brachystegia, Copaifera, Tessmannia)
-- [Dialioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Dialioideae.xlsx) (already verified; see unplaced names)
+- [Caesalpinioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2026v7_Caesalpinioideae.xlsx) (59 genera still to check) 
+- [Cercidoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2026v7_Cercidoideae.xlsx) (already verified; see unplaced names)
+- [Detarioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2026v7_Detarioideae.xlsx) (3 genera still to check: Brachystegia, Copaifera, Tessmannia)
+- [Dialioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2026v7_Dialioideae.xlsx) (already verified; see unplaced names)
 - [Duparquetioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Duparquetioideae.xlsx) (already verified)
-- [Papilionoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Papilionoideae.xlsx) (MANY genera still to check)
-- [Unplaced names checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Unplaced.xlsx) (names not assigned to a subfamily that need checking)
+- [Papilionoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2026v7_Papilionoideae.xlsx) (MANY genera still to check)
+- [Unplaced names checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2026v7_Unplaced.xlsx) (names not assigned to a subfamily that need checking)
 
 
 **3. Edit the checklist**
