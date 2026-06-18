@@ -48,7 +48,7 @@ Download the relevant checklist per subfamily and unplaced taxa from the Legume 
 - [Dialioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/wcvpFabaceae_2026v.7_Dialioideae.xlsx) (already verified; see unplaced names)
 - [Duparquetioideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVPFabaceae_2025v6_Duparquetioideae.xlsx) (already verified)
 - [Papilionoideae checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/wcvpFabaceae_2026v.7_Papilionoideae.xlsx) (264 genera still to check)
-- [Unplaced names checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/wcvpFabaceae_2026v.7_unplaced.xlsx) (5 names not assigned to a subfamily that need checking)
+- [Unplaced names checklist](https://github.com/gbif/hp-legume/blob/master/assets/checklists/wcvpFabaceae_2026v.7_unplaced.xlsx) (6 names not assigned to a subfamily that need checking)
 
 
 **3. Edit the checklist**
