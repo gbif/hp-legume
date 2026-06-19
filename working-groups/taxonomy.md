@@ -31,7 +31,7 @@ If you would like to participate in this endeavour and share your taxonomic expe
 
 To learn more about how to check names, please visit this [blog post](https://www.legumedata.org/post/2024/taxonomychecklistprocedures/).
 
-The list of genera that must still be verified is available [here](https://docs.google.com/spreadsheets/d/1lkWVr8OUFbIVirX6hbr4ISszxTJpuhTw/edit#gid=463185985). We are especially interested in your expertise to help check Papilionoideae and Caesalpinioideae names. 
+The list of genera that must still be verified is available [here]((https://github.com/gbif/hp-legume/blob/master/assets/checklists/WCVP_checked_and_unchecked_legume_genera_2026.xlsx)). We are especially interested in your expertise to help check Papilionoideae and Caesalpinioideae names. 
 
 ## The checklist
 
