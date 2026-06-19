@@ -19,7 +19,7 @@ Le LPWG a travaillé en collaboration avec le Jardin Botanique Royal, Kew, afin 
 
 
 ## Liste d'espèces
-La plus récente version de cette taxonomie est disponible via le [menu à gauche](/fr/taxonomy/browse). La liste d'espèce de Fabaceae du WCVP est également disponible pour téléchargement en format .txt à partir de la [ChecklistBank de Catalogue of Life](https://data.catalogueoflife.org/dataset/2304/about) et dans un format de liste d'espèce classique [ici](/media/WCVP_Fabaceae_checklist_May_2022). Cette liste ne contient malheureusement pas l'appellation sous-famille.
+La plus récente version de cette taxonomie est disponible via le [menu à gauche](/fr/taxonomy/browse). La liste d'espèce de Fabaceae du WCVP est également disponible pour téléchargement en format .txt à partir de la [ChecklistBank de Catalogue of Life](https://data.catalogueoflife.org/dataset/2304/about) et dans un format de liste d'espèce classique [ici](/media/WCVP_Fabaceae_checklist_May_2026). Cette liste ne contient malheureusement pas l'appellation sous-famille.
 
 ## Liste des genres acceptés par le LPWG
 Le tableau suivant est la liste alphabétique de tous les genres, avec la sous-famille à laquelle ils appartiennent, acceptés par le LPWG. Cette liste est une mise à jour de la liste de genres acceptés dans [LPWG 2017](https://doi.org/10.1071/SB19025). Nous fournissons des liens vers les pages taxonomiques de notre taxonomie acceptée, de GBIF et de Plants of the World Online. Cette liste sera mise-à-jour au fil du temps afin de refléter l'évolution de la taxonomie.
