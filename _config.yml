@@ -89,7 +89,7 @@ algae:
 # be aware that COL ids are unstable https://github.com/CatalogueOfLife/backend/issues/980 - so this might not work tomorrow.
 col:
   gbifDatasetKey: f7053f73-74fb-4c9f-ab63-de28c61140c2
-  version: "latest" # There is no latest version we can get, so we have to rely on a specific version. If the site appears broken, then this probably needs to be updated to the latest version
+  version: "1" # Catalogue of Life have changed their API. They recommend subscribing to their mailing list to be notified when they have breaking changes.
   catalogueKey: "2304" #WCVP Fabaceae dataset
   defaultTaxonKey: "x4"
   #catalogueKey: "2232" entire WCVP dataset
