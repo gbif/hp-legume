@@ -8,7 +8,7 @@ height: 70vh
 toc: true
 ---
 
-Coordinators: [Felix Forest](mailto:F.Forest@kew.org) ([Royal Botanic Gardens, Kew, U.K.](https://www.kew.org/)) and [Erik Koenen](mailto:erik.koenen@systbot.uzh.ch) (University of Zurich, Switzerland).
+Coordinators: [Leo Borges](mailto:aquitemcaqui@gmail.com) ([Universidade Federal de São Carlos, Brazil]) and [Ellie Becklund](mailto:ebecklund@fwbg.org) (Botanical Research Institute of Texas, USA).
 
 ## Introduction
 
@@ -24,4 +24,4 @@ Given the advanced state of the work undertaken by several groups who have desig
 
 ## Join the Working Group
 
-If you would like to discuss and share information about legume phylogenomics initiatives, please contact [Felix Forest](mailto:F.Forest@kew.org) or [Erik Koenen](mailto:erik.koenen@systbot.uzh.ch)
+If you would like to discuss and share information about legume phylogenomics initiatives, please contact [Leo Borges](mailto:aquitemcaqui@gmail.com) or [Ellie Becklund](mailto:ebecklund@fwbg.org)
